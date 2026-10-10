@@ -8,6 +8,7 @@ from src.community import Discussion
 from src.editor_report import render_editor_report, social_summary, topic_for, rank_candidates, score
 from src.fetch_sources import Article, SourceResult
 from src.main import main
+from src.explain_report import explain
 from src.story_narrative import describe, financial_numbers, engineering_lens
 
 NOW = datetime(2026, 10, 10, 17, tzinfo=timezone.utc)
@@ -47,8 +48,10 @@ class EditorTests(unittest.TestCase):
             self.assertEqual(path.read_text(), body)
         for heading in ('今日科技主線', '今天最值得追的 3 則新聞', '其他候選新聞', '今日資料缺口', 'Ray 今天可以怎麼用'):
             self.assertIn('# ' + heading, body)
-        for heading in ('這篇新聞在講什麼？','工程師應該注意什麼？','技術困境是什麼？','目前可能的解法','應用場景','網路上的人怎麼看？','Ray 的 Podcast 切入角度'):
-            self.assertEqual(body.count('### ' + heading),3)
+        for heading in ('1. 先講人話：這篇新聞在講什麼？', '2. 背景補充：工程小白需要先懂什麼？',
+                        '3. 工程師應該注意什麼？', '4. 目前可能的解法或業界方向',
+                        '5. 網路上的人可能會怎麼看？', '6. Ray 的 Podcast 切入角度', '7. 仍需查證的地方'):
+            self.assertEqual(body.count('### ' + heading), 3)
         for field in ('來源','來源連結','可信度標籤'):
             self.assertEqual(body.count('**' + field + '：**'), 3)
         thread = body.split('# 今日科技主線\n')[1].split('# 今天最值得追')[0]
@@ -59,6 +62,37 @@ class EditorTests(unittest.TestCase):
         self.assertNotIn('毛利率', body)
         self.assertNotIn('法說指引', body)
         self.assertNotIn('待人工補充', body)
+
+    def test_explain_background_is_separate_and_gaps_are_last(self):
+        item = Article('Omniverse simulations with AI agents', 'https://blogs.nvidia.com/test',
+                       '官方：NVIDIA', NOW.isoformat(), 'Connecting physics and rendering.', [])
+        explanation = explain(item, topic_for(item), 'Confirmed')
+        self.assertTrue(5 <= len(explanation['sentences']) <= 8)
+        self.assertTrue(explanation['sentences'][0].startswith('[Confirmed]'))
+        for word in ('資料不足', '合法閱讀', '來源未提供'):
+            self.assertNotIn(word, ' '.join(explanation['sentences']))
+        self.assertIn('物理模擬', ' '.join(explanation['background']))
+        self.assertIn('渲染', ' '.join(explanation['background']))
+        self.assertIn('一般工程方向', explanation['solution'])
+        self.assertEqual(len(explanation['questions']), 3)
+        with tempfile.TemporaryDirectory() as tmp:
+            _, _, body = render_editor_report([SourceResult(item.source, [item], 'ok')], Path(tmp), NOW)
+        self.assertIn('[Background]', body)
+        self.assertIn('不是實際網友發言', body)
+        story = body.split('\n## 1.')[1].split('\n# 其他候選新聞')[0]
+        self.assertLess(story.index('背景補充'), story.index('仍需查證'))
+        self.assertNotIn('合法閱讀', story)
+        self.assertEqual(body.count('完整文章如需補查'), 1)
+
+    def test_explain_evaluation_and_clinical_context_not_news_facts(self):
+        for title, term in (('Anthropic is cutting off its internal evaluations from the internet', '資料污染'),
+                            ('Study in The Lancet suggests AI could improve patient-physician relationships.', '對照組')):
+            item = Article(title, 'https://example.com/x', 'The Verge', NOW.isoformat(), '', [])
+            explanation = explain(item, topic_for(item), 'Reported')
+            self.assertIn(term, ' '.join(explanation['background']))
+            self.assertTrue(any(s.startswith('[Reported]') for s in explanation['sentences']))
+            self.assertNotIn('[Confirmed]', ' '.join(explanation['sentences']))
+            self.assertIn('不是', explanation['solution'])
 
     def test_engineering_ranking_deprioritizes_finance_even_with_ai_tags(self):
         rows = candidates() + [SourceResult('DIGITIMES', [Article('TPCA Show AI computing keynote', 'https://example.com/event', 'DIGITIMES', NOW.isoformat(), 'New features for server chip architecture at the event.', ['AI'])], 'ok'), SourceResult('官方：Google', [Article('Play Fest prizes and daily deals', 'https://example.com/promo', '官方：Google', NOW.isoformat(), 'Gaming leagues and rewards.', ['AI'])], 'ok'), SourceResult('官方：NVIDIA', [Article(
@@ -160,10 +194,10 @@ class EditorTests(unittest.TestCase):
         item = Article('NVIDIA server chip plans', 'https://blogs.nvidia.com/test', '官方：NVIDIA', NOW.isoformat(), '', ['半導體'])
         with tempfile.TemporaryDirectory() as tmp:
             _, _, body = render_editor_report([SourceResult(item.source, [item], 'ok')], Path(tmp), NOW)
-        self.assertNotIn('[Confirmed]', body)
+        self.assertNotIn('**可信度標籤：** [Confirmed]', body)
         self.assertIn('title only', body)
         self.assertIn('目前沒有足夠公開資訊', body)
-        self.assertIn('需要官方 press release', body)
+        self.assertIn('可重現測試', body)
 
     def test_social_only_exact_url_and_no_consensus(self):
         article = candidates()[0].articles[0]

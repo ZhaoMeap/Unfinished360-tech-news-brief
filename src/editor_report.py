@@ -14,6 +14,7 @@ from .fetch_sources import Article, SourceResult, is_official
 from .render_report import SOCIAL, TAIPEI, md, reference, related
 from .source_quality import quality_for
 from .story_narrative import describe, engineering_lens
+from .explain_report import explain
 
 
 @dataclass(frozen=True)
@@ -201,7 +202,7 @@ def make_story(article, discussions):
     official = article.source.startswith('官方：') and is_official(article.url)
     label = 'Confirmed' if official and article.short_snippet else 'Reported' if article.source in ('Reuters','The Verge','DIGITIMES') else 'Analysis'
     return dict(article=article, title=md(article.title[:150]), ref=reference(article), topic=topic,
-                quality=quality, label=label, narrative=describe(article, topic), engineering=engineering_lens(article, topic), social=md(social_summary(article, discussions)),
+                quality=quality, label=label, explanation=explain(article, topic, label), has_discussion=any(d.sampled for d in matched_discussions(article, discussions)), narrative=describe(article, topic), engineering=engineering_lens(article, topic), social=md(social_summary(article, discussions)),
                 publishable=bool(article.short_snippet) and quality.score >= 2 and topic != FALLBACK)
 
 
@@ -247,27 +248,29 @@ TEMPLATE = '''Subject: {{ subject }}
 - **來源：** {{ story.ref }}；{{ story.article.published_at or '日期未知' }}；{{ story.quality.kind }} / {{ story.quality.score }}，資訊程度{{ story.quality.availability }}。
 - **可信度標籤：** [{{ story.label }}] 僅標示來源發布資訊；metadata 不等於事件已確認，推論另標 [Analysis]。
 
-### 這篇新聞在講什麼？
-{{ story.narrative.sentences|map('escape_md')|join(' ') }}
+### 1. 先講人話：這篇新聞在講什麼？
+{{ story.explanation.sentences|map('escape_md')|join(' ') }}
 
-### 工程師應該注意什麼？
-[Analysis] {{ story.engineering.attention|escape_md }}
+### 2. 背景補充：工程小白需要先懂什麼？
+{% for background in story.explanation.background %}- [Background] {{ background|escape_md }}
+{% endfor %}
+### 3. 工程師應該注意什麼？
+[Analysis] {{ story.explanation.attention|escape_md }}
 
-### 技術困境是什麼？
-[Analysis] {{ story.engineering.limits|escape_md }}
+### 4. 目前可能的解法或業界方向
+{{ story.explanation.solution|escape_md }}
 
-### 目前可能的解法
-{{ story.engineering.solution|escape_md }}
+### 5. 網路上的人可能會怎麼看？
+{% if story.has_discussion %}{{ story.social }}
+{% else %}沒有取得對應文章的可用 HN／Reddit 留言；X 尚未接入。以下是工程師可能提問，不是實際網友發言。
+{% for question in story.explanation.questions %}- [Analysis] {{ question|escape_md }}
+{% endfor %}{% endif %}
+### 6. Ray 的 Podcast 切入角度
+[Analysis] {{ story.explanation.opening|escape_md }}
 
-### 應用場景
-[Analysis] {{ story.engineering.application|escape_md }}
-
-### 網路上的人怎麼看？
-{{ story.social }}
-
-### Ray 的 Podcast 切入角度
-[Analysis] {{ story.engineering.opening|escape_md }}
-
+### 7. 仍需查證的地方
+{% for gap in story.explanation.gaps %}- {{ gap|escape_md }}
+{% endfor %}
 - **來源連結：** {{ story.ref }}
 
 {% else %}
@@ -287,6 +290,9 @@ TEMPLATE = '''Subject: {{ subject }}
 1. **Podcast：** [Analysis] {{ podcast }}
 2. **IG / Threads：** [Analysis] {{ social_post }}
 3. **只觀察、不公開講：** [Analysis] {{ observe }}
+
+# 使用原則
+[Background] 是一般工程知識，不是本次新聞事實；[Analysis] 是工程推論或提問。來源事實以 [Reported]／[Confirmed] 標示；官方發布不代表效果已獨立驗證。完整文章如需補查，請透過來源合法閱讀。程式不繞過付費牆、不抓全文、不輸出全文。
 
 > Editor Mode：規則式編輯判斷，非全文分析；自動候選為最近 48 小時可取得的項目。Engineering Lens：優先技術／產品、工程挑戰與應用限制；財務消息降級。另考量時效、來源品質與多樣性；社群只作極小的興趣加分，不是查證依據。不繞過付費牆，不輸出全文。台灣時間 {{ generated }}。
 '''
