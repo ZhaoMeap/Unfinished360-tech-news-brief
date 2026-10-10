@@ -1,8 +1,16 @@
-# 還沒想到科技快報 V2
+# 還沒想到科技快報 V3：Editor Mode
 
 為 Ray 的《還沒想到》Podcast 準備科技新聞。預設 **dry-run、不寄信**。V2 把找新聞與編輯快報分成兩個階段，避免把標題雷達誤認為已完成的新聞分析。
 
-## V1 / V2 差異
+## V1 / V2 / V3 差異
+
+| 版本 | 定位 | 輸出 |
+| --- | --- | --- |
+| V1 | 自動 metadata 草稿，缺少編輯判斷 | 原始快報模板 |
+| V2 | 找候選與指定連結分流，加入品質／社群樣本 | 候選雷達、指定連結快報 |
+| V3 | 在 V2 之上加入規則式編輯選題與主線 | 每日編輯簡報、前三則、次要候選、具體補查與使用建議 |
+
+V2 的兩種模式仍保留：
 
 | | V1 | V2 |
 | --- | --- | --- |
@@ -14,6 +22,22 @@
 | 時區 | 仰賴系統資料 | requirements 加入 `tzdata`，Windows 也能使用 `Asia/Taipei` |
 
 **指定連結模式才適合準備 Podcast 快報**，但公開摘要不等於完整查證：資訊不足就補資料，不會用模板假裝已理解故事。V2 沒有使用 LLM 或翻譯服務，不需要 API key；以可驗證的主題詞與事件類型做保守重寫，無法可靠重寫的新主題直接待人工補充。無法自動形成完整因果故事、解析數字關係或判定多篇文章支持同一結論；這些仍需編輯補充。
+
+## Editor Mode：每日五分鐘選題
+
+```bash
+python -m src.main --dry-run --editor
+```
+
+V3 根據自動候選的 title、source、published_at、tags／主題、description（保留在 short_snippet）、source quality 與實際取得的社群樣本，產生 `reports/YYYY-MM-DD_editor.md`，主旨為 `還沒想到科技編輯簡報 - YYYY/MM/DD`。不覆蓋候選雷達或指定連結報告，不寄信。
+
+內容包含 3–5 句今日主線、三則重點及其值得追蹤的理由、Big Tech／台灣產業可能關聯、其他候選、資料缺口，以及 Podcast／IG／Threads／只觀察的使用建議。為控制閱讀長度，其他候選預設五則（資料不足時不湊數）；主線仍可提出有來源支撐的「可能主線」，一律標 `[Analysis]`，不宣稱存在因果關係或全市場共識。
+
+選題規則可在 `src/editor_report.py` 檢視：優先財報／需求、AI 算力與硬體、監管、代理信任成本，再考量產品與應用；時效、來源品質加分，重複主題／來源減分以增加多樣性。社群只作有限的編輯興趣加分，不提升可信度。相似標題只做候選去重，不代表交叉查證。來源排名不依賴 Reuters 成功，401 直接列資料缺口。
+
+「目前知道」只描述已取得的標題／短摘錄提供哪些線索；metadata 不會寫成已確認事件。官方的 `[Confirmed]` 也僅代表發布者提供資訊。影響、主線、值得看的理由與使用建議均為 `[Analysis]`。沒有對應原始 URL 的社群討論，就明確要求 HN／Reddit 討論串，不把其他話題的留言套用過來。
+
+V3 不用空泛的「待人工補充」填版面，而是依選題要求公司公告／press release、財報原文與法說資料、規格與量產時間、法規文本或研究方法。僅有標題的新聞可追蹤，但不推薦拿來做未查證的事件解說；公開短貼文也應以來源連結與提問呈現。首頁／分類頁不會因套用 Editor Mode 就變成完整事件，需換成具體文章或官方公告。`--editor` 與 `--links` 不能同時使用。Editor Mode 一律只產生報告，即使同時指定 `--send-email` 且 SMTP 設定齊全，也會忽略寄信要求並顯示提示。預設無參數仍為 V2 候選雷達，Actions 排程也維持 dry-run 雷達，不啟用寄信。
 
 ## 安裝
 
@@ -87,6 +111,7 @@ python -m src.main --dry-run --links links.txt
 
 - `reports/YYYY-MM-DD.md`：最近一次執行的報告，同日重跑更新。
 - `reports/YYYY-MM-DD-radar.md`：另保留自動雷達，避免指定連結執行覆蓋發現結果。
+- `reports/YYYY-MM-DD_editor.md`：V3 編輯簡報，獨立保存。
 
 報告、`.env`、`.venv` 均排除於 Git。退出碼 0 表示報告產生成功，不代表來源全可用或故事線已查證。連結檔錯誤回傳 1，提示錯誤但不顯示可能敏感的網址。
 
@@ -94,6 +119,7 @@ python -m src.main --dry-run --links links.txt
 python -m unittest discover -s tests -v
 python -m src.main --dry-run
 python -m src.main --dry-run --links links.example.txt
+python -m src.main --dry-run --editor
 ```
 
 測試使用 mock，不會寄信；驗證串流停止、付費資料排除、品質分級、模式分流、社群抽樣與 SMTP 保護。實際 dry-run 驗證上游服務當時可用性。
