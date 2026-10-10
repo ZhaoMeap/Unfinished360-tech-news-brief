@@ -61,8 +61,8 @@ class WeeklyTests(unittest.TestCase):
             root=Path(tmp);daily(root,NOW)
             folder=root/'data/daily';folder.mkdir(parents=True)
             payload={'collected_at':NOW.isoformat(),'articles':[article().metadata()]}
-            (folder/'2026-10-11_2000.json').write_text(json.dumps(payload))
-            (folder/'2026-10-10_0900.json').write_text('{broken')
+            (folder/'2026-10-11_2000.json').write_text(json.dumps(payload), encoding="utf-8")
+            (folder/'2026-10-10_0900.json').write_text('{broken', encoding="utf-8")
             rows,warnings=load_observations(root,NOW)
             self.assertEqual(len(rows),1)
             self.assertEqual(len(warnings),1)
@@ -81,7 +81,9 @@ class WeeklyTests(unittest.TestCase):
 ### 7. 仍需查證的地方
 - 工具版本。
 """
-            (folder/'2026-10-10_0900_editor.md').write_text(sample)
+            fixture = folder/'2026-10-10_0900_editor.md'
+            fixture.write_text(sample, encoding="utf-8")
+            self.assertEqual(fixture.read_bytes(), sample.encode("utf-8"))
             rows,_=load_observations(root,NOW)
             self.assertEqual(len(rows),1)
             self.assertIn('模擬開發流程',rows[0].facts)
@@ -115,7 +117,7 @@ class WeeklyTests(unittest.TestCase):
                 self.assertEqual(main(),0)
                 fetch.assert_not_called();social.assert_not_called();send.assert_not_called()
                 path=next((Path(tmp)/'reports/weekly').glob('*.md'))
-                self.assertIn('沒有可讀素材',path.read_text())
+                self.assertIn('沒有可讀素材',path.read_text(encoding="utf-8"))
 
     def test_iso_year_boundary(self):
         with tempfile.TemporaryDirectory() as tmp:
@@ -135,7 +137,7 @@ class WeeklyTests(unittest.TestCase):
             self.assertEqual(len(list(root.rglob('*.*'))),1)
 
     def test_weekly_workflow_schedule_restore_and_no_smtp(self):
-        text=(Path(__file__).resolve().parents[1]/'.github/workflows/weekly-report.yml').read_text()
+        text=(Path(__file__).resolve().parents[1]/'.github/workflows/weekly-report.yml').read_text(encoding="utf-8")
         for value in ("cron: '0 12 * * 0'",'workflow_dispatch:','actions: read',
                       'restore_daily_artifacts.py','python -m src.main --weekly --dry-run',
                       'reports/weekly/*.md','weekly-tech-report-${{ github.run_id }}','retention-days: 14'):

@@ -88,9 +88,9 @@ class LinksTests(unittest.TestCase):
     def test_read_links_dedup_and_error_handling(self):
         with tempfile.TemporaryDirectory() as tmp:
             path = Path(tmp) / 'links.txt'
-            path.write_text('# comment\nhttps://example.com\nhttps://example.com\n')
+            path.write_text('# comment\nhttps://example.com\nhttps://example.com\n', encoding="utf-8")
             self.assertEqual(read_links(path), ['https://example.com'])
-            path.write_text('http://example.com')
+            path.write_text('http://example.com', encoding="utf-8")
             with self.assertRaises(ValueError):
                 read_links(path)
         with patch('src.fetch_links.download_head', side_effect=requests.Timeout):
@@ -121,12 +121,12 @@ class QualityReportTests(unittest.TestCase):
             self.assertTrue(subject.startswith('還沒想到科技快報'))
             self.assertIn('待人工補充',body)
             self.assertNotIn('**5 秒版',body)
-            self.assertIn('科技新聞候選雷達',radar.read_text())
+            self.assertIn('科技新聞候選雷達',radar.read_text(encoding="utf-8"))
 
     def test_links_cli_never_fetches_automatic_news_or_sends(self):
         with tempfile.TemporaryDirectory() as tmp:
             p=Path(tmp)/'links.txt'
-            p.write_text('https://example.com')
+            p.write_text('https://example.com', encoding="utf-8")
             with patch('src.main.ROOT',Path(tmp)), patch('src.main.fetch_links',return_value=[]) as fetch, \
                     patch('src.main.fetch_sources') as auto, patch('src.main.collect_community',return_value=[]), \
                     patch('src.main.send_email') as send, patch('sys.argv',['brief','--dry-run','--links',str(p)]):

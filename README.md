@@ -197,3 +197,11 @@ Daily Editor Report 每則重點先附「公司背景卡：這家公司是誰？
 背景快取在 `data/company_profiles/*.json`，目前收錄 NVIDIA、Anthropic、Google、OpenAI、Microsoft、群聯、臻鼎；依名稱、別名與可信官方發布者匹配，每次讀取快取，不自動重新抓公司頁面。新增公司可增加同格式 JSON，更新時同步調整 `last_updated`。這個日期是背景整理日期，不是即時官方查核時間。官方參考 URL 可用於後續核對；本次 about 頁面請求遭雲端代理拒絕，初始快取是人工整理的一般背景，以 `[Company Context] [Background]` 呈現，不冒充剛查到的 `[Confirmed]` 資料。
 
 排名或市佔率只有來源明確支持時才可寫；目前背景卡不輸出數字排名，快取若含「全球最大／市場龍頭」等未核對宣稱，會改成缺少可驗證排名資料。沒有背景快取仍正常產出 report，明寫「公司背景不足，僅能根據本次新聞與公開來源描述其角色」。背景卡與新聞事實分開，影響與未來展望標 `[Analysis]`；不以社群發言或 metadata 宣稱公司技術已驗證。
+
+## Windows 本機測試
+
+```bash
+python -m unittest discover -s tests -v
+```
+
+測試的 Markdown／JSON／文字 fixture 一律以 UTF-8 讀寫，不依賴 Windows 中文系統的 cp950 預設編碼。SMTP 單元測試會 mock TLS context 與 transport，不讀取系統憑證庫、不連線、不需要 SMTP Secrets；另有 TLS 初始化與 STARTTLS 失敗測試，確認安全回傳失敗。正式程式仍使用 `ssl.create_default_context()` 驗證 TLS，沒有關閉憑證驗證或啟用真實寄信。

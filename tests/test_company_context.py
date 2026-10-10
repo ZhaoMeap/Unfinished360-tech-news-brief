@@ -22,7 +22,7 @@ class CompanyContextTests(unittest.TestCase):
     def test_unknown_company_and_missing_or_corrupt_cache_no_rankings(self):
         with tempfile.TemporaryDirectory() as tmp:
             folder=Path(tmp)
-            (folder/'invalid.json').write_text('{broken')
+            (folder/'invalid.json').write_text('{broken', encoding="utf-8")
             self.assertEqual(load_profiles(folder),[])
             a=Article('UnknownCorp launches a tool','https://example.com/news','Media',None,'',[])
             self.assertTrue(company_cards(a,folder)[0]['fallback'])
@@ -32,10 +32,10 @@ class CompanyContextTests(unittest.TestCase):
             self.assertNotIn('市場龍頭',body)
 
     def test_unverified_market_rank_is_suppressed(self):
-        profile=json.loads((CACHE/'nvidia.json').read_text())
+        profile=json.loads((CACHE/'nvidia.json').read_text(encoding="utf-8"))
         profile['industry_position']='全球最大、市佔 99% 的市場龍頭'
         with tempfile.TemporaryDirectory() as tmp:
-            (Path(tmp)/'nvidia.json').write_text(json.dumps(profile))
+            (Path(tmp)/'nvidia.json').write_text(json.dumps(profile), encoding="utf-8")
             actual=load_profiles(Path(tmp))[0]['industry_position']
             self.assertIn('缺少可驗證排名資料',actual)
             self.assertNotIn('99%',actual)

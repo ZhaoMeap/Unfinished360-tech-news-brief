@@ -1,10 +1,11 @@
 import os
 import smtplib
+import ssl
 import tempfile
 import unittest
 from datetime import datetime, timezone
 from pathlib import Path
-from unittest.mock import MagicMock, patch
+from unittest.mock import MagicMock, patch, sentinel
 
 import requests
 
@@ -71,7 +72,7 @@ class ReportTests(unittest.TestCase):
             path, subject, body = render_report(results, Path(tmp), NOW)
             self.assertEqual(path.name, "2026-10-11.md")
             self.assertEqual(subject, "科技新聞候選雷達 - 2026/10/11")
-            self.assertEqual(path.read_text(), body)
+            self.assertEqual(path.read_text(encoding="utf-8"), body)
         self.assertIn("candidate discovery", body)
         self.assertIn("可用資訊程度：低", body)
         self.assertNotIn("5 秒版", body)
@@ -94,7 +95,7 @@ class ReportTests(unittest.TestCase):
             self.assertEqual(main(), 0)
             send.assert_not_called()
             report = next((Path(tmp) / "reports").glob("*.md"))
-            self.assertIn("目前沒有可用的新聞候選", report.read_text())
+            self.assertIn("目前沒有可用的新聞候選", report.read_text(encoding="utf-8"))
 
     def test_send_mode_missing_config_preserves_report_without_traceback(self):
         with tempfile.TemporaryDirectory() as tmp, patch("src.main.ROOT", Path(tmp)), \
@@ -109,6 +110,19 @@ class EmailTests(unittest.TestCase):
     config = {"SMTP_HOST": "smtp.example.com", "SMTP_PORT": "587", "SMTP_USER": "user",
               "SMTP_PASS": "not-real", "MAIL_FROM": "sender@example.com", "MAIL_TO": "receiver@example.com"}
 
+    def setUp(self):
+        # Windows certificate-store initialization depends on the host environment.
+        # These are transport unit tests, so inject a context instead of loading it.
+        context = patch("src.send_email.ssl.create_default_context", return_value=sentinel.tls_context)
+        self.context_factory = context.start()
+        self.addCleanup(context.stop)
+        # No test may fall through to a real transport, including alternate ports.
+        for name in ("SMTP", "SMTP_SSL"):
+            guard = patch("src.send_email.smtplib." + name,
+                          side_effect=AssertionError("Unexpected real SMTP connection"))
+            guard.start()
+            self.addCleanup(guard.stop)
+
     def test_missing_and_invalid_settings_never_connect(self):
         with patch.dict(os.environ, {}, clear=True), patch("src.send_email.smtplib.SMTP") as smtp:
             self.assertFalse(send_email("subject", "body"))
@@ -121,6 +135,7 @@ class EmailTests(unittest.TestCase):
             smtp = factory.return_value.__enter__.return_value
             self.assertTrue(send_email("還沒想到科技快報", "test body"))
             names = [call[0] for call in smtp.method_calls]
+            smtp.starttls.assert_called_once_with(context=sentinel.tls_context)
             self.assertLess(names.index("starttls"), names.index("login"))
             self.assertLess(names.index("login"), names.index("send_message"))
             message = smtp.send_message.call_args.args[0]
@@ -131,10 +146,31 @@ class EmailTests(unittest.TestCase):
                 patch("src.send_email.smtplib.SMTP_SSL") as factory:
             self.assertTrue(send_email("subject", "body"))
             factory.return_value.__enter__.return_value.starttls.assert_not_called()
-            self.assertIn("context", factory.call_args.kwargs)
+            self.assertIs(factory.call_args.kwargs["context"], sentinel.tls_context)
+            smtp = factory.return_value.__enter__.return_value
+            smtp.login.assert_called_once_with("user", "not-real")
+            smtp.send_message.assert_called_once()
         with patch.dict(os.environ, self.config, clear=True), \
                 patch("src.send_email.smtplib.SMTP", side_effect=smtplib.SMTPAuthenticationError(535, b"secret response")):
             self.assertFalse(send_email("subject", "body"))
+    def test_tls_context_failure_is_safe_and_never_connects(self):
+        with patch.dict(os.environ, self.config, clear=True), \
+                patch("src.send_email.ssl.create_default_context", side_effect=ssl.SSLError("mock TLS failure")), \
+                patch("src.send_email.smtplib.SMTP") as plain, \
+                patch("src.send_email.smtplib.SMTP_SSL") as secure:
+            self.assertFalse(send_email("subject", "body"))
+            plain.assert_not_called()
+            secure.assert_not_called()
+
+    def test_starttls_failure_never_logs_in_or_sends(self):
+        with patch.dict(os.environ, self.config, clear=True), \
+                patch("src.send_email.smtplib.SMTP") as factory:
+            smtp = factory.return_value.__enter__.return_value
+            smtp.starttls.side_effect = ssl.SSLError("mock handshake failure")
+            self.assertFalse(send_email("subject", "body"))
+            smtp.login.assert_not_called()
+            smtp.send_message.assert_not_called()
+
 
 
 if __name__ == "__main__":

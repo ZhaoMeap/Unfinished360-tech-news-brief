@@ -58,7 +58,7 @@ class EditorTests(unittest.TestCase):
             self.assertEqual(path.name, '2026-10-11_0100_editor.md')
             self.assertEqual(path.parent, Path(tmp) / 'daily')
             self.assertEqual(subject, '還沒想到科技編輯簡報 - 2026/10/11')
-            self.assertEqual(path.read_text(), body)
+            self.assertEqual(path.read_text(encoding="utf-8"), body)
         for heading in ('今日科技主線', '今天最值得追的 3 則新聞', '其他候選新聞', '今日資料缺口', 'Ray 今天可以怎麼用'):
             self.assertIn('# ' + heading, body)
         for heading in ('1. 公司背景卡：這家公司是誰？', '2. 先講人話：這篇新聞在講什麼？',
@@ -229,15 +229,15 @@ class EditorTests(unittest.TestCase):
             root = Path(tmp)
             (root / 'reports').mkdir()
             radar = root / 'reports' / 'existing-radar.md'
-            radar.write_text('existing report')
+            radar.write_text('existing report', encoding="utf-8")
             with patch('src.main.ROOT', root), patch('src.main.fetch_sources', return_value=candidates()), \
                     patch('src.main.collect_community', return_value=[]), patch('src.main.send_email') as send, \
                     patch('sys.argv', ['brief', '--dry-run', '--editor']):
                 self.assertEqual(main(), 0)
                 send.assert_not_called()
             report = next((root / 'reports').glob('daily/*_editor.md'))
-            self.assertIn('還沒想到科技編輯簡報', report.read_text())
-            self.assertEqual(radar.read_text(), 'existing report')
+            self.assertIn('還沒想到科技編輯簡報', report.read_text(encoding="utf-8"))
+            self.assertEqual(radar.read_text(encoding="utf-8"), 'existing report')
 
     def test_editor_never_sends_even_with_send_email_and_smtp_config(self):
         import os
