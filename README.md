@@ -170,4 +170,22 @@ Engineering Lens 的工程問題、應用與限制保留在 Explain Mode 中：�
 
 每日報告請到 GitHub repo → **Actions → Daily technology brief → 該次 run → Artifacts**，下載 `technology-brief-<run_id>`，解壓後查看 `daily/YYYY-MM-DD_HHMM_editor.md`；artifact 保留 **7 天**，沒有報告檔時上傳步驟只警告。手動測試：**GitHub repo → Actions → Daily technology brief → Run workflow**；不勾 `send_email` 就產生 dry-run editor report，不寄信。GitHub 排程可能延遲，閒置公開 repo 的排程也可能被停用；可在 Actions 查看是否啟用。
 
-三次 editor 報告是**每日素材，不是正式 Podcast 內容**。檔名的 `HHMM` 使用實際執行時的台灣時間（排程延遲時可能不是整點），不同時段不互相覆蓋；同一分鐘重跑仍會寫入相同檔名。週報之後將使用這些 daily reports 進行去重、合併、主題聚類與 Podcast 選題，週報功能尚未實作。Actions 每次上傳 `reports/**/*.md`，可在該次 run 的 artifact 下載；報告不自動提交到 repo，7 天後的素材若要留作週報請先下載保存。
+三次 editor 報告是**每日素材，不是正式 Podcast 內容**。檔名的 `HHMM` 使用實際執行時的台灣時間（排程延遲時可能不是整點），不同時段不互相覆蓋；同一分鐘重跑仍會寫入相同檔名。Weekly Curator 使用這些 daily reports 進行去重、合併、主題聚類與 Podcast 選題。Actions 每次上傳 `reports/**/*.md`，可在該次 run 的 artifact 下載；報告不自動提交到 repo，7 天後的素材若要留作週報請先下載保存。
+
+## Weekly Curator：Ray 的 Podcast 選題週報
+
+同一個 repo 是完整 pipeline：Daily Collector／Editor Report 每天三次產出**素材**；Weekly Curator 才是 Ray 一週回顧、檢查與選題用的週報，仍需錄音前核對，不是逐日流水帳。
+
+```bash
+python -m src.main --weekly --dry-run
+```
+
+讀取執行時間往前七天的 `reports/daily/*.md`，以及選填的 `data/daily/*.json`。日報檔名中的台灣時間作為收集時間，未來時間與過期檔案不納入。週報輸出 `reports/weekly/YYYY-Www_weekly.md`（ISO 週數，年末可能屬於相鄰 ISO 年）；同一週重跑會更新該週報。
+
+基本規則：相同 URL（忽略追蹤參數）或高度相似標題合併成事件；不同數字、相反動作不因標題近似合併。相同公司／產品／技術主題再聚類成主線，保留事件與來源連結、首次／最後出現時間、出現次數與來源名稱數量。來源數量不是獨立查證數，素材重複不提升可信度。三至五條主線與最多三個 Podcast 推薦依實際素材產生；素材不足明示缺口，不湊題。財務／人物或只有標題的題目降低為觀察。
+
+JSON 可用六欄 metadata 陣列，檔名如 `2026-10-11_0900.json`；也支援 `{ "collected_at": "2026-10-11T09:00:00+08:00", "articles": [...] }`。article 欄位為 `title`、`url`、`source`、`published_at`、`short_snippet`、`tags`，沒有正文欄位。日報與 JSON 的相同時間／URL 不重複計數。現階段 daily workflow 不產出 JSON，先由 Markdown 運作；JSON 的社群留言不當成新聞事實。
+
+GitHub Actions **Weekly technology curator** 每週日台灣時間 **20:00**（UTC `0 12 * * 0`）執行；也可 **Actions → Weekly technology curator → Run workflow** 手動測試。每次 runner 是新工作區，所以週報會先以 GitHub 內建 token 的 `actions: read` 權限下載本 repo、main 分支、近七天的 `technology-brief-*` daily artifacts，再整理週報；不需要額外 token 或 SMTP Secrets。未有素材、artifact 過期或下載失敗時會警告，週報如實顯示缺口。尚未在真實 Actions run 驗證下載權限，請以 run 紀錄確認。
+
+下載週報：**Actions → Weekly technology curator → 該次 run → Artifacts → `weekly-tech-report-<run_id>`**；保留 **14 天**。週報不自動寄信，`--weekly` 即使搭配 `--send-email` 也只產出週報。它只整理本機素材，不重新抓新聞、不繞過付費牆、不抓／輸出全文；社群僅整理日報裡有抽樣標記的實際討論，沒有時改列 `[Analysis]` 工程提問。

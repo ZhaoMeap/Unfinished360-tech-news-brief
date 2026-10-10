@@ -12,6 +12,7 @@ from .community import collect_community
 from .render_report import render_report
 from .editor_report import render_editor_report
 from .send_email import send_email
+from .weekly_curator import render_weekly
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -24,7 +25,13 @@ def main() -> int:
     inputs = parser.add_mutually_exclusive_group()
     inputs.add_argument("--links", type=Path, help="指定連結檔，每行一個 HTTPS URL")
     inputs.add_argument("--editor", action="store_true", help="根據自動候選產生每日編輯簡報")
+    inputs.add_argument("--weekly", action="store_true", help="整理最近七天 daily 素材，產生 Podcast 選題週報")
     args = parser.parse_args()
+    if args.weekly:
+        path, _, _ = render_weekly(ROOT)
+        print(f"週報已產出：{path}")
+        print("Weekly Curator 僅產生報告；未寄信。")
+        return 0
     load_dotenv(ROOT / ".env", override=False)
     try:
         results = fetch_links(read_links(args.links)) if args.links else fetch_sources()

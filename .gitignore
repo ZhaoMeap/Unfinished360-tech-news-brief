@@ -9,3 +9,9 @@ reports/*
 !reports/daily/
 reports/daily/*
 !reports/daily/.gitkeep
+
+!reports/weekly/
+reports/weekly/*
+!reports/weekly/.gitkeep
+data/daily/*
+!data/daily/.gitkeep
