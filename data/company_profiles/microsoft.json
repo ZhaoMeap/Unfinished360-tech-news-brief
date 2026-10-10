@@ -1,0 +1,28 @@
+{
+  "name": "Microsoft",
+  "aliases": [
+    "Microsoft Corporation"
+  ],
+  "company_type": "軟體平台與雲端服務公司",
+  "core_business": "提供作業系統、企業軟體、雲端運算與開發工具。",
+  "main_products": [
+    "Windows",
+    "Microsoft 365",
+    "Azure",
+    "GitHub"
+  ],
+  "customer_segments": [
+    "企業 IT 團隊",
+    "雲端工程師",
+    "軟體開發者",
+    "一般使用者"
+  ],
+  "industry_position": "重要雲端與企業軟體供應商之一，產品之間具有帳號與工具整合關係。",
+  "why_it_matters": "權限、部署與既有企業系統的相容性是導入時的實作問題。",
+  "sources": [
+    "https://www.microsoft.com/en-us/about",
+    "https://learn.microsoft.com/"
+  ],
+  "last_updated": "2026-10-11",
+  "verification_status": "curated_background; reference URLs not live verified"
+}

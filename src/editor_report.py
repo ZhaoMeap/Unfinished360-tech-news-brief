@@ -15,6 +15,7 @@ from .render_report import SOCIAL, TAIPEI, md, reference, related
 from .source_quality import quality_for
 from .story_narrative import describe, engineering_lens
 from .explain_report import explain
+from .company_context import company_cards
 
 
 @dataclass(frozen=True)
@@ -202,7 +203,7 @@ def make_story(article, discussions):
     official = article.source.startswith('官方：') and is_official(article.url)
     label = 'Confirmed' if official and article.short_snippet else 'Reported' if article.source in ('Reuters','The Verge','DIGITIMES') else 'Analysis'
     return dict(article=article, title=md(article.title[:150]), ref=reference(article), topic=topic,
-                quality=quality, label=label, explanation=explain(article, topic, label), has_discussion=any(d.sampled for d in matched_discussions(article, discussions)), narrative=describe(article, topic), engineering=engineering_lens(article, topic), social=md(social_summary(article, discussions)),
+                quality=quality, label=label, companies=company_cards(article), explanation=explain(article, topic, label), has_discussion=any(d.sampled for d in matched_discussions(article, discussions)), narrative=describe(article, topic), engineering=engineering_lens(article, topic), social=md(social_summary(article, discussions)),
                 publishable=bool(article.short_snippet) and quality.score >= 2 and topic != FALLBACK)
 
 
@@ -248,27 +249,49 @@ TEMPLATE = '''Subject: {{ subject }}
 - **來源：** {{ story.ref }}；{{ story.article.published_at or '日期未知' }}；{{ story.quality.kind }} / {{ story.quality.score }}，資訊程度{{ story.quality.availability }}。
 - **可信度標籤：** [{{ story.label }}] 僅標示來源發布資訊；metadata 不等於事件已確認，推論另標 [Analysis]。
 
-### 1. 先講人話：這篇新聞在講什麼？
+### 1. 公司背景卡：這家公司是誰？
+{% for company in story.companies %}- [Company Context] **公司名稱：** {{ company.name|escape_md }}
+{% if company.fallback %}- [Company Context] 公司背景不足，僅能根據本次新聞與公開來源描述其角色。
+- [Company Context] **公司類型／核心業務／主要產品：** 尚無可核對的背景快取；不由公司名稱推測業務。
+- [Company Context] **主要客戶或使用者類型：** 需公司 about／產品文件。
+- [Company Context] **產業地位／市場定位：** 目前僅能確認其公開定位，缺少可驗證排名資料。
+- [Company Context] **為什麼跟本次新聞有關：** 下段只解釋新聞可辨識的角色；公司背景尚未補齊。
+{% else %}- [Company Context] [Background] **公司類型：** {{ company.company_type|escape_md }}
+- [Company Context] [Background] **核心業務：** {{ company.core_business|escape_md }}
+- [Company Context] [Background] **主要產品／解決方案：** {{ company.main_products|join('、')|escape_md }}
+- [Company Context] [Background] **主要客戶或使用者類型：** {{ company.customer_segments|join('、')|escape_md }}
+- [Company Context] [Background] **產業地位／市場定位：** {{ company.industry_position|escape_md }}
+- [Company Context] [Analysis] **工程師為什麼注意它：** {{ company.why_it_matters|escape_md }}
+- [Company Context] **為什麼跟本次新聞有關：** {{ company.relevance|escape_md }}
+- [Company Context] 背景整理日期：{{ company.last_updated }}；背景快取不是本次即時官方查核，不提供排名或市佔率判定。
+- [Company Context] 官方背景參考：{% for url in company.sources %}[連結 {{ loop.index }}](<{{ url }}>) {% endfor %}
+{% endif %}{% endfor %}
+### 2. 先講人話：這篇新聞在講什麼？
 {{ story.explanation.sentences|map('escape_md')|join(' ') }}
 
-### 2. 背景補充：工程小白需要先懂什麼？
+### 3. 背景補充：工程小白需要先懂什麼？
 {% for background in story.explanation.background %}- [Background] {{ background|escape_md }}
 {% endfor %}
-### 3. 工程師應該注意什麼？
+### 4. 對科技業的影響是什麼？
+[Analysis] {{ story.explanation.impact|escape_md }}
+
+### 5. 工程師應該注意什麼？
 [Analysis] {{ story.explanation.attention|escape_md }}
 
-### 4. 目前可能的解法或業界方向
-{{ story.explanation.solution|escape_md }}
+常見解法／工程方向：{{ story.explanation.solution|escape_md }}
 
-### 5. 網路上的人可能會怎麼看？
+### 6. 未來展望
+[Analysis] {{ story.explanation.outlook|escape_md }}
+
+### 7. 網路上的人可能會怎麼看？
 {% if story.has_discussion %}{{ story.social }}
 {% else %}沒有取得對應文章的可用 HN／Reddit 留言；X 尚未接入。以下是工程師可能提問，不是實際網友發言。
 {% for question in story.explanation.questions %}- [Analysis] {{ question|escape_md }}
 {% endfor %}{% endif %}
-### 6. Ray 的 Podcast 切入角度
+### 8. Ray 的 Podcast 切入角度
 [Analysis] {{ story.explanation.opening|escape_md }}
 
-### 7. 仍需查證的地方
+### 9. 仍需查證的地方
 {% for gap in story.explanation.gaps %}- {{ gap|escape_md }}
 {% endfor %}
 - **來源連結：** {{ story.ref }}

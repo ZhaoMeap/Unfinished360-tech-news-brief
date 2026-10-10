@@ -1,0 +1,25 @@
+{
+  "name": "Anthropic",
+  "aliases": [
+    "Anthropic PBC"
+  ],
+  "company_type": "AI 基礎模型與安全研究公司",
+  "core_business": "研發大型語言模型，並研究模型可靠性與安全。",
+  "main_products": [
+    "Claude 模型與助理",
+    "Claude API"
+  ],
+  "customer_segments": [
+    "軟體開發者",
+    "企業應用團隊",
+    "AI 助理使用者"
+  ],
+  "industry_position": "主要 AI 模型公司之一，模型與 API 是產品整合入口。",
+  "why_it_matters": "採用模型時要評估工具呼叫、測試條件、資料處理與失敗行為。",
+  "sources": [
+    "https://www.anthropic.com/company",
+    "https://docs.anthropic.com/"
+  ],
+  "last_updated": "2026-10-11",
+  "verification_status": "curated_background; reference URLs not live verified"
+}

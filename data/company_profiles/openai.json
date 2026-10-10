@@ -1,0 +1,25 @@
+{
+  "name": "OpenAI",
+  "aliases": [
+    "OpenAI, Inc."
+  ],
+  "company_type": "AI 基礎模型與應用平台公司",
+  "core_business": "研發生成式 AI 模型，提供助理產品與程式介面。",
+  "main_products": [
+    "ChatGPT",
+    "OpenAI API"
+  ],
+  "customer_segments": [
+    "AI 應用開發者",
+    "企業團隊",
+    "一般助理使用者"
+  ],
+  "industry_position": "主要 AI 模型公司之一，產品與 API 連結應用開發生態。",
+  "why_it_matters": "模型的輸出、工具權限與成本需要整合測試，展示不代表每個流程都可靠。",
+  "sources": [
+    "https://openai.com/about/",
+    "https://platform.openai.com/docs/overview"
+  ],
+  "last_updated": "2026-10-11",
+  "verification_status": "curated_background; reference URLs not live verified"
+}

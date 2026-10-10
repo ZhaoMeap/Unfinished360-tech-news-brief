@@ -1,0 +1,26 @@
+{
+  "name": "群聯",
+  "aliases": [
+    "Phison",
+    "Phison Electronics"
+  ],
+  "company_type": "儲存控制晶片與解決方案公司",
+  "core_business": "設計 NAND 快閃記憶體控制器，並提供儲存方案與韌體整合。",
+  "main_products": [
+    "SSD 控制器",
+    "快閃儲存方案"
+  ],
+  "customer_segments": [
+    "儲存品牌",
+    "系統廠商",
+    "硬體與韌體團隊"
+  ],
+  "industry_position": "儲存供應鏈的重要參與者，控制器連結快閃記憶體與系統介面。",
+  "why_it_matters": "效能不只看容量，還需要測韌體、耐久度、延遲與系統相容性。",
+  "sources": [
+    "https://www.phison.com/en/",
+    "https://www.phison.com/en/company/about-us"
+  ],
+  "last_updated": "2026-10-11",
+  "verification_status": "curated_background; reference URLs not live verified"
+}

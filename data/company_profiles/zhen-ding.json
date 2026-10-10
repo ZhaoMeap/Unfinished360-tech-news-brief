@@ -1,0 +1,25 @@
+{
+  "name": "臻鼎",
+  "aliases": [
+    "Zhen Ding",
+    "Zhen Ding Technology"
+  ],
+  "company_type": "印刷電路板與電子互連供應商",
+  "core_business": "製造電子產品使用的印刷電路板與相關互連產品。",
+  "main_products": [
+    "印刷電路板 PCB",
+    "軟性電路板"
+  ],
+  "customer_segments": [
+    "電子產品品牌",
+    "設備與系統製造商",
+    "硬體設計團隊"
+  ],
+  "industry_position": "電子互連供應鏈的重要參與者；不由單則營收消息推定客戶或訂單。",
+  "why_it_matters": "硬體工程師會關注訊號完整性、製程限制、散熱與板材相容性。",
+  "sources": [
+    "https://www.zdtco.com/"
+  ],
+  "last_updated": "2026-10-11",
+  "verification_status": "curated_background; reference URLs not live verified"
+}

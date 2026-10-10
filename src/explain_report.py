@@ -99,6 +99,20 @@ def explain(article, topic, label):
     # Source-proposed direction precedes general engineering alternatives.
     proposal = lens['solution'].split('[Analysis]')[0].strip() if lens['solution'].startswith('[Reported]') else ''
     proposal = proposal.replace('[Reported]',f'[{label}]')
+    impact = '若相關功能真的進入產品，開發者與使用者可能需要調整操作流程；影響範圍應以實際支援的功能、版本與部署案例核對。'
+    outlook = '接下來追官方功能文件、可重現 benchmark 與部署案例：哪些步驟已進入產品，哪些仍只是演示；不從單則消息預測市場成敗。'
+    if topic.name == 'AI 評測與可靠性':
+        impact = 'AI 模型與應用團隊若改變評測網路條件，就要分開比較離線能力與連網工具能力；開發者選模型時也需看評測設定，而不能只比較一個總分。'
+        outlook = '觀察是否公開隔離設定、測試集污染檢查與離線／連網對照；這些資料能幫開發者判斷分數能否代表自己的工作負載。'
+    elif re.search(r'omniverse|simulation|模擬',text,re.I):
+        impact = '如果代理能協助建立模擬場景，3D 與硬體工程團隊可能少做重複串接工作，把時間放在驗證；實際節省多少步驟仍要看案例，不直接推定資料中心或晶片訂單增加。'
+        outlook = '觀察場景生成是否成為可用工具功能、是否能跨版本重跑，以及能否用實體量測校準；有公開案例後再評估工業或機器人 workflow 的改變。'
+    elif re.search(r'clinical|patient|AMIE|醫療',text,re.I):
+        impact = '醫療 AI 與軟體團隊可能把助理放進整理資訊與溝通的流程；產品設計要保留專業審查與敏感資料控管，不能把研究中的互動改善當成臨床效果已確認。'
+        outlook = '觀察更多樣本、對照研究與真實流程案例，確認改善的是溝通、資訊完整性還是醫療結果，再判斷能否變成穩定產品功能。'
+    elif re.search(r'agents?|privacy|代理|隱私',text,re.I):
+        impact = '如果代理接入帳號與服務，軟體平台、企業 IT 與應用開發者可能需要重新設計授權、敏感操作確認與錯誤復原；這是條件式影響，不是宣稱所有代理已具備這些能力。'
+        outlook = '觀察權限模型、操作紀錄與失敗復原是否有公開文件和可重現測試，再看它能否穩定接入企業工作流程。'
     return dict(sentences=sentences, background=background, attention=focus,
-                solution=(proposal + ' ' if proposal else '') + '[Analysis] ' + direction,
+                impact=impact, outlook=outlook, solution=(proposal + ' ' if proposal else '') + '[Analysis] ' + direction,
                 questions=questions, opening=lens['opening'], gaps=gaps)

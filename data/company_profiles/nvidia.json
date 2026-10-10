@@ -1,0 +1,27 @@
+{
+  "name": "NVIDIA",
+  "aliases": [
+    "Nvidia",
+    "NVIDIA Corporation"
+  ],
+  "company_type": "半導體與加速運算平台公司",
+  "core_business": "設計 GPU 與相關軟體平台，讓平行運算可用於 AI、圖形與科學計算。",
+  "main_products": [
+    "GPU",
+    "CUDA 開發平台",
+    "Omniverse 3D 工作流程技術"
+  ],
+  "customer_segments": [
+    "AI 開發者",
+    "資料中心團隊",
+    "圖形與工程模擬開發者"
+  ],
+  "industry_position": "加速運算生態系的關鍵技術公司，硬體與開發工具緊密連結。",
+  "why_it_matters": "工程師需要同時考慮 GPU、驅動、工具鏈與相容性，而不只看硬體規格。",
+  "sources": [
+    "https://www.nvidia.com/en-us/about-nvidia/",
+    "https://developer.nvidia.com/"
+  ],
+  "last_updated": "2026-10-11",
+  "verification_status": "curated_background; reference URLs not live verified"
+}

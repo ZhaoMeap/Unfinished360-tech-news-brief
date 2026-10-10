@@ -189,3 +189,11 @@ JSON 可用六欄 metadata 陣列，檔名如 `2026-10-11_0900.json`；也支援
 GitHub Actions **Weekly technology curator** 每週日台灣時間 **20:00**（UTC `0 12 * * 0`）執行；也可 **Actions → Weekly technology curator → Run workflow** 手動測試。每次 runner 是新工作區，所以週報會先以 GitHub 內建 token 的 `actions: read` 權限下載本 repo、main 分支、近七天的 `technology-brief-*` daily artifacts，再整理週報；不需要額外 token 或 SMTP Secrets。未有素材、artifact 過期或下載失敗時會警告，週報如實顯示缺口。尚未在真實 Actions run 驗證下載權限，請以 run 紀錄確認。
 
 下載週報：**Actions → Weekly technology curator → 該次 run → Artifacts → `weekly-tech-report-<run_id>`**；保留 **14 天**。週報不自動寄信，`--weekly` 即使搭配 `--send-email` 也只產出週報。它只整理本機素材，不重新抓新聞、不繞過付費牆、不抓／輸出全文；社群僅整理日報裡有抽樣標記的實際討論，沒有時改列 `[Analysis]` 工程提問。
+
+## Company Context：公司背景卡
+
+Daily Editor Report 每則重點先附「公司背景卡：這家公司是誰？」，讓 Ray 不必另外查公司，再依序說明事件、技術背景、科技業影響、工程問題、未來觀察、社群、Podcast 角度與查證清單。公司卡包含類型、核心業務、產品、客戶類型、生態定位及與本次新聞的關聯；不以股價、毛利或營收判斷技術價值。
+
+背景快取在 `data/company_profiles/*.json`，目前收錄 NVIDIA、Anthropic、Google、OpenAI、Microsoft、群聯、臻鼎；依名稱、別名與可信官方發布者匹配，每次讀取快取，不自動重新抓公司頁面。新增公司可增加同格式 JSON，更新時同步調整 `last_updated`。這個日期是背景整理日期，不是即時官方查核時間。官方參考 URL 可用於後續核對；本次 about 頁面請求遭雲端代理拒絕，初始快取是人工整理的一般背景，以 `[Company Context] [Background]` 呈現，不冒充剛查到的 `[Confirmed]` 資料。
+
+排名或市佔率只有來源明確支持時才可寫；目前背景卡不輸出數字排名，快取若含「全球最大／市場龍頭」等未核對宣稱，會改成缺少可驗證排名資料。沒有背景快取仍正常產出 report，明寫「公司背景不足，僅能根據本次新聞與公開來源描述其角色」。背景卡與新聞事實分開，影響與未來展望標 `[Analysis]`；不以社群發言或 metadata 宣稱公司技術已驗證。

@@ -1,0 +1,27 @@
+{
+  "name": "Google",
+  "aliases": [
+    "Google LLC"
+  ],
+  "company_type": "軟體平台、雲端服務與 AI 技術公司",
+  "core_business": "提供搜尋、網路產品、行動平台、雲端運算與 AI 工具。",
+  "main_products": [
+    "Google Search",
+    "Android",
+    "Google Cloud",
+    "Gemini"
+  ],
+  "customer_segments": [
+    "一般使用者",
+    "Android 開發者",
+    "企業雲端與 AI 團隊"
+  ],
+  "industry_position": "重要雲端服務供應商之一，也參與行動與 AI 開發者生態。",
+  "why_it_matters": "新聞可能連到產品介面、開發工具或研究；公司業務廣，不能把單一研究當成全產品能力。",
+  "sources": [
+    "https://about.google/",
+    "https://cloud.google.com/products"
+  ],
+  "last_updated": "2026-10-11",
+  "verification_status": "curated_background; reference URLs not live verified"
+}

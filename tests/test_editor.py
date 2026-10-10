@@ -61,9 +61,10 @@ class EditorTests(unittest.TestCase):
             self.assertEqual(path.read_text(), body)
         for heading in ('今日科技主線', '今天最值得追的 3 則新聞', '其他候選新聞', '今日資料缺口', 'Ray 今天可以怎麼用'):
             self.assertIn('# ' + heading, body)
-        for heading in ('1. 先講人話：這篇新聞在講什麼？', '2. 背景補充：工程小白需要先懂什麼？',
-                        '3. 工程師應該注意什麼？', '4. 目前可能的解法或業界方向',
-                        '5. 網路上的人可能會怎麼看？', '6. Ray 的 Podcast 切入角度', '7. 仍需查證的地方'):
+        for heading in ('1. 公司背景卡：這家公司是誰？', '2. 先講人話：這篇新聞在講什麼？',
+                        '3. 背景補充：工程小白需要先懂什麼？', '4. 對科技業的影響是什麼？',
+                        '5. 工程師應該注意什麼？', '6. 未來展望', '7. 網路上的人可能會怎麼看？',
+                        '8. Ray 的 Podcast 切入角度', '9. 仍需查證的地方'):
             self.assertEqual(body.count('### ' + heading), 3)
         for field in ('來源','來源連結','可信度標籤'):
             self.assertEqual(body.count('**' + field + '：**'), 3)
