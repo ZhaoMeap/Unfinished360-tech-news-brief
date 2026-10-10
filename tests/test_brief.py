@@ -70,21 +70,22 @@ class ReportTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as tmp:
             path, subject, body = render_report(results, Path(tmp), NOW)
             self.assertEqual(path.name, "2026-10-11.md")
-            self.assertEqual(subject, "還沒想到科技快報 - 2026/10/11")
+            self.assertEqual(subject, "科技新聞候選雷達 - 2026/10/11")
             self.assertEqual(path.read_text(), body)
-        self.assertIn("### 3. 目前無法取得", body)
-        self.assertIn("**可信度標籤：** [Reported]", body)
-        self.assertIn("沒有可核對的同事件討論串", body)
+        self.assertIn("candidate discovery", body)
+        self.assertIn("可用資訊程度：低", body)
+        self.assertNotIn("5 秒版", body)
 
     def test_official_only_confirmed_and_similarity_not_confirmation(self):
-        official = article("官方：Microsoft", url="https://blogs.microsoft.com/story")
+        official = Article("Microsoft AI server chip project announced", "https://blogs.microsoft.com/story", "官方：Microsoft",
+                           NOW.isoformat(), "Microsoft announces a new AI server chip platform for developers.", ["AI"])
         with tempfile.TemporaryDirectory() as tmp:
-            _, _, body = render_report([SourceResult("official", [official], "ok")], Path(tmp), NOW)
-            self.assertIn("**可信度標籤：** [Confirmed]", body)
+            _, _, body = render_report([SourceResult("official", [official], "ok")], Path(tmp), NOW, mode="links")
+            self.assertIn("可信度：[Confirmed]", body)
             _, _, body = render_report([SourceResult("Reuters", [article()], "ok"),
-                                       SourceResult("官方：Microsoft", [official], "ok")], Path(tmp), NOW)
-            self.assertIn("不自動升級為 Confirmed", body)
-            self.assertIn("**可信度標籤：** [Reported]", body)
+                                       SourceResult("官方：Microsoft", [official], "ok")], Path(tmp), NOW, mode="links")
+            self.assertIn("相似標題不代表交叉確認", body)
+            self.assertIn("可信度：[Reported]", body)
 
     def test_empty_report_and_cli_default_do_not_send(self):
         with tempfile.TemporaryDirectory() as tmp, patch("src.main.ROOT", Path(tmp)), \
@@ -93,14 +94,14 @@ class ReportTests(unittest.TestCase):
             self.assertEqual(main(), 0)
             send.assert_not_called()
             report = next((Path(tmp) / "reports").glob("*.md"))
-            self.assertIn("今天不產生虛構摘要", report.read_text())
+            self.assertIn("目前沒有可用的新聞候選", report.read_text())
 
     def test_send_mode_missing_config_preserves_report_without_traceback(self):
         with tempfile.TemporaryDirectory() as tmp, patch("src.main.ROOT", Path(tmp)), \
                 patch("src.main.fetch_sources", return_value=[]), patch.dict(os.environ, {}, clear=True), \
                 patch("sys.argv", ["brief", "--send-email"]), patch("src.send_email.smtplib.SMTP") as smtp:
             self.assertEqual(main(), 1)
-            self.assertEqual(len(list((Path(tmp) / "reports").glob("*.md"))), 1)
+            self.assertEqual(len(list((Path(tmp) / "reports").glob("*.md"))), 2)
             smtp.assert_not_called()
 
 

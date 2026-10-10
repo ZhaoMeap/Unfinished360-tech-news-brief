@@ -35,9 +35,10 @@ class Article:
     published_at: str | None
     short_snippet: str
     tags: list[str]
+    quality_hint: str = ""
 
     def metadata(self) -> dict:
-        return asdict(self)
+        return {key: value for key, value in asdict(self).items() if key != "quality_hint"}
 
 
 @dataclass
@@ -54,6 +55,8 @@ def plain(value: str, limit: int = 180) -> str:
 
 def safe_url(value: str) -> str | None:
     try:
+        if any(ord(char) <= 32 or char in '<>"' for char in value):
+            return None
         parts = urlsplit(value)
         if parts.scheme != "https" or not parts.hostname or parts.username or parts.password:
             return None
@@ -124,6 +127,11 @@ def fetch_feed(session: requests.Session, source: str, url: str, now: datetime,
             title = plain(entry.get("title", ""), 220)
             date = published(entry)
             raw_summary = entry.get("summary", "")
+            if source == "Hacker News":
+                # RSS link points to the external article; comments points to HN.
+                discussion_url = safe_url(entry.get("comments", ""))
+                if discussion_url and urlsplit(discussion_url).hostname == "news.ycombinator.com":
+                    link = discussion_url
             snippet = plain(raw_summary, 160)
             tags = tags_for(title + " " + snippet)
             # Preserve one explicit primary-source link within the same bounded

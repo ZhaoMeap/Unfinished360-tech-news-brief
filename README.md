@@ -1,62 +1,106 @@
-# 還沒想到科技快報
+# 還沒想到科技快報 V2
 
-每天整理一份約 3–5 分鐘可讀完的科技新聞 **dry-run 簡報草稿**，供 Ray 準備 Podcast。使用台灣時間命名 `reports/YYYY-MM-DD.md`，主旨為 `還沒想到科技快報 - YYYY/MM/DD`。預設不寄信；未來內容穩定後，可寄到 `unfinished360.podcast@gmail.com`。
+為 Ray 的《還沒想到》Podcast 準備科技新聞。預設 **dry-run、不寄信**。V2 把找新聞與編輯快報分成兩個階段，避免把標題雷達誤認為已完成的新聞分析。
 
-## 第一版範圍與限制
+## V1 / V2 差異
 
-這一版是保守的 **metadata-only、規則式整理**，不需要 LLM API key。使用標題與短摘錄判斷主題，提供自己的閱讀方向、核對提示與 Podcast 提問；**尚不提供經全文驗證的語意摘要、精確事件翻譯或完整跨來源分析**。原文標題保留在標題／來源欄，其他敘述用自己的話撰寫並標記可信度。錄音、公開發布或啟用每天寄信前，請人工核對事件脈絡。沒有足夠資料就保留空位，不為湊滿三則而編造新聞。
+| | V1 | V2 |
+| --- | --- | --- |
+| 自動來源 | metadata-only 內容包裝成快報 | **科技新聞候選雷達**：candidate discovery，供挑選，不是完整新聞稿 |
+| 指定連結 | 沒有 | `--links links.txt`：編輯指定來源後產出 **還沒想到科技快報** 草稿 |
+| 資訊不足 | 重複泛用分析與缺資料提示 | 直接列 **待人工補充**，不產生公司對策或虛構脈絡 |
+| 品質 | 只有來源與可信度 | source quality score + 可用資訊程度，與可信度分開 |
+| 社群 | 只列項目數／連結 | 有上限的公開留言抽樣，整理焦點、擔憂、技術觀點與樣本程度 |
+| 時區 | 仰賴系統資料 | requirements 加入 `tzdata`，Windows 也能使用 `Asia/Taipei` |
 
-採用 Python **3.11+**；目前 Codex Cloud 實測 **3.12.14**，GitHub Actions 使用穩定可用的 **3.12**，不依賴 3.14.6。你的本機 3.14.6 可嘗試相同安裝指令，但此環境未驗證該版本；若有套件相容性問題請改用 3.12。Windows 若缺少 IANA 時區資料，可另安裝 `tzdata`。
+**指定連結模式才適合準備 Podcast 快報**，但公開摘要不等於完整查證：資訊不足就補資料，不會用模板假裝已理解故事。V2 沒有使用 LLM 或翻譯服務，不需要 API key；以可驗證的主題詞與事件類型做保守重寫，無法可靠重寫的新主題直接待人工補充。無法自動形成完整因果故事、解析數字關係或判定多篇文章支持同一結論；這些仍需編輯補充。
 
 ## 安裝
 
-在專案根目錄執行：
+Python **3.11+**；Codex Cloud 驗證 **3.12.14**，GitHub Actions 使用穩定的 **3.12**。本機 3.14.6 可使用相同指令，但此環境尚未驗證該版本；遇到相容性問題請改用 3.12。Windows 需要 IANA 時區資料 `tzdata`，已列入 requirements，無需另外猜測時區設定。
 
 ```bash
-python --version
 python -m venv .venv
 source .venv/bin/activate
 python -m pip install -r requirements.txt
 cp .env.example .env
 ```
 
-Windows PowerShell 啟用指令為 `.venv\Scripts\Activate.ps1`，複製設定可用 `Copy-Item .env.example .env`。`.env`、虛擬環境與產出的報告均已排除於 Git；不需資料庫或常駐服務。
+Windows PowerShell 改用 `.venv\Scripts\Activate.ps1`，複製設定用 `Copy-Item .env.example .env`。在專案根目錄執行；不需資料庫或常駐服務。
 
-## 執行 dry-run
+## 自動候選雷達
 
 ```bash
 python -m src.main --dry-run
-# 不帶參數也只產出報告
+# 無參數也只 dry-run
 python -m src.main
 ```
 
-產生 `reports/YYYY-MM-DD.md`；同一天重跑會更新該日報告。日期依 `Asia/Taipei`，候選新聞限近 48 小時且必須有日期。優先 Reuters，再取 The Verge／DIGITIMES 與官方資訊，先分散來源再補足空位。報告包含一句話總結、最多三則重點新聞與指定視角、三個 Podcast 問題，以及每個來源的取得狀態。來源無法取得不使整份報告失敗；即使全部失敗，也會產生明確標示缺資料的報告。**退出碼 0 表示報告生成成功，不表示全部來源可用**。
+Subject 與報告標題為 **科技新聞候選雷達**。擷取近 48 小時、有日期的科技項目，最多列 10 個非社群候選，不編造三則完整新聞。Hacker News／Reddit 是獨立的討論方向，不能佔用事實新聞槽位。來源缺失集中放在來源狀態，避免每則候選塞滿重複缺資料欄位。
 
-## 來源分層
+來源包含 Reuters 公開科技索引、Google／Microsoft／NVIDIA blog、Apple Newsroom（含財報公告）、FTC 公告、The Verge、DIGITIMES、Hacker News RSS 與 Reddit r/technology RSS。**Reuters 可能回傳 HTTP 401，不保證可用，不是穩定必備來源**。不可用時繼續其他來源，不切換非授權鏡像或繞過付費牆。可選擇以 `.env` 的 `REUTERS_FEED_URL`／`DIGITIMES_FEED_URL` 指定有權使用的 HTTPS feed。X 僅保留介面，尚未接 API。
 
-| 層級 | 實作 | 限制 |
-| --- | --- | --- |
-| Reuters | 優先選取公開科技索引的標題與連結；可用 `REUTERS_FEED_URL` 指定有權使用的 HTTPS RSS/Atom | 公開索引可能拒絕自動存取；不繞過限制。索引日期由 URL 推得，並非精確發稿時間。自訂 feed 的真實性需自行確認 |
-| 官方 | Google、Microsoft、NVIDIA blog、Apple Newsroom（含財報公告）、FTC 公告 RSS；另辨識 RSS 摘錄中的官方文件連結 | 只涵蓋這些公開端點，尚未全面接入所有公司財報／法規。候選官方連結不等於核對完成，媒體報導不會自動升級 Confirmed |
-| The Verge | 公開 RSS | 補產品與文化線索；無同事件項目時標示目前無法取得，不虛構該媒體觀點 |
-| DIGITIMES | 公開 RSS，可用 `DIGITIMES_FEED_URL` 覆寫合法來源 | 不抓付費全文；RSS 不可用或沒有近期符合項目時明示缺資料 |
-| Hacker News / Reddit | HN RSS 與 r/technology RSS | 只列相關討論串，不抓留言、不推定共識、不當作事實；Reddit 可能限制存取 |
-| X | `fetch_x()` 保留介面 | 尚未接入 API，不做非授權抓取 |
+## 使用者指定連結／Podcast 快報
 
-每個來源最多保留 30 筆候選，下載上限 1 MB；HTTP timeout、失敗處理及日期篩選均有設限。只在記憶體保留 `title`、`url`、`source`、`published_at`、`short_snippet`、`tags` 六個文章欄位，不建立全文資料庫或保存原始回應。短摘錄上限 160 字元，可保留一個摘要中明示的官方 URL；摘錄原文不在報告直接輸出。報告是衍生稿，含來源標題、URL、日期與自己的分析文字。跨來源標題比對僅為保守的候選關聯，可能漏配或誤配，請人工檢查。
+```bash
+cp links.example.txt links.txt
+# 用編輯器更換 links.txt 的來源
+python -m src.main --dry-run --links links.txt
+```
 
-Codex Cloud 若出現代理 HTTP 403，請在環境設定中允許 `www.reuters.com`、`blog.google`、`blogs.microsoft.com`、`blogs.nvidia.com`、`www.apple.com`、`www.ftc.gov`、`www.theverge.com`、`www.digitimes.com`、`hnrss.org`、`www.reddit.com`。網路允許不保證上游站點開放存取；遇到拒絕時仍不繞過限制。這是雲端網路設定，與 GitHub Actions Secrets 無關。
+每行一個 HTTPS URL，空白行及 `#` 註解忽略，重複 URL 去除；上限 20 個連結、檔案 64 KB。相對檔案路徑以執行目錄為準。可放同事件的官方公告、媒體報導與對應 HN／Reddit 討論串。指定模式不再抓所有自動來源，僅擷取這些連結與所指定討論串的有限公開留言。
 
-可信度規則：
+讀取公開可見的 title、description、published_at、來源主機與公開摘要。只串流讀取 HTML **head**（最多 96 KB，讀到 `</head>`／`<body>` 即停止）；不解析正文、不下載 PDF／全文，不使用 reader-mode、付費帳號或存取限制的替代路徑。網站忽略 Range 時也會在上限或 head 結束處關閉串流，最後一個小區塊可能含有正文起始位元組，但不解析、保存或輸出正文。
 
-- `[Confirmed]`：官方發布的資訊；不代表官方預測必然實現。未來可供人工核對多來源結論，本版不自動宣稱多來源確認。
-- `[Reported]`：可信媒體提供的資訊，尚無官方確認。
-- `[Rumor]`：未確認社群線索；不是事實、調查結果或網友共識。
-- `[Analysis]`：作者的閱讀建議、條件式推論與 Podcast 提問。
+公開摘要限 `abstract`／`summary` meta 與 HTML head 中 JSON-LD 的 `description`。JSON-LD 的 `articleBody`／`text` 不使用，標明 `isAccessibleForFree=false` 的結構資料摘要不取；一般公開 meta description 仍可作為 metadata。head 超過上限時只解析已讀到的部分。沒有日期就保留未知，不用今天代替。只接受 HTTPS 標準埠，拒絕帳密 URL、本機、私有 IP 與降級 HTTP redirect。直接連線會驗證解析出的 IP；雲端 HTTPS proxy 模式由代理解析 DNS 並執行目的地限制，不要求本機能解析外部網域。
 
-## 設定 .env 與啟用寄信
+報告主稿最多三個不重複的非社群主題，依指定順序；所有指定連結與狀態都列在附錄。相似標題只列跨來源候選，不等於交叉確認。不足以形成故事線的項目只列「待人工補充」。V2 不再為未支持的公司對策或媒體觀點生成泛用段落。
 
-只要 dry-run 就不需要 SMTP 值。正式寄信需設定全部六個欄位：
+## 品質與可信度
+
+| source quality score | 分數 | 可用資訊程度 | 意義 |
+| --- | --- | --- | --- |
+| title only | 1 | 低 | 只有標題；即使官方標題也不自動評高 |
+| metadata | 2 | 中 | 有公開 description／短摘錄 |
+| public summary | 3 | 中 | 有 head 中明示的公開摘要 |
+| official source | 4 | 高 | 已知官方網域且有公開 description／摘要 |
+| community discussion | 0 | 有摘要為中，否則低 | 有討論線索，但不是事實證據；0 不代表留言無價值 |
+
+品質評估的是**可取得資料程度**，不是新聞真偽。官方網域使用明確名單，不因網站自稱官方就相信。多來源的相似標題不會自動評高／Confirmed；只有真正完成交叉核對才能由編輯作此判斷。未取得頁面也保留原始 URL 與待人工補充狀態。
+
+- `[Confirmed]`：有公開摘要的已知官方來源，僅指發布者的說法，預測不等於已實現。
+- `[Reported]`：Reuters／The Verge／DIGITIMES 提供的資訊，沒有自動官方確認。
+- `[Rumor]`：社群討論線索，不是事實或共識。
+- `[Analysis]`：作者主題整理或提問。未列入可信來源名單的指定連結也保持保守標記。
+
+## 社群回響
+
+每次最多讀 HN、Reddit 各兩個討論串，每串最多六則頂層／公開 RSS 留言。HN 用官方 Firebase API，略過刪除／dead 留言；Reddit 用公開留言 RSS，不需 API key。社群分析只針對實際取得的留言，不從發文標題編造「網友認為」。
+
+用規則分類隱私、成本、安全、效能、整合、工作與體驗等主題；同一作者只計一次。「常見擔憂」需至少兩位不同樣本作者同時出現擔憂語氣與主題詞，否則待人工補充。技術觀點依 API／部署／benchmark 等字詞分類，**不推定發言者就是工程師**。不輸出留言全文、不保存原始留言，只保留聚合計數；語境、反諷、否定句與多語言會造成誤分類，這只是供訪談提問的分類線索。
+
+報告列討論焦點、常見擔憂、工程師觀點／技術討論、是否少量討論。HN 可列 API 提供的總留言數；Reddit RSS 無法可靠提供總數，明示未知，不把小樣本推成全站共識。新聞與討論串只有在原始文章 URL 相符時才關聯；沒有證據就不宣稱是該新聞的反應。
+
+## 報告輸出與測試
+
+日期依台灣時間：
+
+- `reports/YYYY-MM-DD.md`：最近一次執行的報告，同日重跑更新。
+- `reports/YYYY-MM-DD-radar.md`：另保留自動雷達，避免指定連結執行覆蓋發現結果。
+
+報告、`.env`、`.venv` 均排除於 Git。退出碼 0 表示報告產生成功，不代表來源全可用或故事線已查證。連結檔錯誤回傳 1，提示錯誤但不顯示可能敏感的網址。
+
+```bash
+python -m unittest discover -s tests -v
+python -m src.main --dry-run
+python -m src.main --dry-run --links links.example.txt
+```
+
+測試使用 mock，不會寄信；驗證串流停止、付費資料排除、品質分級、模式分流、社群抽樣與 SMTP 保護。實際 dry-run 驗證上游服務當時可用性。
+
+## .env、SMTP 與 GitHub Actions
+
+Dry-run 不需要 SMTP 設定。未來明確要求寄信時才使用：
 
 ```dotenv
 SMTP_HOST=smtp.example.com
@@ -67,40 +111,21 @@ MAIL_FROM=your-account@example.com
 MAIL_TO=unfinished360.podcast@gmail.com
 ```
 
-以上只是範例，請填實際 SMTP 服務設定。不要把密碼提交至 Git 或貼到聊天。Gmail 通常需啟用兩步驟驗證並使用應用程式密碼（依帳號政策而定）。環境變數優先於 `.env`。
+都是範例，請填實際設定；不要把密碼提交 Git 或貼到聊天。環境變數優先於 `.env`。
 
 ```bash
-python -m src.main --send-email
+# 只有明確指定 --send-email 才會寄信
+python -m src.main --send-email --links links.txt
 ```
 
-先產生報告，再寄送純文字 Markdown。465 使用 SMTP over TLS；其他埠要求 STARTTLS 並驗證憑證，不支援明文寄信。缺少設定、埠無效、認證或傳送失敗時會印出不含密碼的錯誤訊息，保留報告並回傳退出碼 1，沒有未處理的 SMTP traceback。兩個執行旗標不能同時使用。寄送後是否到達收件匣仍取決於郵件服務；本版不做重寄，以免重複寄送。
+465 使用 SMTP over TLS，其他埠強制 STARTTLS 並驗證憑證。缺少設定或寄信失敗時保留報告、印出不含密碼的錯誤並回傳 1，不自動重寄。
 
-## GitHub Actions
+Actions 使用 Python 3.12，UTC `0 1 * * *`（台灣每日 **09:00**），**預設執行 dry-run 候選雷達**，不是完整 Podcast 新聞稿；排程可能延遲，需推到預設分支才會運作。報告以 artifact 保存 7 天，不自動 commit。手動 workflow 的 `send_email` 預設 false，只有明確勾選才執行寄信步驟。
 
-`.github/workflows/daily-brief.yml` 使用 UTC `0 1 * * *`，相當於每天台灣時間 **09:00**；GitHub 排程可能延遲，並非準點保證。推送到預設分支後，schedule 才會運作；空閒的公開儲存庫排程可能被 GitHub 停用。
+要測試寄信，先到 GitHub Settings → Secrets and variables → Actions 設定 `SMTP_HOST`、`SMTP_PORT`、`SMTP_USER`、`SMTP_PASS`、`MAIL_FROM`、`MAIL_TO` 六個 Secrets。設定 Secrets 本身不會啟用每日寄信；本次 V2 不啟用或測試真實寄信。
 
-排程與一般手動執行都只 dry-run，報告以 artifact 保存 7 天，不自動 commit 到儲存庫。可在 Actions 頁面下載報告。
+Codex Cloud 的來源網路需要 `www.reuters.com`、`blog.google`、`blogs.microsoft.com`、`blogs.nvidia.com`、`www.apple.com`、`www.ftc.gov`、`www.theverge.com`、`www.digitimes.com`、`hnrss.org`、`www.reddit.com`。HN 公開討論需 `news.ycombinator.com`、`hacker-news.firebaseio.com`；指定模式另需每個 URL 的主機與合法 redirect 主機。允許網域不保證上游開放存取；拒絕時直接待人工補充，不繞過代理或網站限制。
 
-若要手動測試寄信，在 GitHub **Settings → Secrets and variables → Actions → New repository secret** 設定：
+## 版權與資料使用
 
-- `SMTP_HOST`
-- `SMTP_PORT`
-- `SMTP_USER`
-- `SMTP_PASS`
-- `MAIL_FROM`
-- `MAIL_TO`（例如你的 Podcast 信箱）
-
-再到 Actions → Daily technology brief → Run workflow，明確勾選 `send_email`。SMTP Secrets 只傳給這個明確選擇寄信的步驟。**設定 Secrets 本身不會啟用每日寄信**。未來確認品質後，另行修改 workflow 的 schedule 執行模式為 `--send-email`，並讓該步驟取得同樣六個 Secrets；目前範本刻意保持每日 dry-run。
-
-## 驗證
-
-```bash
-python -m unittest discover -s tests -v
-python -m src.main --dry-run
-```
-
-離線測試覆蓋日期／來源失敗、社群隔離、可信度、報告格式、預設不寄信及 SMTP TLS／錯誤處理，不會真的寄信。實際 dry-run 用來檢查當下來源狀態；上游服務的可用性可能變動。
-
-## 版權與資料使用原則
-
-只使用允許公開取得的標題、URL、來源、日期、有限短摘錄與分類；不繞過付費牆、登入限制或反自動化限制，不大量複製原文、不輸出完整文章。文章內容與標題的權利屬各來源，請遵守各站使用條款並透過來源連結閱讀。社群只用來辨識討論方向。不要將自動產生的草稿誤認為已查證報導；來源不可取得時保留「目前無法取得」。
+文章 metadata 只保存 `title`、`url`、`source`、`published_at`、`short_snippet`、`tags` 六欄；品質是執行時評估，不建立全文資料庫。自動來源摘錄最多 160 字元，指定連結最多 400 字元，不直接輸出原文摘要；草稿用自己的話整理主題，不能可靠重寫時待人工補充。原文標題／來源連結供辨識與閱讀，權利屬各來源。公開 feed 可能內含全文欄位，程式不保存或解析 `content`／全文欄位，只使用有限 title／summary metadata。遵守各站條款，不大量複製、不繞過付費牆、不抓取或輸出文章全文，也不把社群留言當作事實。
