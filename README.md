@@ -41,7 +41,7 @@ V3 根據自動候選的 title、source、published_at、tags／主題、descrip
 
 產品與技術名稱只從取得的資訊辨識；應用場景與工程驗證建議標為條件式 `[Analysis]`，不當成公司已推出的功能。只有 AI 字樣時不推論硬體訂單。這是有限公開資訊的簡報，不保證每個新事件都能由規則完整翻譯，也不自動讀全文；完整文章若必須補查，請由讀者合法閱讀。
 
-V3 不用空泛的「待人工補充」填版面，而是依選題要求公司公告／press release、產品採用案例與技術規格、規格與量產時間、法規文本或研究方法。僅有標題的新聞可追蹤，但不推薦拿來做未查證的事件解說；公開短貼文也應以來源連結與提問呈現。首頁／分類頁不會因套用 Editor Mode 就變成完整事件，需換成具體文章或官方公告。`--editor` 與 `--links` 不能同時使用。Editor Mode 一律只產生報告，即使同時指定 `--send-email` 且 SMTP 設定齊全，也會忽略寄信要求並顯示提示。預設無參數仍為 V2 候選雷達，Actions 排程也維持 dry-run 雷達，不啟用寄信。
+V3 不用空泛的「待人工補充」填版面，而是依選題要求公司公告／press release、產品採用案例與技術規格、規格與量產時間、法規文本或研究方法。僅有標題的新聞可追蹤，但不推薦拿來做未查證的事件解說；公開短貼文也應以來源連結與提問呈現。首頁／分類頁不會因套用 Editor Mode 就變成完整事件，需換成具體文章或官方公告。`--editor` 與 `--links` 不能同時使用。Editor Mode 一律只產生報告，即使同時指定 `--send-email` 且 SMTP 設定齊全，也會忽略寄信要求並顯示提示。預設無參數仍為 V2 候選雷達，Actions 排程產生 dry-run V3 Engineering Lens Editor Report，不啟用寄信。
 
 ## 安裝
 
@@ -150,9 +150,9 @@ python -m src.main --send-email --links links.txt
 
 465 使用 SMTP over TLS，其他埠強制 STARTTLS 並驗證憑證。缺少設定或寄信失敗時保留報告、印出不含密碼的錯誤並回傳 1，不自動重寄。
 
-Actions 使用 Python 3.12，UTC `0 1 * * *`（台灣每日 **09:00**），**預設執行 dry-run 候選雷達**，不是完整 Podcast 新聞稿；排程可能延遲，需推到預設分支才會運作。報告以 artifact 保存 7 天，不自動 commit。手動 workflow 的 `send_email` 預設 false，只有明確勾選才執行寄信步驟。
+Actions 使用 Python 3.12，UTC `0 1 * * *`（台灣每日 **09:00**），**預設執行 `python -m src.main --dry-run --editor`，產生 V3 Engineering Lens Editor Report，不寄信，也不需要 SMTP Secrets**；排程可能延遲，需推到預設分支才會運作。報告以 artifact 保存 7 天，不自動 commit。手動 workflow 的 `send_email` 預設 false，只有明確勾選才執行寄信步驟。
 
-要測試寄信，先到 GitHub Settings → Secrets and variables → Actions 設定 `SMTP_HOST`、`SMTP_PORT`、`SMTP_USER`、`SMTP_PASS`、`MAIL_FROM`、`MAIL_TO` 六個 Secrets。設定 Secrets 本身不會啟用每日寄信；本次 V2 不啟用或測試真實寄信。
+要測試寄信，先到 GitHub Settings → Secrets and variables → Actions 設定 `SMTP_HOST`、`SMTP_PORT`、`SMTP_USER`、`SMTP_PASS`、`MAIL_FROM`、`MAIL_TO` 六個 Secrets。設定 Secrets 本身不會啟用每日寄信；只有手動勾選 `send_email=true` 才會執行現有 `--send-email` 寄信模式（不是 editor 寄信）；schedule 一律只執行 dry-run editor。
 
 Codex Cloud 的來源網路需要 `www.reuters.com`、`blog.google`、`blogs.microsoft.com`、`blogs.nvidia.com`、`www.apple.com`、`www.ftc.gov`、`www.theverge.com`、`www.digitimes.com`、`hnrss.org`、`www.reddit.com`。HN 公開討論需 `news.ycombinator.com`、`hacker-news.firebaseio.com`；指定模式另需每個 URL 的主機與合法 redirect 主機。允許網域不保證上游開放存取；拒絕時直接待人工補充，不繞過代理或網站限制。
 
@@ -167,3 +167,5 @@ Engineering Lens 的工程問題、應用與限制保留在 Explain Mode 中：�
 沿用 `python -m src.main --dry-run --editor`，沒有新增指令。每則依序呈現事件白話、工程背景、工程注意事項、可能解法／業界方向、社群討論或三個工程提問、Podcast 開場、具體查證清單。
 
 `[Background]` 補充一般工程知識，不代表本次新聞已證實；`[Reported]`／`[Confirmed]` 僅用於取得的來源主張；`[Analysis]` 標示條件式工程推論與常見解法。沒有對應留言時，三個問題是編輯提問，不是網友發言。查證項目集中每則最後，全文合法閱讀原則集中報告末尾。背景由規則與已撰寫的工程解釋產生，不需模型 API key；仍無法保證任意新事件都能完整翻譯。
+
+每日報告請到 GitHub repo → **Actions → Daily technology brief → 該次 run → Artifacts**，下載 `technology-brief-<run_id>`，解壓後查看 `YYYY-MM-DD_editor.md`；artifact 保留 **7 天**，沒有報告檔時上傳步驟只警告。手動測試：**GitHub repo → Actions → Daily technology brief → Run workflow**；不勾 `send_email` 就產生 dry-run editor report，不寄信。GitHub 排程可能延遲，閒置公開 repo 的排程也可能被停用；可在 Actions 查看是否啟用。
