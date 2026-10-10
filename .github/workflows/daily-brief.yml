@@ -1,0 +1,54 @@
+name: Daily technology brief (dry-run by default)
+
+on:
+  schedule:
+    # UTC 01:00 = Asia/Taipei 09:00. GitHub may delay scheduled runs.
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+    inputs:
+      send_email:
+        description: 'Explicitly send this run via SMTP (requires Secrets)'
+        type: boolean
+        required: false
+        default: false
+
+permissions:
+  contents: read
+
+concurrency:
+  group: daily-brief-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  brief:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - run: python -m pip install -r requirements.txt
+      - name: Offline tests (no email sent)
+        run: python -m unittest discover -s tests -v
+      - name: Generate dry-run report
+        if: ${{ github.event_name != 'workflow_dispatch' || !inputs.send_email }}
+        run: python -m src.main --dry-run
+      - name: Explicit email run
+        if: ${{ github.event_name == 'workflow_dispatch' && inputs.send_email }}
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          MAIL_FROM: ${{ secrets.MAIL_FROM }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+        run: python -m src.main --send-email
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: technology-brief-${{ github.run_id }}
+          path: reports/*.md
+          if-no-files-found: warn
+          retention-days: 7
