@@ -318,7 +318,8 @@ def render_editor_report(results: list[SourceResult], output_dir: Path, now: dat
     body = env.from_string(TEMPLATE).render(subject=subject, thread=main_thread(chosen,results), stories=stories,
         others=others, gaps=data_gaps(results,discussions), podcast=podcast, social_post=social_post, observe=observe,
         generated=local.strftime('%Y-%m-%d %H:%M %Z'))
-    output_dir.mkdir(parents=True,exist_ok=True)
-    path = output_dir / f'{local:%Y-%m-%d}_editor.md'
+    daily_dir = output_dir / 'daily'
+    daily_dir.mkdir(parents=True,exist_ok=True)
+    path = daily_dir / f'{local:%Y-%m-%d_%H%M}_editor.md'
     path.write_text(body,encoding='utf-8')
     return path,subject,body

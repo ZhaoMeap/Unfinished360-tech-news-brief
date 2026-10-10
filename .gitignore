@@ -6,3 +6,6 @@ __pycache__/
 *.py[cod]
 reports/*
 !reports/.gitkeep
+!reports/daily/
+reports/daily/*
+!reports/daily/.gitkeep

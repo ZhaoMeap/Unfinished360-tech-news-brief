@@ -29,7 +29,7 @@ V2 的兩種模式仍保留：
 python -m src.main --dry-run --editor
 ```
 
-V3 根據自動候選的 title、source、published_at、tags／主題、description（保留在 short_snippet）、source quality 與實際取得的社群樣本，產生 `reports/YYYY-MM-DD_editor.md`，主旨為 `還沒想到科技編輯簡報 - YYYY/MM/DD`。不覆蓋候選雷達或指定連結報告，不寄信。
+V3 根據自動候選的 title、source、published_at、tags／主題、description（保留在 short_snippet）、source quality 與實際取得的社群樣本，產生 `reports/daily/YYYY-MM-DD_HHMM_editor.md`，主旨為 `還沒想到科技編輯簡報 - YYYY/MM/DD`。不覆蓋候選雷達或指定連結報告，不寄信。
 
 內容包含 3–5 句今日主線、三則重點的事件內容、工程問題、技術困境、解法、應用場景與對應社群回響、其他候選、資料缺口，以及 Podcast／IG／Threads／只觀察的使用建議。為控制閱讀長度，其他候選預設五則（資料不足時不湊數）；主線仍可提出有來源支撐的「可能主線」，一律標 `[Analysis]`，不宣稱存在因果關係或全市場共識。
 
@@ -115,7 +115,7 @@ python -m src.main --dry-run --links links.txt
 
 - `reports/YYYY-MM-DD.md`：最近一次執行的報告，同日重跑更新。
 - `reports/YYYY-MM-DD-radar.md`：另保留自動雷達，避免指定連結執行覆蓋發現結果。
-- `reports/YYYY-MM-DD_editor.md`：V3 編輯簡報，獨立保存。
+- `reports/daily/YYYY-MM-DD_HHMM_editor.md`：V3 編輯簡報，獨立保存。
 
 報告、`.env`、`.venv` 均排除於 Git。退出碼 0 表示報告產生成功，不代表來源全可用或故事線已查證。連結檔錯誤回傳 1，提示錯誤但不顯示可能敏感的網址。
 
@@ -150,7 +150,7 @@ python -m src.main --send-email --links links.txt
 
 465 使用 SMTP over TLS，其他埠強制 STARTTLS 並驗證憑證。缺少設定或寄信失敗時保留報告、印出不含密碼的錯誤並回傳 1，不自動重寄。
 
-Actions 使用 Python 3.12，UTC `0 1 * * *`（台灣每日 **09:00**），**預設執行 `python -m src.main --dry-run --editor`，產生 V3 Engineering Lens Editor Report，不寄信，也不需要 SMTP Secrets**；排程可能延遲，需推到預設分支才會運作。報告以 artifact 保存 7 天，不自動 commit。手動 workflow 的 `send_email` 預設 false，只有明確勾選才執行寄信步驟。
+Actions 使用 Python 3.12，UTC `0 1,7,13 * * *`（台灣每日 **09:00、15:00、21:00**，一天三次），**預設執行 `python -m src.main --dry-run --editor`，產生 V3 Engineering Lens Editor Report，不寄信，也不需要 SMTP Secrets**；排程可能延遲，需推到預設分支才會運作。報告以 artifact 保存 7 天，不自動 commit。手動 workflow 的 `send_email` 預設 false，只有明確勾選才執行寄信步驟。
 
 要測試寄信，先到 GitHub Settings → Secrets and variables → Actions 設定 `SMTP_HOST`、`SMTP_PORT`、`SMTP_USER`、`SMTP_PASS`、`MAIL_FROM`、`MAIL_TO` 六個 Secrets。設定 Secrets 本身不會啟用每日寄信；只有手動勾選 `send_email=true` 才會執行現有 `--send-email` 寄信模式（不是 editor 寄信）；schedule 一律只執行 dry-run editor。
 
@@ -168,4 +168,6 @@ Engineering Lens 的工程問題、應用與限制保留在 Explain Mode 中：�
 
 `[Background]` 補充一般工程知識，不代表本次新聞已證實；`[Reported]`／`[Confirmed]` 僅用於取得的來源主張；`[Analysis]` 標示條件式工程推論與常見解法。沒有對應留言時，三個問題是編輯提問，不是網友發言。查證項目集中每則最後，全文合法閱讀原則集中報告末尾。背景由規則與已撰寫的工程解釋產生，不需模型 API key；仍無法保證任意新事件都能完整翻譯。
 
-每日報告請到 GitHub repo → **Actions → Daily technology brief → 該次 run → Artifacts**，下載 `technology-brief-<run_id>`，解壓後查看 `YYYY-MM-DD_editor.md`；artifact 保留 **7 天**，沒有報告檔時上傳步驟只警告。手動測試：**GitHub repo → Actions → Daily technology brief → Run workflow**；不勾 `send_email` 就產生 dry-run editor report，不寄信。GitHub 排程可能延遲，閒置公開 repo 的排程也可能被停用；可在 Actions 查看是否啟用。
+每日報告請到 GitHub repo → **Actions → Daily technology brief → 該次 run → Artifacts**，下載 `technology-brief-<run_id>`，解壓後查看 `daily/YYYY-MM-DD_HHMM_editor.md`；artifact 保留 **7 天**，沒有報告檔時上傳步驟只警告。手動測試：**GitHub repo → Actions → Daily technology brief → Run workflow**；不勾 `send_email` 就產生 dry-run editor report，不寄信。GitHub 排程可能延遲，閒置公開 repo 的排程也可能被停用；可在 Actions 查看是否啟用。
+
+三次 editor 報告是**每日素材，不是正式 Podcast 內容**。檔名的 `HHMM` 使用實際執行時的台灣時間（排程延遲時可能不是整點），不同時段不互相覆蓋；同一分鐘重跑仍會寫入相同檔名。週報之後將使用這些 daily reports 進行去重、合併、主題聚類與 Podcast 選題，週報功能尚未實作。Actions 每次上傳 `reports/**/*.md`，可在該次 run 的 artifact 下載；報告不自動提交到 repo，7 天後的素材若要留作週報請先下載保存。

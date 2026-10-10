@@ -40,10 +40,23 @@ class EditorTests(unittest.TestCase):
         medal = Article('Trump awards science medal to Jensen Huang','https://example.com','Media',None,'NVIDIA semiconductor chips and AI servers',['半導體'])
         self.assertEqual(topic_for(medal).name,'科技人物與榮譽')
 
+    def test_three_runs_have_distinct_taipei_time_filenames(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            paths = []
+            for hour, expected in ((1, '0900'), (7, '1500'), (13, '2100')):
+                instant = datetime(2026, 10, 11, hour, tzinfo=timezone.utc)
+                path, _, _ = render_editor_report(candidates(), Path(tmp), instant)
+                self.assertEqual(path.name, f'2026-10-11_{expected}_editor.md')
+                self.assertEqual(path.parent, Path(tmp) / 'daily')
+                paths.append(path)
+            self.assertEqual(len(set(paths)), 3)
+            self.assertTrue(all(path.is_file() for path in paths))
+
     def test_full_report_format_timezone_and_other_candidates(self):
         with tempfile.TemporaryDirectory() as tmp:
             path, subject, body = render_editor_report(candidates(), Path(tmp), NOW)
-            self.assertEqual(path.name, '2026-10-11_editor.md')
+            self.assertEqual(path.name, '2026-10-11_0100_editor.md')
+            self.assertEqual(path.parent, Path(tmp) / 'daily')
             self.assertEqual(subject, '還沒想到科技編輯簡報 - 2026/10/11')
             self.assertEqual(path.read_text(), body)
         for heading in ('今日科技主線', '今天最值得追的 3 則新聞', '其他候選新聞', '今日資料缺口', 'Ray 今天可以怎麼用'):
@@ -221,7 +234,7 @@ class EditorTests(unittest.TestCase):
                     patch('sys.argv', ['brief', '--dry-run', '--editor']):
                 self.assertEqual(main(), 0)
                 send.assert_not_called()
-            report = next((root / 'reports').glob('*_editor.md'))
+            report = next((root / 'reports').glob('daily/*_editor.md'))
             self.assertIn('還沒想到科技編輯簡報', report.read_text())
             self.assertEqual(radar.read_text(), 'existing report')
 
@@ -236,7 +249,7 @@ class EditorTests(unittest.TestCase):
                     patch('src.main.send_email') as send, patch('sys.argv', args):
                 self.assertEqual(main(), 0)
                 send.assert_not_called()
-                self.assertEqual(len(list((Path(tmp) / 'reports').glob('*_editor.md'))), 1)
+                self.assertEqual(len(list((Path(tmp) / 'reports').glob('daily/*_editor.md'))), 1)
 
 
 if __name__ == '__main__':

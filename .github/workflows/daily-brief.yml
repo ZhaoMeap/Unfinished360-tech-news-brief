@@ -2,8 +2,8 @@ name: Daily technology brief
 
 on:
   schedule:
-    # UTC 01:00 = Asia/Taipei 09:00. GitHub may delay scheduled runs.
-    - cron: '0 1 * * *'
+    # UTC 01:00/07:00/13:00 = Asia/Taipei 09:00/15:00/21:00. GitHub may delay scheduled runs.
+    - cron: '0 1,7,13 * * *'
   workflow_dispatch:
     inputs:
       send_email:
@@ -49,6 +49,6 @@ jobs:
         if: always()
         with:
           name: technology-brief-${{ github.run_id }}
-          path: reports/*.md
+          path: reports/**/*.md
           if-no-files-found: warn
           retention-days: 7
