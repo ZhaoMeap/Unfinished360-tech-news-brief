@@ -8,6 +8,7 @@ from src.community import Discussion
 from src.editor_report import render_editor_report, social_summary, topic_for
 from src.fetch_sources import Article, SourceResult
 from src.main import main
+from src.story_narrative import describe, financial_numbers
 
 NOW = datetime(2026, 10, 10, 17, tzinfo=timezone.utc)
 
@@ -46,9 +47,10 @@ class EditorTests(unittest.TestCase):
             self.assertEqual(path.read_text(), body)
         for heading in ('今日科技主線', '今天最值得追的 3 則新聞', '其他候選新聞', '今日資料缺口', 'Ray 今天可以怎麼用'):
             self.assertIn('# ' + heading, body)
-        for field in ('為什麼值得看', '目前我們知道什麼', '目前不知道什麼', 'Big Tech 影響',
-                      '台灣科技業 / 半導體 / AI server 可能關聯', '社群回響摘要', 'Ray 的 Podcast 切入角度',
-                      '建議後續補查來源', '可信度標籤'):
+        for heading in ('這篇新聞在講什麼？','為什麼重要？','Big Tech 影響',
+                        '台灣科技業 / AI server / 半導體關聯','Ray 的 Podcast 切入角度'):
+            self.assertEqual(body.count('### ' + heading),3)
+        for field in ('來源','社群回響摘要','來源連結','可信度標籤'):
             self.assertEqual(body.count('**' + field + '：**'), 3)
         thread = body.split('# 今日科技主線\n')[1].split('# 今天最值得追')[0]
         self.assertEqual(thread.count('[Analysis]'), 4)
@@ -57,6 +59,64 @@ class EditorTests(unittest.TestCase):
         self.assertIn('metadata 不等於事件已確認', body)
         self.assertIn('需要公司財報原文', body)
         self.assertNotIn('待人工補充', body)
+
+    def test_revenue_story_preserves_amount_metric_period_and_qualifiers(self):
+        article = Article('Zhen Ding posts record September sales on mobile demand and AI applications',
+                          'https://example.com/news','DIGITIMES',NOW.isoformat(),
+                          'Zhen Ding said September 2026 consolidated revenue reached NT$26.358 billion, up 36.13% year over year and 27.54% from August.', ['AI'])
+        story = describe(article,topic_for(article))
+        text = ' '.join(story['sentences'])
+        self.assertGreaterEqual(len(story['sentences']),5)
+        self.assertLessEqual(len(story['sentences']),8)
+        import re
+        self.assertLessEqual(len(re.findall(r'[。！？]',text)),8)
+        for fact in ('臻鼎','2026年9月','新台幣263.58億元','去年同期增加36.13%','較8月增加27.54%'):
+            self.assertIn(fact,text)
+        self.assertIn('尚未核對',text)
+        self.assertIn('毛利率',story['important'])
+        self.assertIn('目前沒有直接證據',story['taiwan'])
+        self.assertIn('目前資料不足，不能判斷',story['big'])
+
+    def test_simulation_explains_actual_steps_and_not_unreported_functions(self):
+        article = Article('Omniverse: ideas into simulations with AI agents','https://blogs.nvidia.com/example',
+                          '官方：NVIDIA',NOW.isoformat(),
+                          'Turning ideas into applications requires assembling assets, connecting physics and rendering, and checking that the scene behaves as intended.', ['AI'])
+        story=describe(article,topic_for(article))
+        text=' '.join(story['sentences'])
+        for step in ('場景素材','物理模擬','畫面渲染','場景是否按預期運作'):
+            self.assertIn(step,text)
+        self.assertIn('Omniverse',text)
+        self.assertIn('NVIDIA',text)
+        self.assertIn('NVIDIA',story['big'])
+        self.assertNotIn('加速50%',text)
+        self.assertIn('目前沒有直接證據',story['taiwan'])
+
+    def test_agent_story_names_source_product_and_separates_permission_analysis(self):
+        article=Article('AI agent makers are promising privacy — will they deliver?', 'https://example.com/news','The Verge',NOW.isoformat(),
+                        "At OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots.", ['AI'])
+        story=describe(article,topic_for(article))
+        text=' '.join(story['sentences'])
+        for fact in ('OpenAI','Dots','Sam Altman','DevDay','隱私承諾'):
+            self.assertIn(fact,text)
+        self.assertNotIn('讀取email',text)
+        self.assertIn('如果',story['important'])
+        self.assertIn('email',story['important'])
+        self.assertIn('操作紀錄',story['big'])
+        self.assertEqual(story['opening'].count('？'),1)
+        self.assertEqual(story['opening'].count('。'),1)
+
+    def test_missing_summary_does_not_invent_actor_numbers_or_customers(self):
+        article=Article('A new technology changes things','https://example.com/20261010','Media',None,'',[])
+        story=describe(article,topic_for(article))
+        self.assertIn('目前只有標題',' '.join(story['sentences']))
+        self.assertIn('未提供',' '.join(story['sentences']))
+        self.assertIn('來源未具名',' '.join(story['sentences']))
+        self.assertNotIn('20261010',' '.join(story['sentences']))
+        self.assertIn('目前資料不足，不能判斷',story['big'])
+        self.assertIn('目前沒有直接證據',story['taiwan'])
+        self.assertEqual(financial_numbers('Model version 26.358; URL https://example.com/36313'),[])
+        self.assertIn('較8月減少5%',financial_numbers('revenue down 5% from August'))
+        self.assertEqual(financial_numbers('Revenue 5% from August'),['較8月變動5%（摘錄未明示方向）'])
 
     def test_empty_sources_not_fabricated_and_failures_visible(self):
         with tempfile.TemporaryDirectory() as tmp:

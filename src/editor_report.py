@@ -13,6 +13,7 @@ from .community import Discussion, canonical
 from .fetch_sources import Article, SourceResult, is_official
 from .render_report import SOCIAL, TAIPEI, md, reference, related
 from .source_quality import quality_for
+from .story_narrative import describe
 
 
 @dataclass(frozen=True)
@@ -182,34 +183,8 @@ def make_story(article, discussions):
     quality = quality_for(article)
     official = article.source.startswith('官方：') and is_official(article.url)
     label = 'Confirmed' if official and article.short_snippet else 'Reported' if article.source in ('Reuters','The Verge','DIGITIMES') else 'Analysis'
-    entities = [name for name in ('NVIDIA','Google','Microsoft','Amazon','Apple','Meta','TSMC','OpenAI','Phison','Huawei','Zhen Ding','Intel','Samsung','AMD','Advantech','Innodisk','Apacer')
-                if re.search(r'\b' + name + r'\b', article.title + ' ' + article.short_snippet, re.I)]
-    subject = '、'.join(entities[:2]) or '標題所指的主體'
-    known = f'已取得 {md(article.source)} 的' + ('標題與公開短摘錄' if article.short_snippet else '標題') + f'，提供「{topic.name}」線索'
-    if entities:
-        known += f'，提到 {subject}'
-    known += '；這是來源線索，不代表事件已獨立查證。'
-    title = article.title.lower()
-    if topic.name == '財報與需求訊號' and re.search(r'record|tops|新高',title):
-        known += '標題強調營收／銷售表現，具體基期與業務占比需回到財報。'
-    elif topic.name == '記憶體成本與裝置定價':
-        known += '標題／摘要的切口是記憶體成本與價格，尚無法判定成本轉嫁幅度。'
-    if re.search(r'\b(could|may|might|reportedly|plan\w*|propos\w*)\b|可能|計畫|傳聞', article.title + ' ' + article.short_snippet, re.I):
-        known += '來源含條件式／計畫語氣。'
-    unknown = {
-        '財報與需求訊號': '尚未核對基期、幣別、AI 業務定義及指引與實績的差異。',
-        '記憶體成本與裝置定價': '尚未核對成本變動幅度、裝置種類及價格轉嫁方式。',
-        'AI 算力與硬體供應': '尚未核對實際訂單、量產／交期及能源與設備需求。',
-        '平台監管與市場權力': '尚未核對法律程序階段、適用範圍與生效時間。',
-        'AI 代理與信任成本': '尚未核對權限、資料流向及保護措施是否可驗證。',
-        'AI 模擬與開發流程': '尚未核對工具限制、測試條件與實際部署效果。',
-        'AI 代理與工作流程': '尚未核對任務完成率、支援範圍與部署成本。',
-        '公司整併與投資布局': '尚未核對交易條件、交割進度與實際資金支出。',
-        'AI 應用與研究落地': '尚未核對研究方法、可重現效果與適用限制。',
-        '產品與使用者生態': '尚未核對上市地區、價格、功能限制及實測。',
-    }.get(topic.name, '尚未核對具體事件、日期與對應官方文件。')
-    return dict(article=article, title=md(article.title[:150]), ref=reference(article), topic=topic, unknown=unknown,
-                quality=quality, label=label, known=known, social=md(social_summary(article, discussions)),
+    return dict(article=article, title=md(article.title[:150]), ref=reference(article), topic=topic,
+                quality=quality, label=label, narrative=describe(article, topic), social=md(social_summary(article, discussions)),
                 publishable=bool(article.short_snippet) and quality.score >= 2 and topic != FALLBACK)
 
 
@@ -253,15 +228,26 @@ TEMPLATE = '''Subject: {{ subject }}
 {% for story in stories %}
 ## {{ loop.index }}. {{ story.title }}
 - **來源：** {{ story.ref }}；{{ story.article.published_at or '日期未知' }}；{{ story.quality.kind }} / {{ story.quality.score }}，資訊程度{{ story.quality.availability }}。
-- **為什麼值得看：** [Analysis] {{ story.topic.why }}
-- **目前我們知道什麼：** {{ story.known }}
-- **目前不知道什麼：** {{ story.unknown }}
-- **Big Tech 影響：** [Analysis] {{ story.topic.big_tech }}
-- **台灣科技業 / 半導體 / AI server 可能關聯：** [Analysis] {{ story.topic.taiwan }}
+- **可信度標籤：** [{{ story.label }}] 僅標示來源發布資訊；metadata 不等於事件已確認，推論另標 [Analysis]。
+
+### 這篇新聞在講什麼？
+{{ story.narrative.sentences|map('escape_md')|join(' ') }}
+
+### 為什麼重要？
+[Analysis] {{ story.narrative.important|escape_md }}
+
+### Big Tech 影響
+[Analysis] {{ story.narrative.big|escape_md }}
+
+### 台灣科技業 / AI server / 半導體關聯
+[Analysis] {{ story.narrative.taiwan|escape_md }}
+
+### Ray 的 Podcast 切入角度
+[Analysis] {{ story.narrative.opening|escape_md }}
+
 - **社群回響摘要：** {{ story.social }}
-- **Ray 的 Podcast 切入角度：** [Analysis] {{ story.topic.angle }}
-- **建議後續補查來源：** {{ story.topic.followup }}
-- **可信度標籤：** [{{ story.label }}] 僅標示來源發布資訊；metadata 不等於事件已確認，編輯判斷均為 [Analysis]。
+- **來源連結：** {{ story.ref }}
+
 {% else %}
 沒有可用新聞，不用社群或空位湊滿三則；先補可讀的具體文章來源。
 {% endfor %}
