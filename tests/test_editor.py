@@ -5,10 +5,10 @@ from pathlib import Path
 from unittest.mock import patch
 
 from src.community import Discussion
-from src.editor_report import render_editor_report, social_summary, topic_for
+from src.editor_report import render_editor_report, social_summary, topic_for, rank_candidates, score
 from src.fetch_sources import Article, SourceResult
 from src.main import main
-from src.story_narrative import describe, financial_numbers
+from src.story_narrative import describe, financial_numbers, engineering_lens
 
 NOW = datetime(2026, 10, 10, 17, tzinfo=timezone.utc)
 
@@ -47,18 +47,48 @@ class EditorTests(unittest.TestCase):
             self.assertEqual(path.read_text(), body)
         for heading in ('今日科技主線', '今天最值得追的 3 則新聞', '其他候選新聞', '今日資料缺口', 'Ray 今天可以怎麼用'):
             self.assertIn('# ' + heading, body)
-        for heading in ('這篇新聞在講什麼？','為什麼重要？','Big Tech 影響',
-                        '台灣科技業 / AI server / 半導體關聯','Ray 的 Podcast 切入角度'):
+        for heading in ('這篇新聞在講什麼？','工程師應該注意什麼？','技術困境是什麼？','目前可能的解法','應用場景','網路上的人怎麼看？','Ray 的 Podcast 切入角度'):
             self.assertEqual(body.count('### ' + heading),3)
-        for field in ('來源','社群回響摘要','來源連結','可信度標籤'):
+        for field in ('來源','來源連結','可信度標籤'):
             self.assertEqual(body.count('**' + field + '：**'), 3)
         thread = body.split('# 今日科技主線\n')[1].split('# 今天最值得追')[0]
         self.assertEqual(thread.count('[Analysis]'), 4)
         other = body.split('# 其他候選新聞\n')[1].split('# 今日資料缺口')[0]
         self.assertEqual(other.count('- [Analysis] 觀察：'), 5)
         self.assertIn('metadata 不等於事件已確認', body)
-        self.assertIn('需要公司財報原文', body)
+        self.assertNotIn('毛利率', body)
+        self.assertNotIn('法說指引', body)
         self.assertNotIn('待人工補充', body)
+
+    def test_engineering_ranking_deprioritizes_finance_even_with_ai_tags(self):
+        rows = candidates() + [SourceResult('DIGITIMES', [Article('TPCA Show AI computing keynote', 'https://example.com/event', 'DIGITIMES', NOW.isoformat(), 'New features for server chip architecture at the event.', ['AI'])], 'ok'), SourceResult('官方：Google', [Article('Play Fest prizes and daily deals', 'https://example.com/promo', '官方：Google', NOW.isoformat(), 'Gaming leagues and rewards.', ['AI'])], 'ok'), SourceResult('官方：NVIDIA', [Article(
+            'Omniverse simulation with AI agents', 'https://blogs.nvidia.com/new',
+            '官方：NVIDIA', NOW.isoformat(), 'Connecting physics and rendering.', ['AI'])], 'ok')]
+        chosen, others = rank_candidates(rows, NOW, [])
+        self.assertTrue(any('simulation' in a.title for a in chosen))
+        self.assertFalse(any('revenue' in a.title or 'funding' in a.title or 'Play Fest' in a.title or 'keynote' in a.title for a in chosen))
+        finance = rows[0].articles[0]
+        self.assertTrue(all(score(a, NOW, []) > score(finance, NOW, []) for a in chosen))
+
+    def test_engineering_limits_and_solutions_do_not_invent_evidence(self):
+        article = Article('Omniverse simulation with AI agents', 'https://example.com/a',
+                          'Media', NOW.isoformat(), 'Connecting physics and rendering.', [])
+        lens = engineering_lens(article, topic_for(article))
+        self.assertIn('來源未提供', lens['limits'])
+        self.assertIn('實體測試', lens['limits'])
+        self.assertIn('可重跑', lens['attention'])
+        self.assertIn('[Reported]', lens['solution'])
+        self.assertIn('尚缺', lens['solution'])
+        evaluation = Article('Anthropic is cutting off its internal evaluations from the internet', 'https://example.com/eval', 'The Verge', NOW.isoformat(), 'AI agents being evaluated.', [])
+        self.assertEqual(topic_for(evaluation).name, 'AI 評測與可靠性')
+        self.assertIn('測試環境', ' '.join(describe(evaluation, topic_for(evaluation))['sentences']))
+        self.assertIn('網際網路隔開', engineering_lens(evaluation, topic_for(evaluation))['solution'])
+        unknown = Article('An unexplained topic', 'https://example.com/b', 'Media', None, '', [])
+        self.assertIn('目前只看到問題，還沒有看到明確解法', engineering_lens(unknown, topic_for(unknown))['solution'])
+        self.assertIn('沒有取得對應', social_summary(article, []))
+        unrelated = Discussion('Hacker News', 'https://news.ycombinator.com/item?id=1',
+                               'Other', target_url='https://example.com/unrelated', sampled=3, themes={'替代方案': 3})
+        self.assertNotIn('替代方案', social_summary(article, [unrelated]))
 
     def test_revenue_story_preserves_amount_metric_period_and_qualifiers(self):
         article = Article('Zhen Ding posts record September sales on mobile demand and AI applications',

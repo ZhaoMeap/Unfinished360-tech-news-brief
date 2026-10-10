@@ -6,7 +6,7 @@ from decimal import Decimal
 
 from .fetch_sources import Article
 
-COMPANIES = {'Zhen Ding': '臻鼎', 'Phison': '群聯', 'NVIDIA': 'NVIDIA', 'OpenAI': 'OpenAI',
+COMPANIES = {'Zhen Ding': '臻鼎', 'Phison': '群聯', 'Anthropic': 'Anthropic', 'NVIDIA': 'NVIDIA', 'OpenAI': 'OpenAI',
              'Google': 'Google', 'Microsoft': 'Microsoft', 'Amazon': 'Amazon', 'Apple': 'Apple',
              'Meta': 'Meta', 'Huawei': '華為', 'Intel': 'Intel', 'Samsung': 'Samsung', 'AMD': 'AMD',
              'Advantech': '研華', 'Innodisk': '宜鼎', 'Apacer': '宇瞻', 'FTC': '美國 FTC'}
@@ -88,6 +88,12 @@ def describe(article: Article, topic):
         if re.search(r'\bAI\b|人工智慧',text,re.I): segments.append('AI 相關應用')
         sentences.append('[Reported] 標題把這項營收消息連到' + '、'.join(segments) + '，但沒有提供各類產品的完整收入拆分。' if segments
                          else '[Reported] 目前摘要沒有交代哪些產品或客戶構成這項營收，需要對照產品組合。')
+    elif topic.name == 'AI 評測與可靠性':
+        if re.search(r'cutting off.*evaluations.*internet', article.title, re.I):
+            sentences.append(f'[Reported] 標題說{actor}正在把內部評測與網際網路隔開，這是在改測試環境，不是發布新模型功能。')
+        else:
+            sentences.append(f'[Reported] 來源涉及{actor}的 AI 評測，但摘要未完整交代測試方法與結果。')
+        sentences.append('[Analysis] 要分清模型能力與測試時能取得的外部資訊；目前未取得隔離範圍、測試資料集與可重現設定。')
     elif simulation:
         sentences.append(f'[Reported] {actor}的這篇資訊在談如何把模擬構想做成能運作的應用' + ('，標題把 AI 代理列為其中的工具。' if agent else '。'))
         steps = []
@@ -126,7 +132,7 @@ def describe(article: Article, topic):
         sentences.append('[Reported] 可辨識的產品／技術名稱是' + '、'.join(products) + '，摘要沒有足夠數字可比較價格、效能或使用規模。')
     else:
         sentences.append('[Reported] 目前沒有可可靠對應指標的關鍵數字，不能由標題推算金額、成長幅度或部署規模。')
-    explanation = ('[Analysis] 白話說，這則要看的是已實現收入有多少來自哪些產品；營收增加不等於毛利或獲利也增加。' if financial
+    explanation = ('[Analysis] 白話說，這則要看的是已實現收入有多少來自哪些產品；這些數字不等於產品效能或實際部署已獲驗證。' if financial
                    else '[Analysis] 白話說，模擬是在電腦裡先組出可試驗的場景；AI 代理是否能獨立完成每一步，來源尚未證明。' if simulation
                    else '[Analysis] 白話說，代理若能替人操作服務，就要先弄清它拿到哪些權限，哪些操作仍須使用者同意。' if agent
                    else '[Analysis] 這裡的背景說明不代表上述事件已查證，時間、範圍與條件仍以原始文件為準。')
@@ -137,7 +143,7 @@ def describe(article: Article, topic):
         sentences.append('[Analysis] 目前只有標題，沒有公開摘要；因此不能確認上述主題背後的實際動作與原因。')
     else:
         sentences.append('[Analysis] 目前掌握的是標題與有限公開摘要，缺少完整條件、適用範圍與獨立驗證；摘錄也可能在句子中間截斷。')
-    sentences.append('[Analysis] ' + topic.followup.rstrip('。') + '；完整文章如需補查，請由讀者透過來源連結合法閱讀，程式不抓全文。')
+    sentences.append('[Analysis] ' + ('需要產品公告、具體採用／部署案例與技術規格，核對收入是否真的連到某項產品用途' if financial else topic.followup.rstrip('。')) + '；完整文章如需補查，請由讀者透過來源連結合法閱讀，程式不抓全文。')
 
     if financial:
         important = '如果 AI 需求確實轉成收入，就應能在月營收、產品組合、毛利率或法說指引中看到對應數字；也要排除季節性、價格變動和低基期造成的成長。'
@@ -175,3 +181,56 @@ def describe(article: Article, topic):
                else '如果把 AI 代理當成助理，你會把信箱和行事曆的鑰匙交給它嗎？這篇報導談隱私承諾，我們先拆開權限、操作紀錄和出錯後誰負責，別急著相信一句「很安全」。' if agent and privacy
                else f'今天看到{actor}這則消息，想先問：它究竟改變了哪個產品或哪個人的日常？我們從來源說了什麼開始，再把沒交代的條件補上。')
     return dict(sentences=sentences, important=important, big=big, taiwan=taiwan, opening=opening)
+
+
+def engineering_lens(article: Article, topic):
+    """Engineering questions are analysis; tool proposals require source evidence."""
+    text = article.title + ' ' + article.short_snippet
+    products = product_names(text)
+    named = '、'.join(products) or '來源未具名的工具'
+    solution = '[Analysis] 目前只看到問題，還沒有看到明確解法。需要官方技術文件或可重現範例，不能把工程建議當成公司已實作的功能。'
+    limits = '來源未提供具體技術瓶頸、不能自動化的步驟或測試結果；需要支援範圍、失敗案例與實測資料，不能自行判定已解決。'
+    attention = '目前未能辨識具體新技術、新產品、功能或架構，工程師關聯尚不明確，選題應降級；需補規格、操作流程或技術公告。'
+    application = '來源未提供可確認的應用場景；需要具體產品功能與使用案例，不能只由 AI 標籤推定用途。'
+    opening = '這則消息讓我想問：到底多了哪個我們真的能用的功能？先看它能做什麼、哪一步會失敗，再決定要不要放進自己的工作流程。'
+    if topic.name in ('財報與需求訊號', '公司整併與投資布局'):
+        attention = '這不是新技術發布，不能由營收或投資金額判定效能、可靠性或產品已被採用；只有來源提供具體產品採用、出貨或部署證據時，才值得追工程需求，因此目前降低優先級。'
+        application = '來源未提供可驗證的產品用途或部署案例；不能把營收成長直接換算成 AI server 或資料中心需求。'
+        opening = '數字變大了，但工程師真正想知道的是：大家到底在用哪個產品？如果看不到用途和部署案例，我們先把這則留在觀察清單。'
+    elif topic.name == 'AI 評測與可靠性':
+        attention = '這不是消費者新功能，而是評測流程的改變，直接關係到工程師能否相信測試結果；需核對網路存取、工具權限、資料集污染與可重現設定。'
+        limits = '來源未提供完整隔離範圍、哪些工具仍可連網或哪些步驟需要人工審查；需測試外部資訊是否影響成績，也要比較離線評測和真實連網任務的差距。'
+        application = '模型測試與開發工具：用於上線前評估代理能力，並區分測試環境結果與企業自動化的實際可靠性。'
+        if re.search(r'cutting off.*evaluations.*internet', article.title, re.I):
+            solution = '[Reported] 標題提出將內部評測與網際網路隔開。[Analysis] 這是測試環境的限制措施，還需官方方法與重現資料才能判斷效果，不能說已解決所有作弊或資料污染。'
+        opening = '考試時把網路關掉，是在測 AI 的真本事，還是讓它失去平常會用的工具？工程師要先弄懂考場規則，才知道分數能不能代表真實工作。'
+    elif re.search(r'simulation|omniverse|模擬', text, re.I):
+        attention = f'來源指向{named}的模擬開發流程；若用 AI 代理串接素材、物理與渲染，工程師需檢查素材格式相容性、腳本可重跑性和場景測試，不能把示範當成全自動能力。'
+        limits = '來源未提供哪些步驟還不能自動化，也未提供誤差或失敗率。工程上需檢查物理參數與測試場景；若要用於工業設備或機器人，仍需實體測試比對，這是驗證建議，不是來源已完成的結果。'
+        application = '可探索工業模擬與開發工具：先在電腦裡組場景、重跑測試，再決定是否用於設備或機器人；來源尚未證明實體部署效果。'
+        if products and re.search(r'agent|代理', text, re.I):
+            solution = f'[Reported] 標題把{named}與 AI 代理放進模擬開發流程。[Analysis] 這是來源提出的方向，尚缺工具版本、API 範例、授權與測試結果，不能宣稱已解決驗證或全自動化問題。'
+        opening = '讓 AI 幫我們組一個模擬世界，是省掉哪一步，還是只讓畫面更漂亮？工程師會先問場景能不能重跑、物理有沒有做對，最後還得回到真實設備驗證。'
+    elif re.search(r'\bagents?\b|代理', text, re.I):
+        attention = f'可辨識的代理產品／工具是{named}，但來源未完整列出新增功能或架構。若代理替人操作服務，就需逐項確認帳號、檔案、email、行事曆與內部系統權限，並測試撤銷權限、重試與操作紀錄；這些不是已確認的產品能力。'
+        limits = '來源未提供哪些任務不能自動化、錯誤率或資料流向；刪檔、寄信等不可逆操作應先設人工審查並測試失敗復原，還需更多測試與權限文件才能評估可靠性。'
+        application = '可探索企業自動化與開發工具，例如在授權範圍內串接服務；是否能碰 email 或行事曆須看實際權限文件。涉及敏感資料時也要評估資安與權限控管。'
+        if products and re.search(r'unveiled|introduced|launched|推出|發布', text, re.I):
+            solution = f'[Reported] 公開摘要提到發布{named}。[Analysis] 尚未看到權限模型、審批流程與失敗復原的明確解法；產品發布或隱私承諾不能替代可核對的政策和測試。'
+        opening = '如果 AI 助理能代你做事，你會把哪些鑰匙交給它？我們從它能碰什麼、出錯怎麼停下來、哪些事要先問你開始聊。'
+    elif re.search(r'privacy|security|vulnerab|隱私|安全|漏洞', text, re.I):
+        attention = '這類新聞與工程師的資料安全和維運有關；需核對受影響版本、攻擊條件、權限範圍與補丁相容性，來源未提供時不能自行指定漏洞或修復方式。'
+        application = '資安與權限控管：先對照自己使用的版本和暴露介面，才能決定是否需修補、隔離或調整存取政策。'
+    elif topic.name == '平台監管與市場權力':
+        attention = '這不是新技術發布，但若規則涉及資料處理、API 或產品分發，工程師可能需調整資料流和介面；先核對適用服務、地區與生效日期，沒有技術關聯時降低優先級。'
+    elif re.search(r'gpu|server|chip|memory|packaging|半導體|記憶體|晶片', text, re.I):
+        attention = f'來源涉及硬體／架構，辨識到的技術名稱為{named}；需核對效能測試的工作負載、功耗、記憶體容量及軟硬體相容性，不能由供應或價格消息推定效能提升。'
+        limits = '來源未提供效能瓶頸、不能自動化的部分或實測方法；需要實體硬體測試、驅動／韌體版本及工作負載資料，才能評估部署與維運成本。'
+        application = '先依來源提到的設備判斷用途：server／資料中心才追 AI server 與散熱供電，PC／手機則追消費者產品；沒有部署資訊時不能跨場景推論。'
+    elif topic.name in ('產品與使用者生態', 'AI 應用與研究落地'):
+        attention = f'目前辨識的產品／技術名稱是{named}；來源未完整列出新功能或架構，需要版本差異、操作範例和規格才能判斷。工程評估先看測試、相容性、部署與維運，不能把發布等同可穩定使用。'
+        application = '依產品文件確認是開發工具、企業自動化或消費者產品；研究展示則先看實驗條件，不推定已能日常部署。'
+    # Extract only explicitly named tools; do not convert suggestions into implemented fixes.
+    if re.search(r'patch|修補|補丁', text, re.I):
+        solution = '[Reported] 來源提到修補／補丁方向。[Analysis] 仍需官方安全公告、受影響版本、補丁版本與回歸測試，不能說所有部署都已修復。'
+    return dict(attention=attention, limits=limits, solution=solution, application=application, opening=opening)
