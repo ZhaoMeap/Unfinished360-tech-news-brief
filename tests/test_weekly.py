@@ -60,7 +60,7 @@ class WeeklyTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as tmp:
             root=Path(tmp);daily(root,NOW)
             folder=root/'data/daily';folder.mkdir(parents=True)
-            payload={'collected_at':NOW.isoformat(),'articles':[article().metadata()]}
+            payload={'collected_at':NOW.isoformat(),'articles':[article().metadata()], 'evidence':{'https://blogs.nvidia.com/test':{'quality_hint':'public summary'}}}
             (folder/'2026-10-11_2000.json').write_text(json.dumps(payload), encoding="utf-8")
             (folder/'2026-10-10_0900.json').write_text('{broken', encoding="utf-8")
             rows,warnings=load_observations(root,NOW)
@@ -74,6 +74,7 @@ class WeeklyTests(unittest.TestCase):
             sample = """Subject: sample
 ## 1. Omniverse simulations with AI agents
 - **來源：** [官方：NVIDIA](<https://blogs.nvidia.com/sample>)；2026-10-10；official source / 4。
+- **證據：** A；官方公開摘要。
 ### 1. 先講人話：這篇新聞在講什麼？
 [Confirmed] NVIDIA 提到模擬開發流程。[Analysis] 可能縮短測試時間。
 ### 5. 網路上的人可能會怎麼看？
@@ -107,7 +108,7 @@ class WeeklyTests(unittest.TestCase):
             rows,_=load_observations(root,NOW)
             events=deduplicate(rows)
             self.assertEqual(len(events),2)
-            self.assertEqual(len(cluster(events)),1)
+            self.assertEqual(len(cluster(events)),2)
 
     def test_weekly_cli_is_offline_and_never_emails(self):
         for args in (['brief','--weekly','--dry-run'],['brief','--weekly','--send-email']):
@@ -121,7 +122,7 @@ class WeeklyTests(unittest.TestCase):
 
     def test_iso_year_boundary(self):
         with tempfile.TemporaryDirectory() as tmp:
-            path,_,_=render_weekly(Path(tmp),datetime(2027,1,1,tzinfo=TAIPEI))
+            path,_,_=render_weekly(Path(tmp),datetime(2027,1,1,tzinfo=TAIPEI),iso_week='2026-W53')
             self.assertEqual(path.name,'2026-W53_weekly.md')
 
     def test_artifact_restore_filters_paths_and_restores_only_daily_markdown(self):

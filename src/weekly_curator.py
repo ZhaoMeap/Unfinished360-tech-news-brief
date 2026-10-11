@@ -16,6 +16,7 @@ from .render_report import TAIPEI, md, reference
 from .story_narrative import entities, product_names
 from .events import same_event, normalized
 from .evidence import assess, event_id, subjects, coverage
+from .scheduling import week_period, completeness,read_ledger
 
 MAX_FILE_BYTES = 2_000_000
 
@@ -28,6 +29,7 @@ class Observation:
     facts: str = ''
     social: str = ''
     label: str = 'Reported'
+    evidence_level: str = 'C'
 
 
 @dataclass
@@ -49,6 +51,10 @@ class Event:
     @property
     def sources(self):
         return {o.article.source for o in self.observations}
+
+    @property
+    def event_id(self):
+        return event_id(min(self.observations,key=lambda o:(o.seen,o.article.url)).article)
 
 
 def timestamp(path, data=None):
@@ -81,6 +87,9 @@ def labeled_facts(text):
 
 def read_markdown(path, seen):
     body = path.read_text(encoding='utf-8')
+    collected=re.search(r'^Collected at: (.+)$',body,re.M)
+    if collected:
+        seen=datetime.fromisoformat(collected[1]).astimezone(TAIPEI)
     rows = []
     for block in re.split(r'^## (?=\d+\.)', body, flags=re.M)[1:]:
         block = re.split(r'^# ', block, maxsplit=1, flags=re.M)[0]
@@ -97,8 +106,10 @@ def read_markdown(path, seen):
         social = social if '[Rumor]' in social and '抽樣' in social else ''
         date = re.search(r'；(\d{4}-\d{2}-\d{2}[^；\n]*)', block)
         label = 'Confirmed' if '[Confirmed]' in facts and is_official(link[2]) and link[1].startswith('官方：') else 'Reported'
-        article = Article(title, link[2], link[1], date[1] if date else None, facts[:400], [])
-        rows.append(Observation(article, seen, str(path), facts, social[:700], label))
+        proof=re.search(r'\*\*證據：\*\* ([ABC])',block)
+        level=proof[1] if proof else 'C'
+        article = Article(title, link[2], link[1], date[1] if date else None, facts[:400], [], 'public summary' if level in ('A','B') else '')
+        rows.append(Observation(article, seen, str(path), facts if level in ('A','B') else '', social[:700], label,level))
     # Secondary candidates are useful discovery signals, not facts.
     other = re.search(r'^# 其他候選新聞\n(.*?)(?=^# |\Z)', body, re.M | re.S)
     if other:
@@ -123,33 +134,35 @@ def read_json(path):
         if not row['url'].startswith('https://'):
             continue
         tags = row.get('tags',[])
+        proof=metadata.get('evidence',{}).get(canonical(row['url']),{})
         article = Article(row['title'][:200],row['url'],row['source'],row.get('published_at'),
-                          str(row.get('short_snippet') or '')[:400],tags if isinstance(tags,list) else [])
+                          str(row.get('short_snippet') or '')[:400],tags if isinstance(tags,list) else [], proof.get('quality_hint',''))
         if article.source in ('Hacker News', 'Reddit', 'X'):
             output.append(Observation(article,seen,str(path),'','','Rumor'))
             continue
-        official = article.source.startswith('官方：') and is_official(article.url) and bool(article.short_snippet)
-        label = 'Confirmed' if official else 'Reported'
+        evidence=assess(article)
+        label=evidence.label
         # Paraphrase recognized claims only, not the original public snippet.
-        facts = labeled_facts(' '.join(explain(article,topic_for(article),label)['sentences'])) if article.short_snippet else ''
-        output.append(Observation(article,seen,str(path),facts,'',label))
+        facts = labeled_facts(' '.join(explain(article,topic_for(article),label)['sentences'])) if evidence.level in ('A','B') else ''
+        output.append(Observation(article,seen,str(path),facts,'',label,evidence.level))
     return output
 
 
-def load_observations(root, now):
-    start = now - timedelta(days=7)
+def load_observations(root, now, start=None, end=None):
+    start = start or now - timedelta(days=7)
+    end = end or now + timedelta(microseconds=1)
     output, warnings = [], []
     for folder, suffix in ((root/'reports/daily','md'),(root/'data/daily','json')):
         for path in sorted(folder.glob('*.'+suffix)):
             seen = timestamp(path)
             # Skip clearly out-of-range files before reading their contents.
-            if suffix == 'md' and (seen is None or not start <= seen <= now):
+            if suffix == 'md' and seen is None:
                 continue
             try:
                 if path.stat().st_size > MAX_FILE_BYTES:
                     raise ValueError('超過素材大小上限')
                 rows = read_markdown(path,seen) if suffix == 'md' else read_json(path)
-                output.extend(o for o in rows if start <= o.seen <= now)
+                output.extend(o for o in rows if start <= o.seen < end and o.seen<=now)
             except (OSError, UnicodeError, ValueError, TypeError, AttributeError) as exc:
                 warnings.append(f'{path.name}：無法讀取（{type(exc).__name__}）')
     # MD and JSON for the same collection should not double-count an observation.
@@ -172,46 +185,55 @@ def deduplicate(rows):
     return events
 
 
+def podcast_score(event):
+    article=event.representative.article
+    topic=topic_for(article)
+    level=event.representative.evidence_level
+    technical=bool(re.search(r'API|GPU|firmware|security|eval|simulation|模型|測試|權限',article.title+' '+article.short_snippet,re.I))
+    users=bool(re.search(r'user|privacy|patient|wallet|phone|users|隱私|病人|使用者',article.title,re.I))
+    dimensions=dict(technology=2 if topic.weight>=8 else 1, engineering=2 if technical else 1,
+                    users=2 if users else 1, evidence={'A':2,'B':1,'C':0}[level],
+                    storytelling=2 if re.search(r'launch|release|tamper|cutting off|study|發布|評測',article.title,re.I) else 1,
+                    explainability=2 if topic!=topic_for(Article('','https://example.com','',None,'',[])) else 0)
+    total=sum(dimensions.values())
+    if topic.weight<=1:
+        total=min(total,4)
+    return total,dimensions
+
+
 def cluster(events):
-    """Merge related events into themes; retain each event and its evidence."""
-    groups = []
+    groups=[]
     for event in events:
-        article = event.representative.article
-        topic = topic_for(article)
-        text = article.title + ' ' + article.short_snippet
-        companies = set(entities(text + (' ' + article.source if article.source.startswith('官方：') else '')))
-        products = set(product_names(text))
-        group = next((g for g in groups if g['topic'].name == topic.name or
-                      (companies & g['companies']) or (products & g['products'])),None)
-        if group is None:
-            group = dict(topic=topic, companies=set(), products=set(), events=[])
-            groups.append(group)
-        if topic.weight > group['topic'].weight:
-            group['topic'] = topic
-        group['companies'].update(companies)
-        group['products'].update(products)
-        group['events'].append(event)
-    return sorted(groups,key=lambda g:(-g['topic'].weight,-sum(bool(e.representative.facts) for e in g['events'])))
+        article=event.representative.article
+        groups.append(dict(topic=topic_for(article),companies=set(subjects(article)),products=set(product_names(article.title)),
+                           events=[event],score=podcast_score(event)[0],dimensions=podcast_score(event)[1]))
+    return sorted(groups,key=lambda g:(-g['score'],-g['topic'].weight,g['events'][0].event_id))
 
 
 def suitability(group):
-    facts = sum(bool(e.representative.facts) for e in group['events'])
-    if group['topic'].weight <= 1 or not facts:
+    level=group['events'][0].representative.evidence_level
+    if level=='C' or group['topic'].weight<=1:
         return '只觀察'
-    return 'Podcast' if facts >= 2 or any(e.representative.label == 'Confirmed' for e in group['events']) else 'IG Threads'
+    return 'Podcast' if group['score']>=9 else 'IG Threads'
 
 
-def render_weekly(root: Path, now: datetime | None = None):
+def render_weekly(root: Path, now: datetime | None = None, iso_week: str | None = None):
     now = (now or datetime.now(TAIPEI)).astimezone(TAIPEI)
-    rows,warnings = load_observations(root,now)
+    week,start,end=week_period(now,iso_week)
+    status=completeness(root,now,start,end)
+    rows,warnings = load_observations(root,now,start,end)
     events = deduplicate(rows)
     groups = cluster(events)
     selected = groups[:5]
-    iso = now.isocalendar()
-    week = f'{iso.year}-W{iso.week:02d}'
+    if warnings:
+        status['partial']=True
+        status['errors'].extend(warnings)
     lines = [f'Subject: 還沒想到科技週報 - {week}', '', '# 本週一句話',
              '[Analysis] ' + ('本週素材聚焦「'+'、'.join(g['topic'].name for g in selected[:3])+'」：先追工作流程如何改變，再看測試與落地門檻。' if selected else '本週沒有可讀素材；先恢復 daily collection，不編造科技趨勢。'),
-             '', '# 本週科技主線', f'涵蓋台灣時間 {now-timedelta(days=7):%Y-%m-%d %H:%M} 至 {now:%Y-%m-%d %H:%M}；{len(rows)} 次素材出現、{len(events)} 個去重事件。出現次數不是市場熱度，來源數量不代表獨立查證。']
+             '', '# 素材完整性', '部分週報（Partial）' if status['partial'] else '完整 slot 覆蓋；不代表全部事實已查證',
+             f"Expected {status['expected']} / Completed {status['completed']} / Recovered {status['recovered']} / Missing {status['missing']} / Failed {status['failed']} / Pending {status['pending']}",
+             *['- '+md(e) for e in status['errors']], '', '# 本週科技主線',
+             f'指定台灣日期範圍 {start:%Y-%m-%d %H:%M} 至 {end:%Y-%m-%d %H:%M}（不含終點）；實際整理時間 {now:%Y-%m-%d %H:%M}；{len(rows)} 次素材、{len(events)} 個獨立事件。']
     followups = []
     for index,g in enumerate(selected,1):
         best = max(g['events'],key=lambda e:(topic_for(e.representative.article).weight,bool(e.representative.facts),e.representative.label=='Confirmed'))
@@ -219,11 +241,15 @@ def render_weekly(root: Path, now: datetime | None = None):
         ex = explain(o.article,g['topic'],o.label)
         followups.extend(ex['gaps'])
         names = '、'.join(sorted(g['products'] or g['companies']))
-        lines += ['',f'## {index}. {md(g["topic"].name)}'+(f'：{md(names)}' if names else ''),
-                  '### 發生了什麼']
+        lines += ['',f'## {index}. {md(o.article.title)}',
+                  f"事件 ID：{best.event_id}；證據 {o.evidence_level}；跨來源網域 {coverage([v.article for v in best.observations])}；Podcast 分數 {g['score']}/12。",
+                  '[Analysis] 選題理由：'+md(g['topic'].name)+'；評分面向 '+md(str(g['dimensions']))+'。同主題的其他事件不併成事實。', '### 發生了什麼']
         for e in g['events'][:5]:
             r = e.representative
             lines += [f'- {md(r.facts) if r.facts else "[Analysis] 僅有標題線索："+md(r.article.title)} — {reference(r.article)}']
+        if o.evidence_level=='C':
+            lines += ['[Analysis] 只作候選觀察；尚未取得足夠事件證據，不填充詳細工程分析。', '### 仍需查證的地方', '- 具體公開事件摘要、官方文件與可辨識的動作／產品。']
+            continue
         lines += ['### 工程師應該注意什麼', '[Analysis] '+md(ex['attention']),
                   '### 技術背景補充'] + ['- [Background] '+md(b) for b in ex['background']]
         lines += ['### 代表新聞']
@@ -243,9 +269,14 @@ def render_weekly(root: Path, now: datetime | None = None):
                   '### 仍需查證的地方'] + ['- '+md(gap) for gap in ex['gaps']]
     if len(selected)<3:
         lines.append(f'只有 {len(selected)} 條可辨識主線；不足三條不湊數。')
+    lines += ['', '# 主題觀察（不是同一事件）']
+    themes={}
+    for g in groups:
+        themes.setdefault(g['topic'].name,[]).append(g['events'][0].event_id)
+    lines += ['- [Analysis] '+md(name)+'：'+', '.join(ids)+'；僅屬主題相近。' for name,ids in themes.items() if len(ids)>1]
     lines += ['', '# 本週最適合 Podcast 的 3 個題目']
     podcasts = [g for g in groups if suitability(g)=='Podcast'][:3]
-    lines += ['- [Analysis] '+md(g['topic'].name)+'：'+md(explain(g['events'][0].representative.article,g['topic'],'Reported')['opening']) for g in podcasts]
+    lines += ['- [Analysis] '+md(g['events'][0].representative.article.title)+'：'+md(explain(g['events'][0].representative.article,g['topic'],'Reported')['opening']) for g in podcasts]
     if len(podcasts)<3:
         lines.append(f'目前只有 {len(podcasts)} 個可推薦的 Podcast 題目，其餘先觀察；不把重複報導當成確認。')
     lines += ['', '# 本週只適合觀察的題目']
@@ -254,6 +285,26 @@ def render_weekly(root: Path, now: datetime | None = None):
     lines += ['', '# 下週追蹤清單'] + ['- '+md(x) for x in list(dict.fromkeys(followups))[:12]]
     if not followups:
         lines.append('- 先確認 daily artifacts 可下載，或放入最近七天的日報素材。')
+    lines += ['', '# 來源可用性']
+    diagnostics={}
+    for file in (root/'data/daily').glob('*.json'):
+        try:
+            payload=json.loads(file.read_text(encoding='utf-8'))
+            seen=timestamp(file,payload if isinstance(payload,dict) else {})
+            if seen and start<=seen<end and seen<=now and isinstance(payload,dict):
+                for source in payload.get('source_diagnostics',[]):
+                    diagnostics[source['source']]=source['status']
+        except (OSError,ValueError,TypeError,KeyError):
+            pass
+    try:
+        for record in read_ledger(root)['slots'].values():
+            scheduled=datetime.fromisoformat(record['scheduled_at_utc'])
+            if start<=scheduled<end:
+                for source in record.get('source_diagnostics',[]):
+                    diagnostics[source['source']]=source['status']+'（實際採集 '+record['actual_started_at_utc']+'）'
+    except (ValueError,OSError,KeyError):
+        pass
+    lines += ['- '+md(k)+'：'+md(v) for k,v in diagnostics.items()] or ['- 舊 Markdown 素材未保存結構化來源診斷，不能宣稱來源都可用。']
     lines += ['', '# 素材與使用原則'] + ['- '+md(w) for w in warnings]
     lines += ['只整理本機保存的日報／JSON；不抓新聞全文、不繞過付費牆、不輸出全文、不寄信。日報是素材，週報是 Ray 檢查與選題用，仍不是可直接發布的已查證稿。',
               '[Reported]／[Confirmed] 保留來源發布主張，不因重複出現而升級；[Background] 是一般工程知識，[Analysis] 是編輯判斷，[Rumor] 是有限社群討論。',

@@ -13,6 +13,8 @@ from .render_report import render_report
 from .editor_report import render_editor_report
 from .send_email import send_email
 from .weekly_curator import render_weekly
+from .daily_snapshot import save_snapshot
+from datetime import datetime, timezone
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -26,9 +28,16 @@ def main() -> int:
     inputs.add_argument("--links", type=Path, help="指定連結檔，每行一個 HTTPS URL")
     inputs.add_argument("--editor", action="store_true", help="根據自動候選產生每日編輯簡報")
     inputs.add_argument("--weekly", action="store_true", help="整理最近七天 daily 素材，產生 Podcast 選題週報")
+    parser.add_argument("--week", help="週報指定 ISO week，例如 2026-W41")
     args = parser.parse_args()
+    if args.week and not args.weekly:
+        parser.error("--week 必須搭配 --weekly")
     if args.weekly:
-        path, _, _ = render_weekly(ROOT)
+        try:
+            path, _, _ = render_weekly(ROOT, iso_week=args.week)
+        except (ValueError,OSError) as exc:
+            print(f"週報無法安全產生（{type(exc).__name__}）")
+            return 1
         print(f"週報已產出：{path}")
         print("Weekly Curator 僅產生報告；未寄信。")
         return 0
@@ -42,7 +51,9 @@ def main() -> int:
         print(f"{result.source}：{result.status}")
     discussions = collect_community(results)
     if args.editor:
-        path, subject, body = render_editor_report(results, ROOT / "reports", discussions=discussions)
+        collected_at=datetime.now(timezone.utc)
+        path, subject, body = render_editor_report(results, ROOT / "reports", now=collected_at, discussions=discussions)
+        save_snapshot(ROOT,results,collected_at,path)
     else:
         path, subject, body = render_report(results, ROOT / "reports", mode="links" if args.links else "radar", discussions=discussions)
     print(f"報告已產出：{path}")
