@@ -16,6 +16,8 @@ from .source_quality import quality_for
 from .story_narrative import describe, engineering_lens
 from .explain_report import explain
 from .company_context import company_cards
+from .evidence import assess, event_id
+from .events import same_event
 
 
 @dataclass(frozen=True)
@@ -163,9 +165,9 @@ def rank_candidates(results, now, discussions):
         for article in result.articles:
             if article.source in SOCIAL:
                 continue
-            if any(related(article, other) for other in candidates):
+            if any(same_event(article, other) for other in candidates):
                 # Keep the more informative candidate, retain other references in gaps.
-                index = next(i for i, other in enumerate(candidates) if related(article, other))
+                index = next(i for i, other in enumerate(candidates) if same_event(article, other))
                 if score(article, now, discussions) > score(candidates[index], now, discussions):
                     candidates[index] = article
             else:
@@ -200,11 +202,12 @@ def social_summary(article, discussions):
 def make_story(article, discussions):
     topic = topic_for(article)
     quality = quality_for(article)
+    evidence = assess(article)
     official = article.source.startswith('官方：') and is_official(article.url)
-    label = 'Confirmed' if official and article.short_snippet else 'Reported' if article.source in ('Reuters','The Verge','DIGITIMES') else 'Analysis'
+    label = evidence.label
     return dict(article=article, title=md(article.title[:150]), ref=reference(article), topic=topic,
-                quality=quality, label=label, companies=company_cards(article), explanation=explain(article, topic, label), has_discussion=any(d.sampled for d in matched_discussions(article, discussions)), narrative=describe(article, topic), engineering=engineering_lens(article, topic), social=md(social_summary(article, discussions)),
-                publishable=bool(article.short_snippet) and quality.score >= 2 and topic != FALLBACK)
+                quality=quality, evidence=evidence, event_id=event_id(article), label=label, companies=company_cards(article), explanation=explain(article, topic, label), has_discussion=any(d.sampled for d in matched_discussions(article, discussions)), narrative=describe(article, topic), engineering=engineering_lens(article, topic), social=md(social_summary(article, discussions)),
+                publishable=evidence.level in ('A','B') and topic != FALLBACK)
 
 
 def main_thread(chosen, results):
@@ -244,10 +247,17 @@ TEMPLATE = '''Subject: {{ subject }}
 {% for sentence in thread %}{{ sentence }}
 
 {% endfor %}# 今天最值得追的 3 則新聞
-{% for story in stories %}
+{% for story in stories %}{% if story.evidence.level == "C" %}
+## {{ loop.index }}. {{ story.title }}
+- **來源：** {{ story.ref }}；{{ story.article.published_at or "日期未知" }}；{{ story.quality.kind }}。
+- **可信度標籤：** [{{ story.label }}] 只作候選，不把 metadata 當事件已確認。
+- **證據：** C；事件 ID：{{ story.event_id }}。
+- {{ story.evidence.reason|escape_md }}。需公開事件摘要／官方文件，暫不生成九段分析。
+{% else %}
 ## {{ loop.index }}. {{ story.title }}
 - **來源：** {{ story.ref }}；{{ story.article.published_at or '日期未知' }}；{{ story.quality.kind }} / {{ story.quality.score }}，資訊程度{{ story.quality.availability }}。
-- **可信度標籤：** [{{ story.label }}] 僅標示來源發布資訊；metadata 不等於事件已確認，推論另標 [Analysis]。
+- **可信度標籤：** [{{ story.label }}] {{ story.evidence.reason|escape_md }}。
+- **證據：** {{ story.evidence.level }}；事件 ID：{{ story.event_id }}。
 
 ### 1. 公司背景卡：這家公司是誰？
 {% for company in story.companies %}- [Company Context] **公司名稱：** {{ company.name|escape_md }}
@@ -295,7 +305,7 @@ TEMPLATE = '''Subject: {{ subject }}
 {% for gap in story.explanation.gaps %}- {{ gap|escape_md }}
 {% endfor %}
 - **來源連結：** {{ story.ref }}
-
+{% endif %}
 {% else %}
 沒有可用新聞，不用社群或空位湊滿三則；先補可讀的具體文章來源。
 {% endfor %}

@@ -26,7 +26,7 @@ def candidates():
         ('The Verge', 'Gaming platform changes fees'),
     ]
     return [SourceResult(source, [Article(title, f'https://example.com/{i}', source, NOW.isoformat(),
-             'Public description about the topic and its proposed plans for developers.', ['AI'])], 'ok')
+             'Microsoft announced testing and deployment tools for developers. The release describes a developer API and supported workflow.', ['AI'], 'public summary')], 'ok')
             for i, (source, title) in enumerate(titles)]
 
 
@@ -72,14 +72,14 @@ class EditorTests(unittest.TestCase):
         self.assertEqual(thread.count('[Analysis]'), 4)
         other = body.split('# 其他候選新聞\n')[1].split('# 今日資料缺口')[0]
         self.assertEqual(other.count('- [Analysis] 觀察：'), 5)
-        self.assertIn('metadata 不等於事件已確認', body)
+        self.assertIn('**證據：**', body)
         self.assertNotIn('毛利率', body)
         self.assertNotIn('法說指引', body)
         self.assertNotIn('待人工補充', body)
 
     def test_explain_background_is_separate_and_gaps_are_last(self):
         item = Article('Omniverse simulations with AI agents', 'https://blogs.nvidia.com/test',
-                       '官方：NVIDIA', NOW.isoformat(), 'Connecting physics and rendering.', [])
+                       '官方：NVIDIA', NOW.isoformat(), 'NVIDIA announced tools connecting physics and rendering for developers. The release describes a workflow for simulation testing.', [], 'public summary')
         explanation = explain(item, topic_for(item), 'Confirmed')
         self.assertTrue(5 <= len(explanation['sentences']) <= 8)
         self.assertTrue(explanation['sentences'][0].startswith('[Confirmed]'))
@@ -111,7 +111,7 @@ class EditorTests(unittest.TestCase):
     def test_engineering_ranking_deprioritizes_finance_even_with_ai_tags(self):
         rows = candidates() + [SourceResult('DIGITIMES', [Article('TPCA Show AI computing keynote', 'https://example.com/event', 'DIGITIMES', NOW.isoformat(), 'New features for server chip architecture at the event.', ['AI'])], 'ok'), SourceResult('官方：Google', [Article('Play Fest prizes and daily deals', 'https://example.com/promo', '官方：Google', NOW.isoformat(), 'Gaming leagues and rewards.', ['AI'])], 'ok'), SourceResult('官方：NVIDIA', [Article(
             'Omniverse simulation with AI agents', 'https://blogs.nvidia.com/new',
-            '官方：NVIDIA', NOW.isoformat(), 'Connecting physics and rendering.', ['AI'])], 'ok')]
+            '官方：NVIDIA', NOW.isoformat(), 'NVIDIA announced tools connecting physics and rendering for developers. The release describes a workflow for simulation testing.', ['AI'], 'public summary')], 'ok')]
         chosen, others = rank_candidates(rows, NOW, [])
         self.assertTrue(any('simulation' in a.title for a in chosen))
         self.assertFalse(any('revenue' in a.title or 'funding' in a.title or 'Play Fest' in a.title or 'keynote' in a.title for a in chosen))
@@ -120,7 +120,7 @@ class EditorTests(unittest.TestCase):
 
     def test_engineering_limits_and_solutions_do_not_invent_evidence(self):
         article = Article('Omniverse simulation with AI agents', 'https://example.com/a',
-                          'Media', NOW.isoformat(), 'Connecting physics and rendering.', [])
+                          'Media', NOW.isoformat(), 'NVIDIA announced tools connecting physics and rendering for developers. The release describes a workflow for simulation testing.', [], 'public summary')
         lens = engineering_lens(article, topic_for(article))
         self.assertIn('來源未提供', lens['limits'])
         self.assertIn('實體測試', lens['limits'])
@@ -211,7 +211,7 @@ class EditorTests(unittest.TestCase):
         self.assertNotIn('**可信度標籤：** [Confirmed]', body)
         self.assertIn('title only', body)
         self.assertIn('目前沒有足夠公開資訊', body)
-        self.assertIn('可重現測試', body)
+        self.assertIn('暫不生成九段分析', body)
 
     def test_social_only_exact_url_and_no_consensus(self):
         article = candidates()[0].articles[0]

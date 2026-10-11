@@ -14,6 +14,8 @@ from .explain_report import explain
 from .fetch_sources import Article, is_official
 from .render_report import TAIPEI, md, reference
 from .story_narrative import entities, product_names
+from .events import same_event, normalized
+from .evidence import assess, event_id, subjects, coverage
 
 MAX_FILE_BYTES = 2_000_000
 
@@ -157,27 +159,6 @@ def load_observations(root, now):
         if key not in unique or len(o.facts) > len(unique[key].facts):
             unique[key] = o
     return sorted(unique.values(),key=lambda o:o.seen), warnings
-
-
-def normalized(title):
-    return re.sub(r'[^\w\u4e00-\u9fff]+',' ',title.lower()).strip()
-
-
-def same_event(a,b):
-    if canonical(a.url) == canonical(b.url):
-        return True
-    left,right = normalized(a.title), normalized(b.title)
-    if left == right:
-        return True
-    # Long, highly similar titles only; opposite actions/numbers stay separate.
-    if len(left) < 25 or len(right) < 25:
-        return False
-    if re.findall(r'\d+(?:\.\d+)?',left) != re.findall(r'\d+(?:\.\d+)?',right):
-        return False
-    polarity = r'\b(?:not|no|fails?|halts?|stops?|cuts?|increases?|decreases?)\b|停止|增加|減少'
-    if set(re.findall(polarity,left)) != set(re.findall(polarity,right)):
-        return False
-    return SequenceMatcher(None,left,right).ratio() >= .92
 
 
 def deduplicate(rows):

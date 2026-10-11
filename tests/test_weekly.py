@@ -18,7 +18,7 @@ NOW = datetime(2026,10,11,20,tzinfo=TAIPEI)
 
 
 def article(title='Omniverse simulation with AI agents',url='https://blogs.nvidia.com/test'):
-    return Article(title,url,'官方：NVIDIA',NOW.isoformat(),'Connecting physics and rendering and assembling assets.',[])
+    return Article(title,url,'官方：NVIDIA',NOW.isoformat(),'NVIDIA announced tools connecting physics and rendering and assembling assets. Developers can test scenes with the release.',[],'public summary')
 
 
 def daily(root,when,item=None):

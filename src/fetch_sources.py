@@ -148,7 +148,7 @@ def fetch_feed(session: requests.Session, source: str, url: str, now: datetime,
             if not tags:
                 continue
             seen.add(link)
-            articles.append(Article(title, link, source, date, snippet, tags))
+            articles.append(Article(title, link, source, date, snippet, tags, "public summary" if raw_summary and len(plain(raw_summary, 500)) <= 400 else ""))
             if len(articles) >= MAX_ITEMS:
                 break
         return SourceResult(source, articles, f"已取得 {len(articles)} 則近 48 小時科技項目" if articles

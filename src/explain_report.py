@@ -1,6 +1,7 @@
 """Separate source claims, engineering background, hypotheses, and verification."""
 import re
 
+from .evidence import subjects
 from .story_narrative import describe, engineering_lens, entities, product_names
 
 
@@ -66,9 +67,9 @@ def explain(article, topic, label):
                        '部署硬體還要考慮驅動、散熱、供電與工作負載，相同規格在不同任務下可能有不同效能。']
         focus = '硬體採用的 workflow 是先對照工作負載測試，再檢查驅動相容性、功耗、散熱與維運；實體壓力測試不能只用規格表取代。'
         direction = '常見方向是用代表性工作負載做基準測試，監測瓶頸並調整記憶體、批次大小與散熱；這是一般工程方向，不是來源已證實的成效。'
-    actors = entities(text + (' ' + article.source if article.source.startswith('官方：') else ''))
+    actors = subjects(article)
     if not sentences or all('發布日期' in s or '刊登日期' in s for s in sentences):
-        sentences = [f'[Analysis] 這則候選的可辨識主體是{"、".join(actors) or article.source}，主題是「{topic.name}」。',
+        sentences = [f'[Analysis] 這則候選的可辨識主體是{"、".join(actors) or "尚未辨識的事件主體"}，主題是「{topic.name}」。',
                      '[Analysis] 標題提供了討論入口，本文先用工程背景解釋這個主題，不把背景當成本次事件已發生的事實。'] + sentences
     # Context is labeled as analysis rather than padding source claims with inventions.
     contexts = ['[Analysis] 從工程師角度，接下來要拆開它想改變的工作步驟，以及如何驗證結果。',
@@ -99,6 +100,19 @@ def explain(article, topic, label):
     # Source-proposed direction precedes general engineering alternatives.
     proposal = lens['solution'].split('[Analysis]')[0].strip() if lens['solution'].startswith('[Reported]') else ''
     proposal = proposal.replace('[Reported]',f'[{label}]')
+    if re.search(r'wallet|錢包',text,re.I) and re.search(r'tamper|theft|竄改|盜竊',text,re.I):
+        sentences = [f'[{label}] 來源涉及硬體錢包疑似遭竄改及資產遭竊的報告；「疑似」不等於已證實原因。',
+                     f'[{label}] 新聞點名的主體包括'+ '、'.join(subjects(article))+'。',
+                     '[Background] 硬體錢包把簽署金鑰放在專用裝置，讓一般電腦不必直接持有私鑰。',
+                     '[Analysis] 若裝置或韌體完整性遭破壞，使用者可能無法只靠畫面確認簽署的內容。',
+                     '[Analysis] 重點是裝置來源、韌體驗證與事故調查，不是新功能採用。']
+        background = ['裝置完整性是硬體、韌體與供應來源符合預期；安全啟動與簽章驗證可用來限制未授權程式。',
+                      '私鑰與助記詞控制資產簽署權；排查時不能公開、上傳或交給他人。']
+        focus = '要區分供應鏈竄改、韌體漏洞、釣魚與使用者操作問題；保留裝置與版本資訊，核對簽章、安全啟動和事故時間線，不能先假定某個攻擊路徑。'
+        direction = '一般方向是核對官方安全公告、韌體簽章與購買來源，進行裝置鑑識；這不是來源已證實的事故解法。'
+        questions = ['裝置或韌體有什麼可驗證的異常？','私鑰是否離開過裝置？','事故是否有官方公告或獨立鑑識？']
+        gaps = ['公司安全公告與受影響產品／韌體版本。','裝置完整性與事故鑑識，不索取私鑰或助記詞。','資產遭竊與裝置竄改之間的證據鏈。']
+        lens['opening'] = '把鑰匙放進專用裝置，就一定安全嗎？這則疑似竄改消息讓我們想拆開裝置、韌體和使用者操作，先看證據，不急著猜誰出錯。'
     impact = '若相關功能真的進入產品，開發者與使用者可能需要調整操作流程；影響範圍應以實際支援的功能、版本與部署案例核對。'
     outlook = '接下來追官方功能文件、可重現 benchmark 與部署案例：哪些步驟已進入產品，哪些仍只是演示；不從單則消息預測市場成敗。'
     if topic.name == 'AI 評測與可靠性':
@@ -113,6 +127,9 @@ def explain(article, topic, label):
     elif re.search(r'agents?|privacy|代理|隱私',text,re.I):
         impact = '如果代理接入帳號與服務，軟體平台、企業 IT 與應用開發者可能需要重新設計授權、敏感操作確認與錯誤復原；這是條件式影響，不是宣稱所有代理已具備這些能力。'
         outlook = '觀察權限模型、操作紀錄與失敗復原是否有公開文件和可重現測試，再看它能否穩定接入企業工作流程。'
+    if re.search(r'wallet|錢包',text,re.I) and re.search(r'tamper|theft|竄改|盜竊',text,re.I):
+        impact = '這類事故若獲證實，硬體安全團隊與使用者需要重查裝置與韌體驗證、供應來源與簽署介面；不能由疑似報告推定所有產品都有漏洞。'
+        outlook = '追官方事故公告、鑑識與版本範圍，確認是否需要修補或硬體流程調整，不從傳聞推定攻擊原因。'
     return dict(sentences=sentences, background=background, attention=focus,
                 impact=impact, outlook=outlook, solution=(proposal + ' ' if proposal else '') + '[Analysis] ' + direction,
                 questions=questions, opening=lens['opening'], gaps=gaps)
