@@ -150,7 +150,7 @@ python -m src.main --send-email --links links.txt
 
 465 使用 SMTP over TLS，其他埠強制 STARTTLS 並驗證憑證。缺少設定或寄信失敗時保留報告、印出不含密碼的錯誤並回傳 1，不自動重寄。
 
-Actions 使用 Python 3.12，UTC `0 1,7,13 * * *`（台灣每日 **09:00、15:00、21:00**，一天三次），**預設執行 `python -m src.main --dry-run --editor`，產生 V3 Engineering Lens Editor Report，不寄信，也不需要 SMTP Secrets**；排程可能延遲，需推到預設分支才會運作。報告以 artifact 保存 7 天，不自動 commit。手動 workflow 的 `send_email` 預設 false，只有明確勾選才執行寄信步驟。
+Actions 使用 Python 3.12，UTC `17 1,7,13 * * *`（台灣每日 **09:17、15:17、21:17**，一天三次），**預設執行 `python -m src.main --dry-run --editor`，產生 V3 Engineering Lens Editor Report，不寄信，也不需要 SMTP Secrets**；排程可能延遲，需推到預設分支才會運作。報告以 artifact 保存 7 天，不自動 commit。手動 workflow 的 `send_email` 預設 false，只有明確勾選才執行寄信步驟。
 
 要測試寄信，先到 GitHub Settings → Secrets and variables → Actions 設定 `SMTP_HOST`、`SMTP_PORT`、`SMTP_USER`、`SMTP_PASS`、`MAIL_FROM`、`MAIL_TO` 六個 Secrets。設定 Secrets 本身不會啟用每日寄信；只有手動勾選 `send_email=true` 才會執行現有 `--send-email` 寄信模式（不是 editor 寄信）；schedule 一律只執行 dry-run editor。
 
@@ -170,7 +170,7 @@ Engineering Lens 的工程問題、應用與限制保留在 Explain Mode 中：�
 
 每日報告請到 GitHub repo → **Actions → Daily technology brief → 該次 run → Artifacts**，下載 `technology-brief-<run_id>`，解壓後查看 `daily/YYYY-MM-DD_HHMM_editor.md`；artifact 保留 **7 天**，沒有報告檔時上傳步驟只警告。手動測試：**GitHub repo → Actions → Daily technology brief → Run workflow**；不勾 `send_email` 就產生 dry-run editor report，不寄信。GitHub 排程可能延遲，閒置公開 repo 的排程也可能被停用；可在 Actions 查看是否啟用。
 
-三次 editor 報告是**每日素材，不是正式 Podcast 內容**。檔名的 `HHMM` 使用實際執行時的台灣時間（排程延遲時可能不是整點），不同時段不互相覆蓋；同一分鐘重跑仍會寫入相同檔名。Weekly Curator 使用這些 daily reports 進行去重、合併、主題聚類與 Podcast 選題。Actions 每次上傳 `reports/**/*.md`，可在該次 run 的 artifact 下載；報告不自動提交到 repo，7 天後的素材若要留作週報請先下載保存。
+三次 editor 報告是**每日素材，不是正式 Podcast 內容**。檔名的 `HHMM` 使用實際執行時的台灣時間（排程延遲時會與預定分鐘不同），不同時段不互相覆蓋；同一分鐘重跑仍會寫入相同檔名。Weekly Curator 使用這些 daily reports 進行去重、合併、主題聚類與 Podcast 選題。Actions 每次上傳 `reports/**/*.md`，可在該次 run 的 artifact 下載；報告不自動提交到 repo，7 天後的素材若要留作週報請先下載保存。
 
 ## Weekly Curator：Ray 的 Podcast 選題週報
 
@@ -205,3 +205,11 @@ python -m unittest discover -s tests -v
 ```
 
 測試的 Markdown／JSON／文字 fixture 一律以 UTF-8 讀寫，不依賴 Windows 中文系統的 cp950 預設編碼。SMTP 單元測試會 mock TLS context 與 transport，不讀取系統憑證庫、不連線、不需要 SMTP Secrets；另有 TLS 初始化與 STARTTLS 失敗測試，確認安全回傳失敗。正式程式仍使用 `ssl.create_default_context()` 驗證 TLS，沒有關閉憑證驗證或啟用真實寄信。
+
+## Daily 排程可靠性檢查
+
+Daily workflow 位於預設分支 `main` 的 `.github/workflows/daily-brief.yml`。避開整點改為台灣每日 09:17、15:17、21:17，可以減少尖峰排程競爭，但 **GitHub schedule 仍可能延遲或漏跑，不保證準時執行**。單次沒有 schedule run 紀錄不能證明 cron 錯誤，也不能由手動成功推定 schedule 一定啟用。
+
+若沒有排程紀錄，請到 **Actions → Daily technology brief** 查看是否有停用提示或 **Enable workflow**；再到 **Settings → Actions → General** 確認 Actions 未被 repo／組織政策停用，以及 **Settings → General → Default branch** 是否仍為 main。公開 repo 連續 60 天沒有活動，GitHub 可能停用排程；組織限制需管理員核對。也可查看 GitHub Status 的 Actions 事件。必要時用 **Run workflow** 手動補跑，保持 `send_email` 不勾選。
+
+本次 Git 讀取確認 workflow 已在遠端 main，且 main 為預設分支；GitHub API 查詢 workflow 狀態回傳 Forbidden，因此無法確認平台啟用狀態或判定 2026/10/11 09:00 沒有觸發的確切原因。排程改動不影響 SMTP 安全條件：schedule 只產生 dry-run editor，無需 SMTP Secrets；artifact 保留 7 天。

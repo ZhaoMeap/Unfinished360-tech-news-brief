@@ -6,7 +6,7 @@ from pathlib import Path
 class WorkflowTests(unittest.TestCase):
     def test_editor_schedule_email_gate_and_artifacts(self):
         workflow = (Path(__file__).resolve().parents[1] / '.github/workflows/daily-brief.yml').read_text(encoding="utf-8")
-        self.assertIn("cron: '0 1,7,13 * * *'", workflow)
+        self.assertIn("cron: '17 1,7,13 * * *'", workflow)
         self.assertIn('default: false', workflow)
         dry = workflow.split('- name: Generate dry-run editor report')[1].split('- name: Explicit email run')[0]
         self.assertIn("github.event_name != 'workflow_dispatch' || !inputs.send_email", dry)

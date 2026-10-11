@@ -2,8 +2,9 @@ name: Daily technology brief
 
 on:
   schedule:
-    # UTC 01:00/07:00/13:00 = Asia/Taipei 09:00/15:00/21:00. GitHub may delay scheduled runs.
-    - cron: '0 1,7,13 * * *'
+    # UTC 01:17/07:17/13:17 = Asia/Taipei 09:17/15:17/21:17.
+    # Avoid the top-of-hour peak; GitHub may still delay or drop scheduled runs.
+    - cron: '17 1,7,13 * * *'
   workflow_dispatch:
     inputs:
       send_email:
