@@ -61,7 +61,7 @@ Git 分支會累積歷史，建議定期匯出季度備份並檢閱儲存用量�
 
 加入 NVIDIA Developer、Ollama/ROCm/OpenBMC 官方 releases、Hugging Face、arXiv AI、ServeTheHome、TechNews 台灣。分類補 AI agents、GPU/CPU/accelerator/memory、BMC/firmware/networking/cooling/power/energy efficiency。僅讀合法公開 feed 的有限摘要／metadata，不抓文章全文。GitHub official 判定限制在指定 org，不把任何 GitHub repo 都標官方。
 
-這些是 adapter，不保證 feed 在每個環境都可用；目前雲端新增域名的設定草稿已保存，尚須 Review/Save/Publish 才可套用。受阻項目照實寫來源診斷。GitHub API 目前仍受限，因此不能宣稱已驗證遠端 workflow 狀態或已建立 PR。
+這些是 adapter，不保證 feed 在每個環境都可用；目前雲端新增域名的設定草稿已保存，尚須 Review/Save/Publish 才可套用。受阻項目照實寫來源診斷。本次 GitHub PR API 最終成功，已建立 [Draft PR #1](https://github.com/ZhaoMeap/Unfinished360-tech-news-brief/pull/1)；這不代表已驗證 production workflow 的啟用狀態或真實 runner 執行。
 
 ## 本次真實 dry-run 比較
 
