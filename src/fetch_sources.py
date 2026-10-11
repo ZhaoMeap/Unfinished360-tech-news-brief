@@ -15,16 +15,16 @@ from bs4 import BeautifulSoup
 MAX_BYTES = 1_000_000
 MAX_ITEMS = 30
 TOPICS = {
-    "AI": ("artificial intelligence", " ai ", "openai", "chatgpt", "anthropic", "人工智慧"),
-    "半導體": ("semiconductor", "chip", "nvidia", "tsmc", "晶片", "半導體", "台積電"),
-    "資料中心": ("data center", "datacenter", "server", "資料中心", "伺服器"),
+    "AI": ("artificial intelligence", " ai ", "llm", "agent", "openai", "chatgpt", "anthropic", "人工智慧"),
+    "半導體": ("semiconductor", "chip", "cpu", "gpu", "memory", "accelerator", "nvidia", "tsmc", "晶片", "半導體", "台積電"),
+    "資料中心": ("data center", "datacenter", "server", "bmc", "firmware", "network", "cooling", "power system", "energy efficiency", "資料中心", "伺服器"),
     "Big Tech": ("google", "microsoft", "apple", "amazon", "meta", "alphabet"),
     "監管": ("regulat", "antitrust", "government", "law", "監管", "法規"),
     "產品與平台": ("phone", "software", "platform", "app ", "科技", "technology", "hardware"),
 }
 OFFICIAL_HOSTS = ("blog.google", "blogs.microsoft.com", "blogs.nvidia.com", "nvidianews.nvidia.com",
                   "apple.com", "about.fb.com", "aboutamazon.com", "openai.com", "tsmc.com",
-                  "investor.tsmc.com", "ec.europa.eu", "digital-strategy.ec.europa.eu", "ftc.gov")
+                  "investor.tsmc.com", "developer.nvidia.com", "huggingface.co", "github.com", "ec.europa.eu", "digital-strategy.ec.europa.eu", "ftc.gov")
 
 
 @dataclass(frozen=True)
@@ -67,6 +67,8 @@ def safe_url(value: str) -> str | None:
 
 def is_official(url: str) -> bool:
     host = (urlsplit(url).hostname or "").lower()
+    if host == "github.com":
+        return urlsplit(url).path.split("/")[1].lower() in ("nvidia","rocm","openbmc","kubernetes","ollama")
     return any(host == domain or host.endswith("." + domain) for domain in OFFICIAL_HOSTS)
 
 
@@ -178,10 +180,10 @@ def fetch_reuters(session: requests.Session, now: datetime) -> SourceResult:
             if not recent(date, now):
                 continue
             seen.add(link)
-            articles.append(Article(title, link, "Reuters", date, "", tags_for(title) or ["科技"]))
+            articles.append(Article(title, link, "Reuters", None, "", tags_for(title) or ["科技"]))
             if len(articles) >= MAX_ITEMS:
                 break
-        return SourceResult("Reuters", articles, f"已取得 {len(articles)} 則公開索引標題（日期取自 URL，非精確發稿時間）" if articles
+        return SourceResult("Reuters", articles, f"已取得 {len(articles)} 則公開索引標題（URL 日期僅供候選篩選，published_at 保持未知）" if articles
                             else "目前無法取得（公開索引沒有可用的近期新聞）")
     except (requests.RequestException, ValueError) as exc:
         detail = f"HTTP {exc.response.status_code}" if isinstance(exc, requests.HTTPError) and exc.response is not None else type(exc).__name__
@@ -204,6 +206,16 @@ def fetch_sources(now: datetime | None = None) -> list[SourceResult]:
             ("Hacker News", "https://hnrss.org/frontpage", False),
             ("Reddit", "https://www.reddit.com/r/technology/.rss", False),
         ]
+        specs.extend([
+            ("官方：NVIDIA Developer", "https://developer.nvidia.com/blog/feed/", True),
+            ("官方：Ollama releases", "https://github.com/ollama/ollama/releases.atom", True),
+            ("官方：ROCm releases", "https://github.com/ROCm/ROCm/releases.atom", True),
+            ("官方：OpenBMC releases", "https://github.com/openbmc/openbmc/releases.atom", True),
+            ("官方：Hugging Face", "https://huggingface.co/blog/feed.xml", True),
+            ("研究：arXiv AI", "https://rss.arxiv.org/rss/cs.AI", False),
+            ("ServeTheHome", "https://www.servethehome.com/feed/", False),
+            ("TechNews 台灣", "https://technews.tw/feed/", False),
+        ])
         for source, url, official in specs:
             results.append(fetch_feed(session, source, url, now, official))
         results.append(fetch_x())

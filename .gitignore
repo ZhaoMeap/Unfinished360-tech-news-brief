@@ -15,3 +15,6 @@ reports/weekly/*
 !reports/weekly/.gitkeep
 data/daily/*
 !data/daily/.gitkeep
+
+.history/
+state/

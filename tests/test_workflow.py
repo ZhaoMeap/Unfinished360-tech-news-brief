@@ -10,7 +10,10 @@ class WorkflowTests(unittest.TestCase):
         self.assertIn('default: false', workflow)
         dry = workflow.split('- name: Generate dry-run editor report')[1].split('- name: Explicit email run')[0]
         self.assertIn("github.event_name != 'workflow_dispatch' || !inputs.send_email", dry)
-        self.assertIn('run: python -m src.main --dry-run --editor', dry)
+        self.assertIn('python -m scripts.run_daily_slots', dry)
+        self.assertIn('gh auth setup-git',dry)
+        self.assertIn('contents: write',workflow)
+        self.assertIn('group: technology-brief-history',workflow)
         self.assertNotIn('secrets.', dry)
         self.assertNotIn('--send-email', dry)
         email = workflow.split('- name: Explicit email run')[1].split('- uses: actions/upload-artifact')[0]

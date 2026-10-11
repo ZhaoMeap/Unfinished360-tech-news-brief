@@ -30,6 +30,7 @@ class Observation:
     social: str = ''
     label: str = 'Reported'
     evidence_level: str = 'C'
+    stable_id: str = ''
 
 
 @dataclass
@@ -54,7 +55,7 @@ class Event:
 
     @property
     def event_id(self):
-        return event_id(min(self.observations,key=lambda o:(o.seen,o.article.url)).article)
+        return next((o.stable_id for o in self.observations if o.stable_id),event_id(min(self.observations,key=lambda o:(o.seen,o.article.url)).article))
 
 
 def timestamp(path, data=None):
@@ -144,7 +145,7 @@ def read_json(path):
         label=evidence.label
         # Paraphrase recognized claims only, not the original public snippet.
         facts = labeled_facts(' '.join(explain(article,topic_for(article),label)['sentences'])) if evidence.level in ('A','B') else ''
-        output.append(Observation(article,seen,str(path),facts,'',label,evidence.level))
+        output.append(Observation(article,seen,str(path),facts,'',label,evidence.level,proof.get('event_id','')))
     return output
 
 
@@ -177,7 +178,7 @@ def load_observations(root, now, start=None, end=None):
 def deduplicate(rows):
     events = []
     for row in rows:
-        event = next((e for e in events if any(same_event(row.article,o.article) for o in e.observations)),None)
+        event = next((e for e in events if any((row.stable_id and row.stable_id==o.stable_id) or same_event(row.article,o.article) for o in e.observations)),None)
         if event is None:
             event = Event()
             events.append(event)

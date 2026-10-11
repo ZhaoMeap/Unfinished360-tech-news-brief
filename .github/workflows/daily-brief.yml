@@ -14,19 +14,19 @@ on:
         default: false
 
 permissions:
-  contents: read
+  contents: write
 
 concurrency:
-  group: daily-brief-${{ github.ref }}
+  group: technology-brief-history
   cancel-in-progress: false
 
 jobs:
   brief:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 20
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
         with:
           python-version: '3.12'
           cache: pip
@@ -35,7 +35,14 @@ jobs:
         run: python -m unittest discover -s tests -v
       - name: Generate dry-run editor report
         if: ${{ github.event_name != 'workflow_dispatch' || !inputs.send_email }}
-        run: python -m src.main --dry-run --editor
+        # Runner calls the existing dry-run/editor renderer; no email transport.
+        # Claims and results are fast-forward persisted before/after collection.
+        env:
+          GH_TOKEN: ${{ github.token }}
+          LOOKBACK_HOURS: '48'
+        run: |
+          gh auth setup-git --hostname github.com
+          python -m scripts.run_daily_slots
       - name: Explicit email run
         if: ${{ github.event_name == 'workflow_dispatch' && inputs.send_email }}
         env:
@@ -46,7 +53,7 @@ jobs:
           MAIL_FROM: ${{ secrets.MAIL_FROM }}
           MAIL_TO: ${{ secrets.MAIL_TO }}
         run: python -m src.main --send-email
-      - uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v7
         if: always()
         with:
           name: technology-brief-${{ github.run_id }}

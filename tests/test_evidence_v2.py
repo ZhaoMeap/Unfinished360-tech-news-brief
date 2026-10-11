@@ -38,3 +38,8 @@ class EvidenceTests(unittest.TestCase):
         unknown=Article('An unnamed team announces a study','https://blog.google/b','官方：Google',None,'',[])
         self.assertEqual(subjects(unknown),[])
         self.assertTrue(company_cards(unknown)[0]['fallback'])
+
+    def test_preview_is_not_a_verified_product_event(self):
+        a=Article("What to expect from Apple's launch event",'https://example.com/preview','The Verge',None,
+                  'Apple is coming up on its launch event. We expect smart home announcements and product refreshes.',[],'public summary')
+        self.assertEqual(assess(a).level,'C')

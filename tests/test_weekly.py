@@ -140,7 +140,7 @@ class WeeklyTests(unittest.TestCase):
     def test_weekly_workflow_schedule_restore_and_no_smtp(self):
         text=(Path(__file__).resolve().parents[1]/'.github/workflows/weekly-report.yml').read_text(encoding="utf-8")
         for value in ("cron: '0 12 * * 0'",'workflow_dispatch:','actions: read',
-                      'restore_daily_artifacts.py','python -m src.main --weekly --dry-run',
+                      'scripts.restore_weekly_history','python -m src.main --weekly --dry-run',
                       'reports/weekly/*.md','weekly-tech-report-${{ github.run_id }}','retention-days: 14'):
             self.assertIn(value,text)
         self.assertNotIn('SMTP',text)

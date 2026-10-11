@@ -9,7 +9,7 @@ from .fetch_sources import is_official
 from .story_narrative import COMPANIES, product_names
 
 ACTIONS = r'launch|releas|announc|introduc|unveil|patch|isolat|evaluat|cutting off|tamper|theft|vulnerab|study|benchmark|deploy|manufactur|發布|推出|評測|修補|竄改|測試|研究'
-EXTRA = {'Ledger':['Ledger'], 'AMD':['AMD'], 'Intel':['Intel'], 'TSMC':['TSMC','台積電'],
+EXTRA = {'Ollama':['Ollama'], 'Hugging Face':['Hugging Face','HuggingFace'], 'Ledger':['Ledger'], 'AMD':['AMD'], 'Intel':['Intel'], 'TSMC':['TSMC','台積電'],
          'Linux Foundation':['Linux Foundation'], 'OpenBMC':['OpenBMC'], 'Kubernetes':['Kubernetes']}
 
 
@@ -31,6 +31,8 @@ class Evidence:
 def assess(article):
     if article.source in ('Hacker News','Reddit','X'):
         return Evidence('C','Rumor','社群是討論樣本，不是新聞事實')
+    if re.search(r'what to expect|\brumou?rs?\b|we (?:are )?expect|預測|傳聞|展會預告', article.title+' '+article.short_snippet,re.I):
+        return Evidence('C','Reported','內容是預告／傳聞或預期，尚不是已發生且可核對的產品事件')
     snippet = re.sub(r'https://\S+','',article.short_snippet).strip()
     if article.quality_hint not in ('public summary','official summary'):
         return Evidence('C','Reported','只有標題／metadata；未取得足以支持事件解說的公開摘要')

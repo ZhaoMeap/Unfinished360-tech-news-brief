@@ -37,7 +37,7 @@ V3 根據自動候選的 title、source、published_at、tags／主題、descrip
 
 「目前知道」只描述已取得的標題／短摘錄提供哪些線索；metadata 不會寫成已確認事件。官方的 `[Confirmed]` 也僅代表發布者提供資訊。影響、主線、值得看的理由與使用建議均為 `[Analysis]`。沒有對應原始 URL 的社群討論，就明確說沒有取得對應討論，不把其他話題的留言套用過來。
 
-每則重點改為「這篇新聞在講什麼？」的 5–8 句繁體中文說明，再附工程師應注意的功能／架構、技術限制、可核對的解法、應用場景，以及 2–3 句可開場的 Podcast 說法。只重寫可辨識的事件：例如營收報導保留公司、期間、幣別與年增／月增方向；模擬工具說清摘要明示的素材、物理、渲染與檢查步驟；代理報導保留來源實際點名的公司、產品與發表場合。不把來源 URL 的數字當事件數字，也不把百分比脫離指標。沒有可靠可辨識的動作，就說明已知主體與缺少的事件資訊，不套用一個假故事。
+A/B 級的每則重點改為「這篇新聞在講什麼？」的 5–8 句繁體中文說明，再附工程師應注意的功能／架構、技術限制、可核對的解法、應用場景，以及 2–3 句可開場的 Podcast 說法。只重寫可辨識的事件：例如營收報導保留公司、期間、幣別與年增／月增方向；模擬工具說清摘要明示的素材、物理、渲染與檢查步驟；代理報導保留來源實際點名的公司、產品與發表場合。不把來源 URL 的數字當事件數字，也不把百分比脫離指標。沒有可靠可辨識的動作，就說明已知主體與缺少的事件資訊，不套用一個假故事。
 
 產品與技術名稱只從取得的資訊辨識；應用場景與工程驗證建議標為條件式 `[Analysis]`，不當成公司已推出的功能。只有 AI 字樣時不推論硬體訂單。這是有限公開資訊的簡報，不保證每個新事件都能由規則完整翻譯，也不自動讀全文；完整文章若必須補查，請由讀者合法閱讀。
 
@@ -170,7 +170,7 @@ Engineering Lens 的工程問題、應用與限制保留在 Explain Mode 中：�
 
 每日報告請到 GitHub repo → **Actions → Daily technology brief → 該次 run → Artifacts**，下載 `technology-brief-<run_id>`，解壓後查看 `daily/YYYY-MM-DD_HHMM_editor.md`；artifact 保留 **7 天**，沒有報告檔時上傳步驟只警告。手動測試：**GitHub repo → Actions → Daily technology brief → Run workflow**；不勾 `send_email` 就產生 dry-run editor report，不寄信。GitHub 排程可能延遲，閒置公開 repo 的排程也可能被停用；可在 Actions 查看是否啟用。
 
-三次 editor 報告是**每日素材，不是正式 Podcast 內容**。檔名的 `HHMM` 使用實際執行時的台灣時間（排程延遲時會與預定分鐘不同），不同時段不互相覆蓋；同一分鐘重跑仍會寫入相同檔名。Weekly Curator 使用這些 daily reports 進行去重、合併、主題聚類與 Podcast 選題。Actions 每次上傳 `reports/**/*.md`，可在該次 run 的 artifact 下載；報告不自動提交到 repo，7 天後的素材若要留作週報請先下載保存。
+三次 editor 報告是**每日素材，不是正式 Podcast 內容**。Actions 檔名的 `HHMM` 使用預定 slot 的台灣時間，報告另記實際收集時間；本機手動 CLI 使用實際時間。已完成 slot 不重新收集。Weekly Curator 使用這些 daily reports 進行去重、合併、主題聚類與 Podcast 選題。Actions 每次上傳 `reports/**/*.md`，可在該次 run 的 artifact 下載；Actions 另將素材與執行紀錄保存到同 repo 的 `brief-history` 分支，artifact 是方便下載的副本。
 
 ## Weekly Curator：Ray 的 Podcast 選題週報
 
@@ -180,21 +180,21 @@ Engineering Lens 的工程問題、應用與限制保留在 Explain Mode 中：�
 python -m src.main --weekly --dry-run
 ```
 
-讀取執行時間往前七天的 `reports/daily/*.md`，以及選填的 `data/daily/*.json`。日報檔名中的台灣時間作為收集時間，未來時間與過期檔案不納入。週報輸出 `reports/weekly/YYYY-Www_weekly.md`（ISO 週數，年末可能屬於相鄰 ISO 年）；同一週重跑會更新該週報。
+讀取最近一次到期週日排程所屬 ISO 週的 `reports/daily/*.md` 與 `data/daily/*.json`；可用 `--week YYYY-Www` 指定週別。優先使用實際收集時間，舊檔沒有紀錄時才從檔名推定，週外資料不納入。週報輸出 `reports/weekly/YYYY-Www_weekly.md`（ISO 週數，年末可能屬於相鄰 ISO 年）；同一週重跑會更新該週報。
 
-基本規則：相同 URL（忽略追蹤參數）或高度相似標題合併成事件；不同數字、相反動作不因標題近似合併。相同公司／產品／技術主題再聚類成主線，保留事件與來源連結、首次／最後出現時間、出現次數與來源名稱數量。來源數量不是獨立查證數，素材重複不提升可信度。三至五條主線與最多三個 Podcast 推薦依實際素材產生；素材不足明示缺口，不湊題。財務／人物或只有標題的題目降低為觀察。
+基本規則：相同 URL（忽略追蹤參數）或高度相似標題合併成事件；不同數字、相反動作不因標題近似合併。同公司／產品／技術只提供主題觀察，獨立事件各自成段，保留事件與來源連結、首次／最後出現時間、出現次數與來源名稱數量。來源數量不是獨立查證數，素材重複不提升可信度。三至五條主線與最多三個 Podcast 推薦依實際素材產生；素材不足明示缺口，不湊題。財務／人物或只有標題的題目降低為觀察。
 
-JSON 可用六欄 metadata 陣列，檔名如 `2026-10-11_0900.json`；也支援 `{ "collected_at": "2026-10-11T09:00:00+08:00", "articles": [...] }`。article 欄位為 `title`、`url`、`source`、`published_at`、`short_snippet`、`tags`，沒有正文欄位。日報與 JSON 的相同時間／URL 不重複計數。現階段 daily workflow 不產出 JSON，先由 Markdown 運作；JSON 的社群留言不當成新聞事實。
+JSON 可用六欄 metadata 陣列，檔名如 `2026-10-11_0900.json`；也支援 `{ "collected_at": "2026-10-11T09:00:00+08:00", "articles": [...] }`。article 欄位為 `title`、`url`、`source`、`published_at`、`short_snippet`、`tags`，沒有正文欄位。日報與 JSON 的相同時間／URL 不重複計數。daily workflow 同時保存 JSON snapshot 與 Markdown；JSON 的社群留言不當成新聞事實。
 
-GitHub Actions **Weekly technology curator** 每週日台灣時間 **20:00**（UTC `0 12 * * 0`）執行；也可 **Actions → Weekly technology curator → Run workflow** 手動測試。每次 runner 是新工作區，所以週報會先以 GitHub 內建 token 的 `actions: read` 權限下載本 repo、main 分支、近七天的 `technology-brief-*` daily artifacts，再整理週報；不需要額外 token 或 SMTP Secrets。未有素材、artifact 過期或下載失敗時會警告，週報如實顯示缺口。尚未在真實 Actions run 驗證下載權限，請以 run 紀錄確認。
+GitHub Actions **Weekly technology curator** 每週日台灣時間 **20:00**（UTC `0 12 * * 0`）執行；也可 **Actions → Weekly technology curator → Run workflow** 手動測試。每次 runner 是新工作區，所以週報會先以 GitHub 內建 token 的 `contents: read` 權限讀取本 repo 的 `brief-history` 持久分支，必要時以 `actions: read` 下載 main run 的 artifact 作為過渡 fallback，再整理週報；不需要額外 token 或 SMTP Secrets。未有素材或下載失敗會記錄 restore_status，週報標 Partial；致命還原錯誤使 job 失敗，不再隱藏。尚未在真實 Actions run 驗證下載權限，請以 run 紀錄確認。
 
 下載週報：**Actions → Weekly technology curator → 該次 run → Artifacts → `weekly-tech-report-<run_id>`**；保留 **14 天**。週報不自動寄信，`--weekly` 即使搭配 `--send-email` 也只產出週報。它只整理本機素材，不重新抓新聞、不繞過付費牆、不抓／輸出全文；社群僅整理日報裡有抽樣標記的實際討論，沒有時改列 `[Analysis]` 工程提問。
 
 ## Company Context：公司背景卡
 
-Daily Editor Report 每則重點先附「公司背景卡：這家公司是誰？」，讓 Ray 不必另外查公司，再依序說明事件、技術背景、科技業影響、工程問題、未來觀察、社群、Podcast 角度與查證清單。公司卡包含類型、核心業務、產品、客戶類型、生態定位及與本次新聞的關聯；不以股價、毛利或營收判斷技術價值。
+Daily Editor Report 的 A/B 級重點先附「公司背景卡：這家公司是誰？」，讓 Ray 不必另外查公司，再依序說明事件、技術背景、科技業影響、工程問題、未來觀察、社群、Podcast 角度與查證清單。公司卡包含類型、核心業務、產品、客戶類型、生態定位及與本次新聞的關聯；不以股價、毛利或營收判斷技術價值。
 
-背景快取在 `data/company_profiles/*.json`，目前收錄 NVIDIA、Anthropic、Google、OpenAI、Microsoft、群聯、臻鼎；依名稱、別名與可信官方發布者匹配，每次讀取快取，不自動重新抓公司頁面。新增公司可增加同格式 JSON，更新時同步調整 `last_updated`。這個日期是背景整理日期，不是即時官方查核時間。官方參考 URL 可用於後續核對；本次 about 頁面請求遭雲端代理拒絕，初始快取是人工整理的一般背景，以 `[Company Context] [Background]` 呈現，不冒充剛查到的 `[Confirmed]` 資料。
+背景快取在 `data/company_profiles/*.json`，目前收錄 NVIDIA、Anthropic、Google、OpenAI、Microsoft、群聯、臻鼎；依新聞 title／snippet 的名稱與別名匹配，不從官方發布者推定事件公司，每次讀取快取，不自動重新抓公司頁面。新增公司可增加同格式 JSON，更新時同步調整 `last_updated`。這個日期是背景整理日期，不是即時官方查核時間。官方參考 URL 可用於後續核對；本次 about 頁面請求遭雲端代理拒絕，初始快取是人工整理的一般背景，以 `[Company Context] [Background]` 呈現，不冒充剛查到的 `[Confirmed]` 資料。
 
 排名或市佔率只有來源明確支持時才可寫；目前背景卡不輸出數字排名，快取若含「全球最大／市場龍頭」等未核對宣稱，會改成缺少可驗證排名資料。沒有背景快取仍正常產出 report，明寫「公司背景不足，僅能根據本次新聞與公開來源描述其角色」。背景卡與新聞事實分開，影響與未來展望標 `[Analysis]`；不以社群發言或 metadata 宣稱公司技術已驗證。
 
@@ -213,3 +213,13 @@ Daily workflow 位於預設分支 `main` 的 `.github/workflows/daily-brief.yml`
 若沒有排程紀錄，請到 **Actions → Daily technology brief** 查看是否有停用提示或 **Enable workflow**；再到 **Settings → Actions → General** 確認 Actions 未被 repo／組織政策停用，以及 **Settings → General → Default branch** 是否仍為 main。公開 repo 連續 60 天沒有活動，GitHub 可能停用排程；組織限制需管理員核對。也可查看 GitHub Status 的 Actions 事件。必要時用 **Run workflow** 手動補跑，保持 `send_email` 不勾選。
 
 本次 Git 讀取確認 workflow 已在遠端 main，且 main 為預設分支；GitHub API 查詢 workflow 狀態回傳 Forbidden，因此無法確認平台啟用狀態或判定 2026/10/11 09:00 沒有觸發的確切原因。排程改動不影響 SMTP 安全條件：schedule 只產生 dry-run editor，無需 SMTP Secrets；artifact 保留 7 天。
+
+## v2.0 Reliability & Editorial Quality
+
+這次升級保留 V3 九段，但**只有證據 A/B 的事件**才產生詳細內容；C（headline／metadata）只出簡短候選，避免把通用工程知識寫成事件分析。A 是足夠的一手公開摘要；B 是有主體／動作／細節的公開報導；C 仍需摘要或官方文件。官方摘要也不代表獨立驗證效果。
+
+Daily 與 watchdog 使用同 repo 的 **brief-history 分支**保存 slot ledger、六欄 metadata、來源診斷與日報，補跑範圍預設 48 小時、可手動設 1–168 小時。補跑只抓「現在」內容，明示 scheduled/actual/catch-up，不冒充歷史新聞；跨 runner 讀 ledger，已完成 slot 不重複抓取。watchdog 的 GitHub cron 仍可能漏跑，並非獨立可靠性保證。
+
+Weekly 使用明確 ISO week。週日任務延遲到週一仍整理原週；可執行 `python -m src.main --weekly --dry-run --week 2026-W41`。週報以**獨立事件**為單位，附事件 ID、來源覆蓋、證據級別、六面向 Podcast 分數與完整性計數。Sunday 20:00 當下尚有 21:17 slot 未到期，不能宣稱整週完整。
+
+完整根因、schema、權限、復原指令、首次 Actions 驗收與限制請讀 [operations-v2.md](docs/operations-v2.md)。本次以 feature branch／PR 交付，未修改 production main。新增來源網域與 GitHub API 已寫入雲端環境草稿，需在環境設定 Review/Save/Publish；不保證 upstream 或 API 權限。

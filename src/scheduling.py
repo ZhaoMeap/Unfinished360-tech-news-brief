@@ -117,7 +117,14 @@ def completeness(root,now,start,end):
                     errors.append(f'{slot_id(slot)} 的報告校驗失敗')
                     counts['missing']+=1
                     continue
-                actual=datetime.fromisoformat(record['actual_started_at_utc'])
+                try:
+                    actual=datetime.fromisoformat(record['actual_started_at_utc'])
+                    if actual.tzinfo is None:
+                        raise ValueError('missing timezone')
+                except (KeyError, TypeError, ValueError):
+                    errors.append(f'{slot_id(slot)} 的實際收集時間無效')
+                    counts['missing']+=1
+                    continue
                 if not start<=actual<end:
                     errors.append(f'{slot_id(slot)} 於週範圍外補跑，不代表歷史內容已還原')
                 counts['completed']+=1
