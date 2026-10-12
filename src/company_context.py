@@ -50,7 +50,7 @@ def load_profiles(folder: Path = CACHE):
 def company_cards(article, folder: Path = CACHE):
     profiles = load_profiles(folder)
     text = article.title + ' ' + article.short_snippet
-    publisher = article.source.removeprefix('官方：') if article.source.startswith('官方：') and is_official(article.url) else ''
+    publisher = ''  # Publication owner is not evidence of the event subject.
     cards = []
     for profile in profiles:
         aliases = [profile['name']] + profile['aliases']

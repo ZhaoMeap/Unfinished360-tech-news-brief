@@ -4,6 +4,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 from unittest.mock import patch
 
+from editor_fixture import generated
 from src.community import Discussion
 from src.editor_report import render_editor_report, social_summary, topic_for, rank_candidates, score
 from src.fetch_sources import Article, SourceResult
@@ -26,7 +27,7 @@ def candidates():
         ('The Verge', 'Gaming platform changes fees'),
     ]
     return [SourceResult(source, [Article(title, f'https://example.com/{i}', source, NOW.isoformat(),
-             'Public description about the topic and its proposed plans for developers.', ['AI'])], 'ok')
+             'Microsoft announced testing and deployment tools for developers. The release describes a developer API and supported workflow.', ['AI'], 'public summary')], 'ok')
             for i, (source, title) in enumerate(titles)]
 
 
@@ -52,14 +53,15 @@ class EditorTests(unittest.TestCase):
             self.assertEqual(len(set(paths)), 3)
             self.assertTrue(all(path.is_file() for path in paths))
 
-    def test_full_report_format_timezone_and_other_candidates(self):
+    @patch('src.editor_report.synthesize', side_effect=generated)
+    def test_full_report_format_timezone_and_other_candidates(self, synthesis):
         with tempfile.TemporaryDirectory() as tmp:
             path, subject, body = render_editor_report(candidates(), Path(tmp), NOW)
             self.assertEqual(path.name, '2026-10-11_0100_editor.md')
             self.assertEqual(path.parent, Path(tmp) / 'daily')
             self.assertEqual(subject, '還沒想到科技編輯簡報 - 2026/10/11')
             self.assertEqual(path.read_text(encoding="utf-8"), body)
-        for heading in ('今日科技主線', '今天最值得追的 3 則新聞', '其他候選新聞', '今日資料缺口', 'Ray 今天可以怎麼用'):
+        for heading in ('今日科技主線', '今天可用的 Podcast 新聞素材（3 則）', '未選入主題的來源索引', '今日資料缺口', 'Ray 今天可以怎麼用'):
             self.assertIn('# ' + heading, body)
         for heading in ('1. 公司背景卡：這家公司是誰？', '2. 先講人話：這篇新聞在講什麼？',
                         '3. 背景補充：工程小白需要先懂什麼？', '4. 對科技業的影響是什麼？',
@@ -68,18 +70,19 @@ class EditorTests(unittest.TestCase):
             self.assertEqual(body.count('### ' + heading), 3)
         for field in ('來源','來源連結','可信度標籤'):
             self.assertEqual(body.count('**' + field + '：**'), 3)
-        thread = body.split('# 今日科技主線\n')[1].split('# 今天最值得追')[0]
-        self.assertEqual(thread.count('[Analysis]'), 4)
-        other = body.split('# 其他候選新聞\n')[1].split('# 今日資料缺口')[0]
+        thread = body.split('# 今日科技主線\n')[1].split('# 今天可用')[0]
+        self.assertEqual(thread.count('[Analysis]'), 3)
+        other = body.split('# 未選入主題的來源索引\n')[1].split('# 今日資料缺口')[0]
         self.assertEqual(other.count('- [Analysis] 觀察：'), 5)
-        self.assertIn('metadata 不等於事件已確認', body)
+        self.assertIn('**證據：**', body)
         self.assertNotIn('毛利率', body)
         self.assertNotIn('法說指引', body)
         self.assertNotIn('待人工補充', body)
 
-    def test_explain_background_is_separate_and_gaps_are_last(self):
+    @patch('src.editor_report.synthesize',side_effect=generated)
+    def test_explain_background_is_separate_and_gaps_are_last(self,synthesis):
         item = Article('Omniverse simulations with AI agents', 'https://blogs.nvidia.com/test',
-                       '官方：NVIDIA', NOW.isoformat(), 'Connecting physics and rendering.', [])
+                       '官方：NVIDIA', NOW.isoformat(), 'NVIDIA announced tools connecting physics and rendering for developers. The release describes a workflow for simulation testing.', [], 'public summary')
         explanation = explain(item, topic_for(item), 'Confirmed')
         self.assertTrue(5 <= len(explanation['sentences']) <= 8)
         self.assertTrue(explanation['sentences'][0].startswith('[Confirmed]'))
@@ -93,7 +96,7 @@ class EditorTests(unittest.TestCase):
             _, _, body = render_editor_report([SourceResult(item.source, [item], 'ok')], Path(tmp), NOW)
         self.assertIn('[Background]', body)
         self.assertIn('不是實際網友發言', body)
-        story = body.split('\n## 1.')[1].split('\n# 其他候選新聞')[0]
+        story = body.split('\n## 1.')[1].split('\n# 未選入主題的來源索引')[0]
         self.assertLess(story.index('背景補充'), story.index('仍需查證'))
         self.assertNotIn('合法閱讀', story)
         self.assertEqual(body.count('完整文章如需補查'), 1)
@@ -111,7 +114,7 @@ class EditorTests(unittest.TestCase):
     def test_engineering_ranking_deprioritizes_finance_even_with_ai_tags(self):
         rows = candidates() + [SourceResult('DIGITIMES', [Article('TPCA Show AI computing keynote', 'https://example.com/event', 'DIGITIMES', NOW.isoformat(), 'New features for server chip architecture at the event.', ['AI'])], 'ok'), SourceResult('官方：Google', [Article('Play Fest prizes and daily deals', 'https://example.com/promo', '官方：Google', NOW.isoformat(), 'Gaming leagues and rewards.', ['AI'])], 'ok'), SourceResult('官方：NVIDIA', [Article(
             'Omniverse simulation with AI agents', 'https://blogs.nvidia.com/new',
-            '官方：NVIDIA', NOW.isoformat(), 'Connecting physics and rendering.', ['AI'])], 'ok')]
+            '官方：NVIDIA', NOW.isoformat(), 'NVIDIA announced tools connecting physics and rendering for developers. The release describes a workflow for simulation testing.', ['AI'], 'public summary')], 'ok')]
         chosen, others = rank_candidates(rows, NOW, [])
         self.assertTrue(any('simulation' in a.title for a in chosen))
         self.assertFalse(any('revenue' in a.title or 'funding' in a.title or 'Play Fest' in a.title or 'keynote' in a.title for a in chosen))
@@ -120,7 +123,7 @@ class EditorTests(unittest.TestCase):
 
     def test_engineering_limits_and_solutions_do_not_invent_evidence(self):
         article = Article('Omniverse simulation with AI agents', 'https://example.com/a',
-                          'Media', NOW.isoformat(), 'Connecting physics and rendering.', [])
+                          'Media', NOW.isoformat(), 'NVIDIA announced tools connecting physics and rendering for developers. The release describes a workflow for simulation testing.', [], 'public summary')
         lens = engineering_lens(article, topic_for(article))
         self.assertIn('來源未提供', lens['limits'])
         self.assertIn('實體測試', lens['limits'])
@@ -209,9 +212,10 @@ class EditorTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as tmp:
             _, _, body = render_editor_report([SourceResult(item.source, [item], 'ok')], Path(tmp), NOW)
         self.assertNotIn('**可信度標籤：** [Confirmed]', body)
-        self.assertIn('title only', body)
+        self.assertIn(item.title, body)
         self.assertIn('目前沒有足夠公開資訊', body)
-        self.assertIn('可重現測試', body)
+        self.assertNotIn('暫不生成九段分析', body)
+        self.assertNotIn('## 1.', body)
 
     def test_social_only_exact_url_and_no_consensus(self):
         article = candidates()[0].articles[0]
@@ -224,7 +228,8 @@ class EditorTests(unittest.TestCase):
         self.assertIn('抽樣 6 位', summary)
         self.assertIn('樣本不代表共識', summary)
 
-    def test_editor_cli_generates_report_no_email_and_preserves_radar(self):
+    @patch('src.editor_report.synthesize', side_effect=generated)
+    def test_editor_cli_generates_report_no_email_and_preserves_radar(self, synthesis):
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)
             (root / 'reports').mkdir()

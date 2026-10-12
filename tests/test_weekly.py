@@ -7,6 +7,7 @@ from datetime import datetime, timedelta
 from pathlib import Path
 from unittest.mock import patch
 
+from editor_fixture import generated
 from scripts.restore_daily_artifacts import restore_zip
 from src.editor_report import render_editor_report
 from src.fetch_sources import Article, SourceResult
@@ -18,11 +19,12 @@ NOW = datetime(2026,10,11,20,tzinfo=TAIPEI)
 
 
 def article(title='Omniverse simulation with AI agents',url='https://blogs.nvidia.com/test'):
-    return Article(title,url,'官方：NVIDIA',NOW.isoformat(),'Connecting physics and rendering and assembling assets.',[])
+    return Article(title,url,'官方：NVIDIA',NOW.isoformat(),'NVIDIA announced tools connecting physics and rendering and assembling assets. Developers can test scenes with the release.',[],'public summary')
 
 
 def daily(root,when,item=None):
-    render_editor_report([SourceResult('官方：NVIDIA',[item or article()],'ok')],root/'reports',when)
+    with patch('src.editor_report.synthesize',side_effect=generated):
+        render_editor_report([SourceResult('官方：NVIDIA',[item or article()],'ok')],root/'reports',when)
 
 
 class WeeklyTests(unittest.TestCase):
@@ -60,7 +62,7 @@ class WeeklyTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as tmp:
             root=Path(tmp);daily(root,NOW)
             folder=root/'data/daily';folder.mkdir(parents=True)
-            payload={'collected_at':NOW.isoformat(),'articles':[article().metadata()]}
+            payload={'collected_at':NOW.isoformat(),'articles':[article().metadata()], 'evidence':{'https://blogs.nvidia.com/test':{'quality_hint':'public summary'}}}
             (folder/'2026-10-11_2000.json').write_text(json.dumps(payload), encoding="utf-8")
             (folder/'2026-10-10_0900.json').write_text('{broken', encoding="utf-8")
             rows,warnings=load_observations(root,NOW)
@@ -74,6 +76,7 @@ class WeeklyTests(unittest.TestCase):
             sample = """Subject: sample
 ## 1. Omniverse simulations with AI agents
 - **來源：** [官方：NVIDIA](<https://blogs.nvidia.com/sample>)；2026-10-10；official source / 4。
+- **證據：** A；官方公開摘要。
 ### 1. 先講人話：這篇新聞在講什麼？
 [Confirmed] NVIDIA 提到模擬開發流程。[Analysis] 可能縮短測試時間。
 ### 5. 網路上的人可能會怎麼看？
@@ -107,7 +110,7 @@ class WeeklyTests(unittest.TestCase):
             rows,_=load_observations(root,NOW)
             events=deduplicate(rows)
             self.assertEqual(len(events),2)
-            self.assertEqual(len(cluster(events)),1)
+            self.assertEqual(len(cluster(events)),2)
 
     def test_weekly_cli_is_offline_and_never_emails(self):
         for args in (['brief','--weekly','--dry-run'],['brief','--weekly','--send-email']):
@@ -121,7 +124,7 @@ class WeeklyTests(unittest.TestCase):
 
     def test_iso_year_boundary(self):
         with tempfile.TemporaryDirectory() as tmp:
-            path,_,_=render_weekly(Path(tmp),datetime(2027,1,1,tzinfo=TAIPEI))
+            path,_,_=render_weekly(Path(tmp),datetime(2027,1,1,tzinfo=TAIPEI),iso_week='2026-W53')
             self.assertEqual(path.name,'2026-W53_weekly.md')
 
     def test_artifact_restore_filters_paths_and_restores_only_daily_markdown(self):
@@ -139,7 +142,7 @@ class WeeklyTests(unittest.TestCase):
     def test_weekly_workflow_schedule_restore_and_no_smtp(self):
         text=(Path(__file__).resolve().parents[1]/'.github/workflows/weekly-report.yml').read_text(encoding="utf-8")
         for value in ("cron: '0 12 * * 0'",'workflow_dispatch:','actions: read',
-                      'restore_daily_artifacts.py','python -m src.main --weekly --dry-run',
+                      'scripts.restore_weekly_history','python -m src.main --weekly --dry-run',
                       'reports/weekly/*.md','weekly-tech-report-${{ github.run_id }}','retention-days: 14'):
             self.assertIn(value,text)
         self.assertNotIn('SMTP',text)

@@ -2,6 +2,8 @@ import json
 import tempfile
 import unittest
 from pathlib import Path
+from unittest.mock import patch
+from editor_fixture import generated
 
 from src.company_context import CACHE, company_cards, load_profiles
 from src.editor_report import render_editor_report
@@ -27,7 +29,8 @@ class CompanyContextTests(unittest.TestCase):
             a=Article('UnknownCorp launches a tool','https://example.com/news','Media',None,'',[])
             self.assertTrue(company_cards(a,folder)[0]['fallback'])
             _,_,body=render_editor_report([SourceResult('Media',[a],'ok')],folder/'reports')
-            self.assertIn('公司背景不足',body)
+            self.assertIn('素材索引',body)
+            self.assertNotIn('## 1.',body)
             self.assertNotIn('世界第一',body)
             self.assertNotIn('市場龍頭',body)
 
@@ -46,11 +49,12 @@ class CompanyContextTests(unittest.TestCase):
         fake=Article('Research update','https://example.com/fake','官方：Google',None,'',[])
         self.assertTrue(company_cards(fake)[0]['fallback'])
         official=Article('Clinical research','https://blog.google/test','官方：Google',None,'',[])
-        self.assertEqual(company_cards(official)[0]['name'],'Google')
+        self.assertTrue(company_cards(official)[0]['fallback'])
         self.assertTrue(company_cards(Article('NVIDIAish tools','https://example.com','Media',None,'',[]))[0]['fallback'])
 
-    def test_all_main_stories_have_context_fields_and_nine_sections(self):
-        rows=[SourceResult('Media',[Article(f'{name} releases tools',f'https://example.com/{i}','Media',None,'',[])],'ok')
+    @patch('src.editor_report.synthesize',side_effect=generated)
+    def test_all_main_stories_have_context_fields_and_nine_sections(self,synthesis):
+        rows=[SourceResult('Media',[Article(f'{name} releases tools',f'https://example.com/{i}','Media',None,f'{name} announced testing tools for developers. The release describes an API and deployment workflow.',[],'public summary')],'ok')
               for i,name in enumerate(('NVIDIA','Anthropic','Google'))]
         with tempfile.TemporaryDirectory() as tmp:
             _,_,body=render_editor_report(rows,Path(tmp)/'reports')

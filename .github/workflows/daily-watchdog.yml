@@ -1,0 +1,49 @@
+name: Daily slot watchdog
+
+on:
+  schedule:
+    # Bounded catch-up; this is still GitHub cron, NOT an independent guarantee.
+    - cron: '43 * * * *'
+  workflow_dispatch:
+    inputs:
+      lookback_hours:
+        description: 'Recovery lookback 1–168 hours; default 48'
+        type: number
+        default: 48
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: technology-brief-history
+  cancel-in-progress: false
+
+jobs:
+  recover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+          cache: pip
+      - run: python -m pip install -r requirements.txt
+      - run: python -m unittest discover -s tests -v
+      - name: Recover missing daily slots (no email)
+        env:
+          GH_TOKEN: ${{ github.token }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_EDITOR_MODEL: ${{ vars.OPENAI_EDITOR_MODEL || 'gpt-4.1-mini' }}
+          LOOKBACK_HOURS: ${{ inputs.lookback_hours || 48 }}
+        run: |
+          gh auth setup-git --hostname github.com
+          python -m scripts.run_daily_slots
+      - uses: actions/upload-artifact@v7
+        if: always()
+        with:
+          name: technology-brief-${{ github.run_id }}
+          path: reports/**/*.md
+          if-no-files-found: warn
+          retention-days: 7
