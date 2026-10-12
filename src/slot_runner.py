@@ -28,13 +28,13 @@ def process_slots(root,now=None,run_id='local',lookback_hours=48,persist=lambda 
         # One actual fetch for the recovery batch: never pretend to fetch past content.
         results=fetch_sources(now)
         discussions=collect_community(results)
+        (root/'reports').mkdir(parents=True,exist_ok=True)
+        with tempfile.TemporaryDirectory(dir=root/'reports') as tmp:
+            _,_,body=render_editor_report(results,Path(tmp),now,discussions)
         for slot in claimed:
             key=slot_id(slot);record=ledger['slots'][key]
-            (root/'reports').mkdir(parents=True,exist_ok=True)
-            with tempfile.TemporaryDirectory(dir=root/'reports') as tmp:
-                _,_,body=render_editor_report(results,Path(tmp),now,discussions)
             target=root/'reports/daily'/f'{slot:%Y-%m-%d_%H%M}_editor.md'
-            banner=f'Collected at: {utc(now)}\nScheduled slot: {key}\nCatch-up: {record["catch_up"]}\nActual run: {run_id}\n\n'
+            banner=f'<!-- Collected at: {utc(now)}\nScheduled slot: {key}\nCatch-up: {record["catch_up"]}\nActual run: {run_id} -->\n\n'
             target.parent.mkdir(parents=True,exist_ok=True)
             target.write_text(banner+body,encoding='utf-8')
             save_snapshot(root,results,now,target,key)

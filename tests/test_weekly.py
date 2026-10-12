@@ -7,6 +7,7 @@ from datetime import datetime, timedelta
 from pathlib import Path
 from unittest.mock import patch
 
+from editor_fixture import generated
 from scripts.restore_daily_artifacts import restore_zip
 from src.editor_report import render_editor_report
 from src.fetch_sources import Article, SourceResult
@@ -22,7 +23,8 @@ def article(title='Omniverse simulation with AI agents',url='https://blogs.nvidi
 
 
 def daily(root,when,item=None):
-    render_editor_report([SourceResult('官方：NVIDIA',[item or article()],'ok')],root/'reports',when)
+    with patch('src.editor_report.synthesize',side_effect=generated):
+        render_editor_report([SourceResult('官方：NVIDIA',[item or article()],'ok')],root/'reports',when)
 
 
 class WeeklyTests(unittest.TestCase):

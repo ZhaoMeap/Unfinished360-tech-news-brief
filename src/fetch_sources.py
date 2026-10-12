@@ -134,14 +134,14 @@ def fetch_feed(session: requests.Session, source: str, url: str, now: datetime,
                 discussion_url = safe_url(entry.get("comments", ""))
                 if discussion_url and urlsplit(discussion_url).hostname == "news.ycombinator.com":
                     link = discussion_url
-            snippet = plain(raw_summary, 160)
+            snippet = plain(raw_summary, 400)
             tags = tags_for(title + " " + snippet)
             # Preserve one explicit primary-source link within the same bounded
             # metadata field; do not assume its claims have been verified.
             for anchor in BeautifulSoup(raw_summary, "html.parser").select("a[href]"):
                 candidate = safe_url(urljoin(url, anchor.get("href", "")))
                 if candidate and is_official(candidate) and len(candidate) <= 150:
-                    snippet = plain(raw_summary, 159 - len(candidate)) + " " + candidate
+                    snippet = plain(raw_summary, 399 - len(candidate)) + " " + candidate
                     break
             if not link or not title or link in seen or not recent(date, now):
                 continue
@@ -150,7 +150,7 @@ def fetch_feed(session: requests.Session, source: str, url: str, now: datetime,
             if not tags:
                 continue
             seen.add(link)
-            articles.append(Article(title, link, source, date, snippet, tags, "public summary" if raw_summary and len(plain(raw_summary, 500)) <= 400 else ""))
+            articles.append(Article(title, link, source, date, snippet, tags, "public summary" if raw_summary and len(plain(raw_summary, 1201)) <= 1200 else ""))
             if len(articles) >= MAX_ITEMS:
                 break
         return SourceResult(source, articles, f"已取得 {len(articles)} 則近 48 小時科技項目" if articles

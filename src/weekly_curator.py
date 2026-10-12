@@ -88,7 +88,7 @@ def labeled_facts(text):
 
 def read_markdown(path, seen):
     body = path.read_text(encoding='utf-8')
-    collected=re.search(r'^Collected at: (.+)$',body,re.M)
+    collected=re.search(r'^(?:<!-- )?Collected at: ([^\n]+)$',body,re.M)
     if collected:
         seen=datetime.fromisoformat(collected[1]).astimezone(TAIPEI)
     rows = []
@@ -105,14 +105,14 @@ def read_markdown(path, seen):
         # Keep actual sampled discussion only, never hypothetical questions.
         social = social.replace('\\[', '[').replace('\\]', ']')
         social = social if '[Rumor]' in social and '抽樣' in social else ''
-        date = re.search(r'；(\d{4}-\d{2}-\d{2}[^；\n]*)', block)
+        date = re.search(r'；(?:刊登時間 )?(\d{4}-\d{2}-\d{2}[^；\n]*)', block)
         label = 'Confirmed' if '[Confirmed]' in facts and is_official(link[2]) and link[1].startswith('官方：') else 'Reported'
         proof=re.search(r'\*\*證據：\*\* ([ABC])',block)
         level=proof[1] if proof else 'C'
         article = Article(title, link[2], link[1], date[1] if date else None, facts[:400], [], 'public summary' if level in ('A','B') else '')
         rows.append(Observation(article, seen, str(path), facts if level in ('A','B') else '', social[:700], label,level))
     # Secondary candidates are useful discovery signals, not facts.
-    other = re.search(r'^# 其他候選新聞\n(.*?)(?=^# |\Z)', body, re.M | re.S)
+    other = re.search(r'^# (?:其他候選新聞|未選入主題的來源索引)\n(.*?)(?=^# |\Z)', body, re.M | re.S)
     if other:
         for item in re.finditer(r'^- \[Analysis\] 觀察：(.*?) — \[([^\]]+)\]\(<(https://[^>]+)>\)', other[1], re.M):
             rows.append(Observation(Article(item[1],item[3],item[2],None,'',[]),seen,str(path)))
@@ -243,7 +243,7 @@ def render_weekly(root: Path, now: datetime | None = None, iso_week: str | None 
         followups.extend(ex['gaps'])
         names = '、'.join(sorted(g['products'] or g['companies']))
         lines += ['',f'## {index}. {md(o.article.title)}',
-                  f"事件 ID：{best.event_id}；證據 {o.evidence_level}；跨來源網域 {coverage([v.article for v in best.observations])}；Podcast 分數 {g['score']}/12。",
+                  f"證據 {o.evidence_level}；跨來源網域 {coverage([v.article for v in best.observations])}；Podcast 分數 {g['score']}/12。",
                   '[Analysis] 選題理由：'+md(g['topic'].name)+'；評分面向 '+md(str(g['dimensions']))+'。同主題的其他事件不併成事實。', '### 發生了什麼']
         for e in g['events'][:5]:
             r = e.representative
@@ -273,7 +273,7 @@ def render_weekly(root: Path, now: datetime | None = None, iso_week: str | None 
     lines += ['', '# 主題觀察（不是同一事件）']
     themes={}
     for g in groups:
-        themes.setdefault(g['topic'].name,[]).append(g['events'][0].event_id)
+        themes.setdefault(g['topic'].name,[]).append(g['events'][0].representative.article.title)
     lines += ['- [Analysis] '+md(name)+'：'+', '.join(ids)+'；僅屬主題相近。' for name,ids in themes.items() if len(ids)>1]
     lines += ['', '# 本週最適合 Podcast 的 3 個題目']
     podcasts = [g for g in groups if suitability(g)=='Podcast'][:3]

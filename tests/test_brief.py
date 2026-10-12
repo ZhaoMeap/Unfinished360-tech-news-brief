@@ -54,7 +54,7 @@ class FetchTests(unittest.TestCase):
         with patch("src.fetch_sources.download", return_value=feed):
             result = fetch_feed(MagicMock(), "Reuters", "https://example.com/feed", NOW)
         self.assertIn("https://blogs.microsoft.com/announcement", result.articles[0].short_snippet)
-        self.assertLessEqual(len(result.articles[0].short_snippet), 160)
+        self.assertLessEqual(len(result.articles[0].short_snippet), 400)
 
 
 class ReportTests(unittest.TestCase):

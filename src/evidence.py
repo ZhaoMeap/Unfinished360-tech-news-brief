@@ -36,7 +36,7 @@ def assess(article):
     snippet = re.sub(r'https://\S+','',article.short_snippet).strip()
     if article.quality_hint not in ('public summary','official summary'):
         return Evidence('C','Reported','只有標題／metadata；未取得足以支持事件解說的公開摘要')
-    if len(snippet) < 70 or not re.search(ACTIONS,article.title+' '+snippet,re.I) or not (subjects(article) or product_names(article.title+' '+snippet)):
+    if len(snippet) < (30 if re.search(r'[\u4e00-\u9fff]',snippet) else 70) or not re.search(ACTIONS,article.title+' '+snippet,re.I):
         return Evidence('C','Reported','公開線索仍缺少可辨識主體、動作或事件細節')
     if is_official(article.url) and article.source.startswith('官方：'):
         return Evidence('A','Confirmed','官方公開摘要有主體、動作與事件細節；只確認來源主張，不表示獨立實測')

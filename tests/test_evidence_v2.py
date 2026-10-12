@@ -17,7 +17,9 @@ class EvidenceTests(unittest.TestCase):
             with tempfile.TemporaryDirectory() as tmp:
                 _,_,body=render_editor_report([SourceResult('The Verge',[a],'ok')],Path(tmp))
             self.assertNotIn('### 1.',body)
-            self.assertIn('暫不生成九段分析',body)
+            self.assertNotIn('暫不生成九段分析',body)
+            self.assertNotIn('事件 ID',body)
+            self.assertNotIn('## 1.',body)
 
     def test_primary_and_reported_evidence_and_security_specific_analysis(self):
         a=Article('Ledger wallet tampering suspected','https://example.com/a','The Verge',None,

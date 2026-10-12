@@ -7,6 +7,11 @@ on:
     - cron: '17 1,7,13 * * *'
   workflow_dispatch:
     inputs:
+      editor_preview:
+        description: 'Generate a fresh editor preview without claiming completed slots'
+        type: boolean
+        required: false
+        default: false
       send_email:
         description: 'Explicitly send this run via SMTP (requires Secrets)'
         type: boolean
@@ -34,15 +39,23 @@ jobs:
       - name: Offline tests (no email sent)
         run: python -m unittest discover -s tests -v
       - name: Generate dry-run editor report
-        if: ${{ github.event_name != 'workflow_dispatch' || !inputs.send_email }}
+        if: ${{ github.event_name != 'workflow_dispatch' || (!inputs.send_email && !inputs.editor_preview) }}
         # Runner calls the existing dry-run/editor renderer; no email transport.
         # Claims and results are fast-forward persisted before/after collection.
         env:
           GH_TOKEN: ${{ github.token }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_EDITOR_MODEL: ${{ vars.OPENAI_EDITOR_MODEL || 'gpt-4.1-mini' }}
           LOOKBACK_HOURS: '48'
         run: |
           gh auth setup-git --hostname github.com
           python -m scripts.run_daily_slots
+      - name: Fresh editor preview (no email, no slot claims)
+        if: ${{ github.event_name == 'workflow_dispatch' && inputs.editor_preview && !inputs.send_email }}
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_EDITOR_MODEL: ${{ vars.OPENAI_EDITOR_MODEL || 'gpt-4.1-mini' }}
+        run: python -m src.main --dry-run --editor
       - name: Explicit email run
         if: ${{ github.event_name == 'workflow_dispatch' && inputs.send_email }}
         env:

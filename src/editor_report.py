@@ -18,6 +18,7 @@ from .explain_report import explain
 from .company_context import company_cards
 from .evidence import assess, event_id
 from .events import same_event
+from .editor_synthesis import synthesize
 
 
 @dataclass(frozen=True)
@@ -173,10 +174,11 @@ def rank_candidates(results, now, discussions):
             else:
                 candidates.append(article)
     candidates.sort(key=lambda a: (-score(a, now, discussions), a.url))
+    candidates = [a for a in candidates if assess(a).level in ('A','B')] + [a for a in candidates if assess(a).level == 'C']
     chosen = []
     while candidates and len(chosen) < 3:
         def adjusted(a):
-            return score(a, now, discussions) - 6 * sum(topic_for(a).name == topic_for(c).name for c in chosen) - 8 * sum(a.source == c.source for c in chosen)
+            return (100 if assess(a).level in ('A','B') else 0) + score(a, now, discussions) - 6 * sum(topic_for(a).name == topic_for(c).name for c in chosen) - 8 * sum(a.source == c.source for c in chosen)
         best = max(candidates, key=adjusted)
         chosen.append(best)
         candidates.remove(best)
@@ -246,26 +248,16 @@ TEMPLATE = '''Subject: {{ subject }}
 # 今日科技主線
 {% for sentence in thread %}{{ sentence }}
 
-{% endfor %}# 今天最值得追的 3 則新聞
-{% for story in stories %}{% if story.evidence.level == "C" %}
+{% endfor %}# 今天可用的 Podcast 新聞素材（{{ stories|length }} 則）
+{% for story in stories %}
 ## {{ loop.index }}. {{ story.title }}
-- **來源：** {{ story.ref }}；{{ story.article.published_at or "日期未知" }}；{{ story.quality.kind }}。
-- **可信度標籤：** [{{ story.label }}] 只作候選，不把 metadata 當事件已確認。
-- **證據：** C；事件 ID：{{ story.event_id }}。
-- {{ story.evidence.reason|escape_md }}。需公開事件摘要／官方文件，暫不生成九段分析。
-{% else %}
-## {{ loop.index }}. {{ story.title }}
-- **來源：** {{ story.ref }}；{{ story.article.published_at or '日期未知' }}；{{ story.quality.kind }} / {{ story.quality.score }}，資訊程度{{ story.quality.availability }}。
-- **可信度標籤：** [{{ story.label }}] {{ story.evidence.reason|escape_md }}。
-- **證據：** {{ story.evidence.level }}；事件 ID：{{ story.event_id }}。
+- **來源：** {{ story.ref }}；刊登時間 {{ story.article.published_at or '未提供' }}。
+- **可信度標籤：** [{{ story.label }}] 以下事件整理依據公開摘要。
+<!-- **證據：** {{ story.evidence.level }} -->
 
 ### 1. 公司背景卡：這家公司是誰？
 {% for company in story.companies %}- [Company Context] **公司名稱：** {{ company.name|escape_md }}
-{% if company.fallback %}- [Company Context] 公司背景不足，僅能根據本次新聞與公開來源描述其角色。
-- [Company Context] **公司類型／核心業務／主要產品：** 尚無可核對的背景快取；不由公司名稱推測業務。
-- [Company Context] **主要客戶或使用者類型：** 需公司 about／產品文件。
-- [Company Context] **產業地位／市場定位：** 目前僅能確認其公開定位，缺少可驗證排名資料。
-- [Company Context] **為什麼跟本次新聞有關：** 下段只解釋新聞可辨識的角色；公司背景尚未補齊。
+{% if company.fallback %}- [Company Context] 本次報導中的公司角色見下段事件說明；未收錄的公司背景不從名稱猜測。
 {% else %}- [Company Context] [Background] **公司類型：** {{ company.company_type|escape_md }}
 - [Company Context] [Background] **核心業務：** {{ company.core_business|escape_md }}
 - [Company Context] [Background] **主要產品／解決方案：** {{ company.main_products|join('、')|escape_md }}
@@ -288,8 +280,6 @@ TEMPLATE = '''Subject: {{ subject }}
 ### 5. 工程師應該注意什麼？
 [Analysis] {{ story.explanation.attention|escape_md }}
 
-常見解法／工程方向：{{ story.explanation.solution|escape_md }}
-
 ### 6. 未來展望
 [Analysis] {{ story.explanation.outlook|escape_md }}
 
@@ -305,19 +295,24 @@ TEMPLATE = '''Subject: {{ subject }}
 {% for gap in story.explanation.gaps %}- {{ gap|escape_md }}
 {% endfor %}
 - **來源連結：** {{ story.ref }}
-{% endif %}
 {% else %}
+{{ generation_status }}
 沒有可用新聞，不用社群或空位湊滿三則；先補可讀的具體文章來源。
 {% endfor %}
-# 其他候選新聞
-{% for article in others %}- [Analysis] 觀察：{{ article.title|escape_md }} — {{ article|ref }}（{{ article|quality_name }}）
+# 未選入主題的來源索引
+{% for article in others %}- [Analysis] 觀察：{{ article.title|escape_md }} — {{ article|ref }}
 {% else %}沒有額外候選；不複製前三則充數。
 {% endfor %}{% if others|length < 5 %}本次只有 {{ others|length }} 則其他候選；不足五則不編造。
 {% endif %}
 # 今日資料缺口
+<details>
+<summary>來源與查證紀錄（需要時展開）</summary>
+
 {% for gap in gaps %}- {{ gap }}
 {% else %}- 未觀察到來源取得失敗；仍需依各新聞清單核對官方文件與具體數字。
 {% endfor %}- 公開 metadata 與留言樣本不能替代事實查核；候選分布受 feed 範圍、日期篩選與選題規則影響。
+
+</details>
 
 # Ray 今天可以怎麼用
 1. **Podcast：** [Analysis] {{ podcast }}
@@ -327,7 +322,7 @@ TEMPLATE = '''Subject: {{ subject }}
 # 使用原則
 [Background] 是一般工程知識，不是本次新聞事實；[Analysis] 是工程推論或提問。來源事實以 [Reported]／[Confirmed] 標示；官方發布不代表效果已獨立驗證。完整文章如需補查，請透過來源合法閱讀。程式不繞過付費牆、不抓全文、不輸出全文。
 
-> Editor Mode：規則式編輯判斷，非全文分析；自動候選為最近 48 小時可取得的項目。Engineering Lens：優先技術／產品、工程挑戰與應用限制；財務消息降級。另考量時效、來源品質與多樣性；社群只作極小的興趣加分，不是查證依據。不繞過付費牆，不輸出全文。台灣時間 {{ generated }}。
+> Editor Mode：公開摘要的 AI 編輯整理，並非全文分析；自動候選為最近 48 小時可取得的項目。Engineering Lens：優先技術／產品、工程挑戰與應用限制；財務消息降級。另考量時效、來源品質與多樣性；社群只作極小的興趣加分，不是查證依據。不繞過付費牆，不輸出全文。台灣時間 {{ generated }}。
 '''
 
 
@@ -336,10 +331,32 @@ def render_editor_report(results: list[SourceResult], output_dir: Path, now: dat
     local = (now or datetime.now(TAIPEI)).astimezone(TAIPEI)
     discussions = discussions or []
     chosen, others = rank_candidates(results, local.astimezone(timezone.utc), discussions)
-    stories = [make_story(a, discussions) for a in chosen]
+    stories = []
+    errors = []
+    # Try at most five grounded candidates, stop after three usable stories.
+    pool = chosen + others
+    for article in [a for a in pool if assess(a).level in ('A','B')][:5]:
+        generated, error = synthesize(article)
+        if error and error not in errors:
+            errors.append(error)
+        if not generated:
+            continue
+        story = make_story(article, discussions)
+        story['explanation'] = dict(sentences=[f"[{story['label']}] {f['text']}" for f in generated['facts']],
+            background=[generated['background']], impact=generated['impact'], attention=generated['attention'],
+            solution='[Analysis] 工程方向與限制依上文討論，未核對的來源主張列於最後。',
+            outlook=generated['outlook'], opening=generated['opening'], questions=generated['questions'],gaps=generated['gaps'])
+        if any(c['fallback'] for c in story['companies']):
+            story['explanation']['gaps'] = generated['gaps'] + ['公司官方 About／產品文件，補齊公司背景卡。']
+        story['engineering']['opening'] = generated['opening']
+        stories.append(story)
+        if len(stories) == 3:
+            break
+    others = [a for a in pool if all(a.url != s['article'].url for s in stories)][:10]
+    generation_status = ' '.join(errors) or ('目前公開摘要不足以完成事件解說；來源索引保留於下方。' if not stories else '')
     usable = sorted([s for s in stories if s['publishable']], key=lambda s: score(s["article"], local.astimezone(timezone.utc), discussions), reverse=True)
     podcast = (f'優先 {usable[0]["title"]}：{md(usable[0]["engineering"]["opening"])} 先核對官方文件再錄音。' if usable
-               else '目前沒有足夠公開資訊可作新聞解說；先補具體公司公告，可用選題問題準備訪談。')
+               else '目前沒有足夠公開資訊或尚未完成文字整理，不能把來源索引直接當口播稿。')
     social_post = (f'可用 {usable[-1]["title"]} 做一個來源連結加一個問題的短貼文；用條件式說明影響，不寫成已證實結論。' if usable
                    else '先分享編輯提問與來源限制，不發布事件斷言。')
     weak = next((a for a in chosen + others if quality_for(a).availability == '低' or re.search(r'rumou?r|傳聞',a.title,re.I)), None)
@@ -347,8 +364,8 @@ def render_editor_report(results: list[SourceResult], output_dir: Path, now: dat
                else '所有未經驗證的功能、效能和自動化能力推論，只留作觀察，不當事實公開講。')
     env = Environment(undefined=StrictUndefined, autoescape=False, keep_trailing_newline=True)
     env.filters.update(escape_md=md, ref=reference, quality_name=lambda a: quality_for(a).kind)
-    subject = '還沒想到科技編輯簡報 - ' + local.strftime('%Y/%m/%d')
-    body = env.from_string(TEMPLATE).render(subject=subject, thread=main_thread(chosen,results), stories=stories,
+    subject = ('還沒想到科技編輯簡報' if stories else '科技素材索引（未完成內容整理）') + ' - ' + local.strftime('%Y/%m/%d')
+    body = env.from_string(TEMPLATE).render(subject=subject, thread=([f'[Analysis] 今天可談的事件是「{s["title"]}」：{md(s["explanation"]["opening"])}' for s in stories] or ['本次尚未完成新聞內容整理；下方僅為素材索引，不是 Podcast 簡報。']), stories=stories, generation_status=generation_status,
         others=others, gaps=data_gaps(results,discussions), podcast=podcast, social_post=social_post, observe=observe,
         generated=local.strftime('%Y-%m-%d %H:%M %Z'))
     daily_dir = output_dir / 'daily'

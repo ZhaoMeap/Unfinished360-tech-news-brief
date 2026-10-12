@@ -158,7 +158,7 @@ Codex Cloud 的來源網路需要 `www.reuters.com`、`blog.google`、`blogs.mic
 
 ## 版權與資料使用
 
-文章 metadata 只保存 `title`、`url`、`source`、`published_at`、`short_snippet`、`tags` 六欄；品質是執行時評估，不建立全文資料庫。自動來源摘錄最多 160 字元，指定連結最多 400 字元，不直接輸出原文摘要；草稿用自己的話整理主題，不能可靠重寫時待人工補充。原文標題／來源連結供辨識與閱讀，權利屬各來源。公開 feed 可能內含全文欄位，程式不保存或解析 `content`／全文欄位，只使用有限 title／summary metadata。遵守各站條款，不大量複製、不繞過付費牆、不抓取或輸出文章全文，也不把社群留言當作事實。
+文章 metadata 只保存 `title`、`url`、`source`、`published_at`、`short_snippet`、`tags` 六欄；品質是執行時評估，不建立全文資料庫。自動來源摘錄最多 400 字元，指定連結最多 400 字元，不直接輸出原文摘要；草稿用自己的話整理主題，不能可靠重寫時待人工補充。原文標題／來源連結供辨識與閱讀，權利屬各來源。公開 feed 可能內含全文欄位，程式不保存或解析 `content`／全文欄位，只使用有限 title／summary metadata。遵守各站條款，不大量複製、不繞過付費牆、不抓取或輸出文章全文，也不把社群留言當作事實。
 
 Engineering Lens 的工程問題、應用與限制保留在 Explain Mode 中：技術背景標 `[Background]`，工程方向標 `[Analysis]`，缺口集中在「仍需查證的地方」。營收不作產品效能或採用的替代證據。
 
@@ -223,3 +223,25 @@ Daily 與 watchdog 使用同 repo 的 **brief-history 分支**保存 slot ledger
 Weekly 使用明確 ISO week。週日任務延遲到週一仍整理原週；可執行 `python -m src.main --weekly --dry-run --week 2026-W41`。週報以**獨立事件**為單位，附事件 ID、來源覆蓋、證據級別、六面向 Podcast 分數與完整性計數。Sunday 20:00 當下尚有 21:17 slot 未到期，不能宣稱整週完整。
 
 完整根因、schema、權限、復原指令、首次 Actions 驗收與限制請讀 [operations-v2.md](docs/operations-v2.md)。本次以 feature branch／PR 交付，未修改 production main。新增來源網域與 GitHub API 已寫入雲端環境草稿，需在環境設定 Review/Save/Publish；不保證 upstream 或 API 權限。
+
+
+## Podcast 素材：公開摘要的 AI 編輯整理
+
+`--editor` 現在先整理事件，再補背景、影響、工程問題與口播角度，保留九段結構。新聞事實只根據有限公開 RSS summary（最多 400 字元）重寫，不能拿模型記憶補新聞；一般工程背景標 `[Background]`，影響與未來問題標 `[Analysis]`。來源若說預期、聲稱或疑似，必須保留限定。社群回響仍只使用實際取得的對應留言。
+
+OpenAI 是選填的付費 API，只有設定 key 的 editor 執行才會呼叫；測試不呼叫真實 API。模型預設 `gpt-4.1-mini`，可用 `OPENAI_EDITOR_MODEL` 更改為支援 JSON mode 與 Chat Completions 的模型。請自行設定 API 預算；每批最多嘗試五則、產出最多三則，catch-up 多個 slots 共用一次生成，不重複付費。不自動重試 API。
+
+本機 `.env`：
+
+```dotenv
+OPENAI_API_KEY=你的金鑰（不要提交）
+OPENAI_EDITOR_MODEL=gpt-4.1-mini
+```
+
+GitHub：**Settings → Secrets and variables → Actions → New repository secret → OPENAI_API_KEY**。選填 repository variable `OPENAI_EDITOR_MODEL`。Daily 與 watchdog 使用相同設定；SMTP secrets 不需要。雲端開發環境如限制網域，需要在 environment settings 加入 `api.openai.com`。
+
+未設定 key／API 失敗／來源片段核對失敗時，只出「科技素材索引（未完成內容整理）」，不把候選當成完整新聞稿。不足三則不湊滿。只有標題或 metadata 的項目留在來源索引，事件 ID 與執行資訊留在內部 JSON／HTML comment，來源診斷集中可展開區塊。公開摘要不是全文；不會抓取文章全文或繞過付費牆。
+
+每個生成的新聞事實必須有輸入中的原文片段供內部核對，並檢查數字與基本格式；這只能排除無依據片段與部分錯誤，不能保證語義完全正確。錄音前仍要核對連結。本次只有 mock API 的整合驗證，尚未用真實 key 評估模型輸出品質。
+
+啟用後請手動執行功能分支的 Daily workflow，勾 `editor_preview`、不勾 `send_email`，即可即時抓取目前來源並生成預覽，不 claim／修改既有 slots。下載 artifact 檢查事件說明後再合併。正常 daily／watchdog 的既有 completed slots 會跳過，新的 slot 才生成新內容。舊 artifact 不會被改寫。週報目前仍以既有規則策展，不會呼叫這個 API 層。
