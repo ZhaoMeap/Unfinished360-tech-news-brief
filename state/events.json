@@ -2577,5 +2577,763 @@
         "AI"
       ]
     }
+  },
+  {
+    "event_id": "evt-a2a8ddf1867ef9361c92",
+    "article": {
+      "title": "From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA",
+      "url": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/",
+      "source": "官方：NVIDIA",
+      "published_at": "2026-10-13T05:00:31+00:00",
+      "short_snippet": "Companies in France are deploying agentic computing across industries spanning space, financial services, the public sector and scientific research, demonstrating how the country’s ecosystem has moved from ambition to application. France’s progress sits on deliberate groundwork. The AI Action Summit in February 2025 and Choose France Summits in 2025 and 2026 anchored major compute commitments […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-71579aa8990dfbd6898e",
+    "article": {
+      "title": "SK Hynix unveils low-power processor design for SSDs",
+      "url": "https://www.digitimes.com/news/a20261013VL221/sk-hynix-ssd-processor-design-2026.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-13T06:59:48+00:00",
+      "short_snippet": "SK Hynix has unveiled a new processor architecture designed to reduce power consumption and chip area in solid-state drive (SSD) controllers, expanding its efforts to address storage bottlenecks as AI data centers demand faster and more efficient access to data.",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-842c78747567fc54ad4b",
+    "article": {
+      "title": "Samsung's US$9B chip expansion faces funding, supply hurdles",
+      "url": "https://www.digitimes.com/news/a20261013VL215/samsung-expansion-funding-investment-testing.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-13T06:40:00+00:00",
+      "short_snippet": "Samsung affiliates plan to invest a combined KRW12.26 trillion (approx. US$9.18 billion) in semiconductor operations across South Korea and Vietnam, but the projects face different financial and supply-chain challenges. Samsung Electronics plans to finance about 63% of its Vietnamese memory testing investment through future profits, while Samsung Electro-Mechanics (SEMCO) faces potential equipment",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3ed3c232db6ccfbe4646",
+    "article": {
+      "title": "AMEC chairman warns of AI bubble risk, sees consolidation ahead for China's chip equipment industry",
+      "url": "https://www.digitimes.com/news/a20261013VL220/amec-equipment-chairman-demand-investment.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-13T05:59:37+00:00",
+      "short_snippet": "Advanced Micro-Fabrication Equipment (AMEC) chairman and general manager Gerald Yin has warned of a potential AI investment bubble, cautioning that surging demand for chipmaking equipment does not shield the semiconductor industry from cyclical swings in capital expenditure.",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a411f7aa4caa06dc460a",
+    "article": {
+      "title": "Formosa Smart Energy draws interest from global cloud providers for AI data centers",
+      "url": "https://www.digitimes.com/news/a20261013PD217/data-electricity-taiwan-formosa-plastics-industrial.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-13T05:59:00+00:00",
+      "short_snippet": "Formosa Smart Energy, an energy affiliate of Taiwan's Formosa Plastics Group, said global cloud service providers have approached it about building AI data centers at the group's industrial sites, seeking to leverage existing power infrastructure, surplus electricity and available land.",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-060bad2e5649eaeb475c",
+    "article": {
+      "title": "AI demand squeezes capacitor, resistor capacity as Taiwan suppliers eye price hikes",
+      "url": "https://www.digitimes.com/news/a20261013PD225/demand-taiwan-capacity-price-capacitor.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-13T05:50:53+00:00",
+      "short_snippet": "Rising capital expenditures by global cloud service providers (CSPs) are accelerating orders for AI computing infrastructure, boosting both the specifications and volumes of passive components and driving strong third-quarter 2026 results for Taiwan suppliers including Yageo, Walsin Technology, Holystone Enterprise, Lelon Electronics, Tai-Tech, Apaq, Ta-I Technology, Viking, and Thinking. The capa",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-655c16ad3ba0bcd86bb4",
+    "article": {
+      "title": "China's Blue Core Computing secures nearly US$300 million to challenge x86, Arm in AI servers",
+      "url": "https://www.digitimes.com/news/a20261013VL218/arm-x86-risc-v-shenzhen-production.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-13T05:44:12+00:00",
+      "short_snippet": "Shenzhen-based Blue Core Computing (Shenzhen) Technology has raised nearly CNY2 billion (≈ US$298.7 million) in Series B financing to accelerate production of its RISC-V server processors with integrated AI capabilities. The funding follows the deployment of its LX500 chip in Lenovo servers, advancing China's efforts to develop alternatives to x86 and Arm architectures.",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a23183fe707b77d7d5e6",
+    "article": {
+      "title": "Hua Hong deepens China chip equipment partnerships, targets stronger specialty foundry share by 2030",
+      "url": "https://www.digitimes.com/news/a20261013VL216/equipment-2030-production-wafer-manufacturing.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-13T04:29:33+00:00",
+      "short_snippet": "China's Hua Hong Group has signed strategic agreements with four domestic semiconductor equipment suppliers to accelerate the adoption of locally developed wafer fabrication tools, reinforcing China's chipmaking self-sufficiency efforts. The partnerships coincide with Hua Hong's ambitious 2030 market-share targets for specialty processes, including embedded flash memory, power management, and imag",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-979e5dc148043f99d99b",
+    "article": {
+      "title": "Huawei foldable phone shipments top 20 million, claims over 70% China market share in 1H26",
+      "url": "https://www.digitimes.com/news/a20261013PD224/huawei-foldable-shipments-foldable-smartphone-market-share.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-13T04:23:00+00:00",
+      "short_snippet": "Huawei's cumulative global foldable smartphone shipments have exceeded 20 million units, with the company capturing more than 70% of China's foldable phone market in the first half of 2026, according to Huawei Terminal BG CTO Li Xiaolong.",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-54de1aeebc3d243888a3",
+    "article": {
+      "title": "Taiwan seeks new grid, renewable energy solutions as AI computing hubs hit power constraints",
+      "url": "https://www.digitimes.com/news/a20261013PD220/renewable-energy-taiwan-taiwan-power-company-data-demand.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-13T04:20:41+00:00",
+      "short_snippet": "As the global AI industry and AI data centers (AIDCs) experience explosive growth, developing compute hubs presents severe power supply challenges alongside stringent international supply chain mandates for carbon reduction and renewable energy usage. Amid grid transition friction and resilience tests, state utility Taipower, alongside Taiwan's renewable energy, energy storage, and domestic lithiu",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-25dc01e951348ed8302a",
+    "article": {
+      "title": "Nvidia and Cisco unveil new optics design to help scale AI factories",
+      "url": "https://www.digitimes.com/news/a20261013PR201/nvidia-cisco-optics-design-infrastructure.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-13T04:15:00+00:00",
+      "short_snippet": "Nvidia and Cisco have introduced a new pluggable optics form factor to expand AI infrastructure without sharply increasing power use or network complexity. For global cloud operators, enterprises, and sovereign AI projects, the design could support denser, more efficient data center builds as demand for AI computing continues to rise.",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6be9b56d5e34bee8372c",
+    "article": {
+      "title": "Column: From 3D NAND to 3D DRAM — how vertical stacking is reshaping memory chip manufacturing",
+      "url": "https://www.digitimes.com/news/a20261013PD211/3d-dram-nand-manufacturing.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-13T04:06:44+00:00",
+      "short_snippet": "After 2013, planar NAND flash memory began reaching its scaling limits at the 15–16nm process node. Capacitive coupling between the floating gates of adjacent memory cells increasingly disrupted their threshold voltages, making stored data harder to read reliably. The problem became particularly acute with the adoption of triple-level cell (TLC) NAND, which requires precise threshold-voltage detec",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a73c84c81efa9a10ff9b",
+    "article": {
+      "title": "Taiwan optical suppliers post record sales as Lumentum warns of shortages",
+      "url": "https://www.digitimes.com/news/a20261013PD215/revenue-taiwan-sales-demand-growth.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-13T03:56:33+00:00",
+      "short_snippet": "Taiwanese optical networking suppliers reported strong September and third-quarter 2026 revenue growth, with EZconn and LuxNet posting record monthly sales as demand for high-speed connectivity in AI data centers continued to rise. The results come as US optical component maker Lumentum warns that its production capacity is booked into early 2029, with significant supply shortages expected to pers",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-de5bbdab42fbd7db829f",
+    "article": {
+      "title": "Malaysian states team up to back homegrown chip firms",
+      "url": "https://www.digitimes.com/news/a20261013VL207/government-investment-ic-design-2027-growth.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-13T03:50:00+00:00",
+      "short_snippet": "The Selangor state government has committed MYR50 million (US$12.24 million) to the National Strategic Investment Fund, joining Khazanah Nasional Bhd and the Penang government in a MYR150 million vehicle to accelerate the growth of Malaysian semiconductor and advanced technology companies, Bernama reported on October 10, 2026.",
+      "tags": [
+        "半導體",
+        "監管",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-199b4a23763a57a132c0",
+    "article": {
+      "title": "AI server tracker: Taiwan's CCL, PCB and IC substrate suppliers see widening growth gap despite AI boom",
+      "url": "https://www.digitimes.com/news/a20261013VL214/pcb-ccl-ic-substrate-laminate-revenue-taiwan.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-13T03:47:03+00:00",
+      "short_snippet": "Taiwan's copper-clad laminate (CCL), printed circuit board (PCB) and IC substrate suppliers are seeing uneven returns from AI infrastructure spending. All 10 tracked companies recorded nine-month year-over-year revenue growth, and seven generated more revenue by September 2026 than in all of 2025, although their momentum differed markedly.",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e3d5064496380d66e76c",
+    "article": {
+      "title": "Foxconn's Vietnam unit Fukang Technology more than doubles registered capital to US$710.4 million",
+      "url": "https://www.digitimes.com/news/a20261013VL202/foxconn-taiwan-subsidiary-investment-2026.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-13T03:45:00+00:00",
+      "short_snippet": "Fukang Technology, a northern Vietnam subsidiary of Taiwan's Hon Hai Precision Industry (Foxconn), has raised its registered capital by more than 109% to nearly VND17.47 trillion (US$710.4 million), according to business registration records reported by The Investor on October 12, 2026. The update, issued in late September, lifts the capital base from VND8.35 trillion and brings the registration i",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-23e6f5ffe2d11604a117",
+    "article": {
+      "title": "Global PC shipments plunge 20% in 3Q26",
+      "url": "https://www.digitimes.com/news/a20261013PD229/pc-shipments-inventory-market-demand.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-13T03:42:37+00:00",
+      "short_snippet": "Global PC shipments, including desktops, notebooks, and workstations, fell more than 20% year-over-year in the third quarter of 2026 as inventory pressure and weak demand hit the market. The decline reflects how the AI infrastructure boom is squeezing component supplies for consumer electronics while driving up prices.",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a8a9112898ccf1323a47",
+    "article": {
+      "title": "AI server tracker: Supply, not demand, caps BMC growth as Aspeed's 2027 orders top this year's revenue",
+      "url": "https://www.digitimes.com/news/a20261013VL206/aspeed-ai-server-demand-growth.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-13T03:29:18+00:00",
+      "short_snippet": "Taiwan-based server management chip supplier Aspeed Technology reported consolidated revenue of NT$1.636 billion (approx. US$51.16 million) for September 2026, up 100.93% year-over-year and 0.64% from August. It was the company's 11th consecutive month of record revenue.",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-01a508305e08363b6458",
+    "article": {
+      "title": "NSTC abolishes KPI system to encourage high-risk research",
+      "url": "https://www.digitimes.com/news/a20261013PD223/nstc-taiwan-funding.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-13T03:23:21+00:00",
+      "short_snippet": "Taiwan's National Science and Technology Council (NSTC) has abolished its research KPI system, noting that failed projects will not affect professors' future applications for funding. The aim is to encourage academic researchers to pursue research with lower success rates and greater potential impact.",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-939301d167b77e83b3ef",
+    "article": {
+      "title": "Intel CEO warns AI hardware shortages could last up to 3 years",
+      "url": "https://www.digitimes.com/news/a20261013PD219/intel-ceo-hardware-demand-infrastructure.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-13T03:20:00+00:00",
+      "short_snippet": "Intel CEO Lip-Bu Tan warned in Singapore that demand for AI infrastructure continues to outpace supply, with hardware shortages unlikely to ease significantly over the next 2–3 years as capacity constraints persist across memory, wafers and advanced packaging.",
+      "tags": [
+        "AI",
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e551cfd3a52ee454aad0",
+    "article": {
+      "title": "OpenAI reportedly in talks with startup to bring Sora back to life",
+      "url": "https://www.digitimes.com/news/a20261013VL213/sora-openai-startup-software.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-13T03:16:38+00:00",
+      "short_snippet": "Sora, the AI video generation model created by OpenAI, may someday be revived after its services were shut down this year. A startup is reportedly in talks with OpenAI over access to the tool, with the aim of possibly modifying it and selling software or other services based on it.",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-40926b4b49d51700c741",
+    "article": {
+      "title": "Taiwan telecom leaders post stellar September results on iPhone upgrades, AI service growth",
+      "url": "https://www.digitimes.com/news/a20261013PD221/taiwan-telecom-growth-iphone-revenue.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-13T03:05:33+00:00",
+      "short_snippet": "Taiwan's three leading telecom operators reported strong revenue and earnings growth in September 2026, driven by replacement demand following the launch of Apple's iPhone 18 Pro series and continued expansion in enterprise services, including AI data centers (AIDC), cloud computing, and information and communications technology (ICT) projects.",
+      "tags": [
+        "AI",
+        "資料中心",
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-fcb3acee4c67549a8530",
+    "article": {
+      "title": "Meta's Muse Wonder challenges OpenAI, Anthropic, but frontier AI comes at a higher price",
+      "url": "https://www.digitimes.com/news/a20261013VL210/meta-openai-anthropic-claude-2026.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-13T03:01:24+00:00",
+      "short_snippet": "Meta Platforms unveiled Muse Wonder and Muse Wonder Full on October 12, 2026, marking its strongest challenge yet to OpenAI and Anthropic in frontier AI. Developed by Meta Superintelligence Labs (MSL), the proprietary models target complex coding, professional workflows, and autonomous agents, although the most capable version remains restricted to subscribers.",
+      "tags": [
+        "AI",
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-af8475c0bcdb546dd40f",
+    "article": {
+      "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
+      "url": "https://news.ycombinator.com/item?id=50067356",
+      "source": "Hacker News",
+      "published_at": "2026-10-13T05:57:32+00:00",
+      "short_snippet": "Article URL: https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks Comments URL: https://news.ycombinator.com/item?id=50067356 Points: 75 # Comments: 69",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-022aca5a3d309b252a7d",
+    "article": {
+      "title": "A look at OpenAI’s math that’s claimed computes faster Fourier transforms",
+      "url": "https://news.ycombinator.com/item?id=50065932",
+      "source": "Hacker News",
+      "published_at": "2026-10-13T02:46:43+00:00",
+      "short_snippet": "Article URL: https://www.argmin.net/p/faster-fourier-transforms Comments URL: https://news.ycombinator.com/item?id=50065932 Points: 106 # Comments: 72",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-2c1e23b1e3cf3285892f",
+    "article": {
+      "title": "AI Models Can Provably Hide Arbitrary Capabilities",
+      "url": "https://news.ycombinator.com/item?id=50065692",
+      "source": "Hacker News",
+      "published_at": "2026-10-13T02:07:08+00:00",
+      "short_snippet": "Article URL: https://arxiv.org/abs/2610.13928 Comments URL: https://news.ycombinator.com/item?id=50065692 Points: 177 # Comments: 94",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-62bd2b4c042758daf6fa",
+    "article": {
+      "title": "v0.40.4",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.4-rc1",
+      "source": "官方：Ollama releases",
+      "published_at": "2026-10-13T05:26:17+00:00",
+      "short_snippet": "What's Changed llama: update llama.cpp to b11521 for decision models and EmbeddingGemma 2 by @jmorganca in #18917 server: reuse verified manifests and loaded models in inference routes by @dhiltgen in #18947 mlx: compact restored recurrent state after speculative rollback by @dhiltgen in #18955 launch: include installed models in Codex /model picker by @ https://github.com/ollama/ollama/pull/18917",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a08d647d50696ff391c2",
+    "article": {
+      "title": "IMF 示警 AI 前景不明恐引發市場修正，金融系統面臨網攻威脅",
+      "url": "https://infosecu.technews.tw/2026/10/13/imf-warns-of-cyber-threats-to-financial-systems/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T07:30:11+00:00",
+      "short_snippet": "國際貨幣基金（IMF）今天警告，全球金融體系面臨的風險升高，其中包括人工智慧（AI）投資前景轉弱可能引發的市場 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5aba42bfefd33f1ec56b",
+    "article": {
+      "title": "IMF 示警通膨風險惡化 公債殖利率恐失序上升",
+      "url": "https://finance.technews.tw/2026/10/13/imf-warns-of-disorderly-surge-in-bond-yields/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T07:20:51+00:00",
+      "short_snippet": "國際貨幣基金組織（IMF）指出，強勁的人工智慧（AI）投資支撐全球成長，但戰爭和債務威脅經濟前景，隨著通膨風險 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-7454f1e7a94aa37e7c09",
+    "article": {
+      "title": "英特爾發表代號 Crescent Island 之 AI 推論晶片與 Xeon 伺服器架構",
+      "url": "https://technews.tw/2026/10/13/intel-unveils-its-ai-inference-chip-codenamed-crescent-island-and-xeon-server-architecture/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T07:15:06+00:00",
+      "short_snippet": "半導體大廠英特爾（Intel）正式公開旗下 GPU D 系列加速卡的技術細節，代號為「Crescent Isl […]",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3438e788deb29f7fab29",
+    "article": {
+      "title": "Kakao 升級 KakaoTalk 至 AI 助理服務，知名吉祥物「萊恩」化身最佳幫手",
+      "url": "https://technews.tw/2026/10/13/kakao-unveils-new-ai-assistant-service-to-be-launched-on-kakaotalk/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T07:10:57+00:00",
+      "short_snippet": "韓國 Kakao 今日在京畿道龍仁市的 AI 園區舉行年度開發者大會「if(kakao)26」，公開全新人工智 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5a50630be052f091343f",
+    "article": {
+      "title": "光電測試平台成 CPO 量產關鍵，測試設備供應鏈版圖將迎新變局",
+      "url": "https://technews.tw/2026/10/13/optoelectronic-testing-platforms-crucial-cpo-mass-production-ushering-new-changes-test-equipment-supply-chain-landscape/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T07:05:57+00:00",
+      "short_snippet": "根據 TrendForce 最新 AI 互連技術研究，隨 AI 資料中心推升高速傳輸需求，共同封裝光學（CPO […]",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-61d4eccd5d236a75163c",
+    "article": {
+      "title": "55 美元電視盒成 AI 宿主，Anthropic 警告：小型模型數月內恐實現「自我複製」",
+      "url": "https://infosecu.technews.tw/2026/10/13/anthropic-warns-ai-self-replication-crisis/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T07:00:12+00:00",
+      "short_snippet": "Anthropic 的最新研究提出警告，小型 AI 模型可能在未來幾個月內，發展出足以在商用物聯網（IoT）裝 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-739a53b7ed74420ae0c4",
+    "article": {
+      "title": "模型未問世就備妥 2,000 億美元，祖克柏親揭 Meta 豪賭 AI 內幕",
+      "url": "https://finance.technews.tw/2026/10/13/zuckerberg-meta-100-billion-ai-bet/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T06:50:15+00:00",
+      "short_snippet": "Ｍeta 執行長馬克‧祖克柏（Mark Zuckerberg）近日透露，公司在去年底曾評估對人工智慧（AI）投 […]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-307d571f62aac52eeb16",
+    "article": {
+      "title": "Shield AI 首架 V-BAT 運抵台灣，陸續交機 12 架予海巡署",
+      "url": "https://technews.tw/2026/10/13/shield-ai-delivers-its-first-v-bat-to-taiwan/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T06:45:02+00:00",
+      "short_snippet": "美國國防科技公司 Shield AI 宣布，已與合作夥伴漢翔航空工業（AIDC）共同完成首架 V-BAT 垂直 […]",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-30a53eb131faf74b0af2",
+    "article": {
+      "title": "嘉和半導體 GaNrich 布局 40V–1200V 全系列 GaN 功率元件，加速全球市場滲透",
+      "url": "https://technews.tw/2026/10/13/ganrich-gan-on-si-sapphire/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T06:40:54+00:00",
+      "short_snippet": "嘉和半導體聚焦氮化鎵（GaN）功率半導體技術，以自主研發、台灣製造為核心，針對目前市場上氮化鎵最成熟之兩大基板 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-9dc0633eec0bba882503",
+    "article": {
+      "title": "風電、光電與儲能齊聚，2026 智慧能源週登場",
+      "url": "https://technews.tw/2026/10/13/2026-smart-energy-week-wind-power-solar-power-energy-storage/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T06:30:49+00:00",
+      "short_snippet": "隨 AI 與半導體產業帶動用電需求成長，行政院長卓榮泰先前表示，台灣未來十年用電年均成長率可能高於原先預估的 […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a8c3300ab335e6c0a9ec",
+    "article": {
+      "title": "AMD 推出 Helion 以實現機櫃級代理式 AI 運算，預定 11 月供貨",
+      "url": "https://technews.tw/2026/10/13/amd-launches-helion-for-rack-scale-agent-based-ai-computing/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T06:30:46+00:00",
+      "short_snippet": "半導體大廠 AMD 於 13 日宣布推出 AMD Helion 代理式 AI 機櫃，基於開放運算計畫（Open […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d70c6cc360752058606e",
+    "article": {
+      "title": "鴻海 OCP 2026 秀 NVIDIA Vera Rubin 平台創新",
+      "url": "https://finance.technews.tw/2026/10/13/ocp-2026-foxconn/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T06:28:33+00:00",
+      "short_snippet": "鴻海於 2026 OCP Global Summit 展出新一代 AI Rack 技術，展現從運算系統、高速互 […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-230e2a5f430389985c6a",
+    "article": {
+      "title": "神雲科技於 2026 OCP 全球高峰會聚焦開放 AI 基礎架構與全端創新，加速規模化部署",
+      "url": "https://technews.tw/2026/10/13/wiwynn-focuses-open-ai-infrastructure-full-stack-innovation-2026-ocp-global-summit-accelerating-large-scale-deployment/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T06:00:54+00:00",
+      "short_snippet": "全球高效能伺服器解決方案領導者神達控股股份有限公司子公司神雲科技（MiTAC Computing Techno […]",
+      "tags": [
+        "AI",
+        "資料中心",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-4a497e0ff93008a988c7",
+    "article": {
+      "title": "博通 CEO 批 AI 燒錢像打電玩、貝瑞轉發 馬斯克反駁",
+      "url": "https://finance.technews.tw/2026/10/13/broadcom-ceo-likens-many-ai-investors-to-casino-gamblers/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T05:50:09+00:00",
+      "short_snippet": "人工智慧（AI）投資熱潮引發泡沫疑慮，博通（Broadcom）執行長陳福陽（Hock Tan）直言，許多 AI […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-629b370177821a6db304",
+    "article": {
+      "title": "Alphabet 20 年首見現金流轉負，無懼逆風豪擲 2 千億美元建 AI：落後才是最大風險",
+      "url": "https://finance.technews.tw/2026/10/13/alphabet-expands-ai-investment/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T05:30:20+00:00",
+      "short_snippet": "Alphabet 總裁兼首席投資長露絲·波拉特（Ruth Porat）表示，隨著企業、政府與平台上的算力需求持 […]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-9d10b4f0e4e6c5b1f6af",
+    "article": {
+      "title": "日媒：Anthropic 日本首座資料中心擬設於大阪",
+      "url": "https://technews.tw/2026/10/13/japanese-media-report-anthropic-plans-first-data-center-japan-osaka/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T05:20:58+00:00",
+      "short_snippet": "日媒披露，日本大型電信公司 NTT 已經在協調於大阪府建置提供美國 Anthropic 所用的資料中心。這將是 […]",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d1bd9be9c9c704a29a99",
+    "article": {
+      "title": "和碩於 OCP Global Summit 2026 展現從設計到部署 AI 基礎設施實力",
+      "url": "https://finance.technews.tw/2026/10/13/ocp-global-summit-2026-pegatron/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T05:02:34+00:00",
+      "short_snippet": "和碩稍早指出，該公司將於 OCP Global Summit 2026 展示其次世代 AI 基礎設施的開發與製 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-abb3c4c624b21c5bfc4e",
+    "article": {
+      "title": "高通大秀 AI 原生寬頻新技術，整合 Wi-Fi 8、5G Advanced 與邊緣 AI",
+      "url": "https://technews.tw/2026/10/13/qualcomm-network-x-2026-dragonwing-ai/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T04:58:05+00:00",
+      "short_snippet": "高通於 Network X 2026 展前正式宣布一系列創新技術，將先進連網技術、邊緣 AI 與網路智慧整合至 […]",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-7517df3400e5df414c3b",
+    "article": {
+      "title": "全球手機市場暴跌 20%，iPhone 第三季市占率創歷史新高",
+      "url": "https://technews.tw/2026/10/13/2026-q3-global-smartphone-market/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T04:50:53+00:00",
+      "short_snippet": "全球智慧型手機市場持續受到記憶體價格上漲衝擊，出貨量出現明顯萎縮，但蘋果卻在市場逆風中創下新紀錄。據研調機構 […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-03f669119f6b8652c56e",
+    "article": {
+      "title": "未來五年晶圓需求持續成長！Yole 看好 CPO、玻璃基板與 800V 供電成下波技術焦點",
+      "url": "https://technews.tw/2026/10/13/semicon-west-yole-jean-christophe-eloy/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T04:15:16+00:00",
+      "short_snippet": "Yole 執行長 Jean-Christophe Eloy 在 Semicon West 前夕分享針對半導體市 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-76db0f521c2785c583e7",
+    "article": {
+      "title": "康舒光電案場突破百座，擴大表後儲能與 EMS 應用",
+      "url": "https://technews.tw/2026/10/13/kinsus-optronics-100-project-sites-expand-behind-meter-storage-ems-applications/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T04:10:21+00:00",
+      "short_snippet": "電源解決方案廠商康舒科技將於 10 月 14 日至 16 日參加 2026 台灣國際智慧能源週，展示太陽光電建 […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-abe19473f532b97a5f45",
+    "article": {
+      "title": "輝達 H200 訂單爆量急催台積電，中國 AI 巨頭陷算力荒砸重金出海尋求突圍",
+      "url": "https://technews.tw/2026/10/13/china-ai-chip-shortage-and-nvidia-production-expansion/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T04:10:11+00:00",
+      "short_snippet": "儘管美國近期放寬了部分 H200 AI 晶片對中國客戶的銷售限制，中國科技業對 Nvidia（輝達）晶片的需求 […]",
+      "tags": [
+        "AI",
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5c5fa6c215d38d93f073",
+    "article": {
+      "title": "「開放軟體、專有晶片」劍指輝達，高通連環收購拚突圍 CUDA 生態圈",
+      "url": "https://technews.tw/2026/10/13/how-qualcomms-open-software-strategy-challenges-nvidia/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T04:00:20+00:00",
+      "short_snippet": "高通（Qualcomm）正加速推進一套以「開放軟體、專有晶片」為核心的策略，試圖削弱輝達（NVIDIA）在 A […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-73b09a3c7e19fcdc2fa4",
+    "article": {
+      "title": "紐時、經濟學人等媒體加入聯盟，防止 AI 未經授權使用新聞內容",
+      "url": "https://technews.tw/2026/10/13/nyt-economist-among-publishers-joining-coalition-to-curb-unpaid-ai-use/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T03:50:29+00:00",
+      "short_snippet": "紐約時報（The New York Times）、法新社（AFP）和「經濟學人」（The Economist） […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-31e53cc08c3e7c6aec11",
+    "article": {
+      "title": "格羅方德全新 FDX Fusion 平台挑戰 7 奈米級效能，主攻車用與邊緣 AI",
+      "url": "https://technews.tw/2026/10/13/globalfoundries-unveils-7nm-class-fdx-fusion-node/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T03:40:49+00:00",
+      "short_snippet": "格羅方德（GlobalFoundries）在德國德勒斯登宣布推出新一代 FDX Fusion FD-SOI 平 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-cc706a680df1212bdae5",
+    "article": {
+      "title": "Anthropic 也要培訓「前線部署工程師」，目標訓練萬名「AI 傳教士」將 Claude 切實導入企業經營",
+      "url": "https://technews.tw/2026/10/13/anthropic-invests-100m-to-train-fdes-and-seeks-these-5-key-attributes/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T03:20:56+00:00",
+      "short_snippet": "Anthropic 投資 1 億美元押注企業 AI 人才培訓，推出 Claude Frontier Acade […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b38146cb98bbed22bb6a",
+    "article": {
+      "title": "Meta 打造 Muse Wonder 新模型，結合主動記憶與專注能力強攻 AI Agent",
+      "url": "https://technews.tw/2026/10/13/meta-introduces-the-muse-wonder-series/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T03:19:24+00:00",
+      "short_snippet": "耗時一年多的時間與數百億美元重新布局 AI 領域後，Meta 表示已追上先進水準，12 日宣布推出 Muse […]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-53ffe346c95be0609d4a",
+    "article": {
+      "title": "微軟老將轉戰 F1，Peter Lee 將擔任賓士車隊 AI 顧問",
+      "url": "https://technews.tw/2026/10/13/microsofts-departing-science-president-plans-to-join-mercedes-f1-team-as-ai-advisor/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T03:10:40+00:00",
+      "short_snippet": "微軟（Microsoft）科學部門即將離任的總裁彼得‧李（Peter Lee），傳出將加入賓士（Mercede […]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
   }
 ]

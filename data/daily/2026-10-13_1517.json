@@ -1,0 +1,1923 @@
+{
+  "version": 2,
+  "collected_at": "2026-10-13T07:41:36.999825+00:00",
+  "scheduled_slot_id": "daily-2026-10-13-1517",
+  "report_file": "reports/daily/2026-10-13_1517_editor.md",
+  "articles": [
+    {
+      "title": "Applying technology to understand and treat disease",
+      "url": "https://blog.google/innovation-and-ai/technology/health/ai-health-research/",
+      "source": "官方：Google",
+      "published_at": "2026-10-12T17:30:00+00:00",
+      "short_snippet": "A healthcare professional sits at a desk reviewing mammogram scans and medical diagrams on dual computer monitors.",
+      "tags": [
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "Google Health: Evolving so you can focus on living better",
+      "url": "https://blog.google/products-and-platforms/products/google-health/google-health-updates/",
+      "source": "官方：Google",
+      "published_at": "2026-10-12T13:00:00+00:00",
+      "short_snippet": "What’s new from Google Health: Explore the new Fitbit Edge, expanded workout tracking, and dedicated women's health insights.",
+      "tags": [
+        "Big Tech"
+      ]
+    },
+    {
+      "title": "From game days to daily life: The familiar faces teaming up with Google Health",
+      "url": "https://blog.google/products-and-platforms/products/google-health/google-health-partnership-athletes-creators/",
+      "source": "官方：Google",
+      "published_at": "2026-10-12T13:00:00+00:00",
+      "short_snippet": "TBD",
+      "tags": [
+        "Big Tech"
+      ]
+    },
+    {
+      "title": "How we’re making Google Health and Fitbit Air smarter than ever",
+      "url": "https://blog.google/products-and-platforms/products/google-health/fitbit-google-health-updates/",
+      "source": "官方：Google",
+      "published_at": "2026-10-12T13:00:00+00:00",
+      "short_snippet": "The photo shows Fitbit Air with a Metal Mesh band.",
+      "tags": [
+        "Big Tech"
+      ]
+    },
+    {
+      "title": "Google Fitbit Edge: Our all-new smartest fitness tracker ever",
+      "url": "https://blog.google/products-and-platforms/devices/fitbit/google-fitbit-edge/",
+      "source": "官方：Google",
+      "published_at": "2026-10-12T13:00:00+00:00",
+      "short_snippet": "Fitbit Edge overview video",
+      "tags": [
+        "Big Tech"
+      ]
+    },
+    {
+      "title": "Microsoft to expand Azure Maia system to multi-gigawatt deployments",
+      "url": "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments/",
+      "source": "官方：Microsoft",
+      "published_at": "2026-10-12T13:01:29+00:00",
+      "short_snippet": "Azure Maia 200 now in production; Azure Maia 300 coming in 2027 As we move into the era of Super Intelligence, Microsoft is entering a new phase of infrastructure. We will scale our Azure Maia family to multi-gigawatt deployments starting in 2027, making Maia the primary inference syste https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments/",
+      "tags": [
+        "Big Tech"
+      ]
+    },
+    {
+      "title": "From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA",
+      "url": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/",
+      "source": "官方：NVIDIA",
+      "published_at": "2026-10-13T05:00:31+00:00",
+      "short_snippet": "Companies in France are deploying agentic computing across industries spanning space, financial services, the public sector and scientific research, demonstrating how the country’s ecosystem has moved from ambition to application. France’s progress sits on deliberate groundwork. The AI Action Summit in February 2025 and Choose France Summits in 2025 and 2026 anchored major compute commitments […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    },
+    {
+      "title": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
+      "url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
+      "source": "官方：NVIDIA",
+      "published_at": "2026-10-12T15:00:25+00:00",
+      "short_snippet": "As AI factories grow from megawatts to gigawatts, building them takes more than advanced computing. Open standards are helping the industry scale AI infrastructure faster, more efficiently and more reliably. At the Open Compute Project (OCP) Global Summit, taking place in the San Jose McEnery Convention Center, NVIDIA announced new partnerships and contributions aimed at […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    },
+    {
+      "title": "App Store Indie Games Week kicks off today",
+      "url": "https://www.apple.com/newsroom/2026/10/app-store-indie-games-week-kicks-off-today/",
+      "source": "官方：Apple Newsroom",
+      "published_at": "2026-10-12T13:59:49+00:00",
+      "short_snippet": "Today, Indie Games Week lights up the App Store with a celebration of the catalog of imaginative games made by independent teams with big dreams.",
+      "tags": [
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "The Social Reckoning is flopping at the box office",
+      "url": "https://www.theverge.com/entertainment/1009630/social-reckoning-box-office-other-mommy",
+      "source": "The Verge",
+      "published_at": "2026-10-12T21:20:57+00:00",
+      "short_snippet": "As important as some of the messages in The Social Reckoning are, the movie has been drastically underperforming at the box office. Per Variety, Aaron's Sorkin's follow up to The Social Network only grossed a measly $5.5 million this past weekend against a budget that's somewhere within the $30-42 million range. That would make it […]",
+      "tags": [
+        "資料中心"
+      ]
+    },
+    {
+      "title": "Meta has some Wonder Full new AI models",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+      "source": "The Verge",
+      "published_at": "2026-10-12T17:00:00+00:00",
+      "short_snippet": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go toe-to-toe with the industry's best. The new models, Muse Wonder and Muse Wonder Full, are available […]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    },
+    {
+      "title": "The Yandex outage probably didn’t blitz Russian bots",
+      "url": "https://www.theverge.com/tech/1009594/russian-bots-yandex-outage-drone-strikes-debunk",
+      "source": "The Verge",
+      "published_at": "2026-10-12T15:43:07+00:00",
+      "short_snippet": "Multiple Ukrainian drone strikes over the last week have taken Russian data centers offline and reportedly caused online bot traffic to plummet - but in reality it's probably not the kind of bot activity most people associate with Russia. A chart citing Cloudflare data has been circulating around social media platforms, showing a sharp decline […]",
+      "tags": [
+        "資料中心",
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "Android is the best and worst thing about Googlebooks",
+      "url": "https://www.theverge.com/tech/1008750/googlebooks-android-best-worst-notifications-app-cast-file-sharing",
+      "source": "The Verge",
+      "published_at": "2026-10-12T14:00:00+00:00",
+      "short_snippet": "My first week with the new Android-powered laptops has been about as rocky as anyone's, but I've slowly learned to like them, even if love still feels a ways off. Every moment that's impressed me has been thanks to Android, whether I've been accessing a native version of a useful app or quickly checking my […]",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "No Man’s Sky is coming to the iPhone and iPad",
+      "url": "https://www.theverge.com/entertainment/1009541/no-mans-sky-iphone-ipad-launch-date",
+      "source": "The Verge",
+      "published_at": "2026-10-12T14:00:00+00:00",
+      "short_snippet": "The No Man's Sky universe is about to get a little bit smaller - but in a good way. Hello Games announced that its long-running sci-fi exploration game will be coming to iOS, with versions for both the iPhone and iPad available starting on October 28th. According to Hello's Sean Murray, the mobile version of […]",
+      "tags": [
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "The OnePlus 16 is the company’s most interesting phone in years",
+      "url": "https://www.theverge.com/tech/1009570/oneplus-16-specs-features-china",
+      "source": "The Verge",
+      "published_at": "2026-10-12T13:13:53+00:00",
+      "short_snippet": "Today the OnePlus 16 launched in China, the company's first flagship phone since quitting both the US and European markets this summer. As luck would have it, it also looks like the company's best phone in some time. Like most OnePlus phones, the 16 is positioned around performance, with a Snapdragon 8 Elite Extreme Gen […]",
+      "tags": [
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "CMF’s first wireless speakers look like musical milk cartons",
+      "url": "https://www.theverge.com/tech/1008191/nothing-cmf-speaker-m-s-series-bluetooth-design-customize",
+      "source": "The Verge",
+      "published_at": "2026-10-12T13:00:00+00:00",
+      "short_snippet": "The CMF Speaker Series are the first portable Bluetooth speakers from the budget-focused brand that Nothing created but is in the process of spinning off into an India-based standalone subsidiary. As with many of CMF's products, like the Headphone Pro that launched a year ago, the new speakers deliver affordability alongside unique designs and bright […]",
+      "tags": [
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "The Fitbit Edge is for folks who don’t want to go totally screenless",
+      "url": "https://www.theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker",
+      "source": "The Verge",
+      "published_at": "2026-10-12T13:00:00+00:00",
+      "short_snippet": "The Fitbit Edge may not be Google's best-kept fitness-tracking secret, but as of today, its existence is official. The tracker sits smack-dab between the recently launched Fitbit Air and the more powerful Google Pixel Watch 5 in the company's current wearable lineup. Basically, if you have smartwatch fatigue but don't want to give up notifications, […]",
+      "tags": [
+        "Big Tech"
+      ]
+    },
+    {
+      "title": "SK Hynix unveils low-power processor design for SSDs",
+      "url": "https://www.digitimes.com/news/a20261013VL221/sk-hynix-ssd-processor-design-2026.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-13T06:59:48+00:00",
+      "short_snippet": "SK Hynix has unveiled a new processor architecture designed to reduce power consumption and chip area in solid-state drive (SSD) controllers, expanding its efforts to address storage bottlenecks as AI data centers demand faster and more efficient access to data.",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心"
+      ]
+    },
+    {
+      "title": "Samsung's US$9B chip expansion faces funding, supply hurdles",
+      "url": "https://www.digitimes.com/news/a20261013VL215/samsung-expansion-funding-investment-testing.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-13T06:40:00+00:00",
+      "short_snippet": "Samsung affiliates plan to invest a combined KRW12.26 trillion (approx. US$9.18 billion) in semiconductor operations across South Korea and Vietnam, but the projects face different financial and supply-chain challenges. Samsung Electronics plans to finance about 63% of its Vietnamese memory testing investment through future profits, while Samsung Electro-Mechanics (SEMCO) faces potential equipment",
+      "tags": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "AMEC chairman warns of AI bubble risk, sees consolidation ahead for China's chip equipment industry",
+      "url": "https://www.digitimes.com/news/a20261013VL220/amec-equipment-chairman-demand-investment.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-13T05:59:37+00:00",
+      "short_snippet": "Advanced Micro-Fabrication Equipment (AMEC) chairman and general manager Gerald Yin has warned of a potential AI investment bubble, cautioning that surging demand for chipmaking equipment does not shield the semiconductor industry from cyclical swings in capital expenditure.",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    },
+    {
+      "title": "Formosa Smart Energy draws interest from global cloud providers for AI data centers",
+      "url": "https://www.digitimes.com/news/a20261013PD217/data-electricity-taiwan-formosa-plastics-industrial.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-13T05:59:00+00:00",
+      "short_snippet": "Formosa Smart Energy, an energy affiliate of Taiwan's Formosa Plastics Group, said global cloud service providers have approached it about building AI data centers at the group's industrial sites, seeking to leverage existing power infrastructure, surplus electricity and available land.",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    },
+    {
+      "title": "AI demand squeezes capacitor, resistor capacity as Taiwan suppliers eye price hikes",
+      "url": "https://www.digitimes.com/news/a20261013PD225/demand-taiwan-capacity-price-capacitor.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-13T05:50:53+00:00",
+      "short_snippet": "Rising capital expenditures by global cloud service providers (CSPs) are accelerating orders for AI computing infrastructure, boosting both the specifications and volumes of passive components and driving strong third-quarter 2026 results for Taiwan suppliers including Yageo, Walsin Technology, Holystone Enterprise, Lelon Electronics, Tai-Tech, Apaq, Ta-I Technology, Viking, and Thinking. The capa",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "China's Blue Core Computing secures nearly US$300 million to challenge x86, Arm in AI servers",
+      "url": "https://www.digitimes.com/news/a20261013VL218/arm-x86-risc-v-shenzhen-production.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-13T05:44:12+00:00",
+      "short_snippet": "Shenzhen-based Blue Core Computing (Shenzhen) Technology has raised nearly CNY2 billion (≈ US$298.7 million) in Series B financing to accelerate production of its RISC-V server processors with integrated AI capabilities. The funding follows the deployment of its LX500 chip in Lenovo servers, advancing China's efforts to develop alternatives to x86 and Arm architectures.",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心",
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "Hua Hong deepens China chip equipment partnerships, targets stronger specialty foundry share by 2030",
+      "url": "https://www.digitimes.com/news/a20261013VL216/equipment-2030-production-wafer-manufacturing.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-13T04:29:33+00:00",
+      "short_snippet": "China's Hua Hong Group has signed strategic agreements with four domestic semiconductor equipment suppliers to accelerate the adoption of locally developed wafer fabrication tools, reinforcing China's chipmaking self-sufficiency efforts. The partnerships coincide with Hua Hong's ambitious 2030 market-share targets for specialty processes, including embedded flash memory, power management, and imag",
+      "tags": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "Huawei foldable phone shipments top 20 million, claims over 70% China market share in 1H26",
+      "url": "https://www.digitimes.com/news/a20261013PD224/huawei-foldable-shipments-foldable-smartphone-market-share.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-13T04:23:00+00:00",
+      "short_snippet": "Huawei's cumulative global foldable smartphone shipments have exceeded 20 million units, with the company capturing more than 70% of China's foldable phone market in the first half of 2026, according to Huawei Terminal BG CTO Li Xiaolong.",
+      "tags": [
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "Taiwan seeks new grid, renewable energy solutions as AI computing hubs hit power constraints",
+      "url": "https://www.digitimes.com/news/a20261013PD220/renewable-energy-taiwan-taiwan-power-company-data-demand.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-13T04:20:41+00:00",
+      "short_snippet": "As the global AI industry and AI data centers (AIDCs) experience explosive growth, developing compute hubs presents severe power supply challenges alongside stringent international supply chain mandates for carbon reduction and renewable energy usage. Amid grid transition friction and resilience tests, state utility Taipower, alongside Taiwan's renewable energy, energy storage, and domestic lithiu",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    },
+    {
+      "title": "Nvidia and Cisco unveil new optics design to help scale AI factories",
+      "url": "https://www.digitimes.com/news/a20261013PR201/nvidia-cisco-optics-design-infrastructure.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-13T04:15:00+00:00",
+      "short_snippet": "Nvidia and Cisco have introduced a new pluggable optics form factor to expand AI infrastructure without sharply increasing power use or network complexity. For global cloud operators, enterprises, and sovereign AI projects, the design could support denser, more efficient data center builds as demand for AI computing continues to rise.",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心"
+      ]
+    },
+    {
+      "title": "Column: From 3D NAND to 3D DRAM — how vertical stacking is reshaping memory chip manufacturing",
+      "url": "https://www.digitimes.com/news/a20261013PD211/3d-dram-nand-manufacturing.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-13T04:06:44+00:00",
+      "short_snippet": "After 2013, planar NAND flash memory began reaching its scaling limits at the 15–16nm process node. Capacitive coupling between the floating gates of adjacent memory cells increasingly disrupted their threshold voltages, making stored data harder to read reliably. The problem became particularly acute with the adoption of triple-level cell (TLC) NAND, which requires precise threshold-voltage detec",
+      "tags": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "Taiwan optical suppliers post record sales as Lumentum warns of shortages",
+      "url": "https://www.digitimes.com/news/a20261013PD215/revenue-taiwan-sales-demand-growth.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-13T03:56:33+00:00",
+      "short_snippet": "Taiwanese optical networking suppliers reported strong September and third-quarter 2026 revenue growth, with EZconn and LuxNet posting record monthly sales as demand for high-speed connectivity in AI data centers continued to rise. The results come as US optical component maker Lumentum warns that its production capacity is booked into early 2029, with significant supply shortages expected to pers",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    },
+    {
+      "title": "Malaysian states team up to back homegrown chip firms",
+      "url": "https://www.digitimes.com/news/a20261013VL207/government-investment-ic-design-2027-growth.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-13T03:50:00+00:00",
+      "short_snippet": "The Selangor state government has committed MYR50 million (US$12.24 million) to the National Strategic Investment Fund, joining Khazanah Nasional Bhd and the Penang government in a MYR150 million vehicle to accelerate the growth of Malaysian semiconductor and advanced technology companies, Bernama reported on October 10, 2026.",
+      "tags": [
+        "半導體",
+        "監管",
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "AI server tracker: Taiwan's CCL, PCB and IC substrate suppliers see widening growth gap despite AI boom",
+      "url": "https://www.digitimes.com/news/a20261013VL214/pcb-ccl-ic-substrate-laminate-revenue-taiwan.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-13T03:47:03+00:00",
+      "short_snippet": "Taiwan's copper-clad laminate (CCL), printed circuit board (PCB) and IC substrate suppliers are seeing uneven returns from AI infrastructure spending. All 10 tracked companies recorded nine-month year-over-year revenue growth, and seven generated more revenue by September 2026 than in all of 2025, although their momentum differed markedly.",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    },
+    {
+      "title": "Foxconn's Vietnam unit Fukang Technology more than doubles registered capital to US$710.4 million",
+      "url": "https://www.digitimes.com/news/a20261013VL202/foxconn-taiwan-subsidiary-investment-2026.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-13T03:45:00+00:00",
+      "short_snippet": "Fukang Technology, a northern Vietnam subsidiary of Taiwan's Hon Hai Precision Industry (Foxconn), has raised its registered capital by more than 109% to nearly VND17.47 trillion (US$710.4 million), according to business registration records reported by The Investor on October 12, 2026. The update, issued in late September, lifts the capital base from VND8.35 trillion and brings the registration i",
+      "tags": [
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "Global PC shipments plunge 20% in 3Q26",
+      "url": "https://www.digitimes.com/news/a20261013PD229/pc-shipments-inventory-market-demand.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-13T03:42:37+00:00",
+      "short_snippet": "Global PC shipments, including desktops, notebooks, and workstations, fell more than 20% year-over-year in the third quarter of 2026 as inventory pressure and weak demand hit the market. The decline reflects how the AI infrastructure boom is squeezing component supplies for consumer electronics while driving up prices.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI server tracker: Supply, not demand, caps BMC growth as Aspeed's 2027 orders top this year's revenue",
+      "url": "https://www.digitimes.com/news/a20261013VL206/aspeed-ai-server-demand-growth.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-13T03:29:18+00:00",
+      "short_snippet": "Taiwan-based server management chip supplier Aspeed Technology reported consolidated revenue of NT$1.636 billion (approx. US$51.16 million) for September 2026, up 100.93% year-over-year and 0.64% from August. It was the company's 11th consecutive month of record revenue.",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心",
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "NSTC abolishes KPI system to encourage high-risk research",
+      "url": "https://www.digitimes.com/news/a20261013PD223/nstc-taiwan-funding.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-13T03:23:21+00:00",
+      "short_snippet": "Taiwan's National Science and Technology Council (NSTC) has abolished its research KPI system, noting that failed projects will not affect professors' future applications for funding. The aim is to encourage academic researchers to pursue research with lower success rates and greater potential impact.",
+      "tags": [
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "Intel CEO warns AI hardware shortages could last up to 3 years",
+      "url": "https://www.digitimes.com/news/a20261013PD219/intel-ceo-hardware-demand-infrastructure.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-13T03:20:00+00:00",
+      "short_snippet": "Intel CEO Lip-Bu Tan warned in Singapore that demand for AI infrastructure continues to outpace supply, with hardware shortages unlikely to ease significantly over the next 2–3 years as capacity constraints persist across memory, wafers and advanced packaging.",
+      "tags": [
+        "AI",
+        "半導體",
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "OpenAI reportedly in talks with startup to bring Sora back to life",
+      "url": "https://www.digitimes.com/news/a20261013VL213/sora-openai-startup-software.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-13T03:16:38+00:00",
+      "short_snippet": "Sora, the AI video generation model created by OpenAI, may someday be revived after its services were shut down this year. A startup is reportedly in talks with OpenAI over access to the tool, with the aim of possibly modifying it and selling software or other services based on it.",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "Taiwan telecom leaders post stellar September results on iPhone upgrades, AI service growth",
+      "url": "https://www.digitimes.com/news/a20261013PD221/taiwan-telecom-growth-iphone-revenue.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-13T03:05:33+00:00",
+      "short_snippet": "Taiwan's three leading telecom operators reported strong revenue and earnings growth in September 2026, driven by replacement demand following the launch of Apple's iPhone 18 Pro series and continued expansion in enterprise services, including AI data centers (AIDC), cloud computing, and information and communications technology (ICT) projects.",
+      "tags": [
+        "AI",
+        "資料中心",
+        "Big Tech",
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "Meta's Muse Wonder challenges OpenAI, Anthropic, but frontier AI comes at a higher price",
+      "url": "https://www.digitimes.com/news/a20261013VL210/meta-openai-anthropic-claude-2026.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-13T03:01:24+00:00",
+      "short_snippet": "Meta Platforms unveiled Muse Wonder and Muse Wonder Full on October 12, 2026, marking its strongest challenge yet to OpenAI and Anthropic in frontier AI. Developed by Meta Superintelligence Labs (MSL), the proprietary models target complex coding, professional workflows, and autonomous agents, although the most capable version remains restricted to subscribers.",
+      "tags": [
+        "AI",
+        "Big Tech",
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "Korea Alcohol Group speeds up pivot into semiconductors",
+      "url": "https://www.digitimes.com/news/a20261013PD208/materials-revenue-production-operating-profit-2026.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-13T02:57:49+00:00",
+      "short_snippet": "Korea Alcohol Group is accelerating its shift toward semiconductor materials with a KRW450 billion (US$337 million) production base at Yesan County in South Korea's South Chungcheong Province, which will also link up its operations in raw-material supply, high-purity solvents, process chemicals, and recycling.",
+      "tags": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "DeepSeek expands into embodied AI with early bet on robotics startup Winverse",
+      "url": "https://www.digitimes.com/news/a20261013VL209/deepseek-startup-robotics-hardware-financing.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-13T02:50:59+00:00",
+      "short_snippet": "DeepSeek is expanding its reach beyond digital chatbots into the physical world, agreeing to lead a seed financing round for Winverse AI. According to sources familiar with the matter cited by Bloomberg , the investment would value the Chinese robotics startup at approximately US$400 million.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Wistron, Wiwynn spotlight liquid-cooled AI compute, storage at OCP",
+      "url": "https://www.digitimes.com/news/a20261013PD226/wistron-wiwynn-2026-ethernet-rubin.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-13T02:48:50+00:00",
+      "short_snippet": "Wistron and Wiwynn are showcasing next-generation AI compute and storage systems for AI factories at the 2026 Open Compute Project (OCP) Global Summit in San Jose, California, with all-liquid-cooled platforms and Nvidia's latest rack-scale systems taking center stage.",
+      "tags": [
+        "AI",
+        "半導體",
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "Ecosia drops Mistral AI models for Chinese open-weight alternatives",
+      "url": "https://www.digitimes.com/news/a20261013PD222/europe-search-engine-france-mistral-ai.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-13T02:45:21+00:00",
+      "short_snippet": "Europe's drive for sovereign AI faces a new test as German search engine Ecosia abandons France's Mistral AI models in favor of open-source AI, including models from China. Ecosia CEO Christian Kroll said Mistral's models performed poorly and frequently overloaded its servers, while the company's new approach has cut costs in half and improved quality and performance.",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    },
+    {
+      "title": "TSMC power plant funding talks still conceptual, says Taipower",
+      "url": "https://www.digitimes.com/news/a20261013PD212/taiwan-power-company-electricity-demand-tsmc-manufacturing.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-13T02:44:16+00:00",
+      "short_snippet": "Electricity demand from semiconductor manufacturing, memory production, advanced packaging, and server assembly is rising rapidly, fueling reports that Taiwan Power Company (Taipower) is seeking financial contributions from major industrial customers, including TSMC, to support dedicated power plant development.",
+      "tags": [
+        "半導體",
+        "資料中心"
+      ]
+    },
+    {
+      "title": "India's Kaynes Semicon seeks foreign partners as its Gujarat chip plant ramps up",
+      "url": "https://www.digitimes.com/news/a20261013VL201/semicon-plant-packaging-materials-electronics.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-13T02:36:50+00:00",
+      "short_snippet": "Kaynes Semicon, the chip packaging arm of Indian electronics maker Kaynes Technology, is calling for foreign semiconductor companies to form joint ventures in India, as its executives point to India's lack of expertise in key packaging materials just as output at its first plant begins to scale.",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "HCLTech signs Anthropic premier partnership as both firms deepen India AI bets",
+      "url": "https://www.digitimes.com/news/a20261013VL200/anthropic-claude-partnership-capacity-software.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-13T02:24:28+00:00",
+      "short_snippet": "HCLTech has signed a Global Premier Partnership with Anthropic, tying one of India's largest IT services companies more closely to an AI developer that has spent 2026 building out its India presence, even as HCLTech separately moves to own AI computing capacity at home.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "E-Life Mall expands Digital City stores, surpassing 80 locations without chasing density",
+      "url": "https://www.digitimes.com/news/a20261013PD202/edt-management-e-commerce-retail-data.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-13T02:12:20+00:00",
+      "short_snippet": "E-Life Mall is upgrading its physical stores, deepening digital membership management, and adopting generative AI (GenAI) and data analytics as consumer habits change. Physical retail remains its core operating foundation, with its large-format Digital City (DC) stores now exceeding 80 locations, accounting for more than one-quarter of its 318 stores across Taiwan.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
+      "url": "https://news.ycombinator.com/item?id=50067356",
+      "source": "Hacker News",
+      "published_at": "2026-10-13T05:57:32+00:00",
+      "short_snippet": "Article URL: https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks Comments URL: https://news.ycombinator.com/item?id=50067356 Points: 75 # Comments: 69",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "A look at OpenAI’s math that’s claimed computes faster Fourier transforms",
+      "url": "https://news.ycombinator.com/item?id=50065932",
+      "source": "Hacker News",
+      "published_at": "2026-10-13T02:46:43+00:00",
+      "short_snippet": "Article URL: https://www.argmin.net/p/faster-fourier-transforms Comments URL: https://news.ycombinator.com/item?id=50065932 Points: 106 # Comments: 72",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI Models Can Provably Hide Arbitrary Capabilities",
+      "url": "https://news.ycombinator.com/item?id=50065692",
+      "source": "Hacker News",
+      "published_at": "2026-10-13T02:07:08+00:00",
+      "short_snippet": "Article URL: https://arxiv.org/abs/2610.13928 Comments URL: https://news.ycombinator.com/item?id=50065692 Points: 177 # Comments: 94",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+      "url": "https://news.ycombinator.com/item?id=50063717",
+      "source": "Hacker News",
+      "published_at": "2026-10-12T22:05:43+00:00",
+      "short_snippet": "Article URL: https://github.com/prabanta-dev/janas Comments URL: https://news.ycombinator.com/item?id=50063717 Points: 114 # Comments: 36",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI is a tool and using it well takes skill",
+      "url": "https://news.ycombinator.com/item?id=50063427",
+      "source": "Hacker News",
+      "published_at": "2026-10-12T21:40:18+00:00",
+      "short_snippet": "Article URL: https://yyhh.org/blog/2026/10/ai-is-a-tool/ Comments URL: https://news.ycombinator.com/item?id=50063427 Points: 370 # Comments: 287",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Phreak.ing – Internet Phone Switch",
+      "url": "https://news.ycombinator.com/item?id=50063417",
+      "source": "Hacker News",
+      "published_at": "2026-10-12T21:39:32+00:00",
+      "short_snippet": "Article URL: https://phreak.ing/ Comments URL: https://news.ycombinator.com/item?id=50063417 Points: 122 # Comments: 33",
+      "tags": [
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+      "url": "https://news.ycombinator.com/item?id=50063365",
+      "source": "Hacker News",
+      "published_at": "2026-10-12T21:35:35+00:00",
+      "short_snippet": "Article URL: https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html Comments URL: https://news.ycombinator.com/item?id=50063365 Points: 177 # Comments: 77",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    },
+    {
+      "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+      "url": "https://news.ycombinator.com/item?id=50060694",
+      "source": "Hacker News",
+      "published_at": "2026-10-12T18:29:04+00:00",
+      "short_snippet": "Article URL: https://github.com/openai/codex/issues/48195 Comments URL: https://news.ycombinator.com/item?id=50060694 Points: 544 # Comments: 272",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Muse Wonder",
+      "url": "https://news.ycombinator.com/item?id=50059115",
+      "source": "Hacker News",
+      "published_at": "2026-10-12T16:48:01+00:00",
+      "short_snippet": "Article URL: https://research.meta.ai/blog/muse-wonder Comments URL: https://news.ycombinator.com/item?id=50059115 Points: 616 # Comments: 327",
+      "tags": [
+        "Big Tech"
+      ]
+    },
+    {
+      "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+      "url": "https://news.ycombinator.com/item?id=50059096",
+      "source": "Hacker News",
+      "published_at": "2026-10-12T16:46:34+00:00",
+      "short_snippet": "Hey HN, I’m Vishnu from Agent37 ( https://agent37.com ). We build sandboxes for running AI agents at under 10% of the cost of most sandbox providers. Our customers spend an average of $0.37/month per sandbox. You can view a video walkthrough of the product here: https://youtu.be/DK5ISR2tbNo We started as one of those OpenClaw wrapper companies back in February (yup.. judge me). In time we added mo",
+      "tags": [
+        "AI",
+        "監管"
+      ]
+    },
+    {
+      "title": "A Modern Web App in C",
+      "url": "https://news.ycombinator.com/item?id=50058528",
+      "source": "Hacker News",
+      "published_at": "2026-10-12T16:13:10+00:00",
+      "short_snippet": "Article URL: https://prophitt.me/writing/a-modern-web-app-in-c Comments URL: https://news.ycombinator.com/item?id=50058528 Points: 522 # Comments: 221",
+      "tags": [
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "Ukrainian drone strikes on Yandex datacenters knock cloud and payments offline",
+      "url": "https://www.reddit.com/r/technology/comments/1x4ief0/ukrainian_drone_strikes_on_yandex_datacenters/",
+      "source": "Reddit",
+      "published_at": "2026-10-13T00:21:56+00:00",
+      "short_snippet": "submitted by /u/Logical_Welder3467 [link] [comments]",
+      "tags": [
+        "資料中心"
+      ]
+    },
+    {
+      "title": "Ukraine Struck Yandex Data Centers, Russian Bots Went Silent—Now Questions Are Mounting",
+      "url": "https://www.reddit.com/r/technology/comments/1x3ys2p/ukraine_struck_yandex_data_centers_russian_bots/",
+      "source": "Reddit",
+      "published_at": "2026-10-12T10:55:40+00:00",
+      "short_snippet": "submitted by /u/ArgentineBeauty [link] [comments]",
+      "tags": [
+        "資料中心"
+      ]
+    },
+    {
+      "title": "Russian military takes out more Ukrainian data centers",
+      "url": "https://www.reddit.com/r/technology/comments/1x4ih7w/russian_military_takes_out_more_ukrainian_data/",
+      "source": "Reddit",
+      "published_at": "2026-10-13T00:25:46+00:00",
+      "short_snippet": "submitted by /u/Logical_Welder3467 [link] [comments]",
+      "tags": [
+        "資料中心"
+      ]
+    },
+    {
+      "title": "‘I use AI to do the things that I’m bad at’: Linus Torvalds on why it works for him",
+      "url": "https://www.reddit.com/r/technology/comments/1x4ctnl/i_use_ai_to_do_the_things_that_im_bad_at_linus/",
+      "source": "Reddit",
+      "published_at": "2026-10-12T20:21:42+00:00",
+      "short_snippet": "submitted by /u/N2929 [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI researchers are taking up smoking because they expect AI to cure cancer, says Palantir CTO",
+      "url": "https://www.reddit.com/r/technology/comments/1x43wzs/ai_researchers_are_taking_up_smoking_because_they/",
+      "source": "Reddit",
+      "published_at": "2026-10-12T14:51:00+00:00",
+      "short_snippet": "submitted by /u/existentialthrust [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Developer who vibe-coded free Adobe clones reveals apps to take down Microsoft Office next — and says 'there is no reason to save broken software' | TechRadar",
+      "url": "https://www.reddit.com/r/technology/comments/1x42mel/developer_who_vibecoded_free_adobe_clones_reveals/",
+      "source": "Reddit",
+      "published_at": "2026-10-12T13:59:53+00:00",
+      "short_snippet": "submitted by /u/FutureSuccess2796 [link] [comments]",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "Mark Zuckerberg says Meta has reached AI 'frontier' and rejects calls for slowdown",
+      "url": "https://www.reddit.com/r/technology/comments/1x4e6kt/mark_zuckerberg_says_meta_has_reached_ai_frontier/",
+      "source": "Reddit",
+      "published_at": "2026-10-12T21:14:33+00:00",
+      "short_snippet": "submitted by /u/mepper [link] [comments]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    },
+    {
+      "title": "All AI is ‘compromised’ and has fewer rules than milk, Microsoft bosses say",
+      "url": "https://www.reddit.com/r/technology/comments/1x3yi9v/all_ai_is_compromised_and_has_fewer_rules_than/",
+      "source": "Reddit",
+      "published_at": "2026-10-12T10:39:49+00:00",
+      "short_snippet": "submitted by /u/tylerthe-theatre [link] [comments]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    },
+    {
+      "title": "AI is less regulated than milk, says Microsoft president",
+      "url": "https://www.reddit.com/r/technology/comments/1x41ev4/ai_is_less_regulated_than_milk_says_microsoft/",
+      "source": "Reddit",
+      "published_at": "2026-10-12T13:08:30+00:00",
+      "short_snippet": "submitted by /u/Malor777 [link] [comments]",
+      "tags": [
+        "AI",
+        "Big Tech",
+        "監管"
+      ]
+    },
+    {
+      "title": "Apple trails Samsung as global smartphone shipments hit a 13-year low",
+      "url": "https://www.reddit.com/r/technology/comments/1x4gs00/apple_trails_samsung_as_global_smartphone/",
+      "source": "Reddit",
+      "published_at": "2026-10-12T23:06:35+00:00",
+      "short_snippet": "submitted by /u/rdh2dmd [link] [comments]",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "Why OpenAI Hired Chuck Schumer's Daughter Away From Amazon | The AI industry has a greater need for government influence than anyone else.",
+      "url": "https://www.reddit.com/r/technology/comments/1x49gm4/why_openai_hired_chuck_schumers_daughter_away/",
+      "source": "Reddit",
+      "published_at": "2026-10-12T18:17:19+00:00",
+      "short_snippet": "submitted by /u/Just-Grocery-2229 [link] [comments]",
+      "tags": [
+        "AI",
+        "Big Tech",
+        "監管"
+      ]
+    },
+    {
+      "title": "Police are using AI to locate homes from a single interior photo, and even a picture of a washing machine can be enough",
+      "url": "https://www.reddit.com/r/technology/comments/1x45g9g/police_are_using_ai_to_locate_homes_from_a_single/",
+      "source": "Reddit",
+      "published_at": "2026-10-12T15:49:57+00:00",
+      "short_snippet": "submitted by /u/Miserable_Phase_2519 [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "ReplaySSM: Rethinking State Storage for Faster Hybrid-Model Decoding",
+      "url": "https://developer.nvidia.com/blog/replayssm-rethinking-state-storage-for-faster-hybrid-model-decoding/",
+      "source": "官方：NVIDIA Developer",
+      "published_at": "2026-10-12T16:00:54+00:00",
+      "short_snippet": "Hybrid models interleave state-space model (SSM) layers with a few attention layers. NVIDIA Nemotron 3, Qwen3.5 through Qwen3.8, Kimi-K3, and GLM-5.3-Flash are...",
+      "tags": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "v0.40.4",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.4-rc1",
+      "source": "官方：Ollama releases",
+      "published_at": "2026-10-13T05:26:17+00:00",
+      "short_snippet": "What's Changed llama: update llama.cpp to b11521 for decision models and EmbeddingGemma 2 by @jmorganca in #18917 server: reuse verified manifests and loaded models in inference routes by @dhiltgen in #18947 mlx: compact restored recurrent state after speculative rollback by @dhiltgen in #18955 launch: include installed models in Codex /model picker by @ https://github.com/ollama/ollama/pull/18917",
+      "tags": [
+        "資料中心"
+      ]
+    },
+    {
+      "title": "Intel’s Crescent Island AI Server GPU Gets a Name and Specs: Meet the Intel GPU D-Series",
+      "url": "https://www.servethehome.com/intels-crescent-island-ai-server-gpu-gets-a-name-and-specs-meet-the-intel-gpu-d-series/",
+      "source": "ServeTheHome",
+      "published_at": "2026-10-12T19:25:28+00:00",
+      "short_snippet": "Intel today has unveiled its official performance specifications and branding for its upcoming \"Crescent Island\" data center AI inference cards. Going under the name Intel GPU D-Series, the D270 will offer 1.3 PLFOPs of dense FP8 and 1.5TB/second of memory bandwidth The post Intel’s Crescent Island AI Server GPU Gets a Name and Specs: Meet the Intel GPU D-Series appeared first on ServeTheHome .",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心"
+      ]
+    },
+    {
+      "title": "Marvell Structera X 3406 and 3506 CXL 3.2 Memory Expanders",
+      "url": "https://www.servethehome.com/marvell-structera-x-3406-and-3506-cxl-3-2-memory-expanders/",
+      "source": "ServeTheHome",
+      "published_at": "2026-10-12T16:58:48+00:00",
+      "short_snippet": "The new Structera X 3406 and Structera X 3506 offer six channels and up to 18 DIMMs per controller for CXL 3.2 memory expansion The post Marvell Structera X 3406 and 3506 CXL 3.2 Memory Expanders appeared first on ServeTheHome .",
+      "tags": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "AMD EPYC 8005 SKU List and Value Analysis: Mainstream Sorano’s Big Stride",
+      "url": "https://www.servethehome.com/amd-epyc-8005-sku-list-and-value-analysis-mainstream-soranos-big-stride/",
+      "source": "ServeTheHome",
+      "published_at": "2026-10-12T04:00:38+00:00",
+      "short_snippet": "Following the recent launch of AMD's EPYC 8005 Sorano server CPUs, we are taking a look at the various SKU options among chips, and what configurations offer the best value for different needs The post AMD EPYC 8005 SKU List and Value Analysis: Mainstream Sorano’s Big Stride appeared first on ServeTheHome .",
+      "tags": [
+        "半導體",
+        "資料中心"
+      ]
+    },
+    {
+      "title": "IMF 示警 AI 前景不明恐引發市場修正，金融系統面臨網攻威脅",
+      "url": "https://infosecu.technews.tw/2026/10/13/imf-warns-of-cyber-threats-to-financial-systems/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T07:30:11+00:00",
+      "short_snippet": "國際貨幣基金（IMF）今天警告，全球金融體系面臨的風險升高，其中包括人工智慧（AI）投資前景轉弱可能引發的市場 […]",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "IMF 示警通膨風險惡化 公債殖利率恐失序上升",
+      "url": "https://finance.technews.tw/2026/10/13/imf-warns-of-disorderly-surge-in-bond-yields/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T07:20:51+00:00",
+      "short_snippet": "國際貨幣基金組織（IMF）指出，強勁的人工智慧（AI）投資支撐全球成長，但戰爭和債務威脅經濟前景，隨著通膨風險 […]",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "英特爾發表代號 Crescent Island 之 AI 推論晶片與 Xeon 伺服器架構",
+      "url": "https://technews.tw/2026/10/13/intel-unveils-its-ai-inference-chip-codenamed-crescent-island-and-xeon-server-architecture/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T07:15:06+00:00",
+      "short_snippet": "半導體大廠英特爾（Intel）正式公開旗下 GPU D 系列加速卡的技術細節，代號為「Crescent Isl […]",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心"
+      ]
+    },
+    {
+      "title": "Kakao 升級 KakaoTalk 至 AI 助理服務，知名吉祥物「萊恩」化身最佳幫手",
+      "url": "https://technews.tw/2026/10/13/kakao-unveils-new-ai-assistant-service-to-be-launched-on-kakaotalk/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T07:10:57+00:00",
+      "short_snippet": "韓國 Kakao 今日在京畿道龍仁市的 AI 園區舉行年度開發者大會「if(kakao)26」，公開全新人工智 […]",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "光電測試平台成 CPO 量產關鍵，測試設備供應鏈版圖將迎新變局",
+      "url": "https://technews.tw/2026/10/13/optoelectronic-testing-platforms-crucial-cpo-mass-production-ushering-new-changes-test-equipment-supply-chain-landscape/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T07:05:57+00:00",
+      "short_snippet": "根據 TrendForce 最新 AI 互連技術研究，隨 AI 資料中心推升高速傳輸需求，共同封裝光學（CPO […]",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    },
+    {
+      "title": "55 美元電視盒成 AI 宿主，Anthropic 警告：小型模型數月內恐實現「自我複製」",
+      "url": "https://infosecu.technews.tw/2026/10/13/anthropic-warns-ai-self-replication-crisis/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T07:00:12+00:00",
+      "short_snippet": "Anthropic 的最新研究提出警告，小型 AI 模型可能在未來幾個月內，發展出足以在商用物聯網（IoT）裝 […]",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "模型未問世就備妥 2,000 億美元，祖克柏親揭 Meta 豪賭 AI 內幕",
+      "url": "https://finance.technews.tw/2026/10/13/zuckerberg-meta-100-billion-ai-bet/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T06:50:15+00:00",
+      "short_snippet": "Ｍeta 執行長馬克‧祖克柏（Mark Zuckerberg）近日透露，公司在去年底曾評估對人工智慧（AI）投 […]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    },
+    {
+      "title": "Shield AI 首架 V-BAT 運抵台灣，陸續交機 12 架予海巡署",
+      "url": "https://technews.tw/2026/10/13/shield-ai-delivers-its-first-v-bat-to-taiwan/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T06:45:02+00:00",
+      "short_snippet": "美國國防科技公司 Shield AI 宣布，已與合作夥伴漢翔航空工業（AIDC）共同完成首架 V-BAT 垂直 […]",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "嘉和半導體 GaNrich 布局 40V–1200V 全系列 GaN 功率元件，加速全球市場滲透",
+      "url": "https://technews.tw/2026/10/13/ganrich-gan-on-si-sapphire/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T06:40:54+00:00",
+      "short_snippet": "嘉和半導體聚焦氮化鎵（GaN）功率半導體技術，以自主研發、台灣製造為核心，針對目前市場上氮化鎵最成熟之兩大基板 […]",
+      "tags": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "風電、光電與儲能齊聚，2026 智慧能源週登場",
+      "url": "https://technews.tw/2026/10/13/2026-smart-energy-week-wind-power-solar-power-energy-storage/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T06:30:49+00:00",
+      "short_snippet": "隨 AI 與半導體產業帶動用電需求成長，行政院長卓榮泰先前表示，台灣未來十年用電年均成長率可能高於原先預估的 […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    },
+    {
+      "title": "AMD 推出 Helion 以實現機櫃級代理式 AI 運算，預定 11 月供貨",
+      "url": "https://technews.tw/2026/10/13/amd-launches-helion-for-rack-scale-agent-based-ai-computing/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T06:30:46+00:00",
+      "short_snippet": "半導體大廠 AMD 於 13 日宣布推出 AMD Helion 代理式 AI 機櫃，基於開放運算計畫（Open […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    },
+    {
+      "title": "鴻海 OCP 2026 秀 NVIDIA Vera Rubin 平台創新",
+      "url": "https://finance.technews.tw/2026/10/13/ocp-2026-foxconn/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T06:28:33+00:00",
+      "short_snippet": "鴻海於 2026 OCP Global Summit 展出新一代 AI Rack 技術，展現從運算系統、高速互 […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    },
+    {
+      "title": "神雲科技於 2026 OCP 全球高峰會聚焦開放 AI 基礎架構與全端創新，加速規模化部署",
+      "url": "https://technews.tw/2026/10/13/wiwynn-focuses-open-ai-infrastructure-full-stack-innovation-2026-ocp-global-summit-accelerating-large-scale-deployment/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T06:00:54+00:00",
+      "short_snippet": "全球高效能伺服器解決方案領導者神達控股股份有限公司子公司神雲科技（MiTAC Computing Techno […]",
+      "tags": [
+        "AI",
+        "資料中心",
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "博通 CEO 批 AI 燒錢像打電玩、貝瑞轉發 馬斯克反駁",
+      "url": "https://finance.technews.tw/2026/10/13/broadcom-ceo-likens-many-ai-investors-to-casino-gamblers/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T05:50:09+00:00",
+      "short_snippet": "人工智慧（AI）投資熱潮引發泡沫疑慮，博通（Broadcom）執行長陳福陽（Hock Tan）直言，許多 AI […]",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Alphabet 20 年首見現金流轉負，無懼逆風豪擲 2 千億美元建 AI：落後才是最大風險",
+      "url": "https://finance.technews.tw/2026/10/13/alphabet-expands-ai-investment/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T05:30:20+00:00",
+      "short_snippet": "Alphabet 總裁兼首席投資長露絲·波拉特（Ruth Porat）表示，隨著企業、政府與平台上的算力需求持 […]",
+      "tags": [
+        "Big Tech"
+      ]
+    },
+    {
+      "title": "日媒：Anthropic 日本首座資料中心擬設於大阪",
+      "url": "https://technews.tw/2026/10/13/japanese-media-report-anthropic-plans-first-data-center-japan-osaka/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T05:20:58+00:00",
+      "short_snippet": "日媒披露，日本大型電信公司 NTT 已經在協調於大阪府建置提供美國 Anthropic 所用的資料中心。這將是 […]",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    },
+    {
+      "title": "和碩於 OCP Global Summit 2026 展現從設計到部署 AI 基礎設施實力",
+      "url": "https://finance.technews.tw/2026/10/13/ocp-global-summit-2026-pegatron/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T05:02:34+00:00",
+      "short_snippet": "和碩稍早指出，該公司將於 OCP Global Summit 2026 展示其次世代 AI 基礎設施的開發與製 […]",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "高通大秀 AI 原生寬頻新技術，整合 Wi-Fi 8、5G Advanced 與邊緣 AI",
+      "url": "https://technews.tw/2026/10/13/qualcomm-network-x-2026-dragonwing-ai/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T04:58:05+00:00",
+      "short_snippet": "高通於 Network X 2026 展前正式宣布一系列創新技術，將先進連網技術、邊緣 AI 與網路智慧整合至 […]",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    },
+    {
+      "title": "全球手機市場暴跌 20%，iPhone 第三季市占率創歷史新高",
+      "url": "https://technews.tw/2026/10/13/2026-q3-global-smartphone-market/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T04:50:53+00:00",
+      "short_snippet": "全球智慧型手機市場持續受到記憶體價格上漲衝擊，出貨量出現明顯萎縮，但蘋果卻在市場逆風中創下新紀錄。據研調機構 […]",
+      "tags": [
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "未來五年晶圓需求持續成長！Yole 看好 CPO、玻璃基板與 800V 供電成下波技術焦點",
+      "url": "https://technews.tw/2026/10/13/semicon-west-yole-jean-christophe-eloy/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T04:15:16+00:00",
+      "short_snippet": "Yole 執行長 Jean-Christophe Eloy 在 Semicon West 前夕分享針對半導體市 […]",
+      "tags": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "康舒光電案場突破百座，擴大表後儲能與 EMS 應用",
+      "url": "https://technews.tw/2026/10/13/kinsus-optronics-100-project-sites-expand-behind-meter-storage-ems-applications/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T04:10:21+00:00",
+      "short_snippet": "電源解決方案廠商康舒科技將於 10 月 14 日至 16 日參加 2026 台灣國際智慧能源週，展示太陽光電建 […]",
+      "tags": [
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "輝達 H200 訂單爆量急催台積電，中國 AI 巨頭陷算力荒砸重金出海尋求突圍",
+      "url": "https://technews.tw/2026/10/13/china-ai-chip-shortage-and-nvidia-production-expansion/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T04:10:11+00:00",
+      "short_snippet": "儘管美國近期放寬了部分 H200 AI 晶片對中國客戶的銷售限制，中國科技業對 Nvidia（輝達）晶片的需求 […]",
+      "tags": [
+        "AI",
+        "半導體",
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "「開放軟體、專有晶片」劍指輝達，高通連環收購拚突圍 CUDA 生態圈",
+      "url": "https://technews.tw/2026/10/13/how-qualcomms-open-software-strategy-challenges-nvidia/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T04:00:20+00:00",
+      "short_snippet": "高通（Qualcomm）正加速推進一套以「開放軟體、專有晶片」為核心的策略，試圖削弱輝達（NVIDIA）在 A […]",
+      "tags": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "紐時、經濟學人等媒體加入聯盟，防止 AI 未經授權使用新聞內容",
+      "url": "https://technews.tw/2026/10/13/nyt-economist-among-publishers-joining-coalition-to-curb-unpaid-ai-use/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T03:50:29+00:00",
+      "short_snippet": "紐約時報（The New York Times）、法新社（AFP）和「經濟學人」（The Economist） […]",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "格羅方德全新 FDX Fusion 平台挑戰 7 奈米級效能，主攻車用與邊緣 AI",
+      "url": "https://technews.tw/2026/10/13/globalfoundries-unveils-7nm-class-fdx-fusion-node/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T03:40:49+00:00",
+      "short_snippet": "格羅方德（GlobalFoundries）在德國德勒斯登宣布推出新一代 FDX Fusion FD-SOI 平 […]",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Anthropic 也要培訓「前線部署工程師」，目標訓練萬名「AI 傳教士」將 Claude 切實導入企業經營",
+      "url": "https://technews.tw/2026/10/13/anthropic-invests-100m-to-train-fdes-and-seeks-these-5-key-attributes/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T03:20:56+00:00",
+      "short_snippet": "Anthropic 投資 1 億美元押注企業 AI 人才培訓，推出 Claude Frontier Acade […]",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Meta 打造 Muse Wonder 新模型，結合主動記憶與專注能力強攻 AI Agent",
+      "url": "https://technews.tw/2026/10/13/meta-introduces-the-muse-wonder-series/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T03:19:24+00:00",
+      "short_snippet": "耗時一年多的時間與數百億美元重新布局 AI 領域後，Meta 表示已追上先進水準，12 日宣布推出 Muse […]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    },
+    {
+      "title": "微軟老將轉戰 F1，Peter Lee 將擔任賓士車隊 AI 顧問",
+      "url": "https://technews.tw/2026/10/13/microsofts-departing-science-president-plans-to-join-mercedes-f1-team-as-ai-advisor/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-13T03:10:40+00:00",
+      "short_snippet": "微軟（Microsoft）科學部門即將離任的總裁彼得‧李（Peter Lee），傳出將加入賓士（Mercede […]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  ],
+  "evidence": {
+    "https://blog.google/innovation-and-ai/technology/health/ai-health-research": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-35af64855246b34fb8cc"
+    },
+    "https://blog.google/products-and-platforms/products/google-health/google-health-updates": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-58a8a7ff21189350736e"
+    },
+    "https://blog.google/products-and-platforms/products/google-health/google-health-partnership-athletes-creators": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-d6222100e97bf982c3ad"
+    },
+    "https://blog.google/products-and-platforms/products/google-health/fitbit-google-health-updates": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-ea6234bb814dfaf3c2d3"
+    },
+    "https://blog.google/products-and-platforms/devices/fitbit/google-fitbit-edge": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-760feaf7e855f298684d"
+    },
+    "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments": {
+      "level": "A",
+      "label": "Confirmed",
+      "reason": "官方公開摘要有主體、動作與事件細節；只確認來源主張，不表示獨立實測",
+      "quality_hint": "public summary",
+      "event_id": "evt-141eb216d6da6f890bd5"
+    },
+    "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing": {
+      "level": "A",
+      "label": "Confirmed",
+      "reason": "官方公開摘要有主體、動作與事件細節；只確認來源主張，不表示獨立實測",
+      "quality_hint": "public summary",
+      "event_id": "evt-a2a8ddf1867ef9361c92"
+    },
+    "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories": {
+      "level": "A",
+      "label": "Confirmed",
+      "reason": "官方公開摘要有主體、動作與事件細節；只確認來源主張，不表示獨立實測",
+      "quality_hint": "public summary",
+      "event_id": "evt-9e0276cba47ca07d702d"
+    },
+    "https://apple.com/newsroom/2026/10/app-store-indie-games-week-kicks-off-today": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-91079ed83d69ac9bbbf2"
+    },
+    "https://theverge.com/entertainment/1009630/social-reckoning-box-office-other-mommy": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-4744558a273ac88feea3"
+    },
+    "https://theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-fea53ac028555038e16c"
+    },
+    "https://theverge.com/tech/1009594/russian-bots-yandex-outage-drone-strikes-debunk": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-15e0fa4de2708883275f"
+    },
+    "https://theverge.com/tech/1008750/googlebooks-android-best-worst-notifications-app-cast-file-sharing": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-cf25bec535caf07c7d51"
+    },
+    "https://theverge.com/entertainment/1009541/no-mans-sky-iphone-ipad-launch-date": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-2d50d0efd185d3766e68"
+    },
+    "https://theverge.com/tech/1009570/oneplus-16-specs-features-china": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-954662224af8abf8a101"
+    },
+    "https://theverge.com/tech/1008191/nothing-cmf-speaker-m-s-series-bluetooth-design-customize": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-6367f4910166f2b3c6d4"
+    },
+    "https://theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-25d87cbbf691595a20b1"
+    },
+    "https://digitimes.com/news/a20261013VL221/sk-hynix-ssd-processor-design-2026.html": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-71579aa8990dfbd6898e"
+    },
+    "https://digitimes.com/news/a20261013VL215/samsung-expansion-funding-investment-testing.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-842c78747567fc54ad4b"
+    },
+    "https://digitimes.com/news/a20261013VL220/amec-equipment-chairman-demand-investment.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-3ed3c232db6ccfbe4646"
+    },
+    "https://digitimes.com/news/a20261013PD217/data-electricity-taiwan-formosa-plastics-industrial.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-a411f7aa4caa06dc460a"
+    },
+    "https://digitimes.com/news/a20261013PD225/demand-taiwan-capacity-price-capacitor.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-060bad2e5649eaeb475c"
+    },
+    "https://digitimes.com/news/a20261013VL218/arm-x86-risc-v-shenzhen-production.html": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-655c16ad3ba0bcd86bb4"
+    },
+    "https://digitimes.com/news/a20261013VL216/equipment-2030-production-wafer-manufacturing.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-a23183fe707b77d7d5e6"
+    },
+    "https://digitimes.com/news/a20261013PD224/huawei-foldable-shipments-foldable-smartphone-market-share.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-979e5dc148043f99d99b"
+    },
+    "https://digitimes.com/news/a20261013PD220/renewable-energy-taiwan-taiwan-power-company-data-demand.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-54de1aeebc3d243888a3"
+    },
+    "https://digitimes.com/news/a20261013PR201/nvidia-cisco-optics-design-infrastructure.html": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-25dc01e951348ed8302a"
+    },
+    "https://digitimes.com/news/a20261013PD211/3d-dram-nand-manufacturing.html": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-6be9b56d5e34bee8372c"
+    },
+    "https://digitimes.com/news/a20261013PD215/revenue-taiwan-sales-demand-growth.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-a73c84c81efa9a10ff9b"
+    },
+    "https://digitimes.com/news/a20261013VL207/government-investment-ic-design-2027-growth.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-de5bbdab42fbd7db829f"
+    },
+    "https://digitimes.com/news/a20261013VL214/pcb-ccl-ic-substrate-laminate-revenue-taiwan.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-199b4a23763a57a132c0"
+    },
+    "https://digitimes.com/news/a20261013VL202/foxconn-taiwan-subsidiary-investment-2026.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-e3d5064496380d66e76c"
+    },
+    "https://digitimes.com/news/a20261013PD229/pc-shipments-inventory-market-demand.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-23e6f5ffe2d11604a117"
+    },
+    "https://digitimes.com/news/a20261013VL206/aspeed-ai-server-demand-growth.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-a8a9112898ccf1323a47"
+    },
+    "https://digitimes.com/news/a20261013PD223/nstc-taiwan-funding.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-01a508305e08363b6458"
+    },
+    "https://digitimes.com/news/a20261013PD219/intel-ceo-hardware-demand-infrastructure.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-939301d167b77e83b3ef"
+    },
+    "https://digitimes.com/news/a20261013VL213/sora-openai-startup-software.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-e551cfd3a52ee454aad0"
+    },
+    "https://digitimes.com/news/a20261013PD221/taiwan-telecom-growth-iphone-revenue.html": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-40926b4b49d51700c741"
+    },
+    "https://digitimes.com/news/a20261013VL210/meta-openai-anthropic-claude-2026.html": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-fcb3acee4c67549a8530"
+    },
+    "https://digitimes.com/news/a20261013PD208/materials-revenue-production-operating-profit-2026.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-ebda5b153c6fa82396a9"
+    },
+    "https://digitimes.com/news/a20261013VL209/deepseek-startup-robotics-hardware-financing.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-c43f0ec95261a30d7813"
+    },
+    "https://digitimes.com/news/a20261013PD226/wistron-wiwynn-2026-ethernet-rubin.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-24c1078ec795cc9abcb5"
+    },
+    "https://digitimes.com/news/a20261013PD222/europe-search-engine-france-mistral-ai.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-11766af56720df21f684"
+    },
+    "https://digitimes.com/news/a20261013PD212/taiwan-power-company-electricity-demand-tsmc-manufacturing.html": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-10d11364e673c8d992cd"
+    },
+    "https://digitimes.com/news/a20261013VL201/semicon-plant-packaging-materials-electronics.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-3f9c8322bf4e812cc92d"
+    },
+    "https://digitimes.com/news/a20261013VL200/anthropic-claude-partnership-capacity-software.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-04778bb1d298996120c8"
+    },
+    "https://digitimes.com/news/a20261013PD202/edt-management-e-commerce-retail-data.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-6cfe709be3654224916e"
+    },
+    "https://news.ycombinator.com/item?id=50067356": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-af8475c0bcdb546dd40f"
+    },
+    "https://news.ycombinator.com/item?id=50065932": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-022aca5a3d309b252a7d"
+    },
+    "https://news.ycombinator.com/item?id=50065692": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-2c1e23b1e3cf3285892f"
+    },
+    "https://news.ycombinator.com/item?id=50063717": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-3bc15902c1ad255a88b0"
+    },
+    "https://news.ycombinator.com/item?id=50063427": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-e59bcb8f36cf4c6d476e"
+    },
+    "https://news.ycombinator.com/item?id=50063417": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-9b6974563d1f0f140960"
+    },
+    "https://news.ycombinator.com/item?id=50063365": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-9a6d031fbd2d8a1359f9"
+    },
+    "https://news.ycombinator.com/item?id=50060694": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-440649e794433fdff1e2"
+    },
+    "https://news.ycombinator.com/item?id=50059115": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-67d82ac23cd3452fcd5d"
+    },
+    "https://news.ycombinator.com/item?id=50059096": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "",
+      "event_id": "evt-93481ec2e3a9d5b087b6"
+    },
+    "https://news.ycombinator.com/item?id=50058528": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-d3f110d7fbc2f25bdc21"
+    },
+    "https://reddit.com/r/technology/comments/1x4ief0/ukrainian_drone_strikes_on_yandex_datacenters": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-b45125b60197939a1780"
+    },
+    "https://reddit.com/r/technology/comments/1x3ys2p/ukraine_struck_yandex_data_centers_russian_bots": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-213a746cb708824a0a49"
+    },
+    "https://reddit.com/r/technology/comments/1x4ih7w/russian_military_takes_out_more_ukrainian_data": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-12e636df943179110313"
+    },
+    "https://reddit.com/r/technology/comments/1x4ctnl/i_use_ai_to_do_the_things_that_im_bad_at_linus": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-a5259e57e5f24f067ca7"
+    },
+    "https://reddit.com/r/technology/comments/1x43wzs/ai_researchers_are_taking_up_smoking_because_they": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-fa1f3d64059423284b40"
+    },
+    "https://reddit.com/r/technology/comments/1x42mel/developer_who_vibecoded_free_adobe_clones_reveals": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-e8d01bde281a2481f792"
+    },
+    "https://reddit.com/r/technology/comments/1x4e6kt/mark_zuckerberg_says_meta_has_reached_ai_frontier": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-02ee98ea2621ab072b50"
+    },
+    "https://reddit.com/r/technology/comments/1x3yi9v/all_ai_is_compromised_and_has_fewer_rules_than": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-525dbc5e696473701d4a"
+    },
+    "https://reddit.com/r/technology/comments/1x41ev4/ai_is_less_regulated_than_milk_says_microsoft": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-ff126f7efe57eda20d97"
+    },
+    "https://reddit.com/r/technology/comments/1x4gs00/apple_trails_samsung_as_global_smartphone": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-909d2932315c29493f42"
+    },
+    "https://reddit.com/r/technology/comments/1x49gm4/why_openai_hired_chuck_schumers_daughter_away": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-05d18e4550379e7b1ae0"
+    },
+    "https://reddit.com/r/technology/comments/1x45g9g/police_are_using_ai_to_locate_homes_from_a_single": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-9239b18bfa749ca57f04"
+    },
+    "https://developer.nvidia.com/blog/replayssm-rethinking-state-storage-for-faster-hybrid-model-decoding": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-c88f4119c47166d435fd"
+    },
+    "https://github.com/ollama/ollama/releases/tag/v0.40.4-rc1": {
+      "level": "A",
+      "label": "Confirmed",
+      "reason": "官方公開摘要有主體、動作與事件細節；只確認來源主張，不表示獨立實測",
+      "quality_hint": "public summary",
+      "event_id": "evt-62bd2b4c042758daf6fa"
+    },
+    "https://servethehome.com/intels-crescent-island-ai-server-gpu-gets-a-name-and-specs-meet-the-intel-gpu-d-series": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-3fc2aedaef587b168f0e"
+    },
+    "https://servethehome.com/marvell-structera-x-3406-and-3506-cxl-3-2-memory-expanders": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-30af2e84ad3941c9f735"
+    },
+    "https://servethehome.com/amd-epyc-8005-sku-list-and-value-analysis-mainstream-soranos-big-stride": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-c550b502235f42172a24"
+    },
+    "https://infosecu.technews.tw/2026/10/13/imf-warns-of-cyber-threats-to-financial-systems": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-a08d647d50696ff391c2"
+    },
+    "https://finance.technews.tw/2026/10/13/imf-warns-of-disorderly-surge-in-bond-yields": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-5aba42bfefd33f1ec56b"
+    },
+    "https://technews.tw/2026/10/13/intel-unveils-its-ai-inference-chip-codenamed-crescent-island-and-xeon-server-architecture": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-7454f1e7a94aa37e7c09"
+    },
+    "https://technews.tw/2026/10/13/kakao-unveils-new-ai-assistant-service-to-be-launched-on-kakaotalk": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-3438e788deb29f7fab29"
+    },
+    "https://technews.tw/2026/10/13/optoelectronic-testing-platforms-crucial-cpo-mass-production-ushering-new-changes-test-equipment-supply-chain-landscape": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-5a50630be052f091343f"
+    },
+    "https://infosecu.technews.tw/2026/10/13/anthropic-warns-ai-self-replication-crisis": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-61d4eccd5d236a75163c"
+    },
+    "https://finance.technews.tw/2026/10/13/zuckerberg-meta-100-billion-ai-bet": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-739a53b7ed74420ae0c4"
+    },
+    "https://technews.tw/2026/10/13/shield-ai-delivers-its-first-v-bat-to-taiwan": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-307d571f62aac52eeb16"
+    },
+    "https://technews.tw/2026/10/13/ganrich-gan-on-si-sapphire": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-30a53eb131faf74b0af2"
+    },
+    "https://technews.tw/2026/10/13/2026-smart-energy-week-wind-power-solar-power-energy-storage": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-9dc0633eec0bba882503"
+    },
+    "https://technews.tw/2026/10/13/amd-launches-helion-for-rack-scale-agent-based-ai-computing": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-a8c3300ab335e6c0a9ec"
+    },
+    "https://finance.technews.tw/2026/10/13/ocp-2026-foxconn": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-d70c6cc360752058606e"
+    },
+    "https://technews.tw/2026/10/13/wiwynn-focuses-open-ai-infrastructure-full-stack-innovation-2026-ocp-global-summit-accelerating-large-scale-deployment": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-230e2a5f430389985c6a"
+    },
+    "https://finance.technews.tw/2026/10/13/broadcom-ceo-likens-many-ai-investors-to-casino-gamblers": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-4a497e0ff93008a988c7"
+    },
+    "https://finance.technews.tw/2026/10/13/alphabet-expands-ai-investment": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-629b370177821a6db304"
+    },
+    "https://technews.tw/2026/10/13/japanese-media-report-anthropic-plans-first-data-center-japan-osaka": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-9d10b4f0e4e6c5b1f6af"
+    },
+    "https://finance.technews.tw/2026/10/13/ocp-global-summit-2026-pegatron": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-d1bd9be9c9c704a29a99"
+    },
+    "https://technews.tw/2026/10/13/qualcomm-network-x-2026-dragonwing-ai": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-abb3c4c624b21c5bfc4e"
+    },
+    "https://technews.tw/2026/10/13/2026-q3-global-smartphone-market": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-7517df3400e5df414c3b"
+    },
+    "https://technews.tw/2026/10/13/semicon-west-yole-jean-christophe-eloy": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-03f669119f6b8652c56e"
+    },
+    "https://technews.tw/2026/10/13/kinsus-optronics-100-project-sites-expand-behind-meter-storage-ems-applications": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-76db0f521c2785c583e7"
+    },
+    "https://technews.tw/2026/10/13/china-ai-chip-shortage-and-nvidia-production-expansion": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-abe19473f532b97a5f45"
+    },
+    "https://technews.tw/2026/10/13/how-qualcomms-open-software-strategy-challenges-nvidia": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-5c5fa6c215d38d93f073"
+    },
+    "https://technews.tw/2026/10/13/nyt-economist-among-publishers-joining-coalition-to-curb-unpaid-ai-use": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-73b09a3c7e19fcdc2fa4"
+    },
+    "https://technews.tw/2026/10/13/globalfoundries-unveils-7nm-class-fdx-fusion-node": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-31e53cc08c3e7c6aec11"
+    },
+    "https://technews.tw/2026/10/13/anthropic-invests-100m-to-train-fdes-and-seeks-these-5-key-attributes": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-cc706a680df1212bdae5"
+    },
+    "https://technews.tw/2026/10/13/meta-introduces-the-muse-wonder-series": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-b38146cb98bbed22bb6a"
+    },
+    "https://technews.tw/2026/10/13/microsofts-departing-science-president-plans-to-join-mercedes-f1-team-as-ai-advisor": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-53ffe346c95be0609d4a"
+    }
+  },
+  "source_diagnostics": [
+    {
+      "source": "Reuters",
+      "status": "目前無法取得（HTTP 401；不繞過存取限制）",
+      "count": 0
+    },
+    {
+      "source": "官方：Google",
+      "status": "已取得 5 則近 48 小時科技項目",
+      "count": 5
+    },
+    {
+      "source": "官方：Microsoft",
+      "status": "已取得 1 則近 48 小時科技項目",
+      "count": 1
+    },
+    {
+      "source": "官方：NVIDIA",
+      "status": "已取得 2 則近 48 小時科技項目",
+      "count": 2
+    },
+    {
+      "source": "官方：Apple Newsroom",
+      "status": "已取得 1 則近 48 小時科技項目",
+      "count": 1
+    },
+    {
+      "source": "官方：FTC",
+      "status": "目前無法取得（HTTP 404）",
+      "count": 0
+    },
+    {
+      "source": "The Verge",
+      "status": "已取得 8 則近 48 小時科技項目",
+      "count": 8
+    },
+    {
+      "source": "DIGITIMES",
+      "status": "已取得 30 則近 48 小時科技項目",
+      "count": 30
+    },
+    {
+      "source": "Hacker News",
+      "status": "已取得 11 則近 48 小時科技項目",
+      "count": 11
+    },
+    {
+      "source": "Reddit",
+      "status": "已取得 12 則近 48 小時科技項目",
+      "count": 12
+    },
+    {
+      "source": "官方：NVIDIA Developer",
+      "status": "已取得 1 則近 48 小時科技項目",
+      "count": 1
+    },
+    {
+      "source": "官方：Ollama releases",
+      "status": "已取得 1 則近 48 小時科技項目",
+      "count": 1
+    },
+    {
+      "source": "官方：ROCm releases",
+      "status": "目前無法取得（近 48 小時沒有符合主題且有日期的項目）",
+      "count": 0
+    },
+    {
+      "source": "官方：OpenBMC releases",
+      "status": "目前無法取得（近 48 小時沒有符合主題且有日期的項目）",
+      "count": 0
+    },
+    {
+      "source": "官方：Hugging Face",
+      "status": "目前無法取得（近 48 小時沒有符合主題且有日期的項目）",
+      "count": 0
+    },
+    {
+      "source": "研究：arXiv AI",
+      "status": "目前無法取得（沒有可解析的 RSS/Atom 項目）",
+      "count": 0
+    },
+    {
+      "source": "ServeTheHome",
+      "status": "已取得 3 則近 48 小時科技項目",
+      "count": 3
+    },
+    {
+      "source": "TechNews 台灣",
+      "status": "已取得 28 則近 48 小時科技項目",
+      "count": 28
+    },
+    {
+      "source": "X",
+      "status": "目前無法取得（介面保留，尚未接入 API）",
+      "count": 0
+    }
+  ]
+}
