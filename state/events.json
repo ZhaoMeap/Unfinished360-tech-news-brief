@@ -6052,5 +6052,397 @@
         "AI"
       ]
     }
+  },
+  {
+    "event_id": "evt-e10715d5dcc68c609fa3",
+    "article": {
+      "title": "Check out this year’s buzziest Halloween trends.",
+      "url": "https://blog.google/products-and-platforms/products/search/frightgeist-halloween-trends-2026/",
+      "source": "官方：Google",
+      "published_at": "2026-10-14T12:00:00+00:00",
+      "short_snippet": "Ready or not, spooky season is here. To help you prepare, we’re launching Google Frightgeist, our annual interactive website highlighting the top trending searches for H…",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-77f23044221ab5cec05d",
+    "article": {
+      "title": "17 organizations using AI to accelerate scientific breakthroughs",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/impact-challenge-ai-science-recipients/",
+      "source": "官方：Google",
+      "published_at": "2026-10-14T09:30:00+00:00",
+      "short_snippet": "Two photos of women looking at tablets, one in a field and one in a lab, with curved lines running through the image",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f47fc316bfbe998a8e28",
+    "article": {
+      "title": "Halo’s co-creator wrote a novel about AI taking over the world",
+      "url": "https://www.theverge.com/entertainment/1010433/jason-jones-ai-novel-halo-destiny",
+      "source": "The Verge",
+      "published_at": "2026-10-14T14:00:00+00:00",
+      "short_snippet": "Back in 2019, author Margaret Stohl was handed a manuscript written by Jason Jones, who's best known as the co-creator of sci-fi gaming series Halo and Destiny. The two had worked together at Bungie, and Jones wanted Stohl's opinion on a book he was writing about AI taking over the world. It was an oral […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5d3996dbc119f9ca869a",
+    "article": {
+      "title": "We might not have to wait 13 years for the next GTA",
+      "url": "https://www.theverge.com/games/1011028/next-gta-faster-development",
+      "source": "The Verge",
+      "published_at": "2026-10-14T13:42:29+00:00",
+      "short_snippet": "Rockstar Games might not keep fans waiting as long for the next installment of Grand Theft Auto. As part of Bloomberg's expansive report on the making of GTA VI, Rockstar technical lead Phil Hooker said that the \"engine, the tools and the team we've built during this project will allow us to do things more […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b403daf888de79a8145f",
+    "article": {
+      "title": "The Alexa Tablet 12 Pro is almost the Android tablet we needed",
+      "url": "https://www.theverge.com/tech/1010780/alexa-tablet-12-pro-review",
+      "source": "The Verge",
+      "published_at": "2026-10-14T13:00:00+00:00",
+      "short_snippet": "We have to talk about this screen. It's the first thing you notice, and maybe the only thing that matters, about the Alexa Tablet 12 Pro. It's a 12-inch, 2800 x 1840 panel with a new technology Amazon calls \"Nanomatte\" that is meant to decrease glare and increase the feeling that you can reach out […]",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3fd97ab1ab43820743ad",
+    "article": {
+      "title": "Fairphone’s latest repairable earbuds are smaller, lighter, and longer-lasting",
+      "url": "https://www.theverge.com/tech/1010906/fairphone-fairbuds-2-price-release-audio-repairability",
+      "source": "The Verge",
+      "published_at": "2026-10-14T11:00:00+00:00",
+      "short_snippet": "Repairable, ethical phone brand Fairphone has released its second pair of earbuds. The Fairbuds 2 are just as repairable as the first generation, but deliver improved audio and almost twice the battery life. The Fairbuds 2 are out now in the UK and Europe from £99 / €119, and a US launch at $119 will […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-7e3606d0214aab2293aa",
+    "article": {
+      "title": "AVC unveils 6MW In-Row CDU at OCP, adds predictive cooling",
+      "url": "https://www.digitimes.com/news/a20261014PD246/avc-cooling-liquid-cooling-demand-technology.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-14T09:15:00+00:00",
+      "short_snippet": "Asia Vital Components (AVC) unveiled new liquid-cooling solutions, including direct liquid cooling (DLC) and an In-Row CDU, at the Open Compute Project (OCP) Global Summit, held October 12–15 in San Jose, US. The company is expanding liquid cooling beyond AI GPUs and CPUs to support rising AI computing demand and increasingly heat-intensive data-center racks.",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-86d1a65361adb8806c09",
+    "article": {
+      "title": "BOE struggles with glass breakage at US$9.4 billion OLED plant as it seeks Apple iPad orders",
+      "url": "https://www.digitimes.com/news/a20261014VL215/boe-glass-substrate-production-ipad.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-14T09:11:06+00:00",
+      "short_snippet": "China's BOE has spent approximately six months trying to resolve recurring glass substrate breakage at its Gen 8.6 OLED plant in Chengdu, raising concerns about production stability as the display maker seeks approval to supply panels for Apple's iPads.",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c751e7ee34f24ee2ba1b",
+    "article": {
+      "title": "Tata's flagship chip fab faces pressure from its own shareholders",
+      "url": "https://www.digitimes.com/news/a20261014VL218/tata-group-90nm-fab-investment.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-14T08:50:17+00:00",
+      "short_snippet": "Tata Group's semiconductor fab in Gujarat, held up as the foundation of India's chipmaking ambitions, now faces scrutiny from within, as the group's controlling shareholder presses for quicker returns on capital-intensive bets.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d3da9bcd22b8c0745e9c",
+    "article": {
+      "title": "AI computing demand drives water management integration at Tianyi",
+      "url": "https://www.digitimes.com/news/a20261014PD229/demand-water-management-capacity-expansion-equipment.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-14T08:40:08+00:00",
+      "short_snippet": "Rising AI computing demand is fueling capacity expansion in advanced semiconductor manufacturing, making water recycling, energy efficiency, and smart operations and maintenance key components of the green transformation of high-tech plants. Lealea Group's Tianyi Water & Energy Solutions is integrating water management, renewable power and AI-enabled smart maintenance. The company has also been se",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c09dd9209701335dba25",
+    "article": {
+      "title": "ASE expands PowerSiP platform to improve AI data center power efficiency",
+      "url": "https://www.digitimes.com/news/a20261014PR202/ase-efficiency-data-center-3d-2026.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-14T08:38:50+00:00",
+      "short_snippet": "ASE has expanded its PowerSiP platform with a 3D system-in-package solution aimed at vertical voltage regulator modules (VRMs) for AI data centers and high-performance computing systems. The move could matter globally as demand for AI infrastructure rises, since more efficient power delivery may help lower energy losses, support denser computing, and ease the strain on rapidly expanding digital in",
+      "tags": [
+        "AI",
+        "資料中心",
+        "監管",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-23eb8c405214281a424c",
+    "article": {
+      "title": "Wiwynn unveils CPO compute system with GUC and Ayar Labs",
+      "url": "https://www.digitimes.com/news/a20261014PD247/cpo-guc-wiwynn-laser.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-14T08:38:13+00:00",
+      "short_snippet": "Wiwynn Corporation, CPO solutions provider Ayar Labs and Global Unichip Corp. (GUC) will stage the first live demonstration of an integrated compute system with real-time telemetry monitoring at the 2026 OCP Global Summit, marking a new milestone in their strategic partnership.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-59ec4f656cdb4389adda",
+    "article": {
+      "title": "Tsang Yow's semiconductor revenue share reaches 12%",
+      "url": "https://www.digitimes.com/news/a20261014PD240/tsang-yow-revenue-equipment-2026-demand.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-14T08:26:00+00:00",
+      "short_snippet": "Automotive drivetrain manufacturer Tsang Yow reported consolidated revenue of NT$86.36 million (US$2.69 million) in September 2026, down 2.3% month-over-month and 1.24% year-over-year as demand from the Americas aftermarket temporarily slowed. Supported by its semiconductor business, consolidated revenue reached NT$269 million in the third quarter of 2026, up 7.5% year-over-year, while revenue for",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c7df9d6bd1afff53051e",
+    "article": {
+      "title": "Cerebras CEO reveals the capacity shortfall behind OpenAI's turn to Nvidia GPUs",
+      "url": "https://www.digitimes.com/news/a20261014PD230/cerebras-data-capacity-openai-nvidia.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-14T08:20:00+00:00",
+      "short_snippet": "Cerebras Systems' shortage of data centre capacity was a key reason OpenAI turned to Nvidia GPUs to expand services for its next-generation models, co-founder and CEO Andrew Feldman said at TechCrunch Disrupt 2026.",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-31963bcf29908ed019dd",
+    "article": {
+      "title": "Ubiqconn satellite revenue jumps 175% as 3Q26 operations recover",
+      "url": "https://www.digitimes.com/news/a20261014PD239/revenue-ubiqconn-2026-market-shipments.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-14T07:55:00+00:00",
+      "short_snippet": "Ubiqconn Technology reported September 2026 consolidated revenue of NT$142 million (US$4.4 million), up 32.4% month-on-month and 6.7% year-on-year. Third-quarter revenue rose 9.6% sequentially to NT$432 million but fell 10.5% year on year. Revenue for the first three quarters totaled NT$1.373 billion, down 15.7% year on year.",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-37080b61437dfcc86b27",
+    "article": {
+      "title": "China's smartphone slump: Can Apple's new lineup light a spark?",
+      "url": "https://www.digitimes.com/news/a20261014VL214/apple-iphone-china-smartphone-market-sales.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-14T07:54:59+00:00",
+      "short_snippet": "China's smartphone market faces dual pressures as weakening consumer spending and rising component costs continue to weigh on the handset sector. According to third-quarter data from market research firm IDC, nationwide smartphone shipments dropped 15.4% year-over-year to 57.9 million units, underscoring broader macroeconomic headwinds across the country.",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-81ea983ebd3930d8b631",
+    "article": {
+      "title": "Largan chairman casts doubt on Micro LED links for AI data centers",
+      "url": "https://www.digitimes.com/news/a20261014PD227/largan-precision-microled-transmission-data-center-communications.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-14T07:39:17+00:00",
+      "short_snippet": "Largan Precision chairman En-ping Lin has questioned the viability of Micro LED-based optical links for AI data centers, citing concerns over power consumption, size, and transmission efficiency. Industry sources interviewed by DIGITIMES counter that while individual Micro LEDs transmit data more slowly than lasers, using hundreds of parallel channels could reduce overall system power consumption ",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e4104a46e8375c21a64d",
+    "article": {
+      "title": "SK Hynix HBM4 equipment installations reportedly face partial deferral to 2027",
+      "url": "https://www.digitimes.com/news/a20261014VL213/equipment-hbm4-sk-hynix-2027-investment.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-14T07:25:32+00:00",
+      "short_snippet": "Some back-end manufacturing equipment intended for SK Hynix's sixth-generation high-bandwidth memory (HBM4) production may be deferred from the second half of 2026 into 2027, raising questions about the chipmaker's expansion plans as rising conventional DRAM prices create competing opportunities for capital spending.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-46379626fea88a3bde65",
+    "article": {
+      "title": "Huawei's Kirin 9050 Pro delivers 53.5% density gain; tighter 3D bonding next for 2027",
+      "url": "https://www.digitimes.com/news/a20261014VL205/huawei-kirin-3d-transistor-2027.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-14T07:23:22+00:00",
+      "short_snippet": "Huawei has begun mass-producing its Kirin 9050 series with LogicFolding, a 3D chip architecture that improves transistor density and computing efficiency without relying solely on smaller process nodes. Its next-generation Kirin chip, scheduled for 2027, has entered testing, with initial results meeting expectations.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-cff836692f4670131111",
+    "article": {
+      "title": "Microsoft adds US$132.5 billion in lease commitments—but AI capacity takes years to build",
+      "url": "https://www.digitimes.com/news/a20261014PD234/microsoft-capacity-2026-demand-data.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-14T07:08:47+00:00",
+      "short_snippet": "Microsoft's lease commitments that have not yet commenced reached US$329.1 billion in the fourth quarter of fiscal 2026, which ended in June, according to its latest regulatory filing. The total rose US$132.5 billion, or more than 67%, from the previous quarter, marking the company's largest quarterly increase on record.",
+      "tags": [
+        "AI",
+        "Big Tech",
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-24693cfe9d3d7e684492",
+    "article": {
+      "title": "TV4 postpones show after AI agent erases edited material",
+      "url": "https://news.ycombinator.com/item?id=50085323",
+      "source": "Hacker News",
+      "published_at": "2026-10-14T10:28:26+00:00",
+      "short_snippet": "Article URL: https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage Comments URL: https://news.ycombinator.com/item?id=50085323 Points: 48 # Comments: 26",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f44573b3f1b77686023c",
+    "article": {
+      "title": "AI Laser Locking for Quantum Computers: How QuEra Automates It",
+      "url": "https://news.ycombinator.com/item?id=50085302",
+      "source": "Hacker News",
+      "published_at": "2026-10-14T10:26:24+00:00",
+      "short_snippet": "Article URL: https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers Comments URL: https://news.ycombinator.com/item?id=50085302 Points: 18 # Comments: 3",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c5bd9588d9ca449d1be8",
+    "article": {
+      "title": "Amazon pushes up prices across the Internet",
+      "url": "https://news.ycombinator.com/item?id=50084757",
+      "source": "Hacker News",
+      "published_at": "2026-10-14T09:28:17+00:00",
+      "short_snippet": "Article URL: https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/ Comments URL: https://news.ycombinator.com/item?id=50084757 Points: 230 # Comments: 219",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-55a89034591269fec8c9",
+    "article": {
+      "title": "Peter Thiel Escalates War on AI Critics, Accuses Obama and The Pope of Exploiting Public Fears to ‘Boost Their Own Popularity’. Billionaire tech investor Peter Thiel has accused former President Barack Obama and Pope Leo",
+      "url": "https://www.reddit.com/r/technology/comments/1x5lcon/peter_thiel_escalates_war_on_ai_critics_accuses/",
+      "source": "Reddit",
+      "published_at": "2026-10-14T07:57:22+00:00",
+      "short_snippet": "submitted by /u/esporx [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-56beaddcd24fd8dbc984",
+    "article": {
+      "title": "Anthropic moving to in-house version control system in five months",
+      "url": "https://www.reddit.com/r/technology/comments/1x5lvf5/anthropic_moving_to_inhouse_version_control/",
+      "source": "Reddit",
+      "published_at": "2026-10-14T08:31:34+00:00",
+      "short_snippet": "submitted by /u/Logical_Welder3467 [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-36b673b3a49fd9d6d4ef",
+    "article": {
+      "title": "先進封裝材料挑戰怎解？三菱化學靠計算化學、量子技術加速材料開發",
+      "url": "https://technews.tw/2026/10/14/mitsubishi-chemical-group-sanjiv-bhatt-semicon-west/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-14T10:26:10+00:00",
+      "short_snippet": "AI 與 HPC 需求持續推升晶片效能與整合密度，先進封裝也面臨互連密度提高、散熱與翹曲控制等多重挑戰。三菱化 […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a964bf2daedeaeeed134",
+    "article": {
+      "title": "中東衝突遇上 AI 熱潮，全球央行抗通膨難度升高",
+      "url": "https://finance.technews.tw/2026/10/14/middle-east-conflict-ai-boom-global-central-banks-inflation-difficulty/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-14T09:10:59+00:00",
+      "short_snippet": "國際貨幣基金（IMF）與世界銀行（World Bank）年會在曼谷登場。傳統貨幣政策的侷限性日益突顯，全球央行 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e7235398123aa72423c3",
+    "article": {
+      "title": "搶當 AIDC 電力心臟！台塑新智能啟動彰濱二期產能直衝 7.5GWh",
+      "url": "https://finance.technews.tw/2026/10/14/90v50ah/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-14T08:12:48+00:00",
+      "short_snippet": "台塑新智能今年以「全域能源，驅動 AI 未來」為主題參加台灣國際智慧能源週，總經理劉慧啟今日宣布全面啟動彰濱二 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ca3a75302da09342a799",
+    "article": {
+      "title": "不用開發者帳號也能使用自製 App，美國 Google Play 先推",
+      "url": "https://technews.tw/2026/10/14/google-play-introduces-new-ways-to-create-and-launch-your-own-app/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-14T08:09:57+00:00",
+      "short_snippet": "透過 Google AI Studio，使用者可直覺地 Vibe Coding，運用 AI 開發出客製化的 A […]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
   }
 ]
