@@ -7622,5 +7622,713 @@
         "半導體"
       ]
     }
+  },
+  {
+    "event_id": "evt-1d0e2da8417677778982",
+    "article": {
+      "title": "NVIDIA Expands Advanced Technology Access for Europe’s Scientific Community Through Open Learning Resources, Collaborations and Compute",
+      "url": "https://blogs.nvidia.com/blog/ec-scientific-computing-pledge/",
+      "source": "官方：NVIDIA",
+      "published_at": "2026-10-15T10:00:12+00:00",
+      "short_snippet": "Much of today’s scientific progress begins with computation. But turning accelerated computing’s potential into scientific progress — modeling climate systems, designing molecules, simulating materials and more — depends on more than breakthrough technology. Especially for smaller labs, early-career scientists or science-based startups, the hardest part of research can be everything that comes bef",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-cee299365a375c50e171",
+    "article": {
+      "title": "Ledger’s new hardware wallet is an Android phone without the phone",
+      "url": "https://www.theverge.com/tech/1011133/ledger-atom-hardware-wallet-crypto-security-android",
+      "source": "The Verge",
+      "published_at": "2026-10-15T12:00:00+00:00",
+      "short_snippet": "Ledger has announced its latest crypto-centric hardware effort, the Android-based Atom, a device that resembles a phone but is instead designed to be used alongside one. It arrives at a tricky time for Ledger, which has been forced to cease sales of some of its hardware across southeast Asia following hardware tampering in its supply […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-99149b86988ad222150f",
+    "article": {
+      "title": "Amazon’s always-listening Bee wearable can now help you buy stuff",
+      "url": "https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs",
+      "source": "The Verge",
+      "published_at": "2026-10-15T12:00:00+00:00",
+      "short_snippet": "Last year, Amazon bought Bee, a relatively unknown startup with a $50 always-listening AI wearable that summarized every conversation you had. Today, the e-commerce giant is announcing two new Bee devices - and a new subscription to go with them. First is the $74.99 Bee Frontier, an updated version of the original Bee device. And […]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3440716a17a9b56b397f",
+    "article": {
+      "title": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
+      "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
+      "source": "The Verge",
+      "published_at": "2026-10-15T11:00:00+00:00",
+      "short_snippet": "There's a new digital pet in town - a cute little marshmallow of a robot that can change its cartoony expressions to match your mood. But if you or your kids talk to \"Eiliko\" over Wi-Fi, it'll phone home to China. Its AI companion can store literally everything you tell it on Chinese servers, where […]",
+      "tags": [
+        "AI",
+        "資料中心",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-4d63b649e2f6406ca3ce",
+    "article": {
+      "title": "Big Walk skipped Xbox to boycott Microsoft’s involvement with Israel",
+      "url": "https://www.theverge.com/games/1011785/big-walk-house-house-microsoft-xbox-bds-boycott",
+      "source": "The Verge",
+      "published_at": "2026-10-15T10:05:07+00:00",
+      "short_snippet": "Big Walk's co-op multiplayer walking adventure has proved popular since launching in August, but Xbox players have been excluded from the fun - and now the game's creators have explained why. Developer House House said in a blog post that it decided not to release Big Walk on Xbox consoles in accordance with the Palestinian-led […]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-532b789d7c9d9bb083cf",
+    "article": {
+      "title": "TSMC bars capacity resale, aims to leave no AI money on the table",
+      "url": "https://www.digitimes.com/news/a20261015PD244/tsmc-capacity-demand-wafer-technology.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-15T09:20:45+00:00",
+      "short_snippet": "TSMC will not let customers sublease or auction off their wafer capacity allocations, chairman C.C. Wei said during the company's October 15 earnings call. With AI chip demand still far outstripping supply, Wei said TSMC intends to leave no food on the table, making as much as it can, as fast as it can.",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3b6e770aec6b776d0ce9",
+    "article": {
+      "title": "TSMC investor conference: TSMC lifts 2026 revenue growth forecast to 44%, 2nm expansion, new 3nm fab",
+      "url": "https://www.digitimes.com/news/a20261015PD243/tsmc-growth-3nm-2026-fab.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-15T09:15:13+00:00",
+      "short_snippet": "TSMC Chairman and CEO C.C. Wei announced that, driven by relentless AI momentum and strong demand for advanced process technologies, the company has raised its full-year 2026 US dollar revenue growth guidance to approximately 44%. AI and leading-edge nodes continue to serve as the core growth pillars for the foundry's operations.",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e0127dbe2c3d868801a3",
+    "article": {
+      "title": "OpenAI pledges not to use Apple secrets, accuses ex-employee of taking files",
+      "url": "https://www.digitimes.com/news/a20261015PD247/apple-openai-lawsuit-hardware-investigation.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-15T09:13:15+00:00",
+      "short_snippet": "Apple's trade-secret lawsuit against OpenAI went to a hearing, where OpenAI pledged not to use confidential information that Apple claims was stolen. OpenAI also accused a former employee of taking more than 100 documents related to unreleased products when joining Apple.",
+      "tags": [
+        "AI",
+        "Big Tech",
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ed407118d1edeb54edb2",
+    "article": {
+      "title": "AI agents in suspected Tencent Cloud sandbox target Alibaba’s Amap mapping service",
+      "url": "https://www.digitimes.com/news/a20261015PD245/cloud-tencent-alibaba-infrastructure-cybersecurity.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-15T09:09:46+00:00",
+      "short_snippet": "An international AI research team has detected a fleet of more than a dozen AI agents operating in a suspected Tencent Cloud infrastructure sandbox and repeatedly attempting to penetrate Amap, the mapping service owned by Alibaba Group Holding Ltd.",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-34131f4f055b400ef496",
+    "article": {
+      "title": "Aurotek posts record 3Q26 revenue, up 58% on automation demand",
+      "url": "https://www.digitimes.com/news/a20261015PD241/revenue-demand-automation-growth-equipment.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-15T08:40:58+00:00",
+      "short_snippet": "Aurotek Corp. reported record consolidated revenue of NT$1.113 billion (US$34.7 million) in the third quarter of 2026, up 57.93% from a year earlier. Orders from semiconductor, high-end artificial intelligence (AI) server and electronics manufacturing customers drove demand for the company's automation equipment and subsystems.",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-9dfcbc798ca5df7cb306",
+    "article": {
+      "title": "FIC Group opens Malaysia plant as optical module capacity targets 18 SMT lines",
+      "url": "https://www.digitimes.com/news/a20261015PD242/smt-plant-production-johor-manufacturing.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-15T08:39:50+00:00",
+      "short_snippet": "FIC Group opened its PRO3C (Malaysia) Sdn. Bhd. manufacturing facility in Johor, Malaysia, on October 15, expanding its optical communications production footprint in Southeast Asia. The Johor Bahru site is designed to support global customers with 800G, 1.6T, 3.2T and 6.4T optical communication modules as demand grows across artificial intelligence, high-performance computing, data centers and se",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ac7a0b872edf17b8add7",
+    "article": {
+      "title": "Touch Taiwan 2027 expands tech scope with advanced packaging and SiPh shows",
+      "url": "https://www.digitimes.com/news/a20261015PD237/2027-touch-taiwan-packaging-siph-expo.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-15T08:25:00+00:00",
+      "short_snippet": "Touch Taiwan 2027 will take place on April 21–23, 2027, and will expand its scope with two dedicated co-located shows: the Advanced Packaging & Testing Expo and the Silicon Photonics Technology Applications Expo. Spurred by surging demand for AI, high-performance computing (HPC), and high-speed data transmission, the new additions will run alongside the established Smart Manufacturing and Smart Di",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-1fea4e2c54e8acb0794d",
+    "article": {
+      "title": "AI server tracker: AIC accelerates as Taiwan's connector and chassis suppliers post uneven growth",
+      "url": "https://www.digitimes.com/news/a20261014VL219/taiwan-revenue-connector-aic-growth.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-15T08:20:00+00:00",
+      "short_snippet": "Taiwan's connector and server-chassis suppliers posted broadly higher September revenue, although their growth trajectories differed. Seven of eight tracked companies recorded annual gains for both September and January–September 2026. BizLink, AIC and Chenbro had already exceeded their full-year 2025 revenue, while Argosy remained below last year's levels.",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c9624c305f96e08a3aa4",
+    "article": {
+      "title": "TSMC CEO says profitability has no ceiling, plans High-NA EUV adoption in 2030",
+      "url": "https://www.digitimes.com/news/a20261015PD240/tsmc-high-na-euv-adoption-2030.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-15T08:14:39+00:00",
+      "short_snippet": "TSMC chairman and CEO C.C. Wei said on October 15 that the chipmaker sees no ceiling on its profitability as demand for AI accelerators continues to outpace supply. Wei also said AI-related growth could exceed the company's long-term forecast and outlined plans to adopt high-numerical-aperture extreme ultraviolet (High-NA EUV) lithography in 2030.",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c69ca71e6515edb6c82a",
+    "article": {
+      "title": "SK Hynix reportedly ties US NAND fab plan to approval for chip equipment exports to China",
+      "url": "https://www.digitimes.com/news/a20261015VL222/sk-hynix-equipment-nand-exports-solidigm.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-15T08:11:12+00:00",
+      "short_snippet": "SK Hynix is seeking US approval to ship additional American chipmaking equipment to its NAND flash facility in Dalian, China, linking the request to a potential investment in a new US factory, Reuters reported on October 15, citing two people familiar with the matter.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-dc9a08cc9cb132671a70",
+    "article": {
+      "title": "AI server tracker: Taiwanese ODM/EMS players post NT$2.18T in September 2026, up 56% YoY",
+      "url": "https://www.digitimes.com/news/a20261015VL220/2026-revenue-demand-gross-margin-earnings.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-15T08:10:41+00:00",
+      "short_snippet": "Six Taiwanese server and networking contract manufacturers booked combined revenue of NT$2.18 trillion (US$67.3 billion) in September 2026, up 55.9% year-over-year and 4.9% month-over-month, as demand for AI servers stayed strong. Nine-month revenue of NT$15.5 trillion already exceeds the group's full-year 2025 total of NT$14.3 trillion.",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-8624f4106c8a600cf39f",
+    "article": {
+      "title": "Applied Materials CEO says agentic AI drives wafer demand",
+      "url": "https://www.digitimes.com/news/a20261015PD231/applied-materials-demand-wafer-ceo-equipment.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-15T08:02:25+00:00",
+      "short_snippet": "Applied Materials CEO Gary Dickerson said customer demand to produce more good dies per wafer and rapidly expand wafer output has reached levels unprecedented in his career, driven by the rise of AI computing. Speaking at a global investor conference, he said the company expects revenue from related businesses to grow by more than 20% over the next several years.",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0d1eeb59f0ba89de3ac6",
+    "article": {
+      "title": "India's RRP Electronics opens advanced wafer-level packaging facility in Navi Mumbai",
+      "url": "https://www.digitimes.com/news/a20261014VL217/rrp-electronics-mumbai-packaging-chairman-testing.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-15T07:59:00+00:00",
+      "short_snippet": "India's RRP Electronics has inaugurated an Advanced Wafer-Level Packaging (AWLP) facility at its semiconductor unit in Navi Mumbai, Maharashtra, adding SIM and eSIM module production and specialized testing to its outsourced semiconductor assembly and test (OSAT) operations. The facility opened on October 12, 2026, according to Dalal Street Investment Journal .",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-518a018b6e0132afbfb0",
+    "article": {
+      "title": "TSMC breaks silence on Musk's Terafab: Talks underway, but fab control non-negotiable",
+      "url": "https://www.digitimes.com/news/a20261015PD239/tsmc-elon-musk-terafab-capacity-expansion.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-15T07:50:31+00:00",
+      "short_snippet": "TSMC has confirmed that it is in discussions with Elon Musk's Terafab initiative over potential semiconductor manufacturing cooperation, marking the first public acknowledgment of talks between the two sides.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-8d27624a35c99ec81d09",
+    "article": {
+      "title": "TSMC eyes US$54.3bn in 4Q26 revenue, but 2nm ramp and overseas fabs pressure margins",
+      "url": "https://www.digitimes.com/news/a20261015VL221/tsmc-revenue-2nm-demand-2026.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-15T07:31:02+00:00",
+      "short_snippet": "TSMC expects fourth-quarter 2026 revenue to reach US$52.3 billion to US$54.3 billion, potentially rising as much as 61% year-over-year, with sustained demand for advanced semiconductor manufacturing and accelerating 2nm production supporting its year-end outlook.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-7c367842b6c3661aaa61",
+    "article": {
+      "title": "China's AMEC targets 60% of high-end chip equipment market with US$1.94 billion R&D plan",
+      "url": "https://www.digitimes.com/news/a20261015VL211/equipment-amec-high-end-market-manufacturing.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-15T07:24:26+00:00",
+      "short_snippet": "Chinese semiconductor equipment maker AMEC plans to develop 102 new equipment models over the next three to five years, backed by nearly CNY13 billion (≈ US$1.94 billion) in research and development investment. The expansion will extend its portfolio beyond plasma etching into thin-film deposition, advanced packaging, inspection and other semiconductor manufacturing processes.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-7d4a69b44c75a46e431e",
+    "article": {
+      "title": "Samsung reportedly completes 4F² DRAM development as China's CXMT targets year-end launch",
+      "url": "https://www.digitimes.com/news/a20261015VL219/samsung-dram-development-cxmt.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-15T07:16:51+00:00",
+      "short_snippet": "Samsung Electronics has reportedly completed development of next-generation 4F² DRAM technology and is aligning commercialization with customer requirements, even as China's ChangXin Memory Technologies (CXMT) prepares to introduce server memory using the architecture by the end of 2026. The competing timelines have raised questions about whether China's memory industry is closing the technology g",
+      "tags": [
+        "半導體",
+        "資料中心",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-af5064915b4512122165",
+    "article": {
+      "title": "SK Hynix targets January 2027 for HBF standard, eyes DRAM stacked on AI chips",
+      "url": "https://www.digitimes.com/news/a20261015PD218/sk-hynix-dram-ai-inference-capacity-2027.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-15T06:46:14+00:00",
+      "short_snippet": "SK Hynix aims to finalize the technical specifications for high-bandwidth flash (HBF) in January 2027 as it develops new memory technologies to address growing bottlenecks in AI inference systems. The South Korean chipmaker is also exploring ways to stack DRAM directly on AI processors to improve performance and energy efficiency.",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-34bc3a4c9179824bae7b",
+    "article": {
+      "title": "US AI data center power shortages drive demand for hybrid solar, natural gas and geothermal systems",
+      "url": "https://www.digitimes.com/news/a20261014PD241/data-center-geothermal-solar-demand-expansion.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-15T06:36:49+00:00",
+      "short_snippet": "The rapid expansion of AI data centers in the US is placing growing pressure on conventional power grids, as their substantial and highly variable electricity requirements strain available supply in certain regions. Power shortages have even delayed the construction of some AI data center projects.",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-74a6fed3637e7ca45aa5",
+    "article": {
+      "title": "TSMC's AI-fuelled profit streak hits sixth straight record in 3Q26, but 2nm expansion weighs on margins",
+      "url": "https://www.digitimes.com/news/a20261015VL218/tsmc-profit-2nm-revenue-2026.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-15T06:35:58+00:00",
+      "short_snippet": "On October 15, 2026, TSMC reported its sixth consecutive quarter of record net profit, with third-quarter earnings rising 68.7% year-over-year to NT$763.06 billion (approx. US$23.6 billion), exceeding market expectations on sustained demand for advanced semiconductors used in artificial intelligence (AI).",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-7c0314dc8fcfb00befc4",
+    "article": {
+      "title": "Commentary: Huawei's 2027 Kirin roadmap — can LogicFolding overcome chipmaking constraints?",
+      "url": "https://www.digitimes.com/news/a20261015PD206/huawei-kirin-chips-roadmap-2027.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-15T06:03:36+00:00",
+      "short_snippet": "On October 13, Huawei unveiled the detailed architecture of its Kirin 9050 Pro chip for the first time at its Lianqiu Lake research center in Shanghai, outlining advances in LogicFolding and hybrid bonding technologies. Xu Songyu, head of wireless terminal chip product management at Huawei's semiconductor business, said the company now sees a sustainable development path for Kirin processors over ",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-09db681a1319671ab1a2",
+    "article": {
+      "title": "Column: 3D memory could redraw chip competition, weaken US sanctions on China",
+      "url": "https://www.digitimes.com/news/a20261014PD245/3d-2022-nand-dram-competition.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-15T05:59:00+00:00",
+      "short_snippet": "In October 2022, the US Bureau of Industry and Security (BIS) imposed a package of export restrictions on China, including controls on equipment and components for manufacturing 3D NAND with 128 layers or more, and restrictions on support provided by US persons.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-9fd86eb7c08dae4bd250",
+    "article": {
+      "title": "Anthropic boosts 3Q26 revenue by 45% and stays profitable as IPO approaches",
+      "url": "https://www.digitimes.com/news/a20261015VL214/anthropic-ipo-ai-business-revenue.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-15T05:55:29+00:00",
+      "short_snippet": "Anthropic's third-quarter revenue surged 45% from the previous quarter and has been profitable on an adjusted basis for the last two quarters, the AI lab told prospective investors. As the company nears a record-setting IPO, it is also serving as a gauge of whether the frontier lab business model of heavy compute spending preceding profitability can be successful.",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-107b44b4113de8fc3971",
+    "article": {
+      "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
+      "url": "https://news.ycombinator.com/item?id=50100387",
+      "source": "Hacker News",
+      "published_at": "2026-10-15T07:20:39+00:00",
+      "short_snippet": "Article URL: https://github.com/awslabs/aidlc-workflows Comments URL: https://news.ycombinator.com/item?id=50100387 Points: 13 # Comments: 12",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-2f5490a8ccf26513d0c4",
+    "article": {
+      "title": "The First Social Network: In rural Argentina residents send messages w AM radio",
+      "url": "https://news.ycombinator.com/item?id=50079701",
+      "source": "Hacker News",
+      "published_at": "2026-10-13T22:17:41+00:00",
+      "short_snippet": "Article URL: https://www.newyorker.com/magazine/2026/10/19/the-first-social-network Comments URL: https://news.ycombinator.com/item?id=50079701 Points: 40 # Comments: 15",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-8df76fba103b690db2d4",
+    "article": {
+      "title": "Unsupervised AI agent reportedly deletes TV show’s entire edit weeks before release, erasing months of work — TV show can't air, AI agent was given access to the production server and wiped the finished season",
+      "url": "https://www.reddit.com/r/technology/comments/1x6hr7t/unsupervised_ai_agent_reportedly_deletes_tv_shows/",
+      "source": "Reddit",
+      "published_at": "2026-10-15T10:08:25+00:00",
+      "short_snippet": "submitted by /u/MarvelsGrantMan136 [link] [comments]",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-56da6d9fcb45718e9149",
+    "article": {
+      "title": "Meta's smart glasses were recording conversations without the wake phrase, company admits",
+      "url": "https://www.reddit.com/r/technology/comments/1x6i31t/metas_smart_glasses_were_recording_conversations/",
+      "source": "Reddit",
+      "published_at": "2026-10-15T10:27:36+00:00",
+      "short_snippet": "submitted by /u/ArgentineBeauty [link] [comments]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b026e001e660865e0f28",
+    "article": {
+      "title": "Pennsylvania Residents Still Standing Their Ground, Saying No to $10,000 In Exchange For a Data Center",
+      "url": "https://www.reddit.com/r/technology/comments/1x6gi1o/pennsylvania_residents_still_standing_their/",
+      "source": "Reddit",
+      "published_at": "2026-10-15T08:50:41+00:00",
+      "short_snippet": "submitted by /u/IKeepItLayingAround [link] [comments]",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d8650d8827c75a14696c",
+    "article": {
+      "title": "Kalshi Admits That It Took a Random Guy’s Video and Used AI to Make Him the Host of an Ad, Changing His Race in the Process",
+      "url": "https://www.reddit.com/r/technology/comments/1x6d8od/kalshi_admits_that_it_took_a_random_guys_video/",
+      "source": "Reddit",
+      "published_at": "2026-10-15T05:23:07+00:00",
+      "short_snippet": "submitted by /u/Mathemodel [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5fae1df60b0b9deb57af",
+    "article": {
+      "title": "訂單能見度至 2028 年！弘塑美國布局瞄準亞利桑那州，董座：最大瓶頸是缺料、缺人",
+      "url": "https://technews.tw/2026/10/15/gptc-semicon-west-2026/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-15T11:15:27+00:00",
+      "short_snippet": "近年先進封裝成為業界焦點，隨著台積電擴大在美支出，同步帶動本土設備商加速海外布局。弘塑科技董事長張鴻泰在 SE […]",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-674751c23bee0c308087",
+    "article": {
+      "title": "台積電營收看增 44% 評估德州設廠，法說會重點一次看",
+      "url": "https://finance.technews.tw/2026/10/15/tsmc-earnings-call-2610/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-15T10:40:49+00:00",
+      "short_snippet": "人工智慧需求強勁，晶圓代工廠台積電第三季營運繳出亮麗成績單，單季賺進將近三個股本，第四季展望依然樂觀，預估美元 […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-842b3dd100fef869430a",
+    "article": {
+      "title": "毅嘉第三季營收創高卻逢獲利逆風！砸重本建大馬廠待「光通訊」爆發",
+      "url": "https://finance.technews.tw/2026/10/15/fpca/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-15T09:28:43+00:00",
+      "short_snippet": "毅嘉科技今日召開法說會，自行結算第三季合併營收 34.17 億元，季增 4%，年增 18%，再創近年新高，受惠 […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-669b99be5e8c47da6b45",
+    "article": {
+      "title": "2,000 美元起打造加密貨幣專用 SoC？Muse 完成 RISC-V 架構晶片設計",
+      "url": "https://technews.tw/2026/10/15/meta-s-muse-designs-crypto-specific-soc-based-on-risc-v-architecture/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-15T09:24:59+00:00",
+      "short_snippet": "在 X 平台上小有聲量的半導體產業專家 Bubble Boi，利用 Meta 的 AI Agent「Muse」 […]",
+      "tags": [
+        "AI",
+        "半導體",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e84310c91c39e3077179",
+    "article": {
+      "title": "NVIDIA 揭 AI 工廠四大布局！串聯半導體設計、製造到晶圓廠自動化",
+      "url": "https://technews.tw/2026/10/15/nvidia-semicon-west-timothy-costa/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-15T08:45:17+00:00",
+      "short_snippet": "NVIDIA 副總裁暨工業與計算工程總經理 Timothy Costa 在 SEMICON West 主題演講 […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c8004eb6c11db3c0585e",
+    "article": {
+      "title": "台積電全球擴產加速！近 20 座廠依計畫進行，台美日產能再升級",
+      "url": "https://technews.tw/2026/10/15/ai-applications-flourish-tsmc-foresees-continued-growth-advanced-process-demand/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-15T07:57:25+00:00",
+      "short_snippet": "台積電今（15）日舉行第三季法人說明會，董事長魏哲家表示，隨著 AI 及先進製程需求持續強勁，公司正以前所未有 […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ab69181482f7f85f4d42",
+    "article": {
+      "title": "Meta、中系品牌齊發力，預估 2026 年 AR 眼鏡出貨翻倍至 131 萬台",
+      "url": "https://technews.tw/2026/10/15/meta-chinese-brands-ar-glasses-shipments-double-1-31m-2026/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-15T07:20:37+00:00",
+      "short_snippet": "根據 TrendForce 最新《2026 近眼顯示市場趨勢與技術分析》，AR 眼鏡逐步由概念驗證走向消費市場 […]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-451f27d2768181ed39d7",
+    "article": {
+      "title": "AI 晶片需求有多強？魏哲家：所有 AI 業者都與台積電合作",
+      "url": "https://technews.tw/2026/10/15/tsmc-ai-demand-is-booming/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-15T07:18:05+00:00",
+      "short_snippet": "台積電今（15）日舉行第三季法人說明會，董事長魏哲家表示，隨著 AI 應用快速發展，無論業者採取何種技術路線， […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-7a34670c17c0974468ac",
+    "article": {
+      "title": "台積電將於 2030 年開始採用 High-NA EUV，客戶 A14 參與度高於 N2",
+      "url": "https://finance.technews.tw/2026/10/15/tsmc-will-begin-adopting-high-na-euv-in-2030/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-15T07:15:16+00:00",
+      "short_snippet": "台積電董事長兼總裁魏哲家針對外界關注的四大焦點議題，包含產能轉租、High-NA EUV 技術引進時程、A14 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-adcd50d75064677ae729",
+    "article": {
+      "title": "赴德州評估擴產！魏哲家霸氣回應：晶圓廠須由台積電營運",
+      "url": "https://technews.tw/2026/10/15/tsmc-raises-prices/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-15T07:06:55+00:00",
+      "short_snippet": "台積電董事長魏哲家今（15）日在第三季法人說明會上表示，台積電已派遣團隊赴美國德州評估擴產機會，並與提出 Te […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c4a17e049ce7b3cc3828",
+    "article": {
+      "title": "魏哲家：AI 需求極其強勁，台積電營收年複合成長率有望超越 50% 高標",
+      "url": "https://finance.technews.tw/2026/10/15/tsmcs-revenue-is-expected-to-achieve-a-compound-annual-growth-rate-exceeding-50-a-high-target/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-15T07:00:45+00:00",
+      "short_snippet": "台積電董事長魏哲家針對人工智慧（AI）半導體需求與產能展望強調，目前 AI 需求「非常、極其強勁」，且完全未見 […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f3dc52f73146239bde9a",
+    "article": {
+      "title": "在家辦公最大遺產是 AI？史丹佛經濟學家：數位溝通激增成 LLM 訓練寶庫",
+      "url": "https://technews.tw/2026/10/15/wfh-helped-create-the-ai-revolution/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-15T07:00:14+00:00",
+      "short_snippet": "史丹佛大學（Stanford University）經濟學家古拉斯·布魯姆（Nick Bloom）估計居家辦公 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-da34eb28861c30b5c72a",
+    "article": {
+      "title": "串流平台 AI 政策大不同，YouTube Music 推出專屬標籤保障聽眾知情權",
+      "url": "https://technews.tw/2026/10/15/youtube-music-launches-ai-music-tags/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-15T06:50:22+00:00",
+      "short_snippet": "YouTube Music 自 2026 年 10 月 14 日起，在播放頁面針對主要以生成式 AI 製作的歌 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b52784ce96c50186ec32",
+    "article": {
+      "title": "SK 海力士赴美設廠有條件？傳要求放行擴產大連廠",
+      "url": "https://technews.tw/2026/10/15/sk-hynix-conditions-new-us-factory-on-more-us-chip-equipment-exports-to-china/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-15T06:40:53+00:00",
+      "short_snippet": "美國川普政府積極施壓外國晶片業者赴美設廠，韓國記憶體大廠 SK 海力士（SK Hynix）卻試圖反向運用美國製 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-60e0c48fa7ac03024905",
+    "article": {
+      "title": "魏哲家：台積電 2026 全年營收成長率將達約 44%，絕不將任何商機拱手讓人",
+      "url": "https://finance.technews.tw/2026/10/15/tsmcs-revenue-growth-rate-for-the-full-year-of-2026-is-expected-to-reach-approximately-44/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-15T06:40:30+00:00",
+      "short_snippet": "邁入 2026 年第四季，台積電董事長魏哲家表示，在先進製程技術強勁需求的支撐下，預估以美元計價的 2026 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-7c34736afa4a21d058db",
+    "article": {
+      "title": "美國女子提告 OpenAI ChatGPT「竊取」數百萬兒童資料，要求依 token 數分配公司股權",
+      "url": "https://infosecu.technews.tw/2026/10/15/lawsuit-alleges-openai-stole-childrens-user-data/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-15T06:30:53+00:00",
+      "short_snippet": "住在美國夏威夷的一名女子 13 日代表 12 歲的女兒與 16 歲的兒子對 OpenAI 提起擬議集體訴訟，案 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f6d4e252c18dc9c8974f",
+    "article": {
+      "title": "蘋果發表「Minions」系統，將閒置 Mac 打造為虛擬 GPU 雲端，算力縮短至數分鐘",
+      "url": "https://technews.tw/2026/10/15/turn-idle-mac-into-gpu-cloud/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-15T06:20:24+00:00",
+      "short_snippet": "蘋果研究人員近日公開一套名為「Minions」的內部系統，旨在將網路中閒置的 Apple Silicon Ma […]",
+      "tags": [
+        "半導體",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-19dac1716a3fd7d7a1d7",
+    "article": {
+      "title": "傳字節跳動與聯發科接近達成資料中心晶片供貨協議，有望成第二大客戶",
+      "url": "https://technews.tw/2026/10/15/bytedance-in-talks-to-secure-mediatek-ai-chips-for-data-centers/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-15T06:00:28+00:00",
+      "short_snippet": "彭博引述知情人士，字節跳動接近與聯發科達成協議，向後者採購資料中心 AI 晶片，以確保旗下資料中心的關鍵零組件 […]",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心"
+      ]
+    }
   }
 ]
