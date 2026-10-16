@@ -9568,5 +9568,1220 @@
         "產品與平台"
       ]
     }
+  },
+  {
+    "event_id": "evt-d8070e81b89178605306",
+    "article": {
+      "title": "Gemtek partners with Starman to make optical transceivers in US",
+      "url": "https://www.digitimes.com/news/a20261016PD233/gemtek-equipment-partnership-production-manufacturing.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-16T09:10:00+00:00",
+      "short_snippet": "On October 15, network equipment maker Gemtek Technology announced a strategic partnership with Starman New Photonics, a subsidiary of Starman Holdings, to form a joint venture in the US. The new entity will manufacture advanced optical transceivers to capture demand for optical interconnects driven by hyperscale AI data centers.",
+      "tags": [
+        "AI",
+        "資料中心",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e2f3621a0849c9d4c81b",
+    "article": {
+      "title": "Taiwan to build industrial parks in US; Texas site already found",
+      "url": "https://www.digitimes.com/news/a20261016VL218/taiwan-texas-industrial-government-tsmc.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-16T09:08:00+00:00",
+      "short_snippet": "Taiwan plans to set up industrial parks in the US to help its supplier ecosystem reach customers like Nvidia and other local hardware manufacturers. It is starting with a complex in Texas, which has become a hotspot of expansion plans among Taiwanese tech companies.",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ca9622a797c64d07c58a",
+    "article": {
+      "title": "South Korea's September ICT Exports Surge Past US$75B on AI Demand",
+      "url": "https://www.digitimes.com/news/a20261016PD242/exports-infrastructure-shipments-2026-growth.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-16T08:39:04+00:00",
+      "short_snippet": "Driven by expanding global investments in artificial intelligence infrastructure, South Korea's ICT exports shattered previous records in September 2026. Shipments surged past the US$75 billion mark in a single month, anchored by semiconductor exports that topped US$60 billion, accounting for more than 80% of total ICT shipments.",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c249d3f5a12aa3e87cfe",
+    "article": {
+      "title": "AI server tracker: semiconductor testing and design services rally on compute demand",
+      "url": "https://www.digitimes.com/news/a20261016VL215/ic-testing-interface-ic-design-ai-server-demand-revenue-growth.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-16T07:52:03+00:00",
+      "short_snippet": "Within AI server tracking data, a clear parallel growth trajectory has emerged between semiconductor testing interface providers and chip design houses. Driven by the surge in artificial intelligence (AI), high-performance computing (HPC), and custom ASIC developments, both sectors demonstrated substantial year-over-year revenue gains as of September 2026.",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f8d031554db794f14d55",
+    "article": {
+      "title": "Telco giant builds Taiwan's high-speed computing network for AI agent era",
+      "url": "https://www.digitimes.com/news/a20261016PD239/cht-president-data-infrastructure-governance.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-16T07:37:08+00:00",
+      "short_snippet": "Chunghwa Telecom president Rong-shy Lin said the shift from conversational AI to autonomous AI agents is reshaping enterprise adoption, making data governance, access controls and accountability critical to deployment at scale.",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-484fe7fef927f4d3fbde",
+    "article": {
+      "title": "ASE unveils 18 advanced packaging projects with three universities",
+      "url": "https://www.digitimes.com/news/a20261016PD240/ase-packaging-technology-materials-development.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-16T07:26:37+00:00",
+      "short_snippet": "ASE, together with National Cheng Kung University (NCKU), National Sun Yat-sen University (NSYSU), and National Chung Cheng University (CCU), unveiled 18 technology research projects on October 16, focusing on advanced packaging integration and the development of critical processes and materials.",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-253e297a707a284dd933",
+    "article": {
+      "title": "Bolt Graphics seeks US$100 million to challenge Nvidia, AMD beyond AI with Zeus GPU",
+      "url": "https://www.digitimes.com/news/a20261016VL206/gpu-amd-nvidia-startup-manufacturing.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-16T07:20:00+00:00",
+      "short_snippet": "US chip startup Bolt Graphics is seeking approximately US$100 million at a valuation of about US$700 million to develop graphics processors targeting scientific computing and professional rendering, challenging Nvidia and AMD in markets beyond AI acceleration.",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5d34ec2c17a4afbda414",
+    "article": {
+      "title": "Samsung to break ground on second Texas chip fab in November",
+      "url": "https://www.digitimes.com/news/a20261016VL214/samsung-texas-fab-expansion-production.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-16T07:01:23+00:00",
+      "short_snippet": "Samsung Electronics plans to begin construction of its second semiconductor fabrication plant in Taylor, Texas, in November 2026, moving ahead with its US foundry expansion as its first facility prepares to begin operations by the end of the year.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-8cf56421b86eb8c2384a",
+    "article": {
+      "title": "Samsung, SK Hynix aim to ease AI memory bottlenecks with zHBM, HBF",
+      "url": "https://www.digitimes.com/news/a20261016PD214/samsung-sk-hynix-hbm-data-capacity.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-16T06:57:00+00:00",
+      "short_snippet": "Samsung Electronics and SK Hynix are developing new memory technologies to address growing bottlenecks in AI systems, with Samsung exploring a design that stacks high-bandwidth memory (HBM) directly above graphics processors and SK Hynix advancing high-bandwidth flash (HBF) to expand memory capacity for AI inference.",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-9038e539bb9939acc9a1",
+    "article": {
+      "title": "Delta says AI power gap will drive standalone microgrids",
+      "url": "https://www.digitimes.com/news/a20261016PD238/delta-electronics-electricity-micro-grid-2026.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-16T06:31:26+00:00",
+      "short_snippet": "Delta Electronics chairman Ping Cheng said at the 2026 Global Views Leaders Forum on October 15, 2026, that the world is entering an era of electrification, with AI data centers and EVs driving electricity demand beyond available supply. Delta is expanding its focus from power consumption to an integrated microgrid architecture spanning generation, transmission, distribution, energy storage and co",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-fdcdd20bc9b8e8b0277d",
+    "article": {
+      "title": "Volvo Cars and Nvidia expand partnership on automated driving",
+      "url": "https://www.digitimes.com/news/a20261016PR201/volvo-nvidia-autonomous-driving-partnership-vehicle.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-16T05:57:57+00:00",
+      "short_snippet": "Volvo Cars and Nvidia are expanding their partnership to develop automated-driving technology for future Volvo vehicles, with potential implications for drivers worldwide. The system is designed to handle highways, urban streets, and parking while gradually introducing eyes-off and mind-off driving, combining Volvo's safety expertise with Nvidia's sensors, computing, and software.",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-06ff98ee50eeea4b5d09",
+    "article": {
+      "title": "Samsung's chip and device chiefs head to Tokyo during Lee's visit",
+      "url": "https://www.digitimes.com/news/a20261016VL210/samsung-japan-packaging-materials.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-16T05:52:24+00:00",
+      "short_snippet": "Five senior Samsung Electronics executives, including the heads of its semiconductor and consumer electronics businesses, reportedly traveled to Tokyo on October 13 while chairman Lee Jae-yong was visiting Japan, bringing together the company's three executive directors and key corporate decision-makers as it expands cooperation with Japanese semiconductor suppliers.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b8a009bde1df2cd9429e",
+    "article": {
+      "title": "Holtek targets higher-value MCU markets with AI server cooling orders set to lift 2027 revenue",
+      "url": "https://www.digitimes.com/news/a20261016PD222/holtek-mcu-ai-server-cooling-2027.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-16T04:54:44+00:00",
+      "short_snippet": "Taiwan-based microcontroller (MCU) manufacturer Holtek Semiconductor unveiled its 2026 product roadmap on October 15, focusing on four core areas: smart protection, green energy and intelligent control, edge AI computing, and general-purpose applications.",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e71ea0523dd69d58e110",
+    "article": {
+      "title": "Supermicro appoints Mark Long as chief financial officer",
+      "url": "https://www.digitimes.com/news/a20261016PR200/supermicro-management-finance-infrastructure.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-16T04:30:31+00:00",
+      "short_snippet": "Supermicro Computer has appointed Mark Long as chief financial officer, bringing an experienced technology finance executive to lead the company as it expands its artificial intelligence and IT infrastructure operations. The leadership change at the US-based company could influence its financial execution, capital allocation, and ability to serve customers across markets.",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f9567dfd884c4af3a08a",
+    "article": {
+      "title": "Analysis: Intel CEO Lip-Bu Tan's power of humility — how one phone call helped reshape the chip giant's comeback",
+      "url": "https://www.digitimes.com/news/a20261016PD229/intel-ceo-nvidia-packaging-market.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-16T04:23:06+00:00",
+      "short_snippet": "As the semiconductor industry enters the artificial intelligence (AI) era, Intel, once the dominant force in the PC market, has increasingly been viewed as a company that fell behind in the AI race.",
+      "tags": [
+        "AI",
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-974f16539b77ba701d86",
+    "article": {
+      "title": "US chipmakers rely more on overseas production than supplier data suggests, SIA finds",
+      "url": "https://www.digitimes.com/news/a20261016PD216/sia-usa-chipmakers-supplier-production.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-16T04:19:58+00:00",
+      "short_snippet": "The US semiconductor industry sources 95% of its roughly US$27 billion in annual equipment and materials purchases from companies headquartered in the US, Europe and Japan. However, only 68% of those inputs are actually manufactured or assembled in those regions, exposing geographic dependencies that supplier headquarters data can obscure, according to an October 9 report from the Semiconductor In",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-48d52e145d4e8bf8b29f",
+    "article": {
+      "title": "Nvidia deepens China gaming push with DLSS 5 partnerships",
+      "url": "https://www.digitimes.com/news/a20261016PD227/nvidia-gaming-market-technology-tencent.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-16T04:14:32+00:00",
+      "short_snippet": "Nvidia is expanding its presence in China's gaming market by bringing its next-generation Deep Learning Super Sampling (DLSS) 5 neural rendering technology to titles from major Chinese developers, including NetEase, Tencent, Perfect World's Hotta Studio, and Beijing Lingyoufang Network Technology.",
+      "tags": [
+        "半導體",
+        "資料中心",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c08a580bf5454077ebc4",
+    "article": {
+      "title": "DIGITIMES Insights: China's automakers pursue three humanoid robot strategies as EV supply chains offer 60% overlap",
+      "url": "https://www.digitimes.com/news/a20261016PD218/china-automakers-humanoid-robot-robotics.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-16T03:58:23+00:00",
+      "short_snippet": "Chinese automakers are accelerating their expansion into humanoid robotics, leveraging artificial intelligence (AI) technologies, electric drive systems, and supply chain resources developed through their automotive businesses, according to DIGITIMES Intelligence.",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-4e0f05126a3e7f9750cd",
+    "article": {
+      "title": "Analysis: TSMC-GF deal moves mature nodes into AI packaging: What it means for China",
+      "url": "https://www.digitimes.com/news/a20261016PD220/capacity-globalfoundries-packaging-tsmc-wafer.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-16T03:53:56+00:00",
+      "short_snippet": "As global wafer capacity expands rapidly, TSMC and GlobalFoundries (GF) are highlighting a fast-growing market for mature processes serving advanced applications. In particular, demand for silicon interposers, through-silicon vias (TSVs), and embedded deep trench capacitors (eDTCs) in advanced packaging is creating a sizable blue-ocean market for mature-node capacity.",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-fb54634badbba5f58f1b",
+    "article": {
+      "title": "BOE's 24-layer glass substrates reach AI chip packaging trials, with mass production still ahead",
+      "url": "https://www.digitimes.com/news/a20261016PD228/boe-packaging-production-display-ai-chip.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-16T03:42:10+00:00",
+      "short_snippet": "Chinese display manufacturer BOE has made further progress in advanced semiconductor packaging, extending its panel manufacturing expertise to glass-core packaging substrates. At an investor relations event on October 15, BOE said it had completed the full manufacturing process for glass-core substrates, producing 24-layer samples measuring more than 100 × 100mm. The samples have been delivered to",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-86bb9b4bd04ee55c5207",
+    "article": {
+      "title": "Taiwan's Chun Yuan Steel sees 4Q26 auto surge, expands into AI robotics",
+      "url": "https://www.digitimes.com/news/a20261016PD226/taiwan-robotics-market-growth-sales.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-16T03:36:33+00:00",
+      "short_snippet": "Chun Yuan Steel expects Taiwan's auto market to deliver its strongest quarter of 2026 in the final three months, lifting full-year new-vehicle sales to 430,000 units from 411,000 in 2025. The steel processor also anticipates fresh growth opportunities as Kuozui Motors begins exporting finished vehicles to Japan, potentially strengthening Taiwan's position in Toyota Motor's global production networ",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-10e172605ecbfa74b010",
+    "article": {
+      "title": "Charts: YMTC bets on premium eSSDs to take on Samsung",
+      "url": "https://www.digitimes.com/news/a20261016PD206/demand-nand-market-ymtc-samsung.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-16T03:26:45+00:00",
+      "short_snippet": "AI-driven NAND demand is entering a supercycle, positioning Yangtze Memory Technologies Co. (YMTC) as the fastest-growing memory supplier. According to Counterpoint Technology Market Research, YMTC's revenue in 2026 is projected to grow six times faster than that of the overall industry and its peers as it expands aggressively into server-related business.",
+      "tags": [
+        "半導體",
+        "資料中心",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5aafe743ea5fbf743c4e",
+    "article": {
+      "title": "China's chip earnings boom masks a widening gap between AI processor demand, fading DRAM, NAND price gains",
+      "url": "https://www.digitimes.com/news/a20261016VL209/demand-earnings-price-dram-profit.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-16T03:17:46+00:00",
+      "short_snippet": "China's semiconductor and computing hardware companies reported or forecast strong earnings growth in the first nine months of 2026, fueled by AI infrastructure investment, demand for domestic processors and optical interconnects, and recovering chip markets. However, diverging quarterly results reveal a widening gap between AI-driven growth and the traditional memory pricing cycle.",
+      "tags": [
+        "AI",
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-7351fe373e7ed4873163",
+    "article": {
+      "title": "AIDC white paper flags energy efficiency, power management as key to site selection",
+      "url": "https://www.digitimes.com/news/a20261016PD224/aidc-management-efficiency-capacity-data.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-16T03:13:54+00:00",
+      "short_snippet": "As the high power density of AI data centers (AIDCs) becomes an increasingly pressing issue, industry experts are highlighting the importance of power management and power usage effectiveness (PUE). To alleviate bottlenecks in grid infrastructure, AIDC projects must assess feeder capacity, matching accuracy for renewable power sources, and power management when selecting sites.",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-79cb82f4e0a890ddd193",
+    "article": {
+      "title": "Japan bets on physical AI as Murata, AWS, Hitachi showcase self-learning robots at CEATEC 2026",
+      "url": "https://www.digitimes.com/news/a20261016PD221/aws-hitachi-2026-ceatec-murata.html?chid=10",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-16T03:02:08+00:00",
+      "short_snippet": "Japan is stepping up its push into physical AI, with major technology companies and research institutions showcasing advances in autonomous robot learning, motion sensing, and agricultural automation at CEATEC 2026.",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-474402402b17bd8fdb95",
+    "article": {
+      "title": "Nvidia-backed CoreWeave bond spike highlights debt risks in the AI infrastructure boom",
+      "url": "https://www.digitimes.com/news/a20261016VL208/infrastructure-market-nvidia-demand-business.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-16T02:52:59+00:00",
+      "short_snippet": "A sharp sell-off across artificial intelligence infrastructure stocks has turned a quiet worry about debt into a main concern for Wall Street. The sudden drop in stock and bond prices for CoreWeave, a fast-growing cloud provider backed by Nvidia, has raised questions about whether the heavy borrowing used to fund the AI expansion is becoming too risky.",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d356b13e56c25e8e9582",
+    "article": {
+      "title": "Samsung's India chip research arm opens quantum lab at IISc",
+      "url": "https://www.digitimes.com/news/a20261016VL204/samsung-india-quantum-workforce.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-16T02:39:24+00:00",
+      "short_snippet": "Samsung Semiconductor India Research (SSIR), Samsung's semiconductor research and development center in India, and the Indian Institute of Science (IISc) inaugurated a Quantum Research Lab on the IISc campus in Bengaluru on October 15, 2026, aiming to build India's research capabilities in quantum technologies and advanced semiconductors.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5aca91ed0c2025ab77ab",
+    "article": {
+      "title": "LG Innotek targets 2028 glass substrate supply as it expands beyond smartphones",
+      "url": "https://www.digitimes.com/news/a20261016PD215/lg-innotek-2028-glass-substrate-automotive-business.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-16T02:39:20+00:00",
+      "short_snippet": "LG Innotek expects to begin supplying glass substrates for advanced semiconductor packaging around 2028 and sees its chip substrate business improving in 2027, as the South Korean components maker seeks to reduce its reliance on smartphone camera modules and expand into automotive technologies.",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a5406979b2f2b12905c9",
+    "article": {
+      "title": "AI buyers lock in capacity, driving Taiwan private investment to record NT$6.95T",
+      "url": "https://www.digitimes.com/news/a20261016PD202/taiwan-demand-capacity-investment-infrastructure.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-16T02:34:03+00:00",
+      "short_snippet": "Strong global demand for AI infrastructure hardware is prompting buyers to secure capacity through advance payments and long-term contracts, driving Taiwan's semiconductor, packaging and testing, memory, substrate, and equipment supply chains to expand aggressively. Private investment in Taiwan is projected to reach a record NT$6.9539 trillion (US$215.4 billion) in 2026 as companies build factorie",
+      "tags": [
+        "AI",
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b182a5fb41e4c0da9ba0",
+    "article": {
+      "title": "Chip inflation drives Samsung, LG toward premium TVs",
+      "url": "https://www.digitimes.com/news/a20261016PD205/tv-samsung-lg-market-inflation.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-16T02:32:40+00:00",
+      "short_snippet": "Global TV market growth is under pressure, but premium models are poised to expand. As rising memory prices fuel \"chip inflation\" and squeeze margins on budget TVs, Samsung Electronics and LG Electronics are reshaping their product mixes, strengthening OLED and Micro RGB offerings to support pricing through picture quality and feature differentiation.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e682e308a2f395000cdb",
+    "article": {
+      "title": "Comparing Chromium Development at Google and Igalia",
+      "url": "https://news.ycombinator.com/item?id=50112887",
+      "source": "Hacker News",
+      "published_at": "2026-10-16T01:56:37+00:00",
+      "short_snippet": "Article URL: https://lwn.net/Articles/1094721/ Comments URL: https://news.ycombinator.com/item?id=50112887 Points: 59 # Comments: 17",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-93885381881214e6ca0e",
+    "article": {
+      "title": "Any window from your Mac, on your iPhone and iPad",
+      "url": "https://news.ycombinator.com/item?id=50112739",
+      "source": "Hacker News",
+      "published_at": "2026-10-16T01:43:17+00:00",
+      "short_snippet": "Article URL: https://github.com/Saffsanity/sill Comments URL: https://news.ycombinator.com/item?id=50112739 Points: 172 # Comments: 42",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-229b6a07615aeb94514b",
+    "article": {
+      "title": "Would you really give up ChatGPT to shut down data centers? Tech CEO highlights the hypocrisy of some AI critics",
+      "url": "https://www.reddit.com/r/technology/comments/1x7cpv6/would_you_really_give_up_chatgpt_to_shut_down/",
+      "source": "Reddit",
+      "published_at": "2026-10-16T10:33:33+00:00",
+      "short_snippet": "submitted by /u/ArgentineBeauty [link] [comments]",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-de768d1fbf1ba20a71f8",
+    "article": {
+      "title": "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire",
+      "url": "https://www.reddit.com/r/technology/comments/1x71khf/i_applied_for_200_jobs_how_spray_and_pray_ai_job/",
+      "source": "Reddit",
+      "published_at": "2026-10-16T00:01:01+00:00",
+      "short_snippet": "submitted by /u/ubcstaffer123 [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-12c9a0a227e967f6afa5",
+    "article": {
+      "title": "The Greek government has proposed new legislation that require data centers to source at least 60% of their power from renewable sources",
+      "url": "https://www.reddit.com/r/technology/comments/1x77anu/the_greek_government_has_proposed_new_legislation/",
+      "source": "Reddit",
+      "published_at": "2026-10-16T04:57:52+00:00",
+      "short_snippet": "submitted by /u/sr_local [link] [comments]",
+      "tags": [
+        "資料中心",
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0633a675c03dfeba3920",
+    "article": {
+      "title": "'Not good enough. It's over': The AI doomers are going off on Anthropic's revenue figures",
+      "url": "https://www.reddit.com/r/technology/comments/1x72gsq/not_good_enough_its_over_the_ai_doomers_are_going/",
+      "source": "Reddit",
+      "published_at": "2026-10-16T00:43:11+00:00",
+      "short_snippet": "submitted by /u/vgsa [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a828bd7f7dff23d55597",
+    "article": {
+      "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
+      "url": "https://arxiv.org/abs/2610.20665",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-10-16T04:00:00+00:00",
+      "short_snippet": "arXiv:2610.20665v1 Announce Type: new Abstract: Large language model (LLM) agents can solve complex interactive tasks, yet reasoning and tool calls take time. In continuously changing environments, an otherwise correct action may arrive too late. We introduce RealtimeBench, with 180 tasks across six game types, to evaluate agents while games continue running during inference. Paired evaluations sh",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-64ab9f94b7d65ce33058",
+    "article": {
+      "title": "Evaluating Model Capabilities After Benchmark Saturation",
+      "url": "https://arxiv.org/abs/2610.20667",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-10-16T04:00:00+00:00",
+      "short_snippet": "arXiv:2610.20667v1 Announce Type: new Abstract: Rapid advances in AI capabilities are causing benchmarks to saturate. Once several models approach perfect scores, a benchmark loses its power to differentiate between them, and with it its utility for informing AI safety cases and frontier policies. Yet benchmark items produce far more information than the scores we typically extract from them: a fu",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-77ee249104a767fada11",
+    "article": {
+      "title": "AlphaDiana: A Measurement System for Agents in Verifiable Reasoning Tasks",
+      "url": "https://arxiv.org/abs/2610.20675",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-10-16T04:00:00+00:00",
+      "short_snippet": "arXiv:2610.20675v1 Announce Type: new Abstract: Agents pair reasoning models with harnesses that organize model calls, execute tools, load skill instructions, and retain history in memory. Understanding agent performance requires linking execution conditions to outcomes, behavior, and resource use. We introduce AlphaDiana, a measurement system with modular interfaces for datasets, agents, environm",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5d6ab34c3d75d540393e",
+    "article": {
+      "title": "IneqAgent: Agentic Inequality Proving in Lean with Symbolic Computation",
+      "url": "https://arxiv.org/abs/2610.20681",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-10-16T04:00:00+00:00",
+      "short_snippet": "arXiv:2610.20681v1 Announce Type: new Abstract: Formal inequality proving requires mathematical reasoning and exact computation, often connected through intermediate lemmas and goal reformulations. We introduce IneqAgent, an agentic framework combining LLM reasoning with symbolic computation for inequality proving in Lean4. Lemma-level Monte Carlo Tree Search coordinates lemma construction, goal r",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-91832747d64f6512d954",
+    "article": {
+      "title": "L2G-SR: Learning to Guide LLM-based Symbolic Regression",
+      "url": "https://arxiv.org/abs/2610.20685",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-10-16T04:00:00+00:00",
+      "short_snippet": "arXiv:2610.20685v1 Announce Type: new Abstract: Symbolic regression searches for an equation that explains observed data. Numerical error is commonly used to guide the search, but it alone can favor an accurate surrogate over a candidate with the right structure. We propose L2G-SR, a framework for LLM-based symbolic regression that guides search with a learned structural verifier. We construct str",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c37f1987521f7498148e",
+    "article": {
+      "title": "When Reality Outpaces Cognition: A New Scaling Principle for Reliable Intelligence",
+      "url": "https://arxiv.org/abs/2610.20764",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-10-16T04:00:00+00:00",
+      "short_snippet": "arXiv:2610.20764v1 Announce Type: new Abstract: This paper challenges the understanding capabilities of existing AI paradigms and emerging world models by asking a fundamental question: How quickly can reality change before an intelligent system can no longer reliably perceive, reason, and act? We formulate this as a theory- and model-agnostic challenge in which systems must infer reliable actions",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-cffdb744dda380b11ea5",
+    "article": {
+      "title": "ARIA: Runtime Inspection and Amendment for Multi-Agent Systems",
+      "url": "https://arxiv.org/abs/2610.20780",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-10-16T04:00:00+00:00",
+      "short_snippet": "arXiv:2610.20780v1 Announce Type: new Abstract: In LLM-based multi-agent systems (MAS), a local mistake can propagate as other agents build on it, turning a correctable error into a failed task. Diagnosing completed runs or repeatedly re-executing them to search for corrections does not provide a learned policy for intervening while execution is still in progress. We present Agent Runtime Inspecti",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-94d5d577ef0fe3a43603",
+    "article": {
+      "title": "Open-world AI: a Tale of Three Requirements",
+      "url": "https://arxiv.org/abs/2610.20782",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-10-16T04:00:00+00:00",
+      "short_snippet": "arXiv:2610.20782v1 Announce Type: new Abstract: The closed world asks AI for specialized competence and lets it manufacture the iid data its theory assumes: a fixed criterion licenses collecting examples until the task is covered. The open world asks for versatility --- taking up tasks a machine was not built for, from few examples and with little prior from a human designer --- and offers data th",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-4faf84fcc2c0dce6a5cb",
+    "article": {
+      "title": "EvolvingBrain: An Adaptive Skill System for Multi-modal Agents Self-Evolution in Open Worlds",
+      "url": "https://arxiv.org/abs/2610.20786",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-10-16T04:00:00+00:00",
+      "short_snippet": "arXiv:2610.20786v1 Announce Type: new Abstract: Multi-modal agents have made significant progress in interacting with open worlds. However, their ability to self-evolve remains limited. Supervised fine-tuning enables imitation but not active experience organization, while outcome-based reinforcement learning promotes exploration yet underuses intermediate trajectory information. Therefore, we prop",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-90ec246428241617b7b9",
+    "article": {
+      "title": "A Self-Improving Agent that Grows its Own DSL: Oracle-Free Operator Induction for Exact Question Answering",
+      "url": "https://arxiv.org/abs/2610.20809",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-10-16T04:00:00+00:00",
+      "short_snippet": "arXiv:2610.20809v1 Announce Type: new Abstract: A self-improving agent has to decide which new skills to keep, and in practice it keeps whatever earns a high reward, convinces a judge model, or compresses its library, even when the skill is wrong. That is fine until the answers have to be exactly right: over a table of transactions, a total is either right or wrong. We ask a harder question: can a",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b1dcae23eaaccada2838",
+    "article": {
+      "title": "Evolving Together, Failing Apart: The Skill-Policy Co-evolution Trap in Self-Improving Agents",
+      "url": "https://arxiv.org/abs/2610.20845",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-10-16T04:00:00+00:00",
+      "short_snippet": "arXiv:2610.20845v1 Announce Type: new Abstract: Skill-policy co-evolution, in which an agent's policy model and its skill bank improve each other during training, is a promising paradigm for self-improving agents. Current evaluations score the co-evolved policy on the final bank it trained with (the delivered bank). After deployment, however, skills may be rewritten, added or removed more frequent",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-2f6017e5bedc2938c28d",
+    "article": {
+      "title": "A Multi-Tiered AI Accessibility Model (MAIAM): Proportionate Access and Capability Limits for Comprehensive Frontier AI Safety",
+      "url": "https://arxiv.org/abs/2610.20921",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-10-16T04:00:00+00:00",
+      "short_snippet": "arXiv:2610.20921v1 Announce Type: new Abstract: Most debate about releasing capable AI systems treats the choice as binary: keep the model behind an API, or publish the weights. That framing runs together two separate decisions. One is how capable a system may become. The other is who may obtain a given capability, and on what terms. This paper is about the second decision. We propose a Multi-Tier",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-62e687109ce559c3a013",
+    "article": {
+      "title": "SkillNEO: Non-Elitist Evolutionary Optimization of Agent Skills",
+      "url": "https://arxiv.org/abs/2610.20926",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-10-16T04:00:00+00:00",
+      "short_snippet": "arXiv:2610.20926v1 Announce Type: new Abstract: Agent skills turn procedural knowledge into reusable artifacts, allowing LLM agents to accumulate and refine expertise through experience. Building on this, skill evolution iteratively improves skills using execution feedback. However, improvement may require several interdependent edits, so low-reward versions can still be worth developing. Requirin",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0e0776f86cfc7f192853",
+    "article": {
+      "title": "RAC: A Relational Agent Contract for Constraint-Governed Engineering Tasks",
+      "url": "https://arxiv.org/abs/2610.20935",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-10-16T04:00:00+00:00",
+      "short_snippet": "arXiv:2610.20935v1 Announce Type: new Abstract: Engineering agents must produce artifacts that satisfy exact, coupled constraints. Existing solutions often require agents to make semantic decisions and also derive consequences such as precise geometry or timing from those decisions, leading to failures in constraint-governed engineering tasks. In this paper, we introduce RAC, a harness-agnostic co",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-783af372cbc4ac1427d4",
+    "article": {
+      "title": "MAI-Gym: An Open All-in-One Platform for GUI Agent Evaluation and RL Training across Mobile and Computer Environments",
+      "url": "https://arxiv.org/abs/2610.20939",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-10-16T04:00:00+00:00",
+      "short_snippet": "arXiv:2610.20939v1 Announce Type: new Abstract: Online reinforcement learning (RL) with verifiable rewards has driven rapid progress in mathematics, coding, and tool use, but scaling this success to GUI agents remains challenging due to the high cost of interactive environments and the scarcity of realistic training tasks. We introduce MAI-Gym, an open all-in-one platform that unifies GUI agent ev",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-1bc24006a02e36a1c24b",
+    "article": {
+      "title": "StepSafe: Learning Timely Intervention with Context-Aware Safety Reasoning",
+      "url": "https://arxiv.org/abs/2610.20960",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-10-16T04:00:00+00:00",
+      "short_snippet": "arXiv:2610.20960v1 Announce Type: new Abstract: Safety in agentic systems is inherently sequential: whether an action is safe depends on prior actions, tool outputs, information disclosures, and interactions among agents. Recent work has shifted agent safety guardrails from post-hoc trajectory-level assessment toward step-level action diagnosis and proactive risk prediction, yet existing training ",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-9a3604c8101ed0ab58c4",
+    "article": {
+      "title": "MSP: Modality Self-Play for Training Multimodal LLMs Without Paired Cross-Modal Data",
+      "url": "https://arxiv.org/abs/2610.20965",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-10-16T04:00:00+00:00",
+      "short_snippet": "arXiv:2610.20965v1 Announce Type: new Abstract: Large multimodal models have achieved remarkable progress by scaling model capacity and training on massive paired multimodal data. However, this paradigm introduces a fundamental bottleneck: aligned multimodal datasets are expensive to curate, difficult to scale across diverse modality combinations, and increasingly constrain further progress. We in",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b418ac75f0150adbf117",
+    "article": {
+      "title": "Deep Reinforcement Learning for HPC Job Scheduling: A Statistical Evaluation",
+      "url": "https://arxiv.org/abs/2610.21008",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-10-16T04:00:00+00:00",
+      "short_snippet": "arXiv:2610.21008v1 Announce Type: new Abstract: Deep Reinforcement Learning (DRL) offers learned job selection for High-Performance Computing (HPC), but performance against heuristics alone does not establish value beyond action masking. Six DRL treatments are compared: Proximal Policy Optimization (PPO), Advantage Actor-Critic (A2C), and Deep Q-Network (DQN), each with and without masking. Three ",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-00950d1a9e12ae2c2221",
+    "article": {
+      "title": "Recursive Reward Improvement via Adversarial Meta-Prompt Evolution",
+      "url": "https://arxiv.org/abs/2610.21040",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-10-16T04:00:00+00:00",
+      "short_snippet": "arXiv:2610.21040v1 Announce Type: new Abstract: Recursive Self-Improvement (RSI) has gained wide attention for its ability to work with limited data. In a proposer-solver loop, a proposer model writes training tasks and a solver model learns to solve them through reinforcement learning. Such loops have succeeded in mathematics and coding, where every answer can be checked automatically. Open-ended",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-2a0fb9b29f91735ed712",
+    "article": {
+      "title": "Learning When to Withdraw: Curriculum Coverage and Rule-Specific Failures in Fine-Tuned Language Agents",
+      "url": "https://arxiv.org/abs/2610.21045",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-10-16T04:00:00+00:00",
+      "short_snippet": "arXiv:2610.21045v1 Announce Type: new Abstract: Tool-using language agents must revise prepared actions when evidence changes or authority is revoked. Selective withdrawal means suspending affected actions, preserving supported work, and resuming only after sufficient repair. We study supervised fine-tuning in NAQD-Env, a synthetic environment with explicit dependencies and a deterministic referen",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0d65398526cd6479b899",
+    "article": {
+      "title": "Athanor: An Agent-Native System for Autonomous Post-Training Research",
+      "url": "https://arxiv.org/abs/2610.21055",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-10-16T04:00:00+00:00",
+      "short_snippet": "arXiv:2610.21055v1 Announce Type: new Abstract: Recursive self-improvement, in which AI systems build stronger AI systems, is one promising route to superintelligence. We study a weaker form that can be measured today: frontier agents post-training a small raw base model with public data, as a test of their research potential. We build Athanor, an open agent-native system for autonomous post-train",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-37d0ad1d7adaa1f81401",
+    "article": {
+      "title": "OmicsBench: a long-horizon multi-turn benchmark of AI agents on research-study-scale bioinformatics",
+      "url": "https://arxiv.org/abs/2610.21074",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-10-16T04:00:00+00:00",
+      "short_snippet": "arXiv:2610.21074v1 Announce Type: new Abstract: Computational biologists increasingly delegate substantial analyses to AI agents in long-horizon, multi-turn sessions, yet most benchmarks of agents' bioinformatics capabilities pose a single short task with a single-shot prompt. We present OmicsBench, a long-horizon, multi-turn bioinformatics benchmark for AI agents. Each of its 97 tasks links depen",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f73eeee30c4bf920889f",
+    "article": {
+      "title": "Sci$\\Pi$vot: Benchmarking Principal-Investigator Judgment at Pivotal Moments of Scientific AutoResearch Agents",
+      "url": "https://arxiv.org/abs/2610.21082",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-10-16T04:00:00+00:00",
+      "short_snippet": "arXiv:2610.21082v1 Announce Type: new Abstract: Large language model (LLM) agents can keep scientific experiments running for months with little human supervision, but reliable autonomous research also requires scientific judgment. Evaluating scientific judgment is difficult because research decisions are open-ended and depend on project context. We construct Sci$\\Pi$vot, a 248-case benchmark of s",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b4d6c54681608645eae7",
+    "article": {
+      "title": "Probe-and-Resume: When and How to Evaluate Agent Execution",
+      "url": "https://arxiv.org/abs/2610.21088",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-10-16T04:00:00+00:00",
+      "short_snippet": "arXiv:2610.21088v1 Announce Type: new Abstract: Test-time search can improve agent performance by exploring alternative actions and using a critic to select promising branches. We study this approach in terminal-based computer-use environments, which expose only a partial view of a large underlying state, and find that the Monte Carlo tree search (MCTS) configuration we evaluate does not significa",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-33f42edf8c15a69b7096",
+    "article": {
+      "title": "MemComposer: Learning to Assemble Memories for LLM Agents via Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2610.21091",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-10-16T04:00:00+00:00",
+      "short_snippet": "arXiv:2610.21091v1 Announce Type: new Abstract: Agent memory enables large language model (LLM) agents to reuse past experiences without updating their parameters. However, semantic similarity alone does not guarantee memory usefulness: downstream performance depends on how memories are selected and presented to the agent. We propose MemComposer, a memory composer that jointly examines the current",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e50cde02740172b6d99e",
+    "article": {
+      "title": "Planning Commitment of LLM under Partial Observability",
+      "url": "https://arxiv.org/abs/2610.21108",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-10-16T04:00:00+00:00",
+      "short_snippet": "arXiv:2610.21108v1 Announce Type: new Abstract: LLM-based planning agents commit to plans of different lengths before interacting with a partially observable environment. Some aggressively commit to a long plan based on assumptions about unobserved states, while others conservatively plan only over what they have observed. Both behaviors emerge implicitly in pre-trained models, whether the LLM out",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c4824adae163f399f54a",
+    "article": {
+      "title": "Kolab: Benchmarking Human-Agent Collaboration in Long-Horizon Workflows",
+      "url": "https://arxiv.org/abs/2610.21109",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-10-16T04:00:00+00:00",
+      "short_snippet": "arXiv:2610.21109v1 Announce Type: new Abstract: When humans collaborate with AI agents on long-horizon tasks, what happens to the agents' contributions? For solving long-horizon tasks, humans place greater importance on ongoing interaction with AI agents (e.g., revising plans) than on an agent's ability to complete the task in a single attempt. However, most agentic benchmarks have focused more on",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0d5139597f1b18b86547",
+    "article": {
+      "title": "CleanRM: Reward Modeling from Noisy Feedback with a Few Clean Feedback for RLHF",
+      "url": "https://arxiv.org/abs/2610.21138",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-10-16T04:00:00+00:00",
+      "short_snippet": "arXiv:2610.21138v1 Announce Type: new Abstract: Feedback noise is pervasive in preference data, arising from subjective human judgments, annotation mistakes, and imperfect LLM judges. Standard reward modeling trained on such feedback yields a biased estimate of the clean risk. Although classical denoising methods are directly applicable to noisy feedback learning, they generally assume a uniform n",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-eda00e8498bb32a1277b",
+    "article": {
+      "title": "All-in-One Memory: Process-Rewarded Reinforcement Learning for Memory Agents",
+      "url": "https://arxiv.org/abs/2610.21147",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-10-16T04:00:00+00:00",
+      "short_snippet": "arXiv:2610.21147v1 Announce Type: new Abstract: Large language models increasingly rely on external memory to answer queries grounded in long-horizon histories such as multi-session dialogues and lengthy documents. However, existing memory methods often optimize retrieval and memory construction separately, without a shared reward space for evaluating search, writing, and stopping decisions. To ad",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0b82946374e2d1ff1ad8",
+    "article": {
+      "title": "GRADS: Graph-Regulated Agentic Data Synthesis with Controllable Difficulty",
+      "url": "https://arxiv.org/abs/2610.21167",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-10-16T04:00:00+00:00",
+      "short_snippet": "arXiv:2610.21167v1 Announce Type: new Abstract: Deep research agents are increasingly deployed to retrieve precise information from large corpora, yet multi-hop, long-horizon tasks remain challenging. Synthetic data generation has emerged as a scalable solution, with existing pipelines typically expanding seed tasks to increase their apparent depth and breadth. However, this expansion does not rel",
+      "tags": [
+        "AI",
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-bfdb03f8015d9ed33106",
+    "article": {
+      "title": "This is the AMD Helios HPE Juniper QFX5252 Switch Tray at OCP 2026",
+      "url": "https://www.servethehome.com/this-is-the-amd-helios-hpe-juniper-qfx5252-switch-tray-at-ocp-2026/",
+      "source": "ServeTheHome",
+      "published_at": "2026-10-16T04:49:49+00:00",
+      "short_snippet": "At OCP 2026, we saw an AMD Helios AI rack switch tray, the HPE Juniper QFX5252. This just looks super cool The post This is the AMD Helios HPE Juniper QFX5252 Switch Tray at OCP 2026 appeared first on ServeTheHome .",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d50dfb65e3c19efb592e",
+    "article": {
+      "title": "91APP 資料庫遭攻擊，已報案調查、呼籲消費者小心詐騙",
+      "url": "https://infosecu.technews.tw/2026/10/16/91app-ky-20261016/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-16T10:39:32+00:00",
+      "short_snippet": "上櫃公司 91APP（91APP*-KY）16 日重訊公告，其 Commerce Cloud 資料庫遭受自動化 […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-958a257e046e1076ecd6",
+    "article": {
+      "title": "簡立峰：AI 失控論只是種想像，台灣軟硬體迎 AI 新經濟",
+      "url": "https://infosecu.technews.tw/2026/10/16/jian-lifeng-ai-out-of-control-imagination-taiwan-software-hardware-new-ai-economy/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-16T10:20:27+00:00",
+      "short_snippet": "Google 台灣前董事總經理簡立峰今天表示，說人工智慧（AI）失控論「還早」，AI 失控論「只是一種想像」， […]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5c9a0c59f63d1f3a356d",
+    "article": {
+      "title": "Anthropic 讓 METR 研究員以員工級權限進駐，外部評估報告公司無權否決",
+      "url": "https://technews.tw/2026/10/16/anthropic-just-opened-its-doors-to-outside-safety-watchdogs-heres-how-it-will-work/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-16T10:10:45+00:00",
+      "short_snippet": "Anthropic 15 日於部落格宣布，非營利 AI 評估組織 METR（Model Evaluation […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-63dcb985e4f0e35287ef",
+    "article": {
+      "title": "美中 AI 人才戰再起？17 歲天才少年陳廣宇告別「月之暗面」轉投矽谷",
+      "url": "https://technews.tw/2026/10/16/17-year-old-ai-prodigy-reportedly-leaves-moonshot-ai-to-join-anthropic/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-16T10:00:44+00:00",
+      "short_snippet": "年僅17歲的人工智慧（AI）研究新星陳廣宇，近日證實已離開中國新創公司「月之暗面」（Moonshot AI）， […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d09f4b4134ead6863dbd",
+    "article": {
+      "title": "東元 70 週年揭藍圖，AI 基建助攻千億營收目標",
+      "url": "https://technews.tw/2026/10/16/teco-70th-anniversary-blueprint-ai-infrastructure-boosts-100-billion-revenue-target/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-16T09:10:55+00:00",
+      "short_snippet": "東元電機今（16）日舉辦成立 70 週年論壇，聚焦 AI 時代產業轉型與未來能源發展。東元董事長利明献表示，未 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-2ef6cc9a47023f07c172",
+    "article": {
+      "title": "ASML 警告美擴大 DUV 禁令，恐加速中國半導體自主化",
+      "url": "https://technews.tw/2026/10/16/asml-calls-us-restrictions-on-duv-sales-to-china-counterproductive-stance-reflects-strategic-dilemma-amid-pressure/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-16T07:30:27+00:00",
+      "short_snippet": "荷蘭半導體設備大廠艾司摩爾（ASML）近日再度對美國國會擬推動的《硬體技術管制多邊協調法案》（MATCH Ac […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-cd0fe10033799e6dfdfc",
+    "article": {
+      "title": "AI 融資疑慮風險升溫 BE / GEV 等能源股承壓",
+      "url": "https://finance.technews.tw/2026/10/16/ai-funding-concerns-escalate-pressure-energy-stocks-be-gev/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-16T07:00:37+00:00",
+      "short_snippet": "AI 基礎設施業者 CoreWeave 債務負擔引發市場疑慮，賣壓擴散至資料中心供電概念股，Bloom Ene […]",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-2cd7123067f7367f2fae",
+    "article": {
+      "title": "美超微尋覓兩年終於找到新財務長 延攬威騰老將",
+      "url": "https://finance.technews.tw/2026/10/16/supermicro-taps-western-digital-veteran-as-cfo/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-16T06:20:26+00:00",
+      "short_snippet": "AI伺服器大廠美超微（Super Micro Computer）15 日宣布，延攬威騰（Western Dig […]",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0710e89b77fb492946f7",
+    "article": {
+      "title": "華碩 AI 超級電腦進駐北市國中校園，打造地端 AI 算力中心",
+      "url": "https://finance.technews.tw/2026/10/16/asus-ai-supercomputer/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-16T06:03:14+00:00",
+      "short_snippet": "華碩持續推動 AI 技術在教育領域的應用，旗下華碩文教基金會今日宣布，攜手台北市政府教育局及台北市立中山國中， […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-464bfdc848fdf051311c",
+    "article": {
+      "title": "矽谷晶片新創布局科學運算，Zeus GPU 採台積電製程",
+      "url": "https://technews.tw/2026/10/16/silicon-valley-chip-startup-focuses-scientific-computing-zeus-gpu-utilize-tsmc-process/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-16T06:00:03+00:00",
+      "short_snippet": "知情人士透露，晶片設計公司 Bolt Graphics 尋求募資約 1 億美元，公司估值約 7 億美元，目標開 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-7d5095d6899085de21bd",
+    "article": {
+      "title": "IBM 推出 IBM Bob 自托管部署方案，助企業推進 AI 自主權與治理",
+      "url": "https://infosecu.technews.tw/2026/10/16/ibm-launches-ibm-bob-self-hosted-deployment-solution-for-enterprise-ai-sovereignty-and-governance/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-16T06:00:01+00:00",
+      "short_snippet": "IBM 近日正式推出 IBM Bob 的自托管部署（self-hosted deployment）模式，協助企 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-1cadc515918a366c903d",
+    "article": {
+      "title": "鴻海攜手台灣儲能業者，2027 年挑戰 100MWh 建置規模",
+      "url": "https://technews.tw/2026/10/16/foxconn-energy-storage/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-16T05:54:02+00:00",
+      "short_snippet": "鴻海積極布局儲能市場，宣布攜手東電綠能、利佳興業、盛達集團旗下盛齊綠能及晟瑞科技，共同開發符合政府國產電芯補助 […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5392b0321593516853e7",
+    "article": {
+      "title": "赴德州建 AI 供應鏈，經部：每座園區投資估最高 40 億美元",
+      "url": "https://finance.technews.tw/2026/10/16/taiwan-moea-texas-ai-supply-chain-4-billion-investment-per-park/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-16T05:50:38+00:00",
+      "short_snippet": "為協助台廠赴美投資，經濟部今天表示，將由政府與電電公會合作推動，規劃採「業者出資、政府協助」的模式進行，單一園 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e30b6e2b094652a6af12",
+    "article": {
+      "title": "SEMI 美洲總裁：美最先進半導體占比至 2030 年代末上看四成",
+      "url": "https://technews.tw/2026/10/16/semi-americas-president-us-advanced-chip-share-hit-40-percent-late-2030s/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-16T05:45:24+00:00",
+      "short_snippet": "美國晶圓廠建設項目持續增加，國際半導體產業協會（SEMI）美洲區總裁史托庫納斯接受中央社訪問時預估，若納入德州 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-dc433511b4dd57594885",
+    "article": {
+      "title": "美、歐、中三條路線大不同，資料中心競賽的勝負取決於能源與實體基礎設施",
+      "url": "https://technews.tw/2026/10/16/the-ai-data-center-race-is-a-strategic-contest/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-16T03:10:19+00:00",
+      "short_snippet": "隨著各國加速布局人工智慧基礎設施，圍繞「主權 AI」與資料中心的競賽，正從技術話題升級為地緣政治與國家戰略議題 […]",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-374e3ea9453f1e8439f6",
+    "article": {
+      "title": "AI 電源功率一路飆升！光寶科 OCP 秀 1.2 MW 供電配置",
+      "url": "https://technews.tw/2026/10/16/ai-power-demand-skyrockets-lite-on-ocp-1-2mw-power-solution/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-16T03:05:10+00:00",
+      "short_snippet": "光寶科技受邀參與輝達於 2026 OCP 全球峰會舉辦的 MGX 生態系典禮，並於展會期間展示 800 VDC […]",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b24dd6705758574c6f77",
+    "article": {
+      "title": "資金輪動、大型醫療股成避風港 禮來近史高",
+      "url": "https://finance.technews.tw/2026/10/16/big-healthcare-stocks-offer-haven-eli-lilly-near-record-high/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-16T03:00:14+00:00",
+      "short_snippet": "科技股震盪之際，資金轉向營運穩定的大型製藥公司，美國禮來（Eli Lilly）、艾伯維（AbbVie）等大型藥 […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-9858eecc28c8eb2a33a6",
+    "article": {
+      "title": "Google AI 搜尋介面大改版！內嵌連結全面置頂，助攻原始網站點擊率",
+      "url": "https://technews.tw/2026/10/16/google-ai-search-major-redesign/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-16T02:40:08+00:00",
+      "short_snippet": "Google 於 15 日宣布針對 AI 搜尋體驗進行升級，未來在 AI 模式（AI Mode）與 AI 摘要 […]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d4a8b06d5e5cb5580c51",
+    "article": {
+      "title": "不打 AI 模型軍備競賽，蘋果高層定調：專注打造最佳實體裝置與體驗",
+      "url": "https://technews.tw/2026/10/16/apples-ternus-retains-focus-on-hardware-rather-than-creating-ai-model-of-the-month/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-16T02:35:45+00:00",
+      "short_snippet": "蘋果（Apple）高層約翰‧特努斯（John Ternus）近日接受《時代》（TIME）雜誌專訪時表示，蘋果的 […]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-299aa281d40a6fa19ac2",
+    "article": {
+      "title": "微軟 AI 執行長放話：自家新模型 MAI-Base-2 擊敗 OpenAI，且算力僅需 25%",
+      "url": "https://technews.tw/2026/10/16/microsoft-new-ai-model-surpasses-openai/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-16T02:30:47+00:00",
+      "short_snippet": "微軟（Microsoft）在人工智慧領域的自主研發取得重大進展。Microsoft AI 執行長穆斯塔法·蘇萊 […]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-efca4e7fed8051af05e2",
+    "article": {
+      "title": "台積電第三季成績亮眼外資按讚，最高目標價上看 4,000 元",
+      "url": "https://finance.technews.tw/2026/10/16/tsmcs-third-quarter-results-were-impressive-earning-praise-from-foreign-investors/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-16T02:30:38+00:00",
+      "short_snippet": "全球晶圓代工龍頭台積電公布最新第 3 季財報，受惠於高效能運算（HPC）與 AI 晶片的強勁需求，單季營收達新 […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f87cb3e80fa6ba2672d4",
+    "article": {
+      "title": "Anthropic 營收季增 45% 被嫌不夠 2 兆美元估值生變",
+      "url": "https://finance.technews.tw/2026/10/16/investors-temper-anthropic-ipo-valuation-expectations-over-revenue-growth-slowdown/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-16T02:25:53+00:00",
+      "short_snippet": "人工智慧（AI）新創公司 Anthropic 正籌備首次公開募股（IPO），但最新財報顯示，第三季營收成長速度 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c68a5f6b92a5c047fb9f",
+    "article": {
+      "title": "Palantir 技術長：某些研究員開始抽菸因相信 AI 能治好癌症",
+      "url": "https://technews.tw/2026/10/16/palantir-cto-ai-researchers-smoke-betting-ai-will-cure-cancer/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-16T02:20:10+00:00",
+      "short_snippet": "Palantir 技術長夏姆·桑卡爾（Shyam Sankar）近日受訪時表示，部分 AI 研究人員開始抽菸， […]",
+      "tags": [
+        "AI"
+      ]
+    }
   }
 ]
