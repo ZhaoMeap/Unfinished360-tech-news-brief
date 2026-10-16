@@ -8767,5 +8767,806 @@
         "AI"
       ]
     }
+  },
+  {
+    "event_id": "evt-a7cf7b5743bc41152d85",
+    "article": {
+      "title": "Bringing the magic: Google breaks open a bottleneck in quantum computing",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/",
+      "source": "官方：Google",
+      "published_at": "2026-10-15T18:00:00+00:00",
+      "short_snippet": "Magic State video",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-9f330545df8b1651d762",
+    "article": {
+      "title": "Check if a text message is a scam using Circle to Search.",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/circle-to-search-android-text-message-scams/",
+      "source": "官方：Google",
+      "published_at": "2026-10-15T17:30:00+00:00",
+      "short_snippet": "Use Google Circle to Search to analyze suspicious texts for scams. Long-press your home button to get AI insights on messages. See how it works.",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b8427233bceb56443235",
+    "article": {
+      "title": "ChatGPT can peek at your Chrome tabs now",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+      "source": "The Verge",
+      "published_at": "2026-10-15T22:43:23+00:00",
+      "short_snippet": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop app, posting a demo video […]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-bae44bb837e7d25c56b0",
+    "article": {
+      "title": "Trump posts AI-edited photo to brag about White House restoration work",
+      "url": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
+      "source": "The Verge",
+      "published_at": "2026-10-15T21:09:33+00:00",
+      "short_snippet": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a \"restored\" one, has several discrepancies and was flagged by Google's AI detector as \"made or […]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5d36307a78270252cf66",
+    "article": {
+      "title": "Bluesky’s AI tool now lets you make games and apps to share on social",
+      "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
+      "source": "The Verge",
+      "published_at": "2026-10-15T19:57:16+00:00",
+      "short_snippet": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others as their own websites. In an interview at TechCrunch Disrupt, Bluesky CEO Toni Schneider said […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-dec44ddb6834e714460f",
+    "article": {
+      "title": "Withings now charges $100 per year to sync your data to other apps",
+      "url": "https://www.theverge.com/tech/1012350/withings-plus-subscription-new-users-october-13-2026",
+      "source": "The Verge",
+      "published_at": "2026-10-15T19:52:13+00:00",
+      "short_snippet": "If you're a new user of Withings' fitness-tracking smartwatches or smart scales and want to sync and access your health data through third party apps like Apple Health or Google Health it's now going to cost you. According to a discussion on Withings' support forums spotted by MacRumors, new Withings accounts created from October 13th, […]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-8845c0eef99a97d47d2e",
+    "article": {
+      "title": "Meta and Apple team up to make Muse AI models run better on Macs",
+      "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+      "source": "The Verge",
+      "published_at": "2026-10-15T18:15:36+00:00",
+      "short_snippet": "Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX framework.\" Meta and Apple, […]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-9d9afb8dd9745316afbe",
+    "article": {
+      "title": "Chinese chip toolmakers buy into hybrid bonding as Huawei looks beyond transistor shrinking",
+      "url": "https://www.digitimes.com/news/a20261016VL200/huawei-transistor-equipment-packaging-asml.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-16T00:45:00+00:00",
+      "short_snippet": "China's largest chip equipment makers are buying their way into hybrid bonding, the advanced packaging step that global players from Besi to ASML are also chasing. For Chinese firms, analysts say, the stakes are different: with US export controls limiting access to the tools needed for leading-edge transistor scaling, stacking and connecting chips more densely has become one of the few routes left",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-961f42d07cefbcab69f3",
+    "article": {
+      "title": "ASML patents point to a hybrid bonder as chip toolmakers crowd into packaging",
+      "url": "https://www.digitimes.com/news/a20261016VL201/asml-packaging-2026-wafer-equipment.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-16T00:35:00+00:00",
+      "short_snippet": "As it becomes harder and costlier to shrink transistors, advanced packaging has become the place chip equipment makers look to for their next leg of growth, and ASML appears to be preparing its second move into it. Patent filings analyzed by research firm SemiAnalysis suggest the Dutch lithography leader is building a die-to-wafer (D2W) hybrid bonder, a tool that would pit it against Besi, the cur",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3c0cbac2bff62cb39f57",
+    "article": {
+      "title": "AI investment risks rise as China models gain ground",
+      "url": "https://www.digitimes.com/news/a20261016PD204/investment-market-development-business-financing.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-16T00:29:00+00:00",
+      "short_snippet": "As interest rates fluctuate, bond yields rise, and Chinese AI models intensify competition, market attention is shifting from technological development and infrastructure expansion to investment returns and long-term debt-servicing capacity. The AI industry continues to attract capital but must also prove that its business models can generate profits.",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-2796d05c3a475c95ef10",
+    "article": {
+      "title": "Intel silent on Israeli Fab 28 output after deadly blast, leaving CPU supply outlook unclear",
+      "url": "https://www.digitimes.com/news/a20261016VL202/intel-cpu-israel-plant-loss.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-16T00:23:36+00:00",
+      "short_snippet": "Two workers have died, and a third remains in serious condition after an explosion at Intel's Kiryat Gat chip plant in southern Israel on October 14. Intel has not yet said whether production at the site, which makes chips on its capacity-constrained Intel 7 process, has been affected.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ea191809f2d4d9603550",
+    "article": {
+      "title": "Samsung SDI targets 2027 LFP BBU battery production",
+      "url": "https://www.digitimes.com/news/a20261015PD228/samsung-sdi-production-2027-demand-lithium.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-15T23:56:51+00:00",
+      "short_snippet": "Samsung SDI will begin mass-producing cylindrical lithium iron phosphate (LFP) batteries for AI servers as early as June 2027, marking the first adoption of cylindrical LFP backup batteries by a South Korean battery maker. The move expands the company's product portfolio beyond its traditional focus on ternary batteries as AI data centers drive rapidly growing demand for battery backup units (BBUs",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-4f0c1e33076a7ac53a58",
+    "article": {
+      "title": "AI power crunch drives data center demand for self-generation",
+      "url": "https://www.digitimes.com/news/a20261015PD230/aidc-capacity-equipment-chips-electricity.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-15T23:56:37+00:00",
+      "short_snippet": "The focus of the global AI race has shifted from securing advanced chips to securing access to electricity, with electrical power now becoming the deciding factor for computing capacity. As power consumption surges at AI data centers (AIDCs), conventional public grids are increasingly facing bottlenecks, and self-generation and improved grid resilience are now requirements in major data center con",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3ebfd8a32a67b931832a",
+    "article": {
+      "title": "MediaTek ASIC deal with ByteDance would expand data center push",
+      "url": "https://www.digitimes.com/news/a20261015PD232/bytedance-mediatek-asic-chips-business.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-15T23:56:21+00:00",
+      "short_snippet": "ByteDance is in advanced talks with MediaTek to purchase custom data center chips, with the companies potentially reaching an agreement soon, according to people familiar with the matter. A deal would help ByteDance secure critical chip supplies while expanding MediaTek's data center business and intensifying competition with Qualcomm and other chipmakers.",
+      "tags": [
+        "半導體",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-fca9709f70f409d10c5a",
+    "article": {
+      "title": "Cloud AI absorbs resources as non-AI semiconductors face prolonged downturn",
+      "url": "https://www.digitimes.com/news/a20261015PD234/data-growth-technology-inflation-hbm.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-15T23:55:35+00:00",
+      "short_snippet": "Investment in AI data centers remains strong, but semiconductor growth is becoming increasingly concentrated in cloud AI, while the long-running decline in consumer technology prices has come to an abrupt halt. At a SEMICON West 2026 industry outlook session, Duncan Meldrum, an economist at Hilltop Economics, warned that the shift is putting additional pressure on the broader semiconductor market.",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-298543a97cfcac0ed591",
+    "article": {
+      "title": "TSMC excludes CPUs from AI accelerator growth forecast",
+      "url": "https://www.digitimes.com/news/a20261015PD251/tsmc-demand-taiwan-accelerator-growth.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-15T23:52:51+00:00",
+      "short_snippet": "Taiwan Semiconductor Manufacturing (TSMC) is seeing rising demand for CPUs related to agentic artificial intelligence (AI), but has not yet included CPUs in its calculations of AI accelerator demand growth. TSMC chairman C.C. Wei said at the company's earnings conference on October 15 that the company is maintaining its original, narrower definition of AI demand, mainly because it is difficult to ",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-84c8f4dc16d0aa48faf4",
+    "article": {
+      "title": "Hesai moves beyond lidar as Kosmo targets physical AI's data bottleneck",
+      "url": "https://www.digitimes.com/news/a20261015VL209/hesai-data-robotics-robot.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-15T23:52:23+00:00",
+      "short_snippet": "As artificial intelligence increasingly blurs the boundary between the digital and physical worlds, complications associated with real-world deployment — particularly the extreme variability of physical environments — are emerging as a subtler configuration challenge in the industry spotlight.",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-dc4db0e15986e7386411",
+    "article": {
+      "title": "China's 90%-localized EUV light source debuts at 15W, exposing the gap to commercial chipmaking",
+      "url": "https://www.digitimes.com/news/a20261015VL213/euv-technology-commercial-shanghai-development.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-15T23:52:06+00:00",
+      "short_snippet": "Chinese semiconductor technology start-up Langdao Silex (Shanghai) Technology has publicly unveiled an extreme ultraviolet (EUV) light source prototype with a claimed 90% localization rate, marking progress in China's efforts to develop domestic lithography technology. However, the system remains three to five years from mass production, with output power and long-term stability posing major engin",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-8a1c15c1e8afe98efe23",
+    "article": {
+      "title": "Manus returns to China's AI agent race with US$500 million reset",
+      "url": "https://www.digitimes.com/news/a20261015VL217/meta-acquisition-startup-financing-tencent.html?chid=10",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-15T23:51:43+00:00",
+      "short_snippet": "As Manus, one of China's more distinctive AI startups, became entangled in the high-profile unwinding of its acquisition by Meta, the startup's failed attempt to capture opportunities beyond China left the industry speculating about its next steps after an abrupt regulatory reversal.",
+      "tags": [
+        "AI",
+        "Big Tech",
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ecef78ed84d563d53861",
+    "article": {
+      "title": "China's YMTC targets 9,600 MT/s with 4F² DRAM design",
+      "url": "https://www.digitimes.com/news/a20261015VL224/dram-ymtc-design-manufacturing-nand-flash.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-15T23:51:20+00:00",
+      "short_snippet": "China's Yangtze Memory Technologies (YMTC) is developing a next-generation 4F² DRAM design targeting data transfer speeds of 9,600 megatransfers per second (MT/s), expanding beyond NAND flash as the company pursues a CNY33 billion (approx. US$4.93 billion) Shanghai initial public offering.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6af631c8abf219790bee",
+    "article": {
+      "title": "Interview: The AI economy needs US$6T in funding — but from where?",
+      "url": "https://www.digitimes.com/news/a20261015VL227/economy-funding-language.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-15T23:49:10+00:00",
+      "short_snippet": "AI is clearly making an enormous impact on the global economy, with capabilities extending from language chatbots to agentic teams and the physical realm within just a few years. A new report by consulting firm Bain takes stock of AI's effects on businesses so far and projects how it could shape the near future.",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-48d9e4d860dfb97bab49",
+    "article": {
+      "title": "Samsung's Austin chip workforce shrinks 32% as Taylor 2nm fab nears opening",
+      "url": "https://www.digitimes.com/news/a20261015VL228/samsung-texas-workforce-2nm-2025.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-15T23:48:28+00:00",
+      "short_snippet": "Samsung Electronics' semiconductor workforce in Austin, Texas, shrank 32% in 2025 as local operating expenditures plunged nearly 75%, contrasting with increased activity at its nearby Taylor foundry, which is preparing to begin operations by the end of 2026 and gradually ramp up 2nm chip production.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f763ce9087e7c70f5b45",
+    "article": {
+      "title": "LG Innotek eyes 2027 chip substrate growth as Big Tech supply talks continue",
+      "url": "https://www.digitimes.com/news/a20261015VL229/lg-innotek-substrate-2027-growth-fc-bga.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-15T23:44:55+00:00",
+      "short_snippet": "South Korea's LG Innotek expects its semiconductor substrate business to improve in 2027 as it pursues long-term supply agreements (LTAs) with major technology companies and prepares to enter the high-end AI accelerator market. Under this strategy, the company aims to secure customer commitments before expanding production capacity as it seeks to diversify beyond smartphone camera modules.",
+      "tags": [
+        "AI",
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3eadf2538d3b9056fdd3",
+    "article": {
+      "title": "AI server tracker: Optical suppliers' September revenue jumps 90%",
+      "url": "https://www.digitimes.com/news/a20261015VL230/revenue-taiwan-ai-server-growth-communications.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-15T23:44:38+00:00",
+      "short_snippet": "Taiwan's optical communications suppliers posted a sharp revenue increase in September 2026, far outpacing major power supply manufacturers in percentage growth as demand for faster data center connectivity continued to expand. The six optical suppliers tracked by DIGITIMES reported combined revenue of NT$3.73 billion (approx. US$116 million), up 90.2% year-over-year and 16.4% from August.",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-531cd0c83acba8748601",
+    "article": {
+      "title": "LINE Taiwan pushes AI services as it marks 15 years and deepens anti-fraud role",
+      "url": "https://www.digitimes.com/news/a20261014PD217/line-taiwan-ai-cybersecurity.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-15T23:44:07+00:00",
+      "short_snippet": "LINE Taiwan marked its 15th year in the market with a strategy shift that signals broader ambitions beyond messaging. The company is expanding into AI-powered daily services, aiming to connect users, brands, and merchants through agentic AI tools, while also strengthening account security and anti-fraud defenses.",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-589f16d472b626b595b2",
+    "article": {
+      "title": "Qualcomm advances complete AI infrastructure platform as agentic AI reshapes competition",
+      "url": "https://www.digitimes.com/news/a20261014PD232/qualcomm-ai-agent-chips-silicon-competition-infrastructure.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-15T23:43:44+00:00",
+      "short_snippet": "Qualcomm has historically provided standard chips primarily through its Snapdragon product line, serving a broad range of end customers. After officially launching its Dragonfly data center product line in June 2026, the company expanded its business to include multiple hyperscalers.",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-4cdec16cadf38daebad2",
+    "article": {
+      "title": "Business accounts will consent to Meta scraping their websites Starting Oct. 30",
+      "url": "https://news.ycombinator.com/item?id=50111852",
+      "source": "Hacker News",
+      "published_at": "2026-10-15T23:37:42+00:00",
+      "short_snippet": "Article URL: https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/ Comments URL: https://news.ycombinator.com/item?id=50111852 Points: 15 # Comments: 0",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0b1ad180823a6dc865dd",
+    "article": {
+      "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
+      "url": "https://news.ycombinator.com/item?id=50109375",
+      "source": "Hacker News",
+      "published_at": "2026-10-15T19:55:49+00:00",
+      "short_snippet": "Article URL: https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts Comments URL: https://news.ycombinator.com/item?id=50109375 Points: 161 # Comments: 128",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d76abfe0e1818aecfbba",
+    "article": {
+      "title": "Muse Spark Open",
+      "url": "https://news.ycombinator.com/item?id=50107379",
+      "source": "Hacker News",
+      "published_at": "2026-10-15T17:47:39+00:00",
+      "short_snippet": "https://dev.meta.ai/resources/blog/build-with-muse-spark-ope... https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B https://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-... Comments URL: https://news.ycombinator.com/item?id=50107379 Points: 611 # Comments: 353 https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3357a634773647fbdd9a",
+    "article": {
+      "title": "Using AI to reverse engineer hardware",
+      "url": "https://news.ycombinator.com/item?id=50104299",
+      "source": "Hacker News",
+      "published_at": "2026-10-15T14:35:15+00:00",
+      "short_snippet": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Points: 110 # Comments: 107",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d877760432d7f7321be1",
+    "article": {
+      "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
+      "url": "https://news.ycombinator.com/item?id=50101813",
+      "source": "Hacker News",
+      "published_at": "2026-10-15T10:43:36+00:00",
+      "short_snippet": "https://www.theguardian.com/technology/2026/oct/15/israeli-f... https://www.theverge.com/tech/1011956/discover-tech-zero-cli... Comments URL: https://news.ycombinator.com/item?id=50101813 Points: 391 # Comments: 557",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d38ad06bad17806133f5",
+    "article": {
+      "title": "Dragon Ball Goku voice actor furious at “unforgivable” AI videos using her voice: “It has no heart”",
+      "url": "https://www.reddit.com/r/technology/comments/1x6sppa/dragon_ball_goku_voice_actor_furious_at/",
+      "source": "Reddit",
+      "published_at": "2026-10-15T17:58:25+00:00",
+      "short_snippet": "submitted by /u/IndicaOatmeal [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-84975c68449d4f7b9c7c",
+    "article": {
+      "title": "Malicious Russian disinformation bot traffic barely flinches after Ukraine strikes Yandex data centers and auto-migration kicks in — Cloudflare tracks 170 million automated attacks shifting to alternate cloud hosts",
+      "url": "https://www.reddit.com/r/technology/comments/1x6r3cs/malicious_russian_disinformation_bot_traffic/",
+      "source": "Reddit",
+      "published_at": "2026-10-15T16:57:20+00:00",
+      "short_snippet": "submitted by /u/ControlCAD [link] [comments]",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-80561e477ad5e7364d1a",
+    "article": {
+      "title": "Amazon reveals AI wrist band that listens to your conversations and remembers everything",
+      "url": "https://www.reddit.com/r/technology/comments/1x6wpff/amazon_reveals_ai_wrist_band_that_listens_to_your/",
+      "source": "Reddit",
+      "published_at": "2026-10-15T20:30:00+00:00",
+      "short_snippet": "submitted by /u/tylerthe-theatre [link] [comments]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-cc7ddb5d87c05c9ec1ed",
+    "article": {
+      "title": "Greg Abbott’s Democratic challenger vows moratorium on data centers",
+      "url": "https://www.reddit.com/r/technology/comments/1x72h5o/greg_abbotts_democratic_challenger_vows/",
+      "source": "Reddit",
+      "published_at": "2026-10-16T00:43:41+00:00",
+      "short_snippet": "submitted by /u/Mearsheimer_Tragedy [link] [comments]",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a4ab84713b3e5c27a0db",
+    "article": {
+      "title": "New York City pension fund asks Anthropic to delay IPO",
+      "url": "https://www.reddit.com/r/technology/comments/1x70cce/new_york_city_pension_fund_asks_anthropic_to/",
+      "source": "Reddit",
+      "published_at": "2026-10-15T23:04:17+00:00",
+      "short_snippet": "submitted by /u/Extension-Finance179 [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a580af51cca17f6fd6ad",
+    "article": {
+      "title": "Flock CEO defends surveillance technology amid national backlash: 'We shouldn't pause progress'",
+      "url": "https://www.reddit.com/r/technology/comments/1x6u5u1/flock_ceo_defends_surveillance_technology_amid/",
+      "source": "Reddit",
+      "published_at": "2026-10-15T18:52:36+00:00",
+      "short_snippet": "submitted by /u/AdSpecialist6598 [link] [comments]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-59a506d3e08cb1c640ed",
+    "article": {
+      "title": "Canadian news publishers sue Anthropic over AI copyright infringement",
+      "url": "https://www.reddit.com/r/technology/comments/1x6yp3c/canadian_news_publishers_sue_anthropic_over_ai/",
+      "source": "Reddit",
+      "published_at": "2026-10-15T21:51:50+00:00",
+      "short_snippet": "submitted by /u/Just-Grocery-2229 [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-022632a7652858e7248c",
+    "article": {
+      "title": "Researchers tracked down a rogue fleet of Chinese AI agents in the wild and actually talked to it",
+      "url": "https://www.reddit.com/r/technology/comments/1x6qjhq/researchers_tracked_down_a_rogue_fleet_of_chinese/",
+      "source": "Reddit",
+      "published_at": "2026-10-15T16:36:11+00:00",
+      "short_snippet": "submitted by /u/polymute [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-93a3c6a05f584f10feb6",
+    "article": {
+      "title": "Scale Agentic Coding Workflows with Meta’s Muse Spark Open on NVIDIA GB300 NVL72",
+      "url": "https://developer.nvidia.com/blog/scale-agentic-coding-workflows-with-metas-muse-spark-open-on-nvidia-gb300-nvl72/",
+      "source": "官方：NVIDIA Developer",
+      "published_at": "2026-10-15T18:00:01+00:00",
+      "short_snippet": "Meta launches Muse Spark Open, a coding-optimized 816B mixture-of-experts (MoE) model with 42B active parameters and a 1M token context window. Trained on...",
+      "tags": [
+        "AI",
+        "半導體",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c93c3e8d8c8dfb19f8dd",
+    "article": {
+      "title": "v0.40.5",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.5",
+      "source": "官方：Ollama releases",
+      "published_at": "2026-10-15T19:18:39+00:00",
+      "short_snippet": "NVIDIA Nemotron 3.5 Super NVIDIA Nemotron 3.5 Super is a vision-language model for coding, reasoning, tool use, and document understanding. It pairs a 120B-parameter hybrid Mamba-2/Transformer mixture-of-experts backbone (12B active per token) with a C-RADIO vision encoder, and supports tool calling, an on/off thinking mode, and context up to 1M tokens.  https://github.com/ollama/ollama/pull/18986",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ff0cf28c5d7530571030",
+    "article": {
+      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+      "url": "https://huggingface.co/blog/meta-muse-spark-open",
+      "source": "官方：Hugging Face",
+      "published_at": "2026-10-15T00:00:00+00:00",
+      "short_snippet": "",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-52b72aeaa89e76e11b6a",
+    "article": {
+      "title": "Google 推 AI 新聞計畫，CNN 等 400 多家媒體授權內容",
+      "url": "https://technews.tw/2026/10/16/cnn-axios-and-other-publishers-join-googles-ai-news-program/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-16T01:30:41+00:00",
+      "short_snippet": "天空之舞（Skydance）旗下的 CNN、金融時報、Axios 等多家出版業者，加入 Google 的 AI […]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-25affa026b701627f60b",
+    "article": {
+      "title": "台法學者探討台灣半導體產業核心地位，釐清 5 大誤解",
+      "url": "https://technews.tw/2026/10/16/taiwanese-french-scholars-discuss-taiwan-semiconductor-industry-core-status-clarifying-5-major-misconceptions/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-16T01:10:35+00:00",
+      "short_snippet": "法國智庫關注台灣半導體產業的戰略地位與安全挑戰。法國學者倪雅玲說，台海穩定是歐洲經濟安全一環；來自台灣的方怡然 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-7b328f1abd54e9a624e7",
+    "article": {
+      "title": "QNAP《2026 台灣企業資安韌性大調查》78% 企業已建立異地備份，但其中近七成仍處可被刪除的失守危機",
+      "url": "https://infosecu.technews.tw/2026/10/16/qnap-cyber-security-awarness/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-16T01:00:54+00:00",
+      "short_snippet": "響應 10 月全球資安意識月（Cybersecurity Awareness Month），威聯通科技（QNA […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b7915346e6b843c3bb81",
+    "article": {
+      "title": "多物理模擬重要性日增，思渤科技扮演系統解決方案供應商",
+      "url": "https://technews.tw/2026/10/16/cybernet-ansys-simulation-ai-agent/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-16T01:00:34+00:00",
+      "short_snippet": "隨著 AI 伺服器、機器人及先進封裝等產品朝高效能與高整合發展，產品設計也從過去針對單一元件進行驗證，逐漸轉向 […]",
+      "tags": [
+        "AI",
+        "資料中心",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e4da84c39f1779ffc81a",
+    "article": {
+      "title": "台灣 AI 紅利待擴散，學者籲拓展半導體上下游布局",
+      "url": "https://technews.tw/2026/10/16/taiwan-ai-dividend-awaits-wider-diffusion-scholars-urge-expanding-semiconductor-upstream-downstream-layout/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-16T00:50:04+00:00",
+      "short_snippet": "AI 熱潮帶動半導體需求，WTO 首席經濟學家史泰格表示，目前尚未看到 AI 熱潮放緩的跡象。港大經管學院副院 […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-2cc50e31159067a1e53e",
+    "article": {
+      "title": "談松山機場遷建，經長：淡海新市鎮發展 AI 產業條件不錯",
+      "url": "https://technews.tw/2026/10/16/economic-minister-discusses-songshan-airport-relocation-says-tamsui-new-town-offers-good-conditions-for-ai-industry-development/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-16T00:40:24+00:00",
+      "short_snippet": "針對和碩董事長童子賢 14 日表示不贊成松山機場遷建，並建議 AI 產業園區可落腳淡海新市鎮，經濟部長龔明鑫 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b645bbb024062079cd48",
+    "article": {
+      "title": "AI 代理人 2028 年可望成加密貨幣交易主流，創投點名隱私才是殺手級應用",
+      "url": "https://infosecu.technews.tw/2026/10/16/norm-will-be-to-trade-crypto-through-agents-by-2028-nansen-ceo-predicts/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-16T00:30:48+00:00",
+      "short_snippet": "區塊鏈資料分析公司 Nansen 執行長艾力克斯·斯瓦內維克（Alex Svanevik）預測，加密貨幣產業最 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-266dea70986f3ac3142a",
+    "article": {
+      "title": "庫克晤王文濤，稱蘋果將進一步擴大在中國業務",
+      "url": "https://technews.tw/2026/10/16/cook-wang-wentao-apple-further-expands-china-business/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-16T00:15:52+00:00",
+      "short_snippet": "剛卸任蘋果公司（APPLE）執行長的庫克近日以執行董事長新身分到訪中國。他 15 日與中國商務部部長王文濤會晤 […]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e12ef4c2599af9db59ea",
+    "article": {
+      "title": "誰在替你下指令？AI 助理出錯，責任算誰的？",
+      "url": "https://technews.tw/2026/10/16/who-responsible-when-ai-assistants-make-mistakes/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-16T00:00:33+00:00",
+      "short_snippet": "9 月 29 日 OpenAI 在 DevDay 發表 Dots，搭載 GPT-6 Astra，有雲端電腦與瀏 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f6ff7d5cca1b4a0af8af",
+    "article": {
+      "title": "台灣繁中語料庫難拓展制度哪卡關？著作權法未鬆綁，主權 AI 訓練語料僅 1% 來自民間",
+      "url": "https://technews.tw/2026/10/16/taiwan-md/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-15T23:50:33+00:00",
+      "short_snippet": "ChatGPT、Gemini 等 AI 模型幾乎只靠簡體資料來認識中文世界，讓 AI 向中國價值觀傾斜。台灣政 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-4c736a92fe6e04979a8c",
+    "article": {
+      "title": "馬斯克大讚黃仁勳！SpaceX 攜手輝達打造 Star Mind，明年量產",
+      "url": "https://technews.tw/2026/10/16/elon-musk-praises-jensen-huang-spacex-nvidia-star-mind-mass-production-next-year/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-15T23:50:13+00:00",
+      "short_snippet": "特斯拉執行長馬斯克近日透露，SpaceX 與輝達共同開發的 Star Mind AI 電腦，性能表現遠超多數人 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e3047859c58518e3ce1e",
+    "article": {
+      "title": "AI 益處終將大於風險，DeepMind 整備長拋三大提問助企業無痛轉型",
+      "url": "https://technews.tw/2026/10/16/google-deepmind-lila-ibrahim/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-15T23:40:49+00:00",
+      "short_snippet": "Google DeepMind 首席 AI 整備長萊拉·易卜拉欣（Lila Ibrahim）表示，她之所以願意 […]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-1691b346f934efd97c0d",
+    "article": {
+      "title": "IBM 攜手西門子推進奈米堆疊半導體技術，邁向埃米世代與 3D 晶片新紀元",
+      "url": "https://technews.tw/2026/10/16/ibm-and-siemens-advance-nano-stacked-semiconductor-technology/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-15T23:30:12+00:00",
+      "short_snippet": "IBM 與西門子（Siemens）宣布展開全新研究合作，致力於推進 IBM 於 2026 年稍早推出的「奈米堆 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-2b7f781129eafdfd28ed",
+    "article": {
+      "title": "俄羅斯 Yandex 被自家 AI 出賣，向假烏軍記者回報資料中心地址",
+      "url": "https://infosecu.technews.tw/2026/10/16/yandex-ai-gives-journalists-data-center-addresses/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-15T23:10:28+00:00",
+      "short_snippet": "俄羅斯科技公司 Yandex 在旗下地圖模糊化部分資料中心位置後，卻被記者發現自家 AI 助理 Alice 仍 […]",
+      "tags": [
+        "AI",
+        "資料中心",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-1d21caca78ef4cd2e1fc",
+    "article": {
+      "title": "告別單純連網服務！全球電信商邁向「智慧平台」，開闢 AI 新藍海",
+      "url": "https://technews.tw/2026/10/16/global-telecom-operators-embrace-smart-platforms-opening-new-ai-blue-ocean/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-15T23:00:21+00:00",
+      "short_snippet": "2026 年全球電信服務收入估達 1.23 兆美元，2029 年溫和成長至 1.32 兆美元，而行動用戶平均收 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-7ca6dc7ff4bcc180ed39",
+    "article": {
+      "title": "防範 AI 代理風險！字節跳動成立 AI 安全團隊，擬啟動全球招聘計畫",
+      "url": "https://technews.tw/2026/10/16/bytedance-sets-up-ai-safety-team/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-15T17:36:32+00:00",
+      "short_snippet": "中國科技巨頭字節跳動旗下 AI 研究部門 Seed 已成立「對齊與預備」（Alignment & Pr […]",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-fd1732e164f4466e5c30",
+    "article": {
+      "title": "台灣美光先進封裝與測試二廠啟用，深化 AI 時代高頻寬記憶體布局",
+      "url": "https://technews.tw/2026/10/15/micron-taiwans-advanced-packaging-and-testing-plant-2-commences-operation/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-15T12:50:29+00:00",
+      "short_snippet": "記憶體大廠美光科技 15 日於台中舉行台灣美光先進封裝與測試二廠（Micron Advanced Assemb […]",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
   }
 ]
