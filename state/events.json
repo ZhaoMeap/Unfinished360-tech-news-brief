@@ -10985,5 +10985,436 @@
         "半導體"
       ]
     }
+  },
+  {
+    "event_id": "evt-c576f565d141ce973bbb",
+    "article": {
+      "title": "All the news about the iPhone Duo",
+      "url": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
+      "source": "The Verge",
+      "published_at": "2026-10-16T23:36:26+00:00",
+      "short_snippet": "Apple has finally announced its long-rumored foldable: the iPhone Duo. The new phone has a 5.4-inch outer display and a 7.6-inch inner display, a “nano‑texture” finish on the inner screen, and barely any visible crease. Instead of Face ID, it uses Touch ID on the power button. It has two cameras, a main lens and […]",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-8affbdfdc422441cab7d",
+    "article": {
+      "title": "Apple’s updated App Store rules go after ‘nudify’ AI apps",
+      "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+      "source": "The Verge",
+      "published_at": "2026-10-16T22:51:22+00:00",
+      "short_snippet": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X users used Grok earlier this year to make nonconsensual, sexualized deepfakes, including minors. Apple didn't pull X or Grok from the App […]",
+      "tags": [
+        "AI",
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5aff00fcbee34e35213d",
+    "article": {
+      "title": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
+      "url": "https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash",
+      "source": "The Verge",
+      "published_at": "2026-10-16T20:49:04+00:00",
+      "short_snippet": "After this horrific crash involving a Tesla driver who said he was asleep and using the driver assist mode, the California Highway Patrol warns that \"Despite its name, full self-driving is not fully autonomous. Technology does not relieve drivers of their responsibility to safely operate their vehicles.\" Video released by CHP shows the Tesla speeding […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-43d8c0ca0fb1e609e6f8",
+    "article": {
+      "title": "Why Apple is finally making its own smart home devices",
+      "url": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
+      "source": "The Verge",
+      "published_at": "2026-10-16T18:30:27+00:00",
+      "short_snippet": "For more than a decade, Apple has told other companies to build smart home devices for its platform. This week, Apple launched its own. The Apple Home Collection is a lineup of cameras, thermostats, sensors, a smart door lock, and a video doorbell, all codeveloped with LG Electronics and Schneider Electric. They arrive alongside HomeView, […]",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-4c6ee9b66e9680162b03",
+    "article": {
+      "title": "E Ink Kaleido 4 doubles color gamut, boosts contrast 50%",
+      "url": "https://www.digitimes.com/news/a20261016PD241/e-ink-color-e-paper-display-technology-hanvon.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-17T00:09:44+00:00",
+      "short_snippet": "E-paper giant E Ink Holdings has officially launched its next-generation color e-paper technology, E Ink Kaleido 4. Chinese e-reader brand Hanvon Technology is the first to adopt the display, integrating it into its second-generation M10C smart e-paper notebook, making it the world's first commercial device powered by Kaleido 4.",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-8f1d0e3ffe88caa53886",
+    "article": {
+      "title": "CATL targets 70GWh in sodium-ion ESS orders with European push",
+      "url": "https://www.digitimes.com/news/a20261016PD243/sodium-ion-catl-market-technology-shipments.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-17T00:09:25+00:00",
+      "short_snippet": "Chinese battery giant CATL is deploying sodium-ion technology to expand into Europe's energy storage system (ESS) market. The company recently signed a strategic agreement with German system integrator Intilion to deploy up to 3GWh of energy storage projects over the next five years, drawing renewed market focus to the commercialization potential of sodium-ion batteries.",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a11fea0ef82392b5c54d",
+    "article": {
+      "title": "Taiwan Mask targets Japan's Kyushu chip expansion with US$4.75 million TCK acquisition",
+      "url": "https://www.digitimes.com/news/a20261016PD244/taiwan-mask-acquisition-equipment-photomask-revenue.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-17T00:08:50+00:00",
+      "short_snippet": "Taiwan Mask Corporation (TMC) is expanding its presence in Japan through the acquisition of semiconductor equipment services provider TCK, extending its business beyond precision photomask manufacturing to equipment assembly and engineering support in Japan's growing Kyushu semiconductor market.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-919c25096594a3766416",
+    "article": {
+      "title": "XPeng's Paris push turns China's full-stack EV know-how into exportable AI engineering business",
+      "url": "https://www.digitimes.com/news/a20261016VL212/xpeng-technology-automotive-vehicle-automakers.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-17T00:07:46+00:00",
+      "short_snippet": "Chinese EV giant and AI mobility manufacturer XPeng has made a major appearance at the Paris Automotive Summit by bringing not just its automotive expertise into the European collaborative space, but a broader technology stack built on the automaker's existing strengths in EV manufacturing and humanoid robotics.",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-be4dea36cbd8b6a42ec6",
+    "article": {
+      "title": "Samsung Electro-Mechanics' US$5.1 billion expansion faces equipment supply constraints",
+      "url": "https://www.digitimes.com/news/a20261016VL216/equipment-semco-expansion-production-substrate.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-17T00:07:22+00:00",
+      "short_snippet": "Samsung Electro-Mechanics (Semco) faces potential equipment procurement bottlenecks in its KRW6.78 trillion (approx. US$5.1 billion) expansion of semiconductor substrate production for AI servers, as machinery manufacturers struggle with component shortages and longer delivery times. The South Korean company maintains that its investment is proceeding as planned. No production delay has been confi",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-680a83507fb0f53bd5b5",
+    "article": {
+      "title": "TECO targets AI data center growth with energy storage, transformers",
+      "url": "https://www.digitimes.com/news/a20261015PD201/teco-data-center-ess-taiwan.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-17T00:06:33+00:00",
+      "short_snippet": "TECO Electric and Machinery participated in Energy Taiwan on October 14, showcasing its smart microgrid solutions and outlining the future development of its power and energy business group.",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-2b9dbdb8edf14873e7b8",
+    "article": {
+      "title": "Singapore's AI bet shifts from model race to deployment, resilience and trusted adoption",
+      "url": "https://www.digitimes.com/news/a20261013VL211/singapore-ai-adoption-government-infrastructure.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-16T18:38:00+00:00",
+      "short_snippet": "Singapore is moving its AI strategy beyond pilot-heavy experimentation toward a more deployment-focused model centered on enterprise adoption, sector transformation and resilient access to compute.",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d5fc0ce231e0e2450bac",
+    "article": {
+      "title": "Interview: SEMI CEO sees US$3 trillion chip industry by 2035, as trusted partners reshape supply chain",
+      "url": "https://www.digitimes.com/news/a20261015PD238/semi-supply-chain-2035-ceo-taiwan.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-16T17:53:00+00:00",
+      "short_snippet": "The semiconductor industry reached the US$1 trillion revenue milestone several years earlier than originally forecast, and with growth driven by AI and quantum computing, reaching US$2 trillion by 2035 is entirely achievable, SEMI President and CEO Ajit Manocha told DIGITIMES in an exclusive interview at SEMICON West 2026.",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ef84becf7c9d0543cea7",
+    "article": {
+      "title": "How the Claude Code team does code review",
+      "url": "https://news.ycombinator.com/item?id=50122951",
+      "source": "Hacker News",
+      "published_at": "2026-10-16T19:04:47+00:00",
+      "short_snippet": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 233 # Comments: 219",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-7862312bbb8b7f427c2c",
+    "article": {
+      "title": "You could have invented transformers from memory",
+      "url": "https://news.ycombinator.com/item?id=50122878",
+      "source": "Hacker News",
+      "published_at": "2026-10-16T19:01:17+00:00",
+      "short_snippet": "Article URL: https://alexwang.ai/posts/associative-memory/ Comments URL: https://news.ycombinator.com/item?id=50122878 Points: 135 # Comments: 39",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0ab83c15b77ddc40a98d",
+    "article": {
+      "title": "Designing more efficient quantum circuits with Claude",
+      "url": "https://news.ycombinator.com/item?id=50121939",
+      "source": "Hacker News",
+      "published_at": "2026-10-16T18:00:18+00:00",
+      "short_snippet": "Article URL: https://www.anthropic.com/research/designing-efficient-quantum-circuits Comments URL: https://news.ycombinator.com/item?id=50121939 Points: 98 # Comments: 18",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3628281e92c0590bc7e8",
+    "article": {
+      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "url": "https://news.ycombinator.com/item?id=50121179",
+      "source": "Hacker News",
+      "published_at": "2026-10-16T17:08:38+00:00",
+      "short_snippet": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 393 # Comments: 330",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d6b9affc4b332c71a431",
+    "article": {
+      "title": "/dev/null: social network for developers",
+      "url": "https://news.ycombinator.com/item?id=50121004",
+      "source": "Hacker News",
+      "published_at": "2026-10-16T16:57:49+00:00",
+      "short_snippet": "Article URL: https://dev-null.sh Comments URL: https://news.ycombinator.com/item?id=50121004 Points: 127 # Comments: 111",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6ca3e6ca1de99da143ec",
+    "article": {
+      "title": "Show HN: Gemini 4 Argon plays StarCraft",
+      "url": "https://news.ycombinator.com/item?id=50118688",
+      "source": "Hacker News",
+      "published_at": "2026-10-16T14:18:44+00:00",
+      "short_snippet": "I've refreshed StarSkirmish Bench, a benchmark where LLMs play StarCraft BW by writing code, with results from the flagship models of OpenAI, Anthropic, Google, and Muse Comments URL: https://news.ycombinator.com/item?id=50118688 Points: 185 # Comments: 87",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-2b67630bdf10ce7613cc",
+    "article": {
+      "title": "AI bubble could burst and take global economy with it, IMF warns",
+      "url": "https://www.reddit.com/r/technology/comments/1x7sv1u/ai_bubble_could_burst_and_take_global_economy/",
+      "source": "Reddit",
+      "published_at": "2026-10-16T21:41:26+00:00",
+      "short_snippet": "submitted by /u/CartoonistFar2036 [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-9a8bc0b7d14eb1698bdd",
+    "article": {
+      "title": "Porn showing choking or incest to be banned from early November, government says",
+      "url": "https://www.reddit.com/r/technology/comments/1x7u8mx/porn_showing_choking_or_incest_to_be_banned_from/",
+      "source": "Reddit",
+      "published_at": "2026-10-16T22:40:28+00:00",
+      "short_snippet": "submitted by /u/ninjascotsman [link] [comments]",
+      "tags": [
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-da30e2d76eaec76a7ece",
+    "article": {
+      "title": "Nasdaq sinks more than 2% as investors raise questions about AI debt",
+      "url": "https://www.reddit.com/r/technology/comments/1x7qix5/nasdaq_sinks_more_than_2_as_investors_raise/",
+      "source": "Reddit",
+      "published_at": "2026-10-16T20:05:46+00:00",
+      "short_snippet": "submitted by /u/Broadband- [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-48e571f93116a3c5e4c7",
+    "article": {
+      "title": "Meta employees said Lula's accounts were hindered during Brazil election, Folha reports",
+      "url": "https://www.reddit.com/r/technology/comments/1x7nzlp/meta_employees_said_lulas_accounts_were_hindered/",
+      "source": "Reddit",
+      "published_at": "2026-10-16T18:27:24+00:00",
+      "short_snippet": "submitted by /u/Icy-Hunter-9600 [link] [comments]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d775727742abe7331e59",
+    "article": {
+      "title": "Governments are hacking people through online ads, report says",
+      "url": "https://www.reddit.com/r/technology/comments/1x7m1bi/governments_are_hacking_people_through_online_ads/",
+      "source": "Reddit",
+      "published_at": "2026-10-16T17:13:14+00:00",
+      "short_snippet": "submitted by /u/CartoonistFar2036 [link] [comments]",
+      "tags": [
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-61ac6872f1400803e160",
+    "article": {
+      "title": "New Jersey worker says employer's AI photographed her at home every 3 minutes, then fired her | \"A camera in your living room is cheaper than a manager.\"",
+      "url": "https://www.reddit.com/r/technology/comments/1x7t0gs/new_jersey_worker_says_employers_ai_photographed/",
+      "source": "Reddit",
+      "published_at": "2026-10-16T21:47:52+00:00",
+      "short_snippet": "submitted by /u/Just-Grocery-2229 [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ed262e8b5ea96548a5a9",
+    "article": {
+      "title": "Tencent admits its AI agents went ‘rogue’",
+      "url": "https://www.reddit.com/r/technology/comments/1x7ox3d/tencent_admits_its_ai_agents_went_rogue/",
+      "source": "Reddit",
+      "published_at": "2026-10-16T19:03:14+00:00",
+      "short_snippet": "submitted by /u/lurker_bee [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6873bc7e28df8411c427",
+    "article": {
+      "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality",
+      "url": "https://www.reddit.com/r/technology/comments/1x7rqgo/bug_turns_one_of_the_biggest_fears_about_rayban/",
+      "source": "Reddit",
+      "published_at": "2026-10-16T20:54:40+00:00",
+      "short_snippet": "submitted by /u/Stiltonrocks [link] [comments]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6bee349d6c55071f4f28",
+    "article": {
+      "title": "Code, Test, and Deploy on One Machine with NVIDIA RTX Spark",
+      "url": "https://developer.nvidia.com/blog/code-test-and-deploy-on-one-machine-with-nvidia-rtx-spark/",
+      "source": "官方：NVIDIA Developer",
+      "published_at": "2026-10-16T17:00:00+00:00",
+      "short_snippet": "AI agents are changing how software gets built. Developers have gone from writing every line of code by hand to directing agents that write most of the code. As...",
+      "tags": [
+        "AI",
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-1355c269a485863b4d23",
+    "article": {
+      "title": "Microsoft Surface Laptop Ultra Review",
+      "url": "https://www.servethehome.com/microsoft-surface-laptop-ultra-review/",
+      "source": "ServeTheHome",
+      "published_at": "2026-10-16T17:00:27+00:00",
+      "short_snippet": "We review the Microsoft Surface Ultra to see how the NVIDIA RTX Spark powered laptop fares and try to answer who the platform is for The post Microsoft Surface Laptop Ultra Review appeared first on ServeTheHome .",
+      "tags": [
+        "半導體",
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c1eb7a019d88c53afc86",
+    "article": {
+      "title": "從「很悶」熬到因 AI「蹦起來」，群聯潘健成：台灣產業已是自己種樹自己涼",
+      "url": "https://finance.technews.tw/2026/10/17/taiwan-electronics-industry-stagnant-booming-ai-pua-kian-seng-taiwan-industries-creating-advantages/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-17T01:00:49+00:00",
+      "short_snippet": "根據《財訊》雙週刊報導，群聯創辦人暨執行長潘健成，14 日出席潘文淵文教基金會舉辦的《潘文淵──孕育台灣半導體 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-47eeda07e55ec59ea660",
+    "article": {
+      "title": "馬斯克預言中國 2028 年生產大量 DRAM，衝擊記憶體產業雪上加霜",
+      "url": "https://finance.technews.tw/2026/10/17/musk-predicts-that-china-will-produce-a-large-amount-of-dram-by-2028/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-17T01:00:09+00:00",
+      "short_snippet": "特斯拉執行長馬斯克（Elon Musk）近日的一句簡短留言，將韓國國內的經濟政策討論推升為全球記憶體晶片市場的 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ef9e66d2476d3d0ea2cd",
+    "article": {
+      "title": "逾七成消費者靠 AI 找折扣！AI 逐漸接管購物決策，近四成用戶願為推薦「變心」換品牌",
+      "url": "https://technews.tw/2026/10/17/study-shows-ai-chatbots-offer-the-rich-higher-price-recommendations/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-17T00:30:47+00:00",
+      "short_snippet": "最新研究指出，Claude、ChatGPT 等 AI 購物助理在搜尋商品時，可能會依使用者的財富狀況提供不同的 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-604c47d529abfc2f960b",
+    "article": {
+      "title": "從缺席黃仁勳「兆元宴」覺醒：仁寶如何撕下 AI 門外漢標籤、急追中段班",
+      "url": "https://finance.technews.tw/2026/10/17/how-compal-is-pivoting-to-ai-servers/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-17T00:00:38+00:00",
+      "short_snippet": "伺服器營收占比，從去年的2%拉到今年預估一成，讓仁寶自稱已從 AI「門外漢」追到中段班。兩年前，連黃仁勳飯局都 […]",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
   }
 ]
