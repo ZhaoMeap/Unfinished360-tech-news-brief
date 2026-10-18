@@ -12218,5 +12218,98 @@
         "Big Tech"
       ]
     }
+  },
+  {
+    "event_id": "evt-85a78078f3d81687b897",
+    "article": {
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "url": "https://news.ycombinator.com/item?id=50137950",
+      "source": "Hacker News",
+      "published_at": "2026-10-18T04:33:49+00:00",
+      "short_snippet": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works. Comments URL: https://news.ycombinator.com/item?id=50137950 Points: 125 # Comments: 32",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3200f1d5f51d5abc09fb",
+    "article": {
+      "title": "Dutch cloud services concerned after U.S. request leads to Amsterdam server seizure",
+      "url": "https://www.reddit.com/r/technology/comments/1x8xlkf/dutch_cloud_services_concerned_after_us_request/",
+      "source": "Reddit",
+      "published_at": "2026-10-18T08:01:49+00:00",
+      "short_snippet": "submitted by /u/boppinmule [link] [comments]",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-7f2157ed26c5ed9c2b72",
+    "article": {
+      "title": "AI 面試不會取代面試官，關鍵在「人機分工」而非全權交給 AI",
+      "url": "https://technews.tw/2026/10/18/ai-interviews-not-replacing-interviewers-company-success-human-ai-collaboration-not-full-ai-delegation/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-18T09:30:24+00:00",
+      "short_snippet": "企業導入 AI 面試持續加速，但能否真正提升招募效率與選才品質，關鍵不在是否使用 AI，而是如何分配 AI 與 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-db92105584b30227ccec",
+    "article": {
+      "title": "年輕專業人士要小心「能力幻覺」，MIT 研究：用 AI 不等於能力成長",
+      "url": "https://technews.tw/2026/10/18/ai-raised-patent-drafting-scores-but-redlining-gains-varied-by-experience/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-18T08:30:33+00:00",
+      "short_snippet": "麻省理工學院（MIT）經濟學者大衛·奧托（David Autor）最新研究顯示，人工智慧或許能讓工作成果看起來 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-28ed1d59b65f40a2cf08",
+    "article": {
+      "title": "25 歲工程師捨微軟 640 萬高薪，靠 AI 零資金創辦理財工具 Treasury",
+      "url": "https://finance.technews.tw/2026/10/18/engineer-leaves-microsoft-high-paying-job-for-ai-startup/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-18T07:30:03+00:00",
+      "short_snippet": "25 歲的西雅圖創業者 Junead Khan 去年離開微軟，放棄年薪超過 20 萬美元的工作，轉而全力投入自 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b91b5bd60edb643fd217",
+    "article": {
+      "title": "優達科技於 2026 OCP 全球高峰會展示 1.6T AI 網路架構，動態實測液冷平台驗證散熱可行性",
+      "url": "https://technews.tw/2026/10/18/ufispace-s9331-64ho3l/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-18T06:00:29+00:00",
+      "short_snippet": "開放網路解決方案領導廠商優達科技（UfiSpace）宣布，於 2026 年 OCP 全球高峰會（OCP Glo […]",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5d7c0247ff0fa9193b31",
+    "article": {
+      "title": "蘋果：iPhone 磁吸配件恐干擾鏡頭，影響對焦與防手震功能",
+      "url": "https://technews.tw/2026/10/18/why-strong-magnets-can-hinder-the-iphones-rear-facing-camera/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-18T05:30:10+00:00",
+      "short_snippet": "蘋果（Apple）近日提醒，部分 iPhone 磁性配件雖然方便，但若磁力太強又靠近後置相機，可能干擾鏡頭運作 […]",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
   }
 ]
