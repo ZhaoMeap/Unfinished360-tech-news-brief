@@ -12311,5 +12311,110 @@
         "產品與平台"
       ]
     }
+  },
+  {
+    "event_id": "evt-bb9bfb9913545ca94a22",
+    "article": {
+      "title": "Trump says Google kisses his ass",
+      "url": "https://www.theverge.com/policy/1013485/trump-google-kiss-my-ass",
+      "source": "The Verge",
+      "published_at": "2026-10-18T13:25:01+00:00",
+      "short_snippet": "During a rally on Saturday, October 17th, in Highland Heights, Kentucky, Donald Trump bragged about how much more powerful and influential he was during his second term. While listing off his accomplishments, he mentioned his decision to rename the Gulf of Mexico and Lake Ontario. \"This is a much more powerful term. I can do […]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a5131036cdd52d5cf919",
+    "article": {
+      "title": "How overhead projectors took over your classroom",
+      "url": "https://www.theverge.com/podcast/1013473/overhead-projector-version-history",
+      "source": "The Verge",
+      "published_at": "2026-10-18T12:55:01+00:00",
+      "short_snippet": "It used to be so easy to get away with things in school. The teacher, after all, was always turned around writing at the chalkboard! But then came a bit of technology, previously mostly used for military purposes, called the overhead projector. It would change far more than just the disciplinary record of students everywhere. […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-70ccee926a2d5f621ea9",
+    "article": {
+      "title": "Cities want to put the boot on robotaxis",
+      "url": "https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws",
+      "source": "The Verge",
+      "published_at": "2026-10-18T12:00:00+00:00",
+      "short_snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on autonomous vehicles, policy, and road rules, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started The first state to pass a law […]",
+      "tags": [
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d4c370279b977e9941bd",
+    "article": {
+      "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
+      "url": "https://news.ycombinator.com/item?id=50139692",
+      "source": "Hacker News",
+      "published_at": "2026-10-18T10:21:51+00:00",
+      "short_snippet": "Article URL: https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/ Comments URL: https://news.ycombinator.com/item?id=50139692 Points: 64 # Comments: 16",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-80a8b328b7803d25b74f",
+    "article": {
+      "title": "Anthropic’s proposed AI safety bill only kicks in if 50 deaths or $1 billion in damages are on the line — proposal would effectively make the Commerce Department the only agency capable of stopping an AI model",
+      "url": "https://www.reddit.com/r/technology/comments/1x90woc/anthropics_proposed_ai_safety_bill_only_kicks_in/",
+      "source": "Reddit",
+      "published_at": "2026-10-18T11:28:28+00:00",
+      "short_snippet": "submitted by /u/MarvelsGrantMan136 [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-206deed92396ac5b6e79",
+    "article": {
+      "title": "Meta denies political bias claims in Brazil’s presidential campaign",
+      "url": "https://www.reddit.com/r/technology/comments/1x8zilm/meta_denies_political_bias_claims_in_brazils/",
+      "source": "Reddit",
+      "published_at": "2026-10-18T10:04:53+00:00",
+      "short_snippet": "submitted by /u/sundevil-- [link] [comments]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-bd589add3cb82c4a6651",
+    "article": {
+      "title": "America’s $10tn AI infrastructure boom is starting to fray — A vast bet on the future of the technology is running into the unforgiving economics of the physical world",
+      "url": "https://www.reddit.com/r/technology/comments/1x92gwa/americas_10tn_ai_infrastructure_boom_is_starting/",
+      "source": "Reddit",
+      "published_at": "2026-10-18T12:51:48+00:00",
+      "short_snippet": "submitted by /u/marketrent [link] [comments]",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-41f9d4363d2aef2fcb2d",
+    "article": {
+      "title": "Korean Chip Engineer Accuses Tesla of Pressuring Samsung on AI5/AI6 Pricing, Poaching Talent for Terafab",
+      "url": "https://www.reddit.com/r/technology/comments/1x8zvr6/korean_chip_engineer_accuses_tesla_of_pressuring/",
+      "source": "Reddit",
+      "published_at": "2026-10-18T10:27:29+00:00",
+      "short_snippet": "submitted by /u/sr_local [link] [comments]",
+      "tags": [
+        "半導體"
+      ]
+    }
   }
 ]
