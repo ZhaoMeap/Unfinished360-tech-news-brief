@@ -13407,5 +13407,532 @@
         "Big Tech"
       ]
     }
+  },
+  {
+    "event_id": "evt-ebb552c9f7fd2c77c9c3",
+    "article": {
+      "title": "DeepSeek updates V4.1 Flash to improve AI agent performance",
+      "url": "https://www.digitimes.com/news/a20261019PD246/deepseek-performance-api-software-opus.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-19T09:29:00+00:00",
+      "short_snippet": "DeepSeek released an updated version of its V4.1 Flash artificial intelligence (AI) model on October 17, improving coding and reasoning performance while reducing task execution time and output length. The DeepSeek-V4.1-Flash-1017 update arrived five weeks after the previous version and was designed to make AI agents more efficient across software development and other task-based applications.",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-75525a2776b6ca4e5845",
+    "article": {
+      "title": "Samsung targets Exynos 2700 expansion as Huawei advances Kirin chips",
+      "url": "https://www.digitimes.com/news/a20261019PD247/samsung-exynos-kirin-huawei-chips.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-19T08:55:00+00:00",
+      "short_snippet": "Samsung Electronics is developing the Exynos 2700 for broader use across its Galaxy S27 lineup in 2027, while Huawei has moved its next-generation Kirin chips into testing. The competing efforts are raising pressure on Samsung to improve application processor (AP) performance, manufacturing yields and cost competitiveness as it seeks to reduce its reliance on Qualcomm and MediaTek.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a978567069bd5ee43563",
+    "article": {
+      "title": "DIGITIMES Insight: Microsoft Maia 300 leads 2nm race, TSMC's US strategy shifts, Intel EMIB-T faces yield challenge",
+      "url": "https://www.digitimes.com/news/a20261019PD235/microsoft-tsmc-2nm-intel-digitimes.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-19T08:55:00+00:00",
+      "short_snippet": "Microsoft's early adoption of TSMC's 2nm process, a US$2 billion manufacturing partnership between TSMC and GlobalFoundries, and delays to Google's next-gen TPU highlight diverging strategies in AI chip development and advanced packaging.",
+      "tags": [
+        "AI",
+        "半導體",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a721730eb2d4479dd011",
+    "article": {
+      "title": "Anthropic offers Blackstone more than 10% return in US$60 billion AI chip financing deal",
+      "url": "https://www.digitimes.com/news/a20261019PD245/anthropic-financing-ai-chip-capacity-finance.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-19T08:47:46+00:00",
+      "short_snippet": "Anthropic is offering Blackstone a total return of more than 10% to help finance a US$60 billion artificial intelligence (AI) chip procurement package, as higher infrastructure financing costs make expanding computing capacity more expensive. The proposed arrangement, reportedly code-named Project North Star, would fund purchases of Google tensor processing units (TPUs) with a combined capacity of",
+      "tags": [
+        "AI",
+        "半導體",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-acbe221272fbd5af8652",
+    "article": {
+      "title": "Solution Finders Part 2 of 2: TSMC's first CTO said no to Intel twice but still wonders what if",
+      "url": "https://www.digitimes.com/news/a20261019PD218/intel-taiwan-academia-sinica-tsmc-electronics.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-19T08:20:00+00:00",
+      "short_snippet": "Chenming Hu co-invented the FinFET transistor with colleagues at the University of California, Berkeley, in the 1990s and became TSMC's first chief technology officer in 2001. Decades earlier, as a graduate student, he was invited by Intel co-founder Andy Grove to join Intel, and turned him down.",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-950c9398576876473874",
+    "article": {
+      "title": "Weblink International secures AvePoint agency rights to expand AI governance",
+      "url": "https://www.digitimes.com/news/a20261019PD242/weblink-acer-governance-subsidiary-data.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-19T07:54:09+00:00",
+      "short_snippet": "Acer Inc. subsidiary Weblink International Inc. has secured agency rights for AvePoint in Taiwan and the Asia-Pacific region, expanding its enterprise solutions portfolio amid accelerating cloud and AI adoption and the growing importance of data governance and information security.",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a1daf95232af9496bce0",
+    "article": {
+      "title": "Action cameras gain momentum as camera demand fragments",
+      "url": "https://www.digitimes.com/news/a20261019PD239/market-camera-recovery-growth-shipments.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-19T07:45:00+00:00",
+      "short_snippet": "After two years of recovery, the digital camera market is slowing in 2026, with action cameras and handheld smart cameras taking over as the next growth engines. Optical industry observers say consumers no longer expect one camera to cover every scenario, instead choosing specialized devices for specific uses—a shift that has made action cameras the clearest winner.",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-7e15dfc9bdce47f45620",
+    "article": {
+      "title": "Elon Musk points to China's 2028 DRAM supply surge to challenge Samsung, SK Hynix pricing power",
+      "url": "https://www.digitimes.com/news/a20261019VL210/elon-musk-dram-tesla-2028-samsung.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-19T07:43:43+00:00",
+      "short_snippet": "Tesla CEO Elon Musk has predicted a surge in Chinese memory chip production by 2028, raising questions over Samsung Electronics and SK Hynix's pricing power during an AI-driven dynamic random-access memory (DRAM) shortage. His remarks suggest that China's expanding capacity could offer major technology buyers alternative sources of supply and potentially ease memory costs.",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-cd7d9e8bb090dfbc95a8",
+    "article": {
+      "title": "ACM Research bets on panel-level packaging and overseas growth as adoption risks persist",
+      "url": "https://www.digitimes.com/news/a20261019PD231/acm-packaging-equipment-adoption-growth.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-19T07:38:00+00:00",
+      "short_snippet": "ACM Research is expanding beyond China as its panel-level packaging equipment advances through customer evaluations in Taiwan, while the US semiconductor equipment maker invests in South Korea and Oregon. The company expects overseas operations to grow faster than its China revenue, although technology adoption, packaging-size standards, and US-China tensions could affect its plans.",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-39ebed177ff009d38deb",
+    "article": {
+      "title": "Canon Taiwan sees strong global camera demand in 2026 and 2027",
+      "url": "https://www.digitimes.com/news/a20261019PD240/canon-taiwan-camera-demand-2027.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-19T07:33:11+00:00",
+      "short_snippet": "Canon Marketing Taiwan President Hu Da-gang said the global camera market performed well in 2026, with demand rebounding after the pandemic and smartphone photography helping cultivate a new generation of photography enthusiasts. He also expressed optimism about 2027, as Canon and other brands prepare to launch more new models and capitalize on market momentum.",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-53bc204796a62fa0107b",
+    "article": {
+      "title": "Solution Finders Part 1 of 2: the DARPA challenge behind TSMC's success",
+      "url": "https://www.digitimes.com/news/a20261019PD236/tsmc-launch-finfet-technology-patent.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-19T07:29:04+00:00",
+      "short_snippet": "The foundations of TSMC's modern-day success can be traced back to a public call from the US Defense Advanced Research Projects Agency (DARPA) for innovative designs that could break through the 25nm physical limit. Among those who answered it was Chenming (Calvin) Hu, then a professor at UC Berkeley, who would go on to become TSMC's first chief technology officer in 2001.",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0eeac3200917f3a0012a",
+    "article": {
+      "title": "From LCD powerhouse to AI enabler: Taiwan's display industry reinvents itself after 30 turbulent years",
+      "url": "https://www.digitimes.com/news/a20261019PD224/auo-innolux-display-lcd-manufacturing-ic-packaging-taiwan.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-19T06:59:52+00:00",
+      "short_snippet": "Once a global LCD manufacturing powerhouse, Taiwan's display industry has weathered financial crises, antitrust penalties and fierce competition from state-backed Chinese rivals. Now, after three decades of boom-and-bust cycles, its leading manufacturers are seeking a new future beyond screens, leveraging their expertise in precision manufacturing to enter automotive electronics, advanced semicond",
+      "tags": [
+        "AI",
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-eb892c3b6b5552bbcf7d",
+    "article": {
+      "title": "SiC powering the future: market scaling meets IDM synergies",
+      "url": "https://www.digitimes.com/news/a20261019VL211/sic-silicon-market-data-center-industrial.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-19T06:59:00+00:00",
+      "short_snippet": "The global silicon carbide (SiC) market stands at a critical juncture of industrial scaling, driven by rising demand across the automotive, AI data center, and renewable energy sectors.",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-868bb046c08f23777139",
+    "article": {
+      "title": "Toyota eyes full SDV lineup by 2030, rolling Arene across 50 models",
+      "url": "https://www.digitimes.com/news/a20261019PD233/toyota-vehicle-2030-sales-software.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-19T06:21:29+00:00",
+      "short_snippet": "Toyota plans to transition its entire lineup of approximately 50 vehicle models to software-defined vehicles (SDVs) by 2030, equipping them with advanced software capabilities that allow owners to upgrade vehicle functions through over-the-air (OTA) updates after purchase.",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-24a50e16fe7b78bc39b5",
+    "article": {
+      "title": "Sanan Optoelectronics faces corp governance turmoil amid Micro LED breakthroughs",
+      "url": "https://www.digitimes.com/news/a20261019VL207/sanan-optoelectronics-governance-market-xiamen-display.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-19T06:18:00+00:00",
+      "short_snippet": "Sanan Optoelectronics Co., a leading player in China's compound semiconductor and LED chip industry, finds itself at a critical juncture, marked by severe corporate governance challenges at the shareholder level alongside major technological developments in next-generation display technologies.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ba5e803441b646123da8",
+    "article": {
+      "title": "IBM and Siemens collaborate to advance nanostack chip architecture",
+      "url": "https://www.digitimes.com/news/a20261019PR201/ibm-siemens-design-manufacturing-performance.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-19T06:01:56+00:00",
+      "short_snippet": "IBM and Siemens will collaborate on research to develop IBM's nanostack transistor architecture, aiming to move its design toward manufacturing. The work could influence chip performance, energy efficiency, and artificial-intelligence computing worldwide, as the companies seek to address design, simulation, lithography, and production challenges beyond the 7-angstrom node.",
+      "tags": [
+        "半導體",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-fc038c06b4bd0048f67a",
+    "article": {
+      "title": "Von Ardenne's flexible equipment targets unsettled panel-level packaging market",
+      "url": "https://www.digitimes.com/news/a20261019PD232/equipment-packaging-market-panel-technology.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-19T05:55:00+00:00",
+      "short_snippet": "German equipment maker Von Ardenne is entering the semiconductor industry with coating technology aimed at panel-level packaging, a segment where the choice among competing panel dimensions remains unresolved. Its tray-based systems can handle different substrate sizes without a new platform, potentially reducing equipment risk as manufacturers and customers worldwide weigh standards for advanced ",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-4ee4b52d8e65c42711f6",
+    "article": {
+      "title": "300-plus local data center bans have only delayed just three US projects",
+      "url": "https://www.reddit.com/r/technology/comments/1x9sndf/300plus_local_data_center_bans_have_only_delayed/",
+      "source": "Reddit",
+      "published_at": "2026-10-19T09:52:25+00:00",
+      "short_snippet": "submitted by /u/sr_local [link] [comments]",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0e98c265d04f0c825abc",
+    "article": {
+      "title": "日本擬對雲端服務等設安全認證制度，實質上排除受中俄影響業者",
+      "url": "https://infosecu.technews.tw/2026/10/19/japan-security-certification-cloud-services-exclude-china-russia-influenced-firms/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-19T10:00:29+00:00",
+      "short_snippet": "日本政府將針對資料中心及雲端服務建立安全認證制度，並鼓勵金融、醫療等處理個人重要資訊的企業，使用經政府認證的服 […]",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-dd49562981d29970ff9a",
+    "article": {
+      "title": "科普環島列車啟程，半導體、太空與智慧醫療導入體驗",
+      "url": "https://technews.tw/2026/10/19/science-popularization-round-the-island-train-departs-introducing-semiconductor-space-smart-healthcare-experiences/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-19T09:40:11+00:00",
+      "short_snippet": "2026 台灣科普環島列車今天從台北車站出發，展開為期 6 天的全台科學之旅。國科會主委吳誠文表示，前瞻科研與 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-7c63c226d0ff32719470",
+    "article": {
+      "title": "SK 海力士聯手韓政府與四大銀行，推 2 兆韓圜貸款保證支援半導體供應商",
+      "url": "https://finance.technews.tw/2026/10/19/sk-hynix-govt-to-provide-2-tln-won-in-loan-guarantees-to-semiconductor-suppliers/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-19T08:50:06+00:00",
+      "short_snippet": "SK 海力士與韓國產業部、韓國貿易保險公社及四大銀行合作，為半導體材料、零組件與設備供應商提供 2 兆韓圜貸款 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-43f1acb750a4537baa92",
+    "article": {
+      "title": "為什麼三星要結盟台積電，生產下代 NVHBM 3 奈米基礎晶片？",
+      "url": "https://technews.tw/2026/10/19/samsung-to-partner-with-tsmc-to-produce-next-generation-nvhbm-3-nanometer-base-chips/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-19T08:45:00+00:00",
+      "short_snippet": "據韓國媒體報導，三星電子（Samsung Electronics）應最大客戶輝達（Nvidia）要求，將採用台 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-db2e025d95241dd293c5",
+    "article": {
+      "title": "機器人話題夯，IFA 預計 2027 年擴大展區",
+      "url": "https://finance.technews.tw/2026/10/19/2027-ifa-robotic/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-19T08:38:28+00:00",
+      "short_snippet": "人工智慧（AI）與機器人逐漸成為消費性電子產業的重要發展方向，柏林國際消費電子展（IFA）也將擴大相關布局。I […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-47cb407e44a9e05b4416",
+    "article": {
+      "title": "2026 年光纖現貨報價倍數攀升，資料中心推升需求、短缺恐延續至 2028 年",
+      "url": "https://technews.tw/2026/10/19/fiber-optic-spot-prices-multiply-2026-data-center-demand-shortage-extends-2028/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-19T08:20:32+00:00",
+      "short_snippet": "根據 TrendForce 最新通訊產業研究，隨著 AI 資料中心、跨資料中心互連及高容量骨幹網路建設推升光纖 […]",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b02db53cc42181aca5ca",
+    "article": {
+      "title": "投資人不買單？長鑫存儲發表轉虧為盈財報卻股價下跌 6.5%",
+      "url": "https://finance.technews.tw/2026/10/19/changxin-memory-announced-a-return-to-profitability-but-its-stock-price-fell-6-5/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-19T08:00:27+00:00",
+      "short_snippet": "中國記憶體晶片製造商長鑫存儲（CXMT）公布2026年前九個月業績預告，受惠於AI算力需求爆發推升全球DRAM […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-90697b75bd73f0021144",
+    "article": {
+      "title": "補足防空彈藥缺口，Anduril 計畫在歐洲生產 Steelfin 攔截飛彈",
+      "url": "https://technews.tw/2026/10/19/anduril-plans-to-produce-steelfin-in-europe/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-19T07:58:25+00:00",
+      "short_snippet": "全球防空攔截彈供不應求，各國政府積極擴充產能之際，美國國防科技公司 Anduril 歐洲區副總裁莫蘭（Bria […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3ad1dd3a80ed3b882473",
+    "article": {
+      "title": "Grok 代購遭亞馬遜阻擋，馬斯克開玩笑稱要打造競爭對手",
+      "url": "https://technews.tw/2026/10/19/amazon-blocks-grok-bot-shopping-agent/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-19T07:55:21+00:00",
+      "short_snippet": "xAI（SpaceXSI）推出的 AI 代理 Grok Bot 可代用戶上網購物，但有 X 用戶日前反映，Bo […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-bff67bdeab2634b2258d",
+    "article": {
+      "title": "從「病歷筆記」精準揪出隱藏病症，醫療 AI 新創 Healthleap 獲 3,800 萬美元融資",
+      "url": "https://technews.tw/2026/10/19/healthleap-secures-tens-millions-funding/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-19T07:48:28+00:00",
+      "short_snippet": "據外媒報導，致力於運用 AI 從病歷中找出可能患有未確診疾病住院病患的醫療新創 Healthleap，近期宣布 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-8258b7e109a570327d87",
+    "article": {
+      "title": "Google 掌握全球 AI 算力達 25%，Gemini 4 Argon 評分仍落後 Claude Opus 5.5 原因是這個",
+      "url": "https://finance.technews.tw/2026/10/19/google-25-global-ai-compute-power-gemini-4-argon-lags-claude-opus-5-5-reason/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-19T07:30:08+00:00",
+      "short_snippet": "Google 9 月 30 日發表 Gemini 4 最高階模型 Argon，第三方評測卻只與 GPT-6 A […]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-010148a6210139beb4b5",
+    "article": {
+      "title": "突破量子運算關鍵瓶頸，Google Willow 晶片讓「魔法狀態」錯誤率狂降 40 倍",
+      "url": "https://technews.tw/2026/10/19/google-quantum-computing-bottleneck-breakthrough/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-19T07:20:05+00:00",
+      "short_snippet": "Google 旗下的 Google Quantum AI 近期宣布，已成功在自家的 Willow 量子處理器上 […]",
+      "tags": [
+        "AI",
+        "半導體",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b8d3102379e304921243",
+    "article": {
+      "title": "緩解 AI 衝擊就業 Anthropic 擬撥 5% 股份入公益基金",
+      "url": "https://technews.tw/2026/10/19/anthropic-plans-to-allocate-5percent-stake-to-public-benefit-fund/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-19T07:10:33+00:00",
+      "short_snippet": "人工智慧（AI）新創公司 Anthropic 計劃提撥 5% 股權，成立公共利益基金（Public Benef […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c2c360973b7ea44f4701",
+    "article": {
+      "title": "陌生來電不陌生，Whoscall 推「自訂來電者名稱」功能",
+      "url": "https://infosecu.technews.tw/2026/10/19/whoscall-customize-caller-name/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-19T06:56:25+00:00",
+      "short_snippet": "隨著詐騙手法日新月異，台灣陌生來電辨識 App Whoscall 也持續迭代產品功能，今日宣布「自訂來電者名稱 […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ec99ae3c6acee1e54fa2",
+    "article": {
+      "title": "iPhone Duo 首賣日 Apple Store 內無現貨可買？",
+      "url": "https://technews.tw/2026/10/19/iphone-duo-release-date/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-19T06:44:46+00:00",
+      "short_snippet": "蘋果首款摺疊手機 iPhone Duo 預計於本週五正式開賣，但首波供貨吃緊，傳出蘋果已要求零售門市員工，提醒 […]",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-46ddc2a56aade42346e4",
+    "article": {
+      "title": "精密智慧製造台廠，搶攻 AIDC 零組件及設備供應",
+      "url": "https://finance.technews.tw/2026/10/19/taiwanese-precision-smart-manufacturing-firms-target-aidc-component-equipment-supply/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-19T06:30:24+00:00",
+      "short_snippet": "人工智慧 AI 伺服器和資料中心（AIDC）等基礎建設需求強勁，帶動關鍵零組件和高階精密製程設備需求，包括電機 […]",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d496d1f406e17f32fcf6",
+    "article": {
+      "title": "果粉信仰堅 iPhone Duo 預購搶翻、出貨排到 2027",
+      "url": "https://technews.tw/2026/10/19/iphone-duo-preorders-surge-deliveries-delayed-to-2027/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-19T06:20:58+00:00",
+      "short_snippet": "蘋果新款摺疊手機 iPhone Duo 價格不斐，其銷售表現也被視為果粉信仰值的考驗；多方消息指出，初步預購需 […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-573db24a3997f22037b3",
+    "article": {
+      "title": "Anthropic 遊說推動 AI 安全法案，擬設政府干預門檻",
+      "url": "https://infosecu.technews.tw/2026/10/19/anthropic-lobbies-ai-safety-legislation-proposing-government-intervention-thresholds/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-19T06:10:36+00:00",
+      "short_snippet": "政治新聞網站 Politico 今天引述三名消息人士報導，人工智慧（AI）新創公司 Anthropic 代表近 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-70f0b05e3822a1803d75",
+    "article": {
+      "title": "研調估 2030 年資料中心 IT 運算力年增 70GW，液冷扮要角",
+      "url": "https://technews.tw/2026/10/19/liquid-cooling-to-play-key-role-in-ai-infrastructure-by-2030/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-19T06:00:19+00:00",
+      "short_snippet": "研調機構 Omdia 報告預測，2030 年全球新增資料中心資訊電子（IT）運算能力將達到每年約 70 GW， […]",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-cf79e987d95e7fc86771",
+    "article": {
+      "title": "從數據治理經驗出發，打造更完善的 AI 治理",
+      "url": "https://technews.tw/2026/10/19/worldwide-ai-and-generative-ai-spending-guide/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-19T05:50:41+00:00",
+      "short_snippet": "今天企業面對的 AI 治理挑戰，其實並不陌生。十多年前，數據治理也曾經歷過幾乎相同的階段，當時及早看見兩者相似 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-281bb368b67d756970cf",
+    "article": {
+      "title": "TPCA 展明登場 PCB 產值今年破兆／材料吃緊延續",
+      "url": "https://technews.tw/2026/10/19/pcb-output-to-top-1-trillion-this-year/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-19T05:30:30+00:00",
+      "short_snippet": "受惠 AI 伺服器、高速網通及記憶體等需求持續擴張，台灣 PCB 產業今年呈現價量齊揚態勢，全年海內外總產值有 […]",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
   }
 ]

@@ -2305,13 +2305,93 @@
       "scheduled_slot_id": "daily-2026-10-19-1517",
       "scheduled_at_utc": "2026-10-19T07:17:00+00:00",
       "actual_started_at_utc": "2026-10-19T11:14:22.890368+00:00",
-      "completed_at_utc": null,
-      "status": "running",
+      "completed_at_utc": "2026-10-19T11:14:43.026035+00:00",
+      "status": "completed",
       "catch_up": true,
       "run_id": "39243165766",
-      "output_file": null,
+      "output_file": "reports/daily/2026-10-19_1517_editor.md",
       "attempts": 1,
-      "previous_attempts": []
+      "previous_attempts": [],
+      "output_sha256": "7264caf14572cc74c8026c4829ccd21a266065052248513d7029402e7bdecfdb",
+      "error": null,
+      "source_diagnostics": [
+        {
+          "source": "Reuters",
+          "status": "目前無法取得（HTTP 401；不繞過存取限制）"
+        },
+        {
+          "source": "官方：Google",
+          "status": "目前無法取得（近 48 小時沒有符合主題且有日期的項目）"
+        },
+        {
+          "source": "官方：Microsoft",
+          "status": "目前無法取得（近 48 小時沒有符合主題且有日期的項目）"
+        },
+        {
+          "source": "官方：NVIDIA",
+          "status": "已取得 1 則近 48 小時科技項目"
+        },
+        {
+          "source": "官方：Apple Newsroom",
+          "status": "目前無法取得（近 48 小時沒有符合主題且有日期的項目）"
+        },
+        {
+          "source": "官方：FTC",
+          "status": "目前無法取得（HTTP 404）"
+        },
+        {
+          "source": "The Verge",
+          "status": "已取得 5 則近 48 小時科技項目"
+        },
+        {
+          "source": "DIGITIMES",
+          "status": "已取得 30 則近 48 小時科技項目"
+        },
+        {
+          "source": "Hacker News",
+          "status": "目前無法取得（ConnectTimeout）"
+        },
+        {
+          "source": "Reddit",
+          "status": "已取得 17 則近 48 小時科技項目"
+        },
+        {
+          "source": "官方：NVIDIA Developer",
+          "status": "目前無法取得（近 48 小時沒有符合主題且有日期的項目）"
+        },
+        {
+          "source": "官方：Ollama releases",
+          "status": "已取得 1 則近 48 小時科技項目"
+        },
+        {
+          "source": "官方：ROCm releases",
+          "status": "目前無法取得（近 48 小時沒有符合主題且有日期的項目）"
+        },
+        {
+          "source": "官方：OpenBMC releases",
+          "status": "目前無法取得（近 48 小時沒有符合主題且有日期的項目）"
+        },
+        {
+          "source": "官方：Hugging Face",
+          "status": "目前無法取得（近 48 小時沒有符合主題且有日期的項目）"
+        },
+        {
+          "source": "研究：arXiv AI",
+          "status": "目前無法取得（沒有可解析的 RSS/Atom 項目）"
+        },
+        {
+          "source": "ServeTheHome",
+          "status": "已取得 1 則近 48 小時科技項目"
+        },
+        {
+          "source": "TechNews 台灣",
+          "status": "已取得 24 則近 48 小時科技項目"
+        },
+        {
+          "source": "X",
+          "status": "目前無法取得（介面保留，尚未接入 API）"
+        }
+      ]
     }
   }
 }
