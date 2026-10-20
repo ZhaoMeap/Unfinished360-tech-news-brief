@@ -16046,5 +16046,324 @@
         "資料中心"
       ]
     }
+  },
+  {
+    "event_id": "evt-d57ddeaa485c7191315b",
+    "article": {
+      "title": "Ask a Scientist: How can AI help doctors spend more time on collaborative care?",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-clinical-study/",
+      "source": "官方：Google",
+      "published_at": "2026-10-20T16:00:00+00:00",
+      "short_snippet": "Two Googlers in a virtual interview with text to the left of them that says 'Ask a scientist about patient care research'",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-273a6969094469d24bfd",
+    "article": {
+      "title": "Apple unveils the 2026 Designers of Tomorrow",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-2026-designers-of-tomorrow/",
+      "source": "官方：Apple Newsroom",
+      "published_at": "2026-10-20T14:59:22+00:00",
+      "short_snippet": "Apple’s Designers of Tomorrow showcase returns to spotlight the best in emerging talent, this time focusing on the theme of presence.",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5b078f15cc960e7f2878",
+    "article": {
+      "title": "Chrome will now show a warning before you visit ‘suspicious’ sites",
+      "url": "https://www.theverge.com/tech/1014446/google-chrome-suspicious-website-warning",
+      "source": "The Verge",
+      "published_at": "2026-10-20T17:00:00+00:00",
+      "short_snippet": "Google is launching a new browser safety feature for Chrome that aims to keep you better informed about how malicious a website might be before you open it. The new suspicious site warnings, available when Chrome's Enhanced Protection is on, build on a similar two-stage system introduced for Chrome file downloads in 2024, which provides […]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-25534fd7b967394ae1ca",
+    "article": {
+      "title": "AMD is bringing FSR 4.1 to Xbox consoles and handhelds",
+      "url": "https://www.theverge.com/news/1014455/amd-fsr-4-1-xbox-consoles-handhelds-laptops",
+      "source": "The Verge",
+      "published_at": "2026-10-20T16:21:18+00:00",
+      "short_snippet": "AMD has just revealed that it's bringing its latest upscaling technology, FSR 4.1, to the Xbox Series S and X consoles, as well as laptops, 6000-series GPUs, and handhelds like the Xbox Ally X devices. FSR 4.1 will start appearing for Radeon RX 6000-series GPUs today, as well as Ryzen AI Max 300 and 400 […]",
+      "tags": [
+        "AI",
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-185fc75ad5c263efa2f2",
+    "article": {
+      "title": "The Gospel according to Peter (Thiel)",
+      "url": "https://www.theverge.com/tech/1014252/peter-thiel-antichrist-lectures-analysis",
+      "source": "The Verge",
+      "published_at": "2026-10-20T15:45:00+00:00",
+      "short_snippet": "It's a time of apocalyptic worldviews in Silicon Valley. The latest AI doom cycle is driven by effective altruism, a philosophy that has lurked around the fringes for years but recently burst into the mainstream because its adherents are embedded across the AI industry, from Anthropic to newly appointed AI safety watchdog METR. EA is […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d8e521589f50d7bf14fd",
+    "article": {
+      "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
+      "url": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
+      "source": "The Verge",
+      "published_at": "2026-10-20T14:18:37+00:00",
+      "short_snippet": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spotify has also made changes to its recommendation system to highlight more music made by human artists. \"Our editors hold the same standard and […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f49b9b7401e8ac5922a1",
+    "article": {
+      "title": "TikTok employees said they knew about child safety issues, but execs failed to act",
+      "url": "https://www.theverge.com/tech/1014250/tiktok-employees-internal-child-safety-warnings",
+      "source": "The Verge",
+      "published_at": "2026-10-20T13:11:23+00:00",
+      "short_snippet": "TikTok was repeatedly warned by its own staffers about risks its platform posed to child safety, according to court records obtained by NPR. The publication reports that employees were frustrated over TikTok executives failing to appropriately act on concerns they raised, including minors bypassing age-restricted content, and appearing in \"transactional sexual content\" the company could […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-68709b1943140d8a3e4d",
+    "article": {
+      "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
+      "url": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
+      "source": "The Verge",
+      "published_at": "2026-10-20T13:06:44+00:00",
+      "short_snippet": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app detects a person, or a group of people, have their eyes closed in a photo it will automatically present users with a […]",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-476b0c000b4b25e3dada",
+    "article": {
+      "title": "Wii Sports is back on the Switch 2, and it rules",
+      "url": "https://www.theverge.com/entertainment/1013753/nintendo-switch-sports-resort-review-switch-2",
+      "source": "The Verge",
+      "published_at": "2026-10-20T13:00:00+00:00",
+      "short_snippet": "Wii Sports holds an important place in Nintendo's history. It's the best-selling piece of software the company has ever made, one that permeated culture in surprising ways, and its success helped rejuvenate Nintendo after a period of steady decline. It also kicked off one of the company's most important and unassuming franchises. While subsequent sports […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-04299eb2c45cc280aff0",
+    "article": {
+      "title": "Musk and Anthropic test rival models for sharing AI wealth with the public",
+      "url": "https://www.digitimes.com/news/a20261020VL217/anthropic-spacex-technology-infrastructure.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-20T16:01:00+00:00",
+      "short_snippet": "The advent of artificial intelligence (AI) is best understood as revolutionary in modern society, transforming industries and reshaping daily life as successive rounds of rapid growth push AI deeper into nearly every aspect of social and economic activity.",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f959a85ee992adb02a30",
+    "article": {
+      "title": "Go Conventions That Clicked Too Late for an AI Engineer",
+      "url": "https://news.ycombinator.com/item?id=50169336",
+      "source": "Hacker News",
+      "published_at": "2026-10-20T16:59:16+00:00",
+      "short_snippet": "Article URL: https://towardsdev.com/10-go-conventions-that-clicked-too-late-for-an-ai-engineer-78319f2d538f?sk=5858de12ec208931b984d8f55436a7a2 Comments URL: https://news.ycombinator.com/item?id=50169336 Points: 3 # Comments: 0",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-65331a2109c8612ac3f4",
+    "article": {
+      "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+      "url": "https://news.ycombinator.com/item?id=50169053",
+      "source": "Hacker News",
+      "published_at": "2026-10-20T16:40:24+00:00",
+      "short_snippet": "Article URL: https://github.com/google-pytorch/torch_tpu Comments URL: https://news.ycombinator.com/item?id=50169053 Points: 33 # Comments: 9",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c1e7afb972e1d402e96e",
+    "article": {
+      "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
+      "url": "https://news.ycombinator.com/item?id=50167583",
+      "source": "Hacker News",
+      "published_at": "2026-10-20T15:09:29+00:00",
+      "short_snippet": "Hey HN, this is Andy from Respan ( https://www.respan.ai ). We are building an open-source Rust AI gateway. It is a decoupled gateway, so everything is a plugin, including different providers, protocols (MCP, voice), modalities (images, videos), and gateway features (fallbacks, PII redaction, smart routing). Instead of packaging tons of providers and features into one gateway, Respan provides a sm",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-29b8d8f7cbfbfb121d7b",
+    "article": {
+      "title": "Publish fake stats, get cited in LLMs",
+      "url": "https://news.ycombinator.com/item?id=50165801",
+      "source": "Hacker News",
+      "published_at": "2026-10-20T13:06:22+00:00",
+      "short_snippet": "Article URL: https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web Comments URL: https://news.ycombinator.com/item?id=50165801 Points: 192 # Comments: 104",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-29340267475d80c5e375",
+    "article": {
+      "title": "Apple broke an essential presentation feature of iPads",
+      "url": "https://news.ycombinator.com/item?id=50165208",
+      "source": "Hacker News",
+      "published_at": "2026-10-20T12:17:28+00:00",
+      "short_snippet": "Article URL: https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/ Comments URL: https://news.ycombinator.com/item?id=50165208 Points: 292 # Comments: 167",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-1097e6e03f395ace32ca",
+    "article": {
+      "title": "US restarts three shut-down nuclear reactors to feed AI data centers — 2.25 GW coming online with backing from Microsoft and Google",
+      "url": "https://www.reddit.com/r/technology/comments/1xavtj4/us_restarts_three_shutdown_nuclear_reactors_to/",
+      "source": "Reddit",
+      "published_at": "2026-10-20T15:52:39+00:00",
+      "short_snippet": "submitted by /u/ArgentineBeauty [link] [comments]",
+      "tags": [
+        "AI",
+        "資料中心",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e7e8b5a8d3f4af430621",
+    "article": {
+      "title": "DHS Said They Searched Man Who Wiped GrapheneOS Phone for Child Abuse Material. They Lied | Officials said they wanted to search the phone of Samuel Tunick, a Stop Cop City activist, for child abuse material. It was actu",
+      "url": "https://www.reddit.com/r/technology/comments/1xawfwz/dhs_said_they_searched_man_who_wiped_grapheneos/",
+      "source": "Reddit",
+      "published_at": "2026-10-20T16:14:43+00:00",
+      "short_snippet": "submitted by /u/ControlCAD [link] [comments]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a904e94d90407f64010c",
+    "article": {
+      "title": "Documents: Ousted Savannah police officer gave ICE agent husband access to Flock system",
+      "url": "https://www.reddit.com/r/technology/comments/1xax50g/documents_ousted_savannah_police_officer_gave_ice/",
+      "source": "Reddit",
+      "published_at": "2026-10-20T16:40:43+00:00",
+      "short_snippet": "submitted by /u/mepper [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-46a93384134e2764c551",
+    "article": {
+      "title": "The Army Wants to Sic AI Agents on Its Enemies. What Could Go Wrong? | Documents obtained by The Intercept show the military is trying to deploy autonomous AI agents to hack its adversaries",
+      "url": "https://www.reddit.com/r/technology/comments/1xat7rc/the_army_wants_to_sic_ai_agents_on_its_enemies/",
+      "source": "Reddit",
+      "published_at": "2026-10-20T14:11:46+00:00",
+      "short_snippet": "submitted by /u/Hrmbee [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-2be3d2cee2ab8aef68d2",
+    "article": {
+      "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
+      "url": "https://www.reddit.com/r/technology/comments/1xasuo2/meta_muse_exposes_users_personal_and_business/",
+      "source": "Reddit",
+      "published_at": "2026-10-20T13:57:25+00:00",
+      "short_snippet": "submitted by /u/AdSpecialist6598 [link] [comments]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ef73bf2ace8ac6719291",
+    "article": {
+      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+      "url": "https://huggingface.co/blog/allenai/fairstress",
+      "source": "官方：Hugging Face",
+      "published_at": "2026-10-20T16:09:19+00:00",
+      "short_snippet": "",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-536f23cd94f139849c62",
+    "article": {
+      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+      "source": "官方：Hugging Face",
+      "published_at": "2026-10-20T15:19:48+00:00",
+      "short_snippet": "",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-41fb25a47d12d204a957",
+    "article": {
+      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+      "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+      "source": "官方：Hugging Face",
+      "published_at": "2026-10-20T00:00:00+00:00",
+      "short_snippet": "",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a22f0f9ce4cbc74bcb71",
+    "article": {
+      "title": "HPE Spaceborne Computer-4 Will Bring AI and HPC to the Moon on Astrolab FLIP",
+      "url": "https://www.servethehome.com/hpe-spaceborne-computer-4-will-bring-ai-and-hpc-to-the-moon-on-astrolab-flip/",
+      "source": "ServeTheHome",
+      "published_at": "2026-10-20T14:13:22+00:00",
+      "short_snippet": "The HPE Spaceborne Computer 4 will head to the moon on Astrolab's Flip to test HPC benchmarks and AI on the lunar surface The post HPE Spaceborne Computer-4 Will Bring AI and HPC to the Moon on Astrolab FLIP appeared first on ServeTheHome .",
+      "tags": [
+        "AI"
+      ]
+    }
   }
 ]
