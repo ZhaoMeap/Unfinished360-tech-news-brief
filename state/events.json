@@ -15297,5 +15297,754 @@
         "資料中心"
       ]
     }
+  },
+  {
+    "event_id": "evt-130b99afb50dd1d71a0d",
+    "article": {
+      "title": "Advancing digital sovereignty with greater control and choice",
+      "url": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/",
+      "source": "官方：Microsoft",
+      "published_at": "2026-10-20T08:20:02+00:00",
+      "short_snippet": "Across my conversations with leaders in government, critical infrastructure and regulated industries, one priority consistently rises to the top: putting technology to work on their most important systems while maintaining the control those systems require. This challenge is becoming more imp https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/",
+      "tags": [
+        "AI",
+        "監管",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e579dfd5cbbc1f0d034d",
+    "article": {
+      "title": "Apple announces American Manufacturing Program partners for latest iPhone lineup",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-announces-american-manufacturing-program-partners-for-latest-iphone-lineup/",
+      "source": "官方：Apple Newsroom",
+      "published_at": "2026-10-20T12:00:22+00:00",
+      "short_snippet": "Apple announced new and expanded partnerships with American companies that are supplying critical materials and components for iPhone Duo and iPhone 18 Pro.",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-68fa7965528ebaa1e456",
+    "article": {
+      "title": "Spotify’s new podcast memberships let you pay for extra perks",
+      "url": "https://www.theverge.com/entertainment/1013606/spotify-podcast-memberships-paid-subscription-launch",
+      "source": "The Verge",
+      "published_at": "2026-10-20T12:00:00+00:00",
+      "short_snippet": "Spotify is enabling podcast creators to earn more money through the platform by providing their fans with a way to pay to access exclusive content. First announced in May, the new Memberships subscription feature is starting to roll out in 34 regions today, allowing podcasters to offer perks including additional content, early access, bonus episodes, […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c797ab06c93d845d79e7",
+    "article": {
+      "title": "Some Google Home Speakers caught downloading hundreds of gigs of data",
+      "url": "https://www.theverge.com/tech/1014209/google-home-speaker-bug-continuous-download",
+      "source": "The Verge",
+      "published_at": "2026-10-20T10:16:47+00:00",
+      "short_snippet": "Some Google Home Speaker owners are currently experiencing an issue in which hundreds of gigabytes of data are being continuously downloaded to their device in the background. The bug, reported by 9to5Google and several Reddit users over the last week, may be caused by the speakers failing to correctly download and install a firmware update, […]",
+      "tags": [
+        "資料中心",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-06f0b9f2bf110b8ebb32",
+    "article": {
+      "title": "Unimicron chairman sees substrate sizes reaching 14x current scale by 2030",
+      "url": "https://www.digitimes.com/news/a20261020PD247/unimicron-substrate-tpca-2026.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-20T10:09:19+00:00",
+      "short_snippet": "TPCA Show 2026 officially opened, with Unimicron Chairman Shan-Chieh Chien saying in his opening address that solving the three major challenges facing AI accelerators in high-performance computing (HPC) will require more than semiconductor process scaling. Advanced packaging and heterogeneous integration technologies must be introduced in parallel, significantly raising the technical requirements",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-37f813bb76c32d362f44",
+    "article": {
+      "title": "Jensen Huang urges Germany to embrace physical AI at Berlin summit",
+      "url": "https://www.digitimes.com/news/a20261020PD246/nvidia-germany-jensen-huang-berlin-manufacturing.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-20T09:22:16+00:00",
+      "short_snippet": "German Chancellor Friedrich Merz and Nvidia CEO Jensen Huang urged German businesses to embrace AI at an industry summit in Berlin on October 19, aiming to revive the economy and modernize industry. Huang specifically called on Germany's automotive and industrial machinery sectors to adopt physical AI by leveraging the country's extensive manufacturing data and expertise.",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-781c9c57d49c41afbbb7",
+    "article": {
+      "title": "Samsung eyes six foldables for 2027, including a rollable phone",
+      "url": "https://www.digitimes.com/news/a20261020PD245/samsung-galaxy-2027-foldable-smartphone-foldable.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-20T09:09:11+00:00",
+      "short_snippet": "Samsung Electronics is reportedly planning its largest-ever foldable smartphone lineup in 2027, expanding the Galaxy Z series to as many as six models. The broader portfolio, alongside improvements in battery performance, thickness, and weight, could accelerate foldable adoption beyond its current niche-market status.",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6daefa92c701f454b7f4",
+    "article": {
+      "title": "Global Tek's new Thailand plant enters trial production in 3Q26, targeting AI liquid cooling and aerospace opportunities",
+      "url": "https://www.digitimes.com/news/a20261020PD244/production-liquid-cooling-2026-plant-growth.html?chid=10",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-20T09:05:20+00:00",
+      "short_snippet": "Global Tek Industrial held an opening ceremony on the 20th for its Super Smart Manufacturing Park in Chonburi, Thailand. Spanning 177,600 square meters, the facility is the group's largest single production base. Having entered trial production in the third quarter of 2026, the plant will expand beyond existing automotive orders to incorporate high-value-added products such as AI liquid cooling an",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-967ab8a8f755cd2036bf",
+    "article": {
+      "title": "Intel requests FCC waiver from US foreign robot ban, citing impact on US chipmaking",
+      "url": "https://www.digitimes.com/news/a20261020VL221/intel-ban-fcc-robot-security.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-20T08:58:46+00:00",
+      "short_snippet": "Intel has asked the Federal Communications Commission (FCC) for a waiver to the US ban on advanced foreign robots, citing worries that its machines will not receive equipment updates, which could hinder its ability to produce semiconductors in the US. The request comes after the US banned imports of foreign-made robots in July.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0333e1db57d3e6e731a0",
+    "article": {
+      "title": "Chief Telecom starts NT$3.3 billion AI data center in Taiwan",
+      "url": "https://www.digitimes.com/news/a20261020PD243/chief-telecom-data-center-taiwan-infrastructure-capacity.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-20T08:51:04+00:00",
+      "short_snippet": "Chief Telecom broke ground on a new AI data center at the Central Taiwan Science Park on the 20th, committing approximately NT$3.3 billion (US$101.7 million) to a facility expected to begin operations in the second half of 2028. The project is intended to extend the company's data center growth, as its Lianyun AI Intelligent Data Center is projected to reach full capacity in 2027.",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6dca8fbd7de2af9ba2e8",
+    "article": {
+      "title": "Wistron Medical Technology and Chang Gung University expand AI elder-care training",
+      "url": "https://www.digitimes.com/news/a20261020PD242/wistron-training-technology-partnership-university.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-20T08:48:33+00:00",
+      "short_snippet": "Wistron Medical Technology and Chang Gung University of Science and Technology signed a memorandum of understanding at the university's Linkou campus to advance an AI-enabled training program for the aging and health industries. The partnership will combine industry expertise with academic resources to address rising demand for smart health, digital health and elder-care capabilities as societies ",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6027b5e4978c3679c837",
+    "article": {
+      "title": "AI server demand lifts Tongtai drilling orders through 2027",
+      "url": "https://www.digitimes.com/news/a20261020PD241/tongtai-demand-2027-ai-server-pcb.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-20T08:02:30+00:00",
+      "short_snippet": "Tongtai Machine & Tool said it had order visibility for its printed circuit board (PCB) drilling equipment through the end of 2027 as AI infrastructure demand increased pressure on high-end board production. The Taiwan-based machine tool maker presented its latest solutions at the Taiwan Printed Circuit Association Show 2026, highlighting CCD high-precision drilling machines and an unmanned drilli",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b709d77404ee9c74ee82",
+    "article": {
+      "title": "AUO selects glass substrate specs for semiconductor processes, not size rivalry",
+      "url": "https://www.digitimes.com/news/a20261020PD237/auo-substrate-lcd-packaging-osat.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-20T07:38:00+00:00",
+      "short_snippet": "AUO is tailoring its glass core substrate specifications specifically to semiconductor process requirements rather than competing on panel dimensions with Innolux, according to Chairman and CEO Paul Peng. The company aims to leverage its glass-processing expertise to supply critical components and technologies to outsourced semiconductor assembly and test (OSAT) leaders such as ASE Technology Hold",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b0d2c7ad1810405f8a02",
+    "article": {
+      "title": "Taiwan anchors US chip revival, SEMICON West spotlights trusted partners",
+      "url": "https://www.digitimes.com/news/a20261020PD231/taiwan-semicon-west-2026-investment-equipment.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-20T07:08:00+00:00",
+      "short_snippet": "SEMICON West 2026 wrapped up in San Francisco last week, with US officials, industry executives, equipment and materials suppliers, and workforce-development partners repeatedly highlighting Taiwan as a critical partner in rebuilding US semiconductor manufacturing. Taiwan's role spans investment, process technology, supply-chain expertise, and talent development.",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6341a658c3ee8745bf04",
+    "article": {
+      "title": "AI servers drive TVS and ESD demand for Yea Shin Tech",
+      "url": "https://www.digitimes.com/news/a20261020PD239/demand-esd-capacity-power-components-eris-tech.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-20T06:59:00+00:00",
+      "short_snippet": "AI servers are driving demand for power components, transient voltage suppressors (TVS), and electrostatic discharge (ESD) protection devices. Yea Shin Technology, a subsidiary of Eris Technology, will begin trading on Taiwan's emerging stock market on October 23 and plans to raise the share of 6-inch wafers in its capacity from 35% to more than 50%, as its TVS products enter the international AI ",
+      "tags": [
+        "AI",
+        "資料中心",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-033c260cf89bb727de57",
+    "article": {
+      "title": "Thermaltake expands AI workstation lineup on edge AI demand",
+      "url": "https://www.digitimes.com/news/a20261020PD232/thermaltake-workstation-gaming-market-revenue.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-20T06:45:00+00:00",
+      "short_snippet": "Thermaltake is targeting the growing edge AI market with a new workstation lineup. Chairman Kenny Lin said the company has transformed from a gaming components maker into an AI PC and workstation systems provider. The company plans to launch three product lines in the second half of 2026 and aims for AI-related products to contribute 5% to 10% of revenue in 2027.",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-125cbeb5cbc6db403c45",
+    "article": {
+      "title": "Samsung's HBM4 supply lock-in exposes limits of China's CXMT as Apple and Tesla seek DRAM alternatives",
+      "url": "https://www.digitimes.com/news/a20261020VL218/samsung-cxmt-dram-hbm4.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-20T06:40:48+00:00",
+      "short_snippet": "Samsung Electronics is expected to enter 2027 with approximately 80% of its planned memory production secured under long-term contracts, reinforcing its pricing position while China's ChangXin Memory Technologies (CXMT) expands capacity and attracts attention from US tech companies seeking alternative DRAM suppliers.",
+      "tags": [
+        "半導體",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-1f769e1bf987c6944362",
+    "article": {
+      "title": "Daeduck Electronics targets 2029 ceramic substrates for AI packaging",
+      "url": "https://www.digitimes.com/news/a20261020PD235/substrate-packaging-development-production-performance.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-20T06:33:49+00:00",
+      "short_snippet": "South Korean substrate maker Daeduck Electronics is accelerating development of ceramic core substrates (CCS) to address warpage and thermal-management challenges as AI semiconductor packages grow larger. The company is conducting performance and internal reliability assessments, plans to advance samples and customer evaluations in 2027 and 2028, and is targeting mass production in 2029, with cera",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0f660705a2d19e9d50c6",
+    "article": {
+      "title": "Hygon's revenue jumps 58% on AI chip demand, but growth slows amid 51% stock slump",
+      "url": "https://www.digitimes.com/news/a20261020VL213/revenue-ai-chip-demand-earnings-growth.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-20T06:21:22+00:00",
+      "short_snippet": "China's Hygon Information Technology reported a 57.58% increase in revenue for the first nine months of 2026, reflecting sustained demand for domestic high-performance processors and AI computing chips. Yet slower quarterly growth, mounting R&D expenditure and a steep share-price correction have highlighted the gap between the company's operating performance and market expectations.",
+      "tags": [
+        "AI",
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6ec6f0a22ecfbe4a2273",
+    "article": {
+      "title": "Powertip Technology transitions into a solutions provider as demand and costs rise",
+      "url": "https://www.digitimes.com/news/a20261020PD233/powertip-technology-design-demand-manufacturing-2026.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-20T06:06:28+00:00",
+      "short_snippet": "Powertip Technology is transitioning from a module design and supply company to a solutions provider. The company has seen rising demand in the first half of 2026 as the electronics and manufacturing industries faced higher material costs, which it aims to control by negotiating price adjustments with its customers. Although such negotiations are difficult due to intense market competition, the co",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c130afd7da951756679c",
+    "article": {
+      "title": "FIC Global targets doubling business in 2027 on optical module orders from eight of world's top 10 makers",
+      "url": "https://www.digitimes.com/news/a20261020PD216/fic-global-business-2027-pc-chairman.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-20T03:55:00+00:00",
+      "short_snippet": "FIC Global chairman Leo Chien said the PC market continues to suffer from memory shortages, with a meaningful recovery unlikely in the second half of 2026. However, some industrial PC (IPC) businesses, particularly those in maritime-related applications, have begun to recover from their lows.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-8b43bf9c5d0db0e49434",
+    "article": {
+      "title": "Micro LED optical interconnect targets AI racks amid unsettled standards",
+      "url": "https://www.digitimes.com/news/a20261020PD220/demand-transmission-communications-copper-technology.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-20T03:45:00+00:00",
+      "short_snippet": "Surging demand for optical interconnects in AI computing centers is pushing Micro LED technology into short-reach optical transmission inside data center racks. Differing views on Micro LED's prospects in optical communications, recently expressed by Largan Precision Chairman En-Ping Lin and AUO Chairman Paul Peng, have sparked significant debate across the industry.",
+      "tags": [
+        "AI",
+        "資料中心",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e87bd14f176cce09632c",
+    "article": {
+      "title": "Google cloud outage takes down banks",
+      "url": "https://news.ycombinator.com/item?id=50163961",
+      "source": "Hacker News",
+      "published_at": "2026-10-20T10:26:02+00:00",
+      "short_snippet": "Article URL: https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/ Comments URL: https://news.ycombinator.com/item?id=50163961 Points: 56 # Comments: 20",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-11d35245c9975259fd01",
+    "article": {
+      "title": "Revolut down as users report app not working",
+      "url": "https://news.ycombinator.com/item?id=50163625",
+      "source": "Hacker News",
+      "published_at": "2026-10-20T09:54:48+00:00",
+      "short_snippet": "Article URL: https://www.bbc.com/news/articles/cxdd8mm6qy4mo Comments URL: https://news.ycombinator.com/item?id=50163625 Points: 68 # Comments: 34",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-1ec4188f8c197f153e89",
+    "article": {
+      "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
+      "url": "https://news.ycombinator.com/item?id=50162177",
+      "source": "Hacker News",
+      "published_at": "2026-10-20T06:37:07+00:00",
+      "short_snippet": "Article URL: https://github.com/microg/GmsCore/wiki Comments URL: https://news.ycombinator.com/item?id=50162177 Points: 115 # Comments: 6",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c5700804056c6b27cde9",
+    "article": {
+      "title": "Maxwell: A new kind of model that sits between code and hardware",
+      "url": "https://news.ycombinator.com/item?id=50152466",
+      "source": "Hacker News",
+      "published_at": "2026-10-19T13:47:56+00:00",
+      "short_snippet": "Hi HN, I'm Gal from doubleAI. We've built Maxwell, a new kind of frontier model we call a Code Execution Model. It sits between your code and the hardware. No humans in the loop! Maxwell makes the code run faster as it runs, without ever changing a single line. Maxwell sees programs from the inside: traces, profiling information, and the data flowing through them. It adapts dynamically to the envi",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-71094174f326b71b13f9",
+    "article": {
+      "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+      "url": "https://news.ycombinator.com/item?id=50151036",
+      "source": "Hacker News",
+      "published_at": "2026-10-19T11:24:34+00:00",
+      "short_snippet": "I saw this LinkedIn post from a Meta engineer and it resonated with me: https://www.linkedin.com/posts/ali-hamie_im-an-engineer-at-m... > I'm an engineer at Meta and I never felt this uncomfortable doing my job. I'm writing code these days and it all feels like a black box. This new standard of shipping with AI is moving so fast that if we're going to spend our time checking each line of code, it'",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-45326c7ebe43ec70e49b",
+    "article": {
+      "title": "Linus Torvalds posts his first AI-assisted patch to the Linux kernel, synthetic test clocks 23x performance leap — the bossman makes use of AI tooling himself after issuing clear pro-AI directives",
+      "url": "https://www.reddit.com/r/technology/comments/1xapaw7/linus_torvalds_posts_his_first_aiassisted_patch/",
+      "source": "Reddit",
+      "published_at": "2026-10-20T11:11:38+00:00",
+      "short_snippet": "submitted by /u/AnonomousWolf [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-fcf1c9a4847f2f231a18",
+    "article": {
+      "title": "PS5 console jailbreak on latest 14.10 firmware shared before GTA 6 release date",
+      "url": "https://www.reddit.com/r/technology/comments/1xalkr2/ps5_console_jailbreak_on_latest_1410_firmware/",
+      "source": "Reddit",
+      "published_at": "2026-10-20T07:21:26+00:00",
+      "short_snippet": "submitted by /u/shield_x [link] [comments]",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-79de6525f5d0bf1df923",
+    "article": {
+      "title": "Arkansas mom shared public data center records, then a utility sued her and 2 newspapers | \"Corporations need heavy regulation and their power curbed.\"",
+      "url": "https://www.reddit.com/r/technology/comments/1xak599/arkansas_mom_shared_public_data_center_records/",
+      "source": "Reddit",
+      "published_at": "2026-10-20T05:54:42+00:00",
+      "short_snippet": "submitted by /u/Just-Grocery-2229 [link] [comments]",
+      "tags": [
+        "資料中心",
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b0adf047a206fc3dc885",
+    "article": {
+      "title": "Don’t be fooled. The AI that was supposed to save us time is doing just the opposite",
+      "url": "https://www.reddit.com/r/technology/comments/1xapppa/dont_be_fooled_the_ai_that_was_supposed_to_save/",
+      "source": "Reddit",
+      "published_at": "2026-10-20T11:33:58+00:00",
+      "short_snippet": "submitted by /u/Elliottafc1 [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-4d1b62e0beeb226cfa30",
+    "article": {
+      "title": "Google outage hits websites and apps as some bank customers report issues, reports the BBC.",
+      "url": "https://www.reddit.com/r/technology/comments/1xaoefp/google_outage_hits_websites_and_apps_as_some_bank/",
+      "source": "Reddit",
+      "published_at": "2026-10-20T10:21:08+00:00",
+      "short_snippet": "submitted by /u/bendubberley_ [link] [comments]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b484137b2a6a7fe83597",
+    "article": {
+      "title": "高雄台積電 F22 廠區工安意外，螺栓斷裂致 4 人墜落送醫後續勒令停工",
+      "url": "https://finance.technews.tw/2026/10/20/industrial-accident-at-tsmc-f22-plant-in-kaohsiung/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-20T11:30:53+00:00",
+      "short_snippet": "高雄市楠梓園區台積電F22 P4新建工程工地20日傍晚發生重大工安意外。事故起因於吊車執行鋼構吊掛安裝作業時發 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-7ba4ff59d301e24ca2ef",
+    "article": {
+      "title": "報告：中國 AI 算力，55% 用在製作短劇及影音",
+      "url": "https://technews.tw/2026/10/20/china-ai-compute-55-percent-short-dramas-videos/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-20T09:50:07+00:00",
+      "short_snippet": "中國官方大力發展 AI 產業，中國上市公司「中文在線」日前向投資人公布業務報告，指中國 AI 詞元（token […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ab57d1438fac83c7ba70",
+    "article": {
+      "title": "政府公開資料 AI 讀得懂，「歐噴資料庫」年底前免費使用",
+      "url": "https://technews.tw/2026/10/20/openfun/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-20T09:44:26+00:00",
+      "short_snippet": "歐噴有限公司所開發的「歐噴資料庫」已在月初上線，將超過 3,400 份台灣政府公開資料，從散落在各機關網站、格 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e6dffb9d127b01976ab5",
+    "article": {
+      "title": "中國 AI 工具 Artex 遭濫用，日本多家企業受駭",
+      "url": "https://infosecu.technews.tw/2026/10/20/chinese-ai-tool-artex-abused-multiple-japanese-companies-attacked/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-20T09:40:31+00:00",
+      "short_snippet": "東京一家大型網路企業旗下子公司今天表示，日本近日接連發生企業遭駭事件，調查發現其中多起攻擊使用一款名為 Art […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-4ec5ec2e39b4902276e9",
+    "article": {
+      "title": "工研院攜手群翊攻高階載板，AI 溫測技術打入低軌衛星供應鏈",
+      "url": "https://technews.tw/2026/10/20/itri-chin-yi-advanced-substrates-ai-temperature-measurement-technology-leo-satellite-supply-chain/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-20T09:22:41+00:00",
+      "short_snippet": "隨著 AI 伺服器、高效能運算（HPC）及低軌衛星通訊需求持續成長，高階載板製程對溫度控制與良率的要求日益提高 […]",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-4c255527d4e13919272e",
+    "article": {
+      "title": "B-21 沒那麼小，Google Earth 影像估測僅比 B-2 小 12%",
+      "url": "https://technews.tw/2026/10/20/latest-google-earth-photo-confirmed-the-size-of-b21/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-20T09:22:03+00:00",
+      "short_snippet": "美國空軍 B-21「突襲者」（Raider）匿蹤轟炸機自亮相以來，實際尺寸始終是外界關注焦點，近期 Googl […]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-9707d5dbdb83a786e30a",
+    "article": {
+      "title": "AI 變現將成考驗！星展估 Fed 將再升息 2 碼、金價上看 5,300 美元",
+      "url": "https://finance.technews.tw/2026/10/20/us-tariffs/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-20T09:05:01+00:00",
+      "short_snippet": "星展銀行今日召開第四季經濟暨投資展望，財富管理投資顧問部資深副總裁陳昱嘉表示，AI 企業的獲利模式能否支撐過去 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-918263663c490b2584ab",
+    "article": {
+      "title": "是方虎尾 AI 資料中心簽約率達五成，拚 2031 年達獲利目標",
+      "url": "https://finance.technews.tw/2026/10/20/chief-aidc-2/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-20T08:55:23+00:00",
+      "short_snippet": "AI 資料中心需求持續升溫，是方電訊今日於虎尾 AI 資料中心動土典禮會後聯訪透露，新資料中心雖尚未完工，不過 […]",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-91d3ee633782ef24349d",
+    "article": {
+      "title": "輝達在台首開政府事務總監職缺，深化政策溝通拚新總部布局",
+      "url": "https://technews.tw/2026/10/20/nvidia-director-government-affairs-taiwan/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-20T08:50:50+00:00",
+      "short_snippet": "人工智慧（AI）晶片大廠輝達（NVIDIA）積極擴大在台布局，近期首度在台灣開出負責與政府部門溝通的「政府事務 […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-508aa77facdca939a6c0",
+    "article": {
+      "title": "Googlebook 捨平價策略、挑戰 999 美元高階市場，外媒憂淪下個 Steam Machine",
+      "url": "https://ccc.technews.tw/2026/10/20/googlebook-ill-timed-launch-risks-crisis/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-20T08:40:20+00:00",
+      "short_snippet": "科技媒體《Tom’s Hardware》近期刊出評論指出，Google 試圖將 Chromeboo […]",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-7098eb37c8be3e47cc2d",
+    "article": {
+      "title": "台灣 SMR 發展卡在哪？專家點出政策與法規挑戰",
+      "url": "https://technews.tw/2026/10/20/taiwan-smr-development-hindered-regulations-nuclear-waste-challenges/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-20T08:17:16+00:00",
+      "short_snippet": "隨著 AI 資料中心用電需求攀升，全球加速發展小型模組化反應爐（SMR）及微型模組化反應爐（MMR）。中華核能 […]",
+      "tags": [
+        "AI",
+        "資料中心",
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f60cc6d7c140e6ec299d",
+    "article": {
+      "title": "2027 年全球資料中心新增產能將翻倍，瓶頸再度轉回半導體晶片與記憶體",
+      "url": "https://finance.technews.tw/2026/10/20/global-data-center-capacity-will-double-by-2027/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-20T08:10:26+00:00",
+      "short_snippet": "研調機構 SemiAnalysis 最新發布的報告指出，全球人工智慧（AI）基礎設施建設將在 2027 年邁入 […]",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-fcd2b7f332c8ac18bdf1",
+    "article": {
+      "title": "開源 Adobe 仿製軟體成功移植 Android，Googlebook 桌面級應用程式可望提早到位",
+      "url": "https://technews.tw/2026/10/20/your-googlebook-could-run-real-desktop-apps-sooner-than-you-think/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-20T08:00:28+00:00",
+      "short_snippet": "GitHub 開發者 MostafaXS1 推出 artcraft-android 工具，將 ArtCraft […]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0de203fa8df71c85cb5e",
+    "article": {
+      "title": "Synaptics 攜手 Google 打造 AI 開發板！DigiKey 獨家供應",
+      "url": "https://technews.tw/2026/10/20/synaptics_coralboard_digikey/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-20T07:38:59+00:00",
+      "short_snippet": "全球領先的電子元件與自動化產品經銷商 DigiKey，獨家經銷新推出的 Coralboard™。這款開發者即用 […]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-9b5ec39f06181a48714f",
+    "article": {
+      "title": "基富通 10 週年推好好安養信託！多頭總司令張錫喊台積電 5,000 元",
+      "url": "https://finance.technews.tw/2026/10/20/take-good-care-of-yourself/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-20T07:36:10+00:00",
+      "short_snippet": "基富通今日慶祝營運屆滿 10 週年，攜手華南銀行推出「好好安養信託」，藉由基金投資不中斷、信託專款專用、資產保 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ce60c39015a1413b9847",
+    "article": {
+      "title": "AI 基建需求狂飆！OCP 設備市場 2030 年挑戰 9,000 億美元",
+      "url": "https://technews.tw/2026/10/20/ai-infrastructure-demand-ocp-equipment-market-challenge-900-billion-2030/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-20T07:35:39+00:00",
+      "short_snippet": "隨著人工智慧（AI）基礎設施投資持續擴大，開放運算計畫（OCP）相關設備市場規模大幅上修。OCP 基金會公布最 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3f5c8b4126e277bf344b",
+    "article": {
+      "title": "輝達發表矽中介層光學封裝原型晶片，布局 2028 年 Feynman 平台",
+      "url": "https://finance.technews.tw/2026/10/20/nvidia-unveils-prototype-silicon-interposer-optical-packaging-chip/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-20T07:30:06+00:00",
+      "short_snippet": "在 SEMICON West 2026 大會上，輝達(NVIDIA) 以「下一代 AI 之光學整合」（Opti […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-db0e5913b38746478eb3",
+    "article": {
+      "title": "紅牛採納 AI「讓位」建議避開判罰，助維斯塔潘奪 2025 年 F1 義大利大獎賽冠軍",
+      "url": "https://technews.tw/2026/10/20/red-bull-reveals-ai-role-in-verstappens-2025-italian-gp-strategy/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-20T06:50:53+00:00",
+      "short_snippet": "紅牛車隊（Red Bull Racing）技術合作主管受訪表示，與甲骨文（Oracle）共同開發的 AI 策略 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ea64200fd1312d52b548",
+    "article": {
+      "title": "AI 盡頭是資源！貝萊德「金礦雙星」009834、009835 自 11/9 開募",
+      "url": "https://finance.technews.tw/2026/10/20/gold-mine-twins/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-20T06:48:47+00:00",
+      "short_snippet": "貝萊德投信今日宣布推出「貝萊德 iShares 安碩世界黃金礦業 ETF 傘型基金」，旗下包含「貝萊德 iSh […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-32044dea29d718f88055",
+    "article": {
+      "title": "亞馬遜狂掃輝達 GB300 導致現金流轉負，AI 豪賭今年資本支出上看 2 千億美元",
+      "url": "https://finance.technews.tw/2026/10/20/amazons-ai-infrastructure-spending-soars-resulting-in-negative-cash-flow/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-20T06:30:31+00:00",
+      "short_snippet": "亞馬遜為搶進人工智慧基礎設施，以前所未見的速度投入資料中心與伺服器設備，卻也讓現金流承受明顯壓力。外媒引述會議 […]",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-4bf221b497d6c8d7edf6",
+    "article": {
+      "title": "玉山證券全新 APP 首創客製化！一頁解決台美日股與零股交易",
+      "url": "https://finance.technews.tw/2026/10/20/taiwan-us-and-japanese-stock/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-20T06:14:50+00:00",
+      "short_snippet": "台股 5 萬點大關前高檔震盪，玉山證券近日宣布推出全新 APP，整合看盤、交易、庫存管理與自助服務，透過單一平 […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-9da0566be33af2d83761",
+    "article": {
+      "title": "不讓任何國家被 AI 拋下，韓國推動「全球 AI 基本社會」",
+      "url": "https://technews.tw/2026/10/20/finance-minister-pledges-support-for-global-ai-basic-society/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-20T06:10:23+00:00",
+      "short_snippet": "韓國財政部長李炯日（Lee Hyoung-il）於 10 月 20 日在首爾表示，韓國將致力於推動建立一個讓各 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-23ab582b035629449858",
+    "article": {
+      "title": "AI 資料中心用電需求攀升，能源白皮書揭接電、儲能與能源調度三大挑戰",
+      "url": "https://technews.tw/2026/10/20/ai-data-center-power-demand-soars-energy-white-paper-reveals-three-major-challenges-grid-connection-energy-storage-power-dispatch/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-20T06:08:46+00:00",
+      "short_snippet": "隨著 AI 資料中心（AIDC）快速擴張，電力供應與能源管理成為產業發展重要課題。新能源與碳市場資訊平台 RE […]",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
   }
 ]
