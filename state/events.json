@@ -17979,5 +17979,437 @@
         "Big Tech"
       ]
     }
+  },
+  {
+    "event_id": "evt-df8d239573c0553a5d94",
+    "article": {
+      "title": "New bidding and budgeting tools can transform your upcoming holiday ad strategy.",
+      "url": "https://blog.google/products/ads-commerce/holiday-shopping-bidding-budgeting/",
+      "source": "官方：Google",
+      "published_at": "2026-10-21T13:00:00+00:00",
+      "short_snippet": "Get actionable insights on bidding and budgeting tools in the latest episode of Google's \"Ads Decoded\" podcast.",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6822fece1c79cc899786",
+    "article": {
+      "title": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents",
+      "url": "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/",
+      "source": "官方：NVIDIA",
+      "published_at": "2026-10-21T10:50:37+00:00",
+      "short_snippet": "At GTC Berlin, NVIDIA is showcasing its full lineup of local AI hardware. RTX Spark, which launched last week, powers personal agents on Windows PCs; DGX Spark supports developers building and scaling applications on Linux; and DGX Station serves enterprise teams running frontier workloads on Linux, with a Windows version arriving in December. Announcements include: […]",
+      "tags": [
+        "AI",
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-653d201e892868835018",
+    "article": {
+      "title": "Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure",
+      "url": "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/",
+      "source": "官方：NVIDIA",
+      "published_at": "2026-10-21T10:45:17+00:00",
+      "short_snippet": "General availability of the instances is coming next month, with planned expansion of availability to Europe — bringing an integrated platform for training, inference and large-scale reinforcement learning to cloud customers. A5X instances bring together NVIDIA Vera Rubin NVL72, NVIDIA ConnectX-9 SuperNICs, Google Cloud Virgo Network and Google Cloud’s fourth-generation advanced liquid-cooling tec",
+      "tags": [
+        "半導體",
+        "資料中心",
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-cb2d9eae775325ba2d47",
+    "article": {
+      "title": "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents",
+      "url": "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/",
+      "source": "官方：NVIDIA",
+      "published_at": "2026-10-21T10:30:41+00:00",
+      "short_snippet": "Demand from AI-natives is pulling the European AI cloud ecosystem forward faster than ever. Developers need compute closer to their data, open models they can customize and serve at scale, and full-stack infrastructure that is secure by design. NVIDIA Cloud Partners across Europe, the Nordics, Africa, and Central Asia are expanding regional compute capacity for […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ca37162b222176ea5f9c",
+    "article": {
+      "title": "Europe’s Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA",
+      "url": "https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/",
+      "source": "官方：NVIDIA",
+      "published_at": "2026-10-21T10:30:40+00:00",
+      "short_snippet": "To increase productivity, accelerate innovation and create new opportunities for economic growth, Europe’s industrial leaders are tapping NVIDIA CUDA-X and Omniverse libraries, as well as NVIDIA Cosmos and Nemotron open models, across the engineering and manufacturing lifecycle. Bringing those capabilities together on the factory floor, the NVIDIA Factory Operations Blueprint (FOX) is now availabl",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-8860c6bfedf824046aa3",
+    "article": {
+      "title": "NVIDIA cuDSS Now Generally Available to Accelerate Engineering and Scientific Simulations",
+      "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
+      "source": "官方：NVIDIA",
+      "published_at": "2026-10-21T10:30:25+00:00",
+      "short_snippet": "NVIDIA cuDSS, launched today in general availability, is an NVIDIA CUDA-X library that shifts a critical part of engineering and scientific simulations onto GPUs. Complex engineering feats — from advanced chips to aircraft to industrial systems —– depend on simulation to predict how designs will perform before they’re built. As designs become more complex, simulations […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ab1f29b681fe09cc1e44",
+    "article": {
+      "title": "NVIDIA Confidential Computing Expands, Enabling Frontier Model Builders to Securely Scale Across Global Infrastructure",
+      "url": "https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure/",
+      "source": "官方：NVIDIA",
+      "published_at": "2026-10-21T10:30:02+00:00",
+      "short_snippet": "NVIDIA builds tools to enable safe agents across the stack. The NVIDIA OpenShell Reference Architecture, announced today, is part of NVIDIA’s growing portfolio of technologies that enables organizations to safely deploy agents at scale. NVIDIA Confidential Computing is the infrastructure layer that protects the models and data those agents depend on while running. Today, NVIDIA […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f17b97a4336d6686950a",
+    "article": {
+      "title": "European Leaders Turn to NVIDIA Vera CPUs to Build Local Infrastructure",
+      "url": "https://blogs.nvidia.com/blog/european-leaders-vera-cpu-infrastructure/",
+      "source": "官方：NVIDIA",
+      "published_at": "2026-10-20T10:30:11+00:00",
+      "short_snippet": "Nebius and Nscale are among global technology partners looking to NVIDIA Vera CPUs to build the next wave of infrastructure. Their momentum reflects rapid advancements in agentic computing. Agents do more than generate answers: they retrieve information, run software tools, execute code and evaluate results. Each step depends on fast CPU processing. Vera accelerates that […]",
+      "tags": [
+        "AI",
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-df560efb726ff448ef6c",
+    "article": {
+      "title": "Conversational Gemini navigation comes to Apple CarPlay",
+      "url": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
+      "source": "The Verge",
+      "published_at": "2026-10-21T15:00:00+00:00",
+      "short_snippet": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\" according to Google (we've asked for specific regional availability details). It's taken almost 12 months for Google to bring […]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e53ea895e3cf8caa6a3e",
+    "article": {
+      "title": "Apple says it only has ‘limited’ iPhone Duo units for in-store sales",
+      "url": "https://www.theverge.com/tech/1015372/apple-says-it-only-has-limited-iphone-duo-units-for-in-store-sales",
+      "source": "The Verge",
+      "published_at": "2026-10-21T14:22:59+00:00",
+      "short_snippet": "Apple says it will have \"limited\" iPhone Duo models for sale in stores, according to a report from Reuters. The iPhone Duo launches on Friday, October 23rd, but online preorders quickly sold out, with some delivery estimates extending into next year. \"On Friday morning, our teams look forward ​to welcoming customers at Apple Stores to […]",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d3cfd32f4a85096b8bfe",
+    "article": {
+      "title": "Blink brings 4K to its low-cost security camera lineup",
+      "url": "https://www.theverge.com/tech/1015238/amazon-blink-4k-trail-security-camera-launch",
+      "source": "The Verge",
+      "published_at": "2026-10-21T14:00:00+00:00",
+      "short_snippet": "Amazon is launching a new lineup of Blink security cameras, including its first 4K, pan-tilt models, and battery-powered spotlight models. These new additions provide better resolution and extended range for monitoring your property compared to Blink's current Mini 2K, Mini 2K Plus, and Outdoor 2K Plus offerings, with a variety of different specializations to best […]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d1522e8a045efce36f40",
+    "article": {
+      "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+      "source": "The Verge",
+      "published_at": "2026-10-21T13:57:43+00:00",
+      "short_snippet": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then lied about it. \"The reference didn't configure a monitor, and Astra decided that was reason […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b779f53d27162a3605dd",
+    "article": {
+      "title": "Now Serato DJ works on your iPhone",
+      "url": "https://www.theverge.com/tech/1015319/serato-dj-for-ios",
+      "source": "The Verge",
+      "published_at": "2026-10-21T13:51:31+00:00",
+      "short_snippet": "Serato DJ for iOS is finally bringing the company's pro-level DJ suite to the iPhone and iPad. Until now, the company had only dipped its toes into mobile software, with apps like Pyro that basically just added some autofades between songs in a playlist. This is the first time most of the features of its […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-add9878a3886dd5d78e7",
+    "article": {
+      "title": "Nvidia’s latest GPU driver brings a new way to speed up PC games",
+      "url": "https://www.theverge.com/news/1015299/nvidia-driver-microsoft-advanced-shader-delivery-support",
+      "source": "The Verge",
+      "published_at": "2026-10-21T13:09:26+00:00",
+      "short_snippet": "Nvidia is rolling out a new GPU driver today (621.01) that enables Microsoft's new Advanced Shader Delivery technology to speed up game launches. The technology also removes mid-game \"just-in-time\" shader compilation, reducing stuttering and CPU spikes. Microsoft's Advanced Shader Delivery works by offloading shader compilation for different hardware combinations to the cloud. \"Using DirectX 12, [",
+      "tags": [
+        "半導體",
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-defb9b430a53fb1794d8",
+    "article": {
+      "title": "I reviewed the iPhone Duo, ask me anything",
+      "url": "https://www.theverge.com/tech/1014316/iphone-duo-review-ama",
+      "source": "The Verge",
+      "published_at": "2026-10-21T12:15:00+00:00",
+      "short_snippet": "I'm The Verge's senior smartphone reviewer and I've been using the iPhone Duo for the past week. I've unfolded it, flipped it, and folded it more times than I could count as I've been working on the review alongside our editor-in-chief Nilay Patel, and I'm ready to answer your questions about it. The Duo represents […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f60def85f2621cb10c04",
+    "article": {
+      "title": "Spotify is busting free of CarPlay with the launch of its first native car app",
+      "url": "https://www.theverge.com/entertainment/1014261/spotify-native-car-app-audi-android-automotive-carplay",
+      "source": "The Verge",
+      "published_at": "2026-10-21T12:00:00+00:00",
+      "short_snippet": "Spotify announced Wednesday the launch of its next-generation, fully native in-car app, built directly on Google's Android Automotive operating system. The standalone app, which is launching today in select Audi models, runs directly on the vehicle's infotainment hardware - eliminating the need for phone tethering, Bluetooth connections, or aux cables. It's the clearest sign yet […]",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5338918e761a4327540e",
+    "article": {
+      "title": "I can’t get enough of the iPhone Duo’s matte inner display",
+      "url": "https://www.theverge.com/tech/1014709/iphone-duo-inner-screen-nano-texture-matte",
+      "source": "The Verge",
+      "published_at": "2026-10-21T12:00:00+00:00",
+      "short_snippet": "The iPhone Duo has all the messiness of a first-gen product. And while I'm not sure I love all of the decisions Apple made around its design, it got one thing right: the matte finish on the inner screen. I've been using it for the past week to watch movies on a plane, peruse my […]",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0ee0bcbd9c4854fb09f8",
+    "article": {
+      "title": "Micron reaches deal with Taiwan union to introduce quarterly profit bonuses in FY27",
+      "url": "https://www.digitimes.com/news/a20261021PD258/micron-taiwan-profit-labor-performance.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-21T11:24:45+00:00",
+      "short_snippet": "Micron Technology's labor dispute in Taiwan appears set for resolution after its Taichung union signed a labor-management agreement with the company and withdrew from the mediation session scheduled for October 22. According to an internal email circulated by employees, Micron will introduce quarterly profit-sharing bonuses based on employee level in fiscal year 2027. The plan will cover employees",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6692b845a278d22d3ef8",
+    "article": {
+      "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
+      "url": "https://news.ycombinator.com/item?id=50181175",
+      "source": "Hacker News",
+      "published_at": "2026-10-21T14:03:43+00:00",
+      "short_snippet": "https://patchtheplanet.org/ Comments URL: https://news.ycombinator.com/item?id=50181175 Points: 76 # Comments: 35",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-77cc451180257922a1de",
+    "article": {
+      "title": "The No Kings Takedown Is Why You Shouldn't Rent Your Megaphone from Zuck",
+      "url": "https://news.ycombinator.com/item?id=50181137",
+      "source": "Hacker News",
+      "published_at": "2026-10-21T14:01:25+00:00",
+      "short_snippet": "Article URL: https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/ Comments URL: https://news.ycombinator.com/item?id=50181137 Points: 150 # Comments: 85",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3e0804c196a1075d36b1",
+    "article": {
+      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+      "url": "https://news.ycombinator.com/item?id=50181114",
+      "source": "Hacker News",
+      "published_at": "2026-10-21T14:00:26+00:00",
+      "short_snippet": "Article URL: https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/ Comments URL: https://news.ycombinator.com/item?id=50181114 Points: 19 # Comments: 5",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-647d92afd672161cf6b9",
+    "article": {
+      "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+      "url": "https://news.ycombinator.com/item?id=50180836",
+      "source": "Hacker News",
+      "published_at": "2026-10-21T13:43:19+00:00",
+      "short_snippet": "Article URL: https://www.wiz.io/blog/php2shell-php-rce Comments URL: https://news.ycombinator.com/item?id=50180836 Points: 210 # Comments: 54",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-fee791991a8c53d38ed0",
+    "article": {
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "url": "https://news.ycombinator.com/item?id=50180752",
+      "source": "Hacker News",
+      "published_at": "2026-10-21T13:37:00+00:00",
+      "short_snippet": "Article URL: https://openai.com/index/scaling-ai-research-for-complex-biological-data/ Comments URL: https://news.ycombinator.com/item?id=50180752 Points: 16 # Comments: 0 https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-45548f467a60a744eb8b",
+    "article": {
+      "title": "LayerFS: The filesystem for AI coding agents",
+      "url": "https://news.ycombinator.com/item?id=50179857",
+      "source": "Hacker News",
+      "published_at": "2026-10-21T12:34:46+00:00",
+      "short_snippet": "Article URL: https://layerfs.ai/ Comments URL: https://news.ycombinator.com/item?id=50179857 Points: 42 # Comments: 22",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a6f400c03e6f1cc71682",
+    "article": {
+      "title": "Anthropic posts staggering $80.7 billion net loss in first half of 2026 as IPO approaches",
+      "url": "https://www.reddit.com/r/technology/comments/1xbjr1n/anthropic_posts_staggering_807_billion_net_loss/",
+      "source": "Reddit",
+      "published_at": "2026-10-21T10:42:38+00:00",
+      "short_snippet": "submitted by /u/boppinmule [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-2062d7752220880315ee",
+    "article": {
+      "title": "Most Americans say AI is bad for society, oppose more data centers: ABC/Post/Ipsos poll",
+      "url": "https://www.reddit.com/r/technology/comments/1xblhk8/most_americans_say_ai_is_bad_for_society_oppose/",
+      "source": "Reddit",
+      "published_at": "2026-10-21T12:13:34+00:00",
+      "short_snippet": "submitted by /u/Wagamaga [link] [comments]",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0d85c52158e0fe3dc66d",
+    "article": {
+      "title": "Citadel's Ken Griffin says investors are \"almost certainly\" in an AI bubble",
+      "url": "https://www.reddit.com/r/technology/comments/1xbovys/citadels_ken_griffin_says_investors_are_almost/",
+      "source": "Reddit",
+      "published_at": "2026-10-21T14:36:03+00:00",
+      "short_snippet": "submitted by /u/Miserable_Phase_2519 [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-370fe42b34f59ff07ad1",
+    "article": {
+      "title": "Multiple websites could go dark as critical PHP flaws spark global cyber alert",
+      "url": "https://www.reddit.com/r/technology/comments/1xbosc2/multiple_websites_could_go_dark_as_critical_php/",
+      "source": "Reddit",
+      "published_at": "2026-10-21T14:32:14+00:00",
+      "short_snippet": "submitted by /u/low-skills [link] [comments]",
+      "tags": [
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-29d582c291ca57e003b8",
+    "article": {
+      "title": "AI Just Found a Bug That Puts Up to 70% of the World’s Websites at Risk",
+      "url": "https://www.reddit.com/r/technology/comments/1xbon1e/ai_just_found_a_bug_that_puts_up_to_70_of_the/",
+      "source": "Reddit",
+      "published_at": "2026-10-21T14:26:35+00:00",
+      "short_snippet": "submitted by /u/vgsa [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5c32755a71da49edb4fe",
+    "article": {
+      "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+      "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
+      "source": "官方：Hugging Face",
+      "published_at": "2026-10-21T12:51:24+00:00",
+      "short_snippet": "",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-342667939f1be869198c",
+    "article": {
+      "title": "輝達砸大錢布局供應鏈戰略，點名台灣、日本、南韓多家供應鏈廠商受惠",
+      "url": "https://finance.technews.tw/2026/10/21/nvidia-invests-heavily-in-its-supply-chain-strategy/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-21T12:50:06+00:00",
+      "short_snippet": "輝達（NVIDIA）於 21 日正式宣布，與全球多家核心供應鏈合作夥伴達成大規模擴產計畫，以擴展全球製造能力， […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-43b278cbdaa30fc1e14b",
+    "article": {
+      "title": "川普揭 15 億美元晶片生產回流計畫，商務部長嫌在台灣製造太遠了",
+      "url": "https://finance.technews.tw/2026/10/21/trump-1-5-billion-chip-reshoring-commerce-secretary-taiwan-manufacturing-too-far/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-21T10:40:41+00:00",
+      "short_snippet": "美國總統川普 20 日宣布，戰爭部將投資 15 億美元，在北卡羅來納州擴大半導體生產。商務部長盧特尼克則點名台 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
   }
 ]
