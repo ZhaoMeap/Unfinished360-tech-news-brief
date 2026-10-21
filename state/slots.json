@@ -2760,6 +2760,18 @@
           "status": "目前無法取得（介面保留，尚未接入 API）"
         }
       ]
+    },
+    "daily-2026-10-21-0917": {
+      "scheduled_slot_id": "daily-2026-10-21-0917",
+      "scheduled_at_utc": "2026-10-21T01:17:00+00:00",
+      "actual_started_at_utc": "2026-10-21T05:17:27.904278+00:00",
+      "completed_at_utc": null,
+      "status": "running",
+      "catch_up": true,
+      "run_id": "39548690133",
+      "output_file": null,
+      "attempts": 1,
+      "previous_attempts": []
     }
   }
 }
