@@ -23049,5 +23049,358 @@
         "AI"
       ]
     }
+  },
+  {
+    "event_id": "evt-2135f808df95a7671566",
+    "article": {
+      "title": "People are vibe coding their way to better TVs",
+      "url": "https://www.theverge.com/tech/1016116/vibe-coding-tv-os",
+      "source": "The Verge",
+      "published_at": "2026-10-23T13:00:00+00:00",
+      "short_snippet": "Vibe coding has reached TVs. Social media is awash with posts from people using LLMs and open-source tools to remove ads and tracking, trim bloat so the OS runs faster, and even completely change the look and organization of their homescreens. While a lot of it is fun - one user turned their TV homescreen […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-46115be1f0eb7daedf52",
+    "article": {
+      "title": "Brick’s new app blocker is designed for bedtime doomscrolling",
+      "url": "https://www.theverge.com/gadgets/1017383/brick-night-app-blocker-gadget-bluetooth-launch",
+      "source": "The Verge",
+      "published_at": "2026-10-23T12:50:17+00:00",
+      "short_snippet": "Brick, the company behind the $59 gadget that blocks you from using apps on your phone, has launched a new device that's designed to help you cut back on doomscrolling in bed. The $129 Brick Night introduces a location-based element: instead of requiring you to tap your phone against the device, like the OG Brick, […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6d4b26a2ed4a871609dc",
+    "article": {
+      "title": "Retro gaming is being overrun with AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+      "source": "The Verge",
+      "published_at": "2026-10-23T12:00:00+00:00",
+      "short_snippet": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past month or so, these kinds of unexpected projects have gone viral with incredible frequency thanks to new AI tools, as […]",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-4a933e9510002fd4570b",
+    "article": {
+      "title": "Startup equips genetically enhanced dogs with Palmer Luckey’s military tech",
+      "url": "https://www.theverge.com/tech/1017343/warhound-palmer-luckey-anduril-colossal-war-dogs",
+      "source": "The Verge",
+      "published_at": "2026-10-23T10:58:03+00:00",
+      "short_snippet": "A new Texas-based defense startup has a plan to improve military and police dogs in the US: it's going to genetically modify them and equip them with Anduril's military technology. Warhound is the brainchild of Anduril's Palmer Luckey and Ben Lamm, co-founder of Colossal Biosciences (the company that says it's trying to resurrect extinct animals), […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c247f83c7fbf3211a9b3",
+    "article": {
+      "title": "No, the iPhone Duo isn’t a small phone",
+      "url": "https://www.theverge.com/tech/1017090/iphone-duo-screen-size-mini",
+      "source": "The Verge",
+      "published_at": "2026-10-23T10:00:00+00:00",
+      "short_snippet": "When we published our review of the iPhone Duo, I got a lot of hopeful questions from my fellow Mini fans who took note of the cover screen's Mini-ish 5.4-inch size. \"Is this… a small phone that turns into a tablet?\" they asked. And I'm sorry to be the bearer of bad news, but no. […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-15e3e8a054f4b000c0d7",
+    "article": {
+      "title": "Doosan Robotics targets automakers, chipmakers as Chinese rivals cut prices",
+      "url": "https://www.digitimes.com/news/a20261023VL222/doosan-sales-robot-2026-automotive.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-23T08:59:00+00:00",
+      "short_snippet": "Doosan Robotics is focusing its sales efforts on large automotive and semiconductor manufacturers as it develops AI-powered systems capable of handling more complex factory tasks, Hyeonchang Jeon, senior manager of the company's Korea sales team, said in an interview with DIGITIMES at FIX 2026 in Daegu, South Korea.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e709016998208be663c6",
+    "article": {
+      "title": "Taiwan's inaugural semiconductor strike pauses as nearly 70% of Micron Taoyuan Union rejects new bonus offer",
+      "url": "https://www.digitimes.com/news/a20261023PD239/strike-taiwan-micron-management-2026.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-23T08:43:34+00:00",
+      "short_snippet": "Taiwan's first-ever strike in the semiconductor industry has temporarily drawn to a close. A 24-hour warning strike spearheaded by Micron Technology's Taoyuan union concluded on the morning of October 23, 2026. During the action, an internal ballot saw nearly 70% of all union members sign statements opposing management's proposed compensation structure. Formal labor-management negotiations are set",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-798a5ff4c0af161d0a1d",
+    "article": {
+      "title": "Semco's 61-week MLCC lead times give suppliers upper hand in AI supply chain",
+      "url": "https://www.digitimes.com/news/a20261023VL202/semco-mlcc-ai-server-2027-demand.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-23T08:25:50+00:00",
+      "short_snippet": "Samsung Electro-Mechanics (Semco) is gaining pricing power as AI server demand extends multilayer ceramic capacitor (MLCC) lead times beyond a year. Shortages now span consumer, automotive and industrial products, prompting customers to secure 2027 supplies.",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-151d2c47bd436493db24",
+    "article": {
+      "title": "Lenovo mounts AI comeback with Nvidia Vera Rubin NVL72 deliveries and US plant expansion",
+      "url": "https://www.digitimes.com/news/a20261023PD225/lenovo-nvidia-infrastructure-rubin-manufacturing.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-23T08:03:44+00:00",
+      "short_snippet": "More than 30 years ago, Lenovo set out with a vision to bring personal computers into every household. Today, Chairman and CEO Yuanqing Yang has defined a new mission for the 42-year-old tech giant: bring artificial intelligence to every home and industry, while transforming Lenovo into an AI-native enterprise targeting over US$100 billion in annual revenue within two years.",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-95d9e2982dbeedf7d6a1",
+    "article": {
+      "title": "Chinese luxury carmakers face barriers in Europe's premium market",
+      "url": "https://www.digitimes.com/news/a20261023PD209/europe-market-sales-automakers-financing.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-23T07:35:00+00:00",
+      "short_snippet": "Chinese luxury carmakers are expanding in Europe but face barriers that differ from those in China. Brand recognition, sales and repair networks, financing, leasing, and used-car values could slow progress, while established German manufacturers retain most of Europe's premium market. The Chinese carmakers' efforts will test whether technology can overcome entrenched expectations.",
+      "tags": [
+        "資料中心",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-22183f315f5f9fe49013",
+    "article": {
+      "title": "Japan targets 2nm medical AI chip with IBM design, Rapidus eyed for foundry",
+      "url": "https://www.digitimes.com/news/a20261023PD230/medical-2nm-ibm-rapidus-design.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-23T07:22:37+00:00",
+      "short_snippet": "Japan's Leading-edge Semiconductor Technology Center (LSTC), Hokkaido University, Fujifilm Corporation, GE HealthCare Japan, and imec announced a joint initiative in Tokyo on October 20 to develop a next-generation medical imaging system powered by a dedicated 2nm AI inference chip. The initiative aims to dramatically accelerate image processing efficiency and enable real-time computing directly o",
+      "tags": [
+        "AI",
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-075e5acc9c007fc75acc",
+    "article": {
+      "title": "Nvidia B300 chips reportedly surface on China Telecom-linked network, raising export-control questions",
+      "url": "https://www.digitimes.com/news/a20261023VL220/nvidia-chips-security-blackwell-china-telecom.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-23T07:17:12+00:00",
+      "short_snippet": "Israeli security firm Lava identified 32 Nvidia Blackwell Ultra B300 GPUs through monitoring endpoints linked to China Telecom, a state-owned carrier. The chips are barred from sale to China under US export controls. The finding adds to questions about whether the restrictions can keep advanced AI processors out of the country, but the network data does not establish where the GPUs are physically ",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5e9b1ef3f53d30531fab",
+    "article": {
+      "title": "First chip-level device on the list: US FCC bans two devices with Huawei HiSilicon chips under new rule",
+      "url": "https://www.digitimes.com/news/a20261023PD231/fcc-hisilicon-huawei-surveillance-market.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-23T07:04:04+00:00",
+      "short_snippet": "The US Federal Communications Commission (FCC) has banned two electronic devices from entering the US market because both contain surveillance chips made by Huawei's HiSilicon. The move marks the first time the FCC has used a new rule targeting devices whose chipmakers are deemed national security risks.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c25df853280e4b69c84c",
+    "article": {
+      "title": "Phone Is About to Stop Being Yours: 70 Days Until Lockdown",
+      "url": "https://news.ycombinator.com/item?id=50208558",
+      "source": "Hacker News",
+      "published_at": "2026-10-23T13:19:42+00:00",
+      "short_snippet": "Article URL: https://keepandroidopen.org/? Comments URL: https://news.ycombinator.com/item?id=50208558 Points: 86 # Comments: 30",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3122ae7860410c52215d",
+    "article": {
+      "title": "Swedish government offices to ban ChatGPT and Claude",
+      "url": "https://news.ycombinator.com/item?id=50207405",
+      "source": "Hacker News",
+      "published_at": "2026-10-23T11:39:54+00:00",
+      "short_snippet": "Article URL: https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet Comments URL: https://news.ycombinator.com/item?id=50207405 Points: 155 # Comments: 68",
+      "tags": [
+        "AI",
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-7be3931450fe15364646",
+    "article": {
+      "title": "Dutch government had hacked into Jared Kushner's phone",
+      "url": "https://news.ycombinator.com/item?id=50206914",
+      "source": "Hacker News",
+      "published_at": "2026-10-23T10:41:32+00:00",
+      "short_snippet": "Article URL: https://twitter.com/jaredkushner/status/2113376217415958767 Comments URL: https://news.ycombinator.com/item?id=50206914 Points: 177 # Comments: 109",
+      "tags": [
+        "監管",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-7939b94af744e9384d54",
+    "article": {
+      "title": "Wolves roam into Finnish villages after Google destroys 1,300 acres of forest for AI data centers",
+      "url": "https://www.reddit.com/r/technology/comments/1xdawdy/wolves_roam_into_finnish_villages_after_google/",
+      "source": "Reddit",
+      "published_at": "2026-10-23T11:00:24+00:00",
+      "short_snippet": "submitted by /u/Miserable_Phase_2519 [link] [comments]",
+      "tags": [
+        "AI",
+        "資料中心",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-357c5f6003b86eb7a249",
+    "article": {
+      "title": "Multiple Reports Say Nvidia Manufactured the Gaming GPU Crisis by Forcing Big Tech to Stockpile Unused AI Hardware",
+      "url": "https://www.reddit.com/r/technology/comments/1xdd546/multiple_reports_say_nvidia_manufactured_the/",
+      "source": "Reddit",
+      "published_at": "2026-10-23T12:50:35+00:00",
+      "short_snippet": "submitted by /u/esporx [link] [comments]",
+      "tags": [
+        "AI",
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-83cd0312cb4bcd9056e0",
+    "article": {
+      "title": "Searches of cellphones, laptops by U.S. customs up more than 32% so far this year",
+      "url": "https://www.reddit.com/r/technology/comments/1xd8is7/searches_of_cellphones_laptops_by_us_customs_up/",
+      "source": "Reddit",
+      "published_at": "2026-10-23T08:38:13+00:00",
+      "short_snippet": "submitted by /u/Immediate-Link490 [link] [comments]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e3bd5122c969307fe832",
+    "article": {
+      "title": "Canadian politician calls on government to help BioWare employees buy the studio and run it themselves",
+      "url": "https://www.reddit.com/r/technology/comments/1xdaejp/canadian_politician_calls_on_government_to_help/",
+      "source": "Reddit",
+      "published_at": "2026-10-23T10:32:38+00:00",
+      "short_snippet": "submitted by /u/SnoozeDoggyDog [link] [comments]",
+      "tags": [
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-1c565a96433baf9cee4f",
+    "article": {
+      "title": "Microsoft is telling Xbox owners to trade in their consoles, less than a year after raising prices",
+      "url": "https://www.reddit.com/r/technology/comments/1xdcesb/microsoft_is_telling_xbox_owners_to_trade_in/",
+      "source": "Reddit",
+      "published_at": "2026-10-23T12:16:59+00:00",
+      "short_snippet": "submitted by /u/AdSpecialist6598 [link] [comments]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ea868489971ce019c240",
+    "article": {
+      "title": "Space Bunny 身分揭曉！MiniMax 公開 M3.1 Flash 428B 模型權重",
+      "url": "https://technews.tw/2026/10/23/minimax-m3-1-flash/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-23T09:40:47+00:00",
+      "short_snippet": "中國 AI 新創 MiniMax 今日在 Hugging Face 與 ModelScope 公開程式設計用大 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-1cd95df6ba497ee73312",
+    "article": {
+      "title": "年初還被要求別碰，美國太空軍將向業界徵求地月空間現成技術",
+      "url": "https://technews.tw/2026/10/23/us-space-force-is-requesting-techs-for-cislunar-space-operations/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-23T09:40:26+00:00",
+      "short_snippet": "隨著中國加快月地空間布局，美國太空軍準備發布兩項資訊請求書（RFI），尋求可迅速投入任務的商用設備與 AI 軟 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b287f8aaf8af3cd26860",
+    "article": {
+      "title": "日本擬設 AI 資安專隊，以模擬攻擊對抗 AI 網攻趨勢",
+      "url": "https://infosecu.technews.tw/2026/10/23/japan-to-reorganize-defense-research-around-ai-cyber/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-23T08:50:25+00:00",
+      "short_snippet": "日本經濟產業省今日表示，將在獨立行政法人資訊處理推進機構（IPA）11 月設置一支專門團隊，用人工智慧（AI） […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6640216004ba154bfd45",
+    "article": {
+      "title": "iPhone Duo 完美復刻任天堂 DS，摺起手機還能讓遊戲休眠",
+      "url": "https://technews.tw/2026/10/23/iphone-duo-nintendo-ds/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-23T08:29:31+00:00",
+      "short_snippet": "隨著蘋果首款摺疊手機 iPhone Duo 正式上市，第三方開發者也開始探索摺疊螢幕的不同應用方式。知名復古遊 […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ab8cb97ebb7b1d7da96a",
+    "article": {
+      "title": "576 顆 GPU 合體成一顆巨型 GPU，輝達揭露 Rubin Ultra NVL576 架構",
+      "url": "https://technews.tw/2026/10/23/nvidia-to-connect-576-rubin-ultra-gpus-using-cpo-to-create-one-giant-gpu/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-23T08:00:47+00:00",
+      "short_snippet": "輝達（NVIDIA）於 10 月 22 日的 OCP 2026 大會上進一步揭露了 Rubin Ultra 平 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
   }
 ]
