@@ -23402,5 +23402,493 @@
         "半導體"
       ]
     }
+  },
+  {
+    "event_id": "evt-6ece0bd27a6e4c88ecaf",
+    "article": {
+      "title": "iPhone Duo arrives at Apple Store locations worldwide",
+      "url": "https://www.apple.com/newsroom/2026/10/iphone-duo-arrives-at-apple-store-locations-worldwide/",
+      "source": "官方：Apple Newsroom",
+      "published_at": "2026-10-23T06:10:35+00:00",
+      "short_snippet": "On Friday, October 23, the highly anticipated iPhone Duo made its debut at Apple Store locations worldwide.",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-592724728aea0774aaa5",
+    "article": {
+      "title": "Xbox’s first chief operating officer is out after just a few months",
+      "url": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
+      "source": "The Verge",
+      "published_at": "2026-10-23T21:39:26+00:00",
+      "short_snippet": "Xbox's first chief operating officer (COO) is leaving after the new role was created just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The Verge. Chiang has been at Microsoft for 21 years, serving as the head of Minecraft before being promoted to Xbox chief […]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-806229ba7633e86b7f87",
+    "article": {
+      "title": "OpenAI now trains its frontier AI models with no internet access",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+      "source": "The Verge",
+      "published_at": "2026-10-23T21:11:07+00:00",
+      "short_snippet": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting external systems.\" OpenAI paused training its frontier […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-322f7de18e9f3f255347",
+    "article": {
+      "title": "Abandoned Popcorn Time apps had to be disabled to prevent a zombie army",
+      "url": "https://www.theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided",
+      "source": "The Verge",
+      "published_at": "2026-10-23T19:35:15+00:00",
+      "short_snippet": "Remember Popcorn Time, the app that served as an easy-to-use front end for streaming torrents of movies and TV shows? Development of the MPAA's least-favorite app of the 2010s has been abandoned for years, but the \"Netflix of Piracy\" software is still installed on millions of devices that are just waiting to join a bot […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5ef296dd6d608659c024",
+    "article": {
+      "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+      "source": "The Verge",
+      "published_at": "2026-10-23T19:32:39+00:00",
+      "short_snippet": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny. Take this one, for example, shared by Dessa lead Ragavan Thurairatnam. The conversation between […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a2ef4452d3a1fd1179da",
+    "article": {
+      "title": "Soundcore’s latest noise-crushing headphones are on sale for a new low price",
+      "url": "https://www.theverge.com/gadgets/1017667/anker-soundcore-space-2-noise-canceling-headphones-deal-sale",
+      "source": "The Verge",
+      "published_at": "2026-10-23T18:43:30+00:00",
+      "short_snippet": "My colleague John Higgins considered Soundcore’s Space One some of the best budget noise-canceling headphones you could buy when they launched in 2023 — and their successor has only improved upon their winning formula, albeit with a $30 price increase. Thankfully, the Soundcore Space 2 are currently on sale at Amazon, Best Buy, and Walmart […]",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-aca0d982eb3e7d85a21d",
+    "article": {
+      "title": "The iPhone Duo should have been an iPad",
+      "url": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
+      "source": "The Verge",
+      "published_at": "2026-10-23T17:00:18+00:00",
+      "short_snippet": "We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most popular smartphone in history. On this episode of The Vergecast, David and Nilay […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-8ea6bae4b0e70d66d6d6",
+    "article": {
+      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+      "source": "The Verge",
+      "published_at": "2026-10-23T16:52:55+00:00",
+      "short_snippet": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. While the previous […]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5f574c4efc5aaf253474",
+    "article": {
+      "title": "The first broken iPhone Duos are here",
+      "url": "https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen",
+      "source": "The Verge",
+      "published_at": "2026-10-23T16:37:03+00:00",
+      "short_snippet": "The iPhone Duo officially goes on sale today, but a few units already have broken screens. According to posts on Reddit about the affected units, the issue appears to be happening at a similar spot on all of them: Some kind of problem shows up on the inner screen along the hinge and a strange […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3cafa5cc731cda984b2d",
+    "article": {
+      "title": "Nvidia rejects near-term memory glut fears, leaves CXMT cooperation open",
+      "url": "https://www.digitimes.com/news/a20261023PD243/nvidia-cxmt-demand-technology-market.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-24T01:44:19+00:00",
+      "short_snippet": "Nvidia CEO Jensen Huang said the company did not expect memory supply to exceed demand in the coming years and remained open to working with China's ChangXin Memory Technologies (CXMT). The comments, made during the GTC Berlin conference and reported by CNBC, came as falling market valuations for memory manufacturers and new Chinese dynamic random-access memory (DRAM) developments intensified conc",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d9dd76c15a15df71cd1a",
+    "article": {
+      "title": "LGES Poland plant nears breakeven as utilization rebounds",
+      "url": "https://www.digitimes.com/news/a20261023PD204/lges-plant-poland-2026-europe.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-24T01:36:29+00:00",
+      "short_snippet": "LG Energy Solution (LGES)'s Wroclaw plant in Poland, long viewed as a major drag on the business, is nearing profitability after posting an operating loss of nearly KRW600 billion (approximately US$430 million) in 2025. A surge in European EV demand and the early conversion of some production lines to energy storage system (ESS) applications have lifted utilization, putting the plant on track to r",
+      "tags": [
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-260f4a60e72b4a6ffb15",
+    "article": {
+      "title": "Securing our frontier model training environment",
+      "url": "https://news.ycombinator.com/item?id=50214416",
+      "source": "Hacker News",
+      "published_at": "2026-10-23T19:50:56+00:00",
+      "short_snippet": "Article URL: https://openai.com/index/securing-our-frontier-model-training-environment/ Comments URL: https://news.ycombinator.com/item?id=50214416 Points: 93 # Comments: 99 https://openai.com/index/securing-our-frontier-model-training-environment/",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e6639c1ddc65382f803e",
+    "article": {
+      "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+      "url": "https://news.ycombinator.com/item?id=50214373",
+      "source": "Hacker News",
+      "published_at": "2026-10-23T19:46:38+00:00",
+      "short_snippet": "Hey everyone, Inspired by Herdr, I've built an agent multiplexer that I've been using as my daily driver for a few weeks now. I think I improved on the concept in a few ways, focusing on the ergonomics I always wished I had: I show you what the agents are up to, along with a running feed of their activity. There's also a simple shortcut (F1) to go to the next unread agent. I use multiple accounts,",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b66672d5fa106a17e8dc",
+    "article": {
+      "title": "Today, we hacked what we'd set out to hack: the iPhone",
+      "url": "https://news.ycombinator.com/item?id=50211474",
+      "source": "Hacker News",
+      "published_at": "2026-10-23T16:21:50+00:00",
+      "short_snippet": "Article URL: https://blog.calif.io/p/iphone Comments URL: https://news.ycombinator.com/item?id=50211474 Points: 794 # Comments: 526",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b898cab7e6e7798bcc8a",
+    "article": {
+      "title": "Apple Music 404 Not Found",
+      "url": "https://news.ycombinator.com/item?id=50207910",
+      "source": "Hacker News",
+      "published_at": "2026-10-23T12:28:47+00:00",
+      "short_snippet": "https://www.macrumors.com/2026/10/23/apple-music-has-a-hidde... Comments URL: https://news.ycombinator.com/item?id=50207910 Points: 664 # Comments: 210",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6c891dd096f88fafe3e2",
+    "article": {
+      "title": "Google quietly changes privacy policy so your Gmail and Photos could be used in targeted ads",
+      "url": "https://www.reddit.com/r/technology/comments/1xdpddf/google_quietly_changes_privacy_policy_so_your/",
+      "source": "Reddit",
+      "published_at": "2026-10-23T20:37:44+00:00",
+      "short_snippet": "submitted by /u/Emilia-Rose [link] [comments]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b8ebd6b68113880cdfc7",
+    "article": {
+      "title": "Cambridge Analytica's fallout is still costing Meta, this time $25 billion in New Mexico",
+      "url": "https://www.reddit.com/r/technology/comments/1xdlpex/cambridge_analyticas_fallout_is_still_costing/",
+      "source": "Reddit",
+      "published_at": "2026-10-23T18:17:26+00:00",
+      "short_snippet": "submitted by /u/AdSpecialist6598 [link] [comments]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-9cfa7561e8922beb34ef",
+    "article": {
+      "title": "Ron DeSantis Floats 'Criminal Liability' for AI Executives",
+      "url": "https://www.reddit.com/r/technology/comments/1xdlv7x/ron_desantis_floats_criminal_liability_for_ai/",
+      "source": "Reddit",
+      "published_at": "2026-10-23T18:23:32+00:00",
+      "short_snippet": "submitted by /u/Just-Grocery-2229 [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0ecbdc16baa53e27e211",
+    "article": {
+      "title": "Just Eat apologizes after AI turns food into literal potato jackets, tiger cubs & bacon soda",
+      "url": "https://www.reddit.com/r/technology/comments/1xdln5i/just_eat_apologizes_after_ai_turns_food_into/",
+      "source": "Reddit",
+      "published_at": "2026-10-23T18:15:07+00:00",
+      "short_snippet": "submitted by /u/IndicaOatmeal [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-1cfcc5d5afea1201b88b",
+    "article": {
+      "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
+      "url": "https://www.reddit.com/r/technology/comments/1xdlqzr/mark_zuckerbergs_creative_plan_to_pay_californias/",
+      "source": "Reddit",
+      "published_at": "2026-10-23T18:19:07+00:00",
+      "short_snippet": "submitted by /u/IKeepItLayingAround [link] [comments]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-abcf22a4a14544a80f93",
+    "article": {
+      "title": "OpenAI disables internet access during model training while Anthropic issues another mea culpa",
+      "url": "https://www.reddit.com/r/technology/comments/1xdwugm/openai_disables_internet_access_during_model/",
+      "source": "Reddit",
+      "published_at": "2026-10-24T02:20:40+00:00",
+      "short_snippet": "submitted by /u/sweetnsourgrapes [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6d4b26a2ed4a871609dc",
+    "article": {
+      "title": "Retro gaming is being overrun with AI",
+      "url": "https://www.reddit.com/r/technology/comments/1xdd5wo/retro_gaming_is_being_overrun_with_ai/",
+      "source": "Reddit",
+      "published_at": "2026-10-23T12:51:33+00:00",
+      "short_snippet": "submitted by /u/Federal-Block-3275 [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-1456ee151a5392db8ad4",
+    "article": {
+      "title": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 2",
+      "url": "https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-2/",
+      "source": "官方：NVIDIA Developer",
+      "published_at": "2026-10-23T17:27:52+00:00",
+      "short_snippet": "The Global Performance Tuner is a feature for automatic performance tuning released in NVIDIA TensorRT 11.1. It provides automatic, accuracy-aware and...",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-4dcd06f240ef44ca5e9c",
+    "article": {
+      "title": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 1",
+      "url": "https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-1/",
+      "source": "官方：NVIDIA Developer",
+      "published_at": "2026-10-23T17:27:35+00:00",
+      "short_snippet": "Deploying a trained neural network involves more than translating each operator into a GPU kernel. It is a compilation problem with many legitimate answers. For...",
+      "tags": [
+        "半導體",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-9794b201a214a494f024",
+    "article": {
+      "title": "Using AI Agents to Teach Robots Like Microduck to Walk in Simulation",
+      "url": "https://developer.nvidia.com/blog/using-ai-agents-to-teach-robots-like-microduck-to-walk-in-simulation/",
+      "source": "官方：NVIDIA Developer",
+      "published_at": "2026-10-23T14:58:32+00:00",
+      "short_snippet": "Teaching a robot to navigate an obstacle course requires more than a walking policy. It must perceive its surroundings, maintain balance, and adjust its actions...",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-bf6c1f5aeba5312508e1",
+    "article": {
+      "title": "v0.40.11",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.11-rc0",
+      "source": "官方：Ollama releases",
+      "published_at": "2026-10-24T00:30:13+00:00",
+      "short_snippet": "What's Changed qwen3coder: preserve literal function closing tags in parameters by @hoyyeva in #19228 launch: use allocated context for OpenCode by @hoyyeva in #19193 decision: allow empty state for vllm-d3 by @SynapShift in #19173 llama.cpp: version bump b11845 by @dhiltgen in #19250 mlxrunner: spell out symbols, numbers and links for Phonon by @jmorgan https://github.com/ollama/ollama/pull/19228",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-8c177b37ece0d145f22f",
+    "article": {
+      "title": "v0.40.10",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.10",
+      "source": "官方：Ollama releases",
+      "published_at": "2026-10-23T17:17:19+00:00",
+      "short_snippet": "NVIDIA Nemotron 3.5 Bolt E4B Nemotron 3.5 Bolt E4B is NVIDIA’s smaller, Gemma 4-based vision-language model for fast local conversations, image understanding, and tool use. It supports a 128K-token context window. The model includes a DFlash draft for speculative decoding. ollama run nemotron-3.5-bolt:e4b Full Changelog : v0.40.9...v0.40. https://github.com/ollama/ollama/compare/v0.40.9...v0.40.10",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-2e7be44a118509e46409",
+    "article": {
+      "title": "MSI XpertStation WS300 Review NVIDIA DGX Station GB300",
+      "url": "https://www.servethehome.com/msi-xpertstation-ws300-review-nvidia-dgx-station-gb300/",
+      "source": "ServeTheHome",
+      "published_at": "2026-10-23T17:00:33+00:00",
+      "short_snippet": "We take a look at the MSI XpertStation WS300, the company's top local AI solution powered by the NVIDIA DGX Station platform The post MSI XpertStation WS300 Review NVIDIA DGX Station GB300 appeared first on ServeTheHome .",
+      "tags": [
+        "AI",
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5cbee9c9024a91e8db36",
+    "article": {
+      "title": "神經網路「沒那麼難懂」，OpenAI 前研究員 2.6 萬字長文引爆學界正反論戰",
+      "url": "https://technews.tw/2026/10/24/ai-world-stunned-breakthrough-unravels-neural-network-mystery/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-24T05:00:23+00:00",
+      "short_snippet": "AI 新創公司 Goodfire 的研究員 Nick Cammarata 近期發表一篇長達 2.6 萬字的部落 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a94f36f30faa110381eb",
+    "article": {
+      "title": "AWS 產能預訂至 2028 年，亞馬遜示警電力、記憶體短缺難解",
+      "url": "https://technews.tw/2026/10/24/aws-capacity-booked-2028-amazon-warns-power-memory-shortages/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-24T03:26:55+00:00",
+      "short_snippet": "隨著 AI 基礎設施需求持續攀升，亞馬遜雲端服務（AWS）運算產能已供不應求。根據外電報導，亞馬遜執行長 An […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c3164a8b483c11c8ce73",
+    "article": {
+      "title": "AI 資料中心缺電怎麼辦？輝達從用電端下手，DSX 最高省電 30%",
+      "url": "https://technews.tw/2026/10/24/nvidia-dsx-ai-data-center-power-shortage-30-percent-savings/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-24T02:07:09+00:00",
+      "short_snippet": "隨著 AI 資料中心用電需求持續攀升，除了增加電力供應，如何從用電端提高效率也成為重要課題。輝達於德國柏林 G […]",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-54ee70cb24dff1ff8663",
+    "article": {
+      "title": "台積電明年營收能否破 8 兆？不只看輝達，更要看蘇姿丰",
+      "url": "https://technews.tw/2026/10/24/tsmc-revenue-exceed-8-trillion-next-year-nvidia-lisa-su/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-24T02:00:32+00:00",
+      "short_snippet": "未來，牽動台積電業績的指標，將不再只有輝達一枝獨秀。 台積電今年第三季的法說會，再度端出一張亮麗財報：單季淨利 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-523dde5d43a1938bcd6b",
+    "article": {
+      "title": "AI 投資疑慮未消、油價飆漲，美股三大指數全面收黑",
+      "url": "https://finance.technews.tw/2026/10/24/us-major-indices-lower-ai-doubts-oil-prices-surge/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-24T01:18:27+00:00",
+      "short_snippet": "根據外電報導，受到 AI 投資回報疑慮及中東能源供應風險影響，美股週五（23 日）三大指數全面收黑。道瓊工業指 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b700278b7f4fa4308ec8",
+    "article": {
+      "title": "輝達 AI 工廠點將！矽品 CPO 產能拚增 30 倍，欣興、京元電迎擴產爆發期",
+      "url": "https://technews.tw/2026/10/24/nvidia-names-4-supply-chain-boost-production-shipments-kyec-unimicron-spil/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-24T01:00:12+00:00",
+      "short_snippet": "輝達德國柏林 GTC 於 10 月 21 日登場，根據《財訊》雙週刊報導，輝達超大規模與高效能運算副總裁 Ia […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-095f497eec77e08d61ac",
+    "article": {
+      "title": "Wi-Fi 也能當金屬探測器用！瑞典開發 AI 系統辨識隱藏手槍，準確率達 72.5%",
+      "url": "https://technews.tw/2026/10/24/researchers-train-ai-to-detect-concealed-handguns-using-wi-fi-signals/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-24T00:45:26+00:00",
+      "short_snippet": "瑞典國防研究局（FOI）開發出名為 WiFireNet 的實驗性人工智慧系統，嘗試用 Wi-Fi 訊號變化辨識 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-735927887298dd5a9661",
+    "article": {
+      "title": "AI 成功法則：20% 靠技術、80% 靠轉型，打造對手難以複製的護城河",
+      "url": "https://finance.technews.tw/2026/10/24/rules-for-successful-ai-transformation/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-24T00:30:06+00:00",
+      "short_snippet": "企業對人工智慧（AI）的投資熱潮持續升溫。相關報告顯示，94% 的執行長表示即使短期回報不明朗，仍會持續加碼投 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-59eda1d4d73082b80c63",
+    "article": {
+      "title": "NASA 最新示警：北極海冰「冬夏雙減」結構脆化，2050 年前恐面臨夏季無冰危機",
+      "url": "https://technews.tw/2026/10/24/arctic-sea-ice-shrinking-crisis/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-23T16:00:58+00:00",
+      "short_snippet": "根據 NASA 與美國國家冰雪資料中心（NSIDC）的最新分析，北極海冰正遭遇嚴峻的氣候考驗，無論是冬季還是夏 […]",
+      "tags": [
+        "資料中心"
+      ]
+    }
   }
 ]
