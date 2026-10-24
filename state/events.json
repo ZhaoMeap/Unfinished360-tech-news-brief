@@ -23890,5 +23890,111 @@
         "資料中心"
       ]
     }
+  },
+  {
+    "event_id": "evt-14b6279d2ed04bb2bd0a",
+    "article": {
+      "title": "How Many Billions Would It Take to Hold Meta Accountable?",
+      "url": "https://www.reddit.com/r/technology/comments/1xe2yrl/how_many_billions_would_it_take_to_hold_meta/",
+      "source": "Reddit",
+      "published_at": "2026-10-24T08:09:20+00:00",
+      "short_snippet": "submitted by /u/ArgentineBeauty [link] [comments]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5c8c69a0b5ce7b50b0e7",
+    "article": {
+      "title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
+      "url": "https://www.reddit.com/r/technology/comments/1xdud7y/disney_asked_characterai_to_go_bankrupt_for_a/",
+      "source": "Reddit",
+      "published_at": "2026-10-24T00:14:16+00:00",
+      "short_snippet": "submitted by /u/Rich_Sinq [link] [comments]",
+      "tags": [
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-94b2768829bb111f2a8a",
+    "article": {
+      "title": "沒有指令的 AI 都在做什麼？MIT 虛擬島嶼實驗：它們會玩耍、推理，甚至做實驗",
+      "url": "https://technews.tw/2026/10/24/researchers-stranded-an-ai-agent-on-a-virtual-island/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-24T09:00:20+00:00",
+      "short_snippet": "麻省理工學院（MIT）計算機科學與人工智慧實驗室（CSAIL）一項研究顯示，當 AI 代理人被放進封閉的虛擬環 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-358c78d4d40933ba68e2",
+    "article": {
+      "title": "非科學家團隊靠 Claude 設計抗蠍毒蛋白質，64 小時完成、實驗驗證成功",
+      "url": "https://technews.tw/2026/10/24/ai-does-the-lab-work/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-24T08:00:32+00:00",
+      "short_snippet": "一支幾乎沒有科學背景的五人團隊，在 Anthropic 的協助下完成一項引人注目的蛋白質設計實驗：他們讓 AI […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b701414d3ede396696d0",
+    "article": {
+      "title": "AMD 玩家福音！新模組讓 Radeon 也能跑 NVIDIA DLSS，首度解鎖光線重建",
+      "url": "https://technews.tw/2026/10/24/all-dlss-features-including-ray-reconstruction-have-been-ported-to-rdna-4-and-3/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-24T07:00:10+00:00",
+      "short_snippet": "PC 模組社群再度突破 NVIDIA 專有技術的使用邊界。開發者 danielblnc 近日釋出 DLSS-N […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3c63da961ce458108e88",
+    "article": {
+      "title": "美國砸 3.89 億美元扶植功率半導體，鎖定 AI 資料中心與核融合應用",
+      "url": "https://technews.tw/2026/10/24/us-invests-389-million-boost-power-semiconductors-ai-data-centers-nuclear-fusion-applications/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-24T06:07:56+00:00",
+      "short_snippet": "美國持續擴大本土功率半導體及關鍵材料布局。美國商務部宣布，依據《晶片與科學法案》（CHIPS and Scie […]",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-385890457fa7223fb561",
+    "article": {
+      "title": "Rockwell Automation 推出 FactoryTalk Conductor，一個專為工業自動化打造的 AI 原生協同調度平台",
+      "url": "https://technews.tw/2026/10/24/rockwell-automation-launches-factorytalk-conductor-ai-native-collaborative-orchestration-platform-built-for-industrial-automation/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-24T06:00:33+00:00",
+      "short_snippet": "Rockwell Automation, Inc. 是全球最大的工業自動化與數位轉型專業公司，今日宣布推出 F […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3883ee2007af89bbbd03",
+    "article": {
+      "title": "超導類神經網路晶片通過核融合測試，每秒即時分析百萬筆電漿資料",
+      "url": "https://technews.tw/2026/10/24/covering-the-fastest-computers-in-the-world-and-the-people-who-run-them-13/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-24T06:00:30+00:00",
+      "short_snippet": "美國能源部（DOE）布魯克黑文國家實驗室（Brookhaven National Laboratory）19 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
   }
 ]
