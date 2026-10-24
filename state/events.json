@@ -23996,5 +23996,141 @@
         "半導體"
       ]
     }
+  },
+  {
+    "event_id": "evt-75902f70af5807b9ab37",
+    "article": {
+      "title": "I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop",
+      "url": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis",
+      "source": "The Verge",
+      "published_at": "2026-10-24T14:00:00+00:00",
+      "short_snippet": "It looks like the long-rumored touchscreen MacBook might actually get announced next week, and after using the Lenovo Yoga 9n for our testing of Nvidia's RTX Spark platform, it got me thinking: this is a lot of what I want from a touchscreen MacBook. Like the Apple silicon in modern MacBook Pros, RTX Spark is […]",
+      "tags": [
+        "半導體",
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0f97ec5bdb4f0fda4c7b",
+    "article": {
+      "title": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
+      "url": "https://news.ycombinator.com/item?id=50220913",
+      "source": "Hacker News",
+      "published_at": "2026-10-24T13:09:28+00:00",
+      "short_snippet": "Article URL: https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/ Comments URL: https://news.ycombinator.com/item?id=50220913 Points: 156 # Comments: 114",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-12e6a37d44e207ed1f81",
+    "article": {
+      "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+      "url": "https://news.ycombinator.com/item?id=50218633",
+      "source": "Hacker News",
+      "published_at": "2026-10-24T05:49:57+00:00",
+      "short_snippet": "Article URL: https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/ Comments URL: https://news.ycombinator.com/item?id=50218633 Points: 313 # Comments: 90",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3117d441590c04be4bfe",
+    "article": {
+      "title": "Apple Security Research Device",
+      "url": "https://news.ycombinator.com/item?id=50217903",
+      "source": "Hacker News",
+      "published_at": "2026-10-24T02:36:38+00:00",
+      "short_snippet": "Article URL: https://security.apple.com/research-device/ Comments URL: https://news.ycombinator.com/item?id=50217903 Points: 100 # Comments: 44 https://security.apple.com/research-device/",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-22a20a87d81f311fcc45",
+    "article": {
+      "title": "Texas has suspended 17 data center construction permits and shut down automated portal that rubber-stamped projects — site was left running for a month after Greg Abbott called for a pause on approvals",
+      "url": "https://www.reddit.com/r/technology/comments/1xe6hq2/texas_has_suspended_17_data_center_construction/",
+      "source": "Reddit",
+      "published_at": "2026-10-24T11:42:49+00:00",
+      "short_snippet": "submitted by /u/ArgentineBeauty [link] [comments]",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-66cd51d61659406165f7",
+    "article": {
+      "title": "OpenAI discloses four more rogue incidents involving financial, medical, and government data",
+      "url": "https://www.reddit.com/r/technology/comments/1xe6xv4/openai_discloses_four_more_rogue_incidents/",
+      "source": "Reddit",
+      "published_at": "2026-10-24T12:06:06+00:00",
+      "short_snippet": "submitted by /u/tylerthe-theatre [link] [comments]",
+      "tags": [
+        "AI",
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c3296280cc5374c0965f",
+    "article": {
+      "title": "Leaked video exposes how industrial-scale Chinese factories are dismantling RTX 5090s by the thousands to fuel AI servers — GPU die and memory desoldered and transplanted to blower designs; custom cards to Nvidia Founder",
+      "url": "https://www.reddit.com/r/technology/comments/1xe8awx/leaked_video_exposes_how_industrialscale_chinese/",
+      "source": "Reddit",
+      "published_at": "2026-10-24T13:11:43+00:00",
+      "short_snippet": "submitted by /u/Logical_Welder3467 [link] [comments]",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-13ea7ab8b637ea0121d5",
+    "article": {
+      "title": "Apple’s iPhone Duo fails JerryRigEverything’s durability test",
+      "url": "https://www.reddit.com/r/technology/comments/1xe95m4/apples_iphone_duo_fails_jerryrigeverythings/",
+      "source": "Reddit",
+      "published_at": "2026-10-24T13:49:08+00:00",
+      "short_snippet": "submitted by /u/Away_Theme1330 [link] [comments]",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-4e127fc29d04370f5a70",
+    "article": {
+      "title": "ACLU: How Data Centers Erode Civil Rights and Civil Liberties",
+      "url": "https://www.reddit.com/r/technology/comments/1xe715j/aclu_how_data_centers_erode_civil_rights_and/",
+      "source": "Reddit",
+      "published_at": "2026-10-24T12:10:31+00:00",
+      "short_snippet": "submitted by /u/hippopotapistachio [link] [comments]",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-aa1e7205700f4a5ad900",
+    "article": {
+      "title": "India's eMudhra exits website security business after flaws trigger global alarm",
+      "url": "https://www.reddit.com/r/technology/comments/1xe30gs/indias_emudhra_exits_website_security_business/",
+      "source": "Reddit",
+      "published_at": "2026-10-24T08:12:09+00:00",
+      "short_snippet": "submitted by /u/Logical_Welder3467 [link] [comments]",
+      "tags": [
+        "監管"
+      ]
+    }
   }
 ]
