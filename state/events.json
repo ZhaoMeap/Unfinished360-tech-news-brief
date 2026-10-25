@@ -24613,5 +24613,97 @@
         "AI"
       ]
     }
+  },
+  {
+    "event_id": "evt-da45c43bcc42aa3f5e2a",
+    "article": {
+      "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
+      "url": "https://news.ycombinator.com/item?id=50229587",
+      "source": "Hacker News",
+      "published_at": "2026-10-25T09:00:40+00:00",
+      "short_snippet": "Article URL: https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order Comments URL: https://news.ycombinator.com/item?id=50229587 Points: 76 # Comments: 26",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-8ea7860ac2748211cd49",
+    "article": {
+      "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
+      "url": "https://www.reddit.com/r/technology/comments/1xeuly1/abandoned_popcorn_time_app_exposed_millions_of/",
+      "source": "Reddit",
+      "published_at": "2026-10-25T06:07:05+00:00",
+      "short_snippet": "submitted by /u/ControlCAD [link] [comments]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-46616b411003fd64799d",
+    "article": {
+      "title": "Nvidia CEO Jensen Huang says a forgotten 1950s European alliance secretly secured Taiwan’s chip empire — decades later, an island hardly bigger than Maryland dominates 90% of the advanced chip market",
+      "url": "https://www.reddit.com/r/technology/comments/1xerp9g/nvidia_ceo_jensen_huang_says_a_forgotten_1950s/",
+      "source": "Reddit",
+      "published_at": "2026-10-25T03:23:22+00:00",
+      "short_snippet": "submitted by /u/Logical_Welder3467 [link] [comments]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6bba7112555035762ea6",
+    "article": {
+      "title": "AI 也會「腦腐」？研究警告：吸收過多農場文將導致 AI 推理退化且難以逆轉",
+      "url": "https://technews.tw/2026/10/25/ai-brain-rot/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-25T08:00:47+00:00",
+      "short_snippet": "德州農工大學研究團隊最新指出，大型語言模型若長期接觸大量低品質但在社群平台上高度受歡迎的內容，可能會出現類似人 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c8d3991e7dba69d45f08",
+    "article": {
+      "title": "Supermicro 攜手 Nokia，將 NVIDIA Aerial RAN Computer 解決方案引入網絡邊緣，支援低延遲 AI 服務",
+      "url": "https://technews.tw/2026/10/25/supermicro-nokia-nvidia-aerial-ran-computer/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-25T06:00:51+00:00",
+      "short_snippet": "Super Micro Computer, Inc. 是提供 AI、企業運算、儲存及 5G／邊緣全面 IT 解 […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-83a2832a1a6afa56013c",
+    "article": {
+      "title": "AI 駭客攻擊速度快人類 10 倍、日韓接連受害，台灣企業準備好了嗎？",
+      "url": "https://infosecu.technews.tw/2026/10/25/ai-hackers-attack-10x-faster-humans-japan-south-korea-victimized-taiwanese-enterprises-ready/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-25T06:00:32+00:00",
+      "short_snippet": "一個存在超過十年的開源程式語言 PHP 底層漏洞，為何迫使日本政府機關與連鎖牛丼品牌 すき 家（Sukiya） […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5597ef850b9bb693d2b7",
+    "article": {
+      "title": "越記錯越自信？MIT 揭 AI 植入假記憶真相：連專家判斷都可能扭曲",
+      "url": "https://infosecu.technews.tw/2026/10/25/ai-threatens-false-memory-implantation-crisis/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-25T06:00:03+00:00",
+      "short_snippet": "據外媒報導，麻省理工學院（MIT）科學家帕蒂·馬斯（Pattie Maes）向《華盛頓郵報》（Washingt […]",
+      "tags": [
+        "AI"
+      ]
+    }
   }
 ]
