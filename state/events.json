@@ -24705,5 +24705,139 @@
         "AI"
       ]
     }
+  },
+  {
+    "event_id": "evt-43a9cd40ee9cf342bc69",
+    "article": {
+      "title": "Google’s AI search changes upended online publishing",
+      "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+      "source": "The Verge",
+      "published_at": "2026-10-25T12:00:00+00:00",
+      "short_snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital publishing industry has relied on […]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-95633f0c7392e04ed506",
+    "article": {
+      "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
+      "url": "https://news.ycombinator.com/item?id=50229827",
+      "source": "Hacker News",
+      "published_at": "2026-10-25T09:51:17+00:00",
+      "short_snippet": "Article URL: https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html Comments URL: https://news.ycombinator.com/item?id=50229827 Points: 53 # Comments: 11",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-23f7ec2259f68f2df7ac",
+    "article": {
+      "title": "Cybersecurity bounty hunter says Samsung TVs use AI to record audio and screenshots for ads — 'Finally found a company that truly listens to its customers,' says hacker",
+      "url": "https://www.reddit.com/r/technology/comments/1xf03qh/cybersecurity_bounty_hunter_says_samsung_tvs_use/",
+      "source": "Reddit",
+      "published_at": "2026-10-25T11:35:48+00:00",
+      "short_snippet": "submitted by /u/ArgentineBeauty [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a1a0ebbe6880e03c1aaa",
+    "article": {
+      "title": "Comcast lost 144,000 broadband customers last quarter, is planning layoffs so AI agents can take over customer service",
+      "url": "https://www.reddit.com/r/technology/comments/1xf12ly/comcast_lost_144000_broadband_customers_last/",
+      "source": "Reddit",
+      "published_at": "2026-10-25T12:26:51+00:00",
+      "short_snippet": "submitted by /u/AdSpecialist6598 [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b15a74e3d41f4b4375a3",
+    "article": {
+      "title": "AI Provides ‘Zero Payoff’ to S&P 493 Outside Tech, Apollo Economist Says",
+      "url": "https://www.reddit.com/r/technology/comments/1xf23pr/ai_provides_zero_payoff_to_sp_493_outside_tech/",
+      "source": "Reddit",
+      "published_at": "2026-10-25T13:15:28+00:00",
+      "short_snippet": "submitted by /u/GuestFromBudushchego [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-252a2b5116e3e8fb8540",
+    "article": {
+      "title": "People are using AI to 'dumb down' their smart TVs. Is that a good idea?",
+      "url": "https://www.reddit.com/r/technology/comments/1xex9tg/people_are_using_ai_to_dumb_down_their_smart_tvs/",
+      "source": "Reddit",
+      "published_at": "2026-10-25T08:48:10+00:00",
+      "short_snippet": "submitted by /u/Immediate-Link490 [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c3f7670ba2671a2f5a71",
+    "article": {
+      "title": "‘Just the beginning’: New Mexico AG warns AI industry after $25B Meta ruling",
+      "url": "https://www.reddit.com/r/technology/comments/1xf15jb/just_the_beginning_new_mexico_ag_warns_ai/",
+      "source": "Reddit",
+      "published_at": "2026-10-25T12:30:51+00:00",
+      "short_snippet": "submitted by /u/Just-Grocery-2229 [link] [comments]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b3dcffe069e8a2b86ebb",
+    "article": {
+      "title": "Nvidia discusses $2,000-per-GPU annual software fee for running agents on AI infrastructure — firm already charges more than twice that amount for its AI Enterprise software platform",
+      "url": "https://www.reddit.com/r/technology/comments/1xf23xt/nvidia_discusses_2000pergpu_annual_software_fee/",
+      "source": "Reddit",
+      "published_at": "2026-10-25T13:15:43+00:00",
+      "short_snippet": "submitted by /u/Logical_Welder3467 [link] [comments]",
+      "tags": [
+        "AI",
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d0aaf4bb77349435e5e0",
+    "article": {
+      "title": "UN Presses Meta Over Manipulation in Brazil’s Election",
+      "url": "https://www.reddit.com/r/technology/comments/1xez8b6/un_presses_meta_over_manipulation_in_brazils/",
+      "source": "Reddit",
+      "published_at": "2026-10-25T10:47:08+00:00",
+      "short_snippet": "submitted by /u/LogicalDirect [link] [comments]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-88f595e99262d1b9e18e",
+    "article": {
+      "title": "Ukrainian drone attacks hammer Russia's finance ministry data center, damaged facility reportedly holds tax databases — facility also holds other important state registry data",
+      "url": "https://www.reddit.com/r/technology/comments/1xf3eb5/ukrainian_drone_attacks_hammer_russias_finance/",
+      "source": "Reddit",
+      "published_at": "2026-10-25T14:11:52+00:00",
+      "short_snippet": "submitted by /u/MarvelsGrantMan136 [link] [comments]",
+      "tags": [
+        "資料中心"
+      ]
+    }
   }
 ]
