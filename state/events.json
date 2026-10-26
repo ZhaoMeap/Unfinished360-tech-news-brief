@@ -24839,5 +24839,335 @@
         "資料中心"
       ]
     }
+  },
+  {
+    "event_id": "evt-45a0dbf0fc69bc06c09e",
+    "article": {
+      "title": "iFixit’s look inside the iPhone Duo may explain those broken screens and hinges",
+      "url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
+      "source": "The Verge",
+      "published_at": "2026-10-25T21:40:27+00:00",
+      "short_snippet": "As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen and gave it a 5/10 repairability score. That might not seem particularly high, but it's the best score the […]",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-80f9b97710bfe79204ef",
+    "article": {
+      "title": "A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate",
+      "url": "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen",
+      "source": "The Verge",
+      "published_at": "2026-10-25T20:16:19+00:00",
+      "short_snippet": "Social media and the iPhone Duo subreddit are filled with reports of Apple's foldable failing quickly and in spectacular fashion. Some users report having the phone for only a few hours before the hinge seems to catch on something, then audibly crack and break the screen. Tellingly, the cracks all seem to happen in the […]",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5511b5b15b6983c26de3",
+    "article": {
+      "title": "Zen Browser is the Arc replacement I was looking for",
+      "url": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
+      "source": "The Verge",
+      "published_at": "2026-10-25T19:24:50+00:00",
+      "short_snippet": "I know many of you are mourning the loss of the Arc browser, and I get it. It felt like the first app in a long time to really offer a new approach to browser design. Atlassian bought the company last year and shifted its focus to developing Dia, its even more AI-focused browser. And […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-8fb49a4e92d48904743c",
+    "article": {
+      "title": "Now you can watch Instagram Reels on your Apple TV",
+      "url": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
+      "source": "The Verge",
+      "published_at": "2026-10-25T16:20:17+00:00",
+      "short_snippet": "Instagram is continuing its expansion into living rooms with Instagram for TV, for Apple TV. The company first started testing a version of the platform focused on Reels, live streams, and other video content, blown up for a bigger screen in December of last year. Then, in June, it launched a slew of new features […]",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-970522b96a1d389239db",
+    "article": {
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "url": "https://news.ycombinator.com/item?id=50236102",
+      "source": "Hacker News",
+      "published_at": "2026-10-25T21:11:31+00:00",
+      "short_snippet": "Article URL: https://minimaxir.com/2026/10/cheap-llms/ Comments URL: https://news.ycombinator.com/item?id=50236102 Points: 138 # Comments: 164",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-19b0ecb51163bf2dbf3a",
+    "article": {
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "url": "https://news.ycombinator.com/item?id=50233779",
+      "source": "Hacker News",
+      "published_at": "2026-10-25T17:15:38+00:00",
+      "short_snippet": "Article URL: https://lynchlab.net/llm-skin-cancer Comments URL: https://news.ycombinator.com/item?id=50233779 Points: 429 # Comments: 205",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c1bc23dbfd4af228772c",
+    "article": {
+      "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
+      "url": "https://news.ycombinator.com/item?id=50227330",
+      "source": "Hacker News",
+      "published_at": "2026-10-25T01:30:13+00:00",
+      "short_snippet": "Hey HN, I’m open sourcing my Hurston-1 narrowband TTS model (Apache-2.0). It is very good with American English and does especially well with Southern American and Regional African English accents. Destined AI is based in Atlanta, and I built this because I’m amazed by what AI can do, and I wanted to help introduce and welcome more people to feel comfortable using and interacting with AI. Since 20",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f5ee5993b557f9c770cb",
+    "article": {
+      "title": "LG Smart TVs Caught Mapping Your Network, Logging Audio With Screen Off",
+      "url": "https://www.reddit.com/r/technology/comments/1xf9ssl/lg_smart_tvs_caught_mapping_your_network_logging/",
+      "source": "Reddit",
+      "published_at": "2026-10-25T18:26:04+00:00",
+      "short_snippet": "submitted by /u/CrapNBAappUser [link] [comments]",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c817ce6012792a034c20",
+    "article": {
+      "title": "Report says 'circular financing' shows AI bubble 'primed to pop'",
+      "url": "https://www.reddit.com/r/technology/comments/1xfejeo/report_says_circular_financing_shows_ai_bubble/",
+      "source": "Reddit",
+      "published_at": "2026-10-25T21:35:33+00:00",
+      "short_snippet": "submitted by /u/LogicalDirect [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5f7654552065a74eddef",
+    "article": {
+      "title": "Netflix Users Are Watching Less, Not Opening the App as Often",
+      "url": "https://www.reddit.com/r/technology/comments/1xf7v7j/netflix_users_are_watching_less_not_opening_the/",
+      "source": "Reddit",
+      "published_at": "2026-10-25T17:09:34+00:00",
+      "short_snippet": "submitted by /u/joe4942 [link] [comments]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-9f4da46475ff58453205",
+    "article": {
+      "title": "Anthropic's Claude accessed Georgia state vote count data behind paywall",
+      "url": "https://www.reddit.com/r/technology/comments/1xfik09/anthropics_claude_accessed_georgia_state_vote/",
+      "source": "Reddit",
+      "published_at": "2026-10-26T00:33:36+00:00",
+      "short_snippet": "submitted by /u/idkbruh653 [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-719d758d19d55a7fa85a",
+    "article": {
+      "title": "US banks have detected unvetted AI agents accessing customer bank accounts",
+      "url": "https://www.reddit.com/r/technology/comments/1xf7wgg/us_banks_have_detected_unvetted_ai_agents/",
+      "source": "Reddit",
+      "published_at": "2026-10-25T17:10:52+00:00",
+      "short_snippet": "submitted by /u/_Dark_Wing [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6f34226e1aa632196167",
+    "article": {
+      "title": "Anthropic says Mythos kept hacking even when it knew real people could get hurt",
+      "url": "https://www.reddit.com/r/technology/comments/1xfe2fp/anthropic_says_mythos_kept_hacking_even_when_it/",
+      "source": "Reddit",
+      "published_at": "2026-10-25T21:15:41+00:00",
+      "short_snippet": "submitted by /u/Just-Grocery-2229 [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-21def8408d9a0a27fe5f",
+    "article": {
+      "title": "Launched in October 2026 at $1,999, Apple’s foldable faces inner display cracks and dust ingress reports across multiple markets",
+      "url": "https://www.reddit.com/r/technology/comments/1xfirmh/launched_in_october_2026_at_1999_apples_foldable/",
+      "source": "Reddit",
+      "published_at": "2026-10-26T00:43:17+00:00",
+      "short_snippet": "submitted by /u/efap1701 [link] [comments]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ff52738ff150c8e16ce1",
+    "article": {
+      "title": "France asked ISPs to prepare temporary DNS blocks for major social media platforms",
+      "url": "https://www.reddit.com/r/technology/comments/1xf8t1m/france_asked_isps_to_prepare_temporary_dns_blocks/",
+      "source": "Reddit",
+      "published_at": "2026-10-25T17:46:39+00:00",
+      "short_snippet": "submitted by /u/LogicalDirect [link] [comments]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5bf6301d2f8ee428d6e7",
+    "article": {
+      "title": "Anthropic sued for allegedly stealing from The King",
+      "url": "https://www.reddit.com/r/technology/comments/1xfeehn/anthropic_sued_for_allegedly_stealing_from_the/",
+      "source": "Reddit",
+      "published_at": "2026-10-25T21:29:51+00:00",
+      "short_snippet": "submitted by /u/waozen [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5f7654552065a74eddef",
+    "article": {
+      "title": "Netflix users are watching less, not opening the app as often",
+      "url": "https://www.reddit.com/r/technology/comments/1xfivqc/netflix_users_are_watching_less_not_opening_the/",
+      "source": "Reddit",
+      "published_at": "2026-10-26T00:48:42+00:00",
+      "short_snippet": "submitted by /u/AdSpecialist6598 [link] [comments]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-4ee5ef68189b86395a78",
+    "article": {
+      "title": "Anthropic Sued For Stealing Elvis Presley Music to Train AI: 'Deeply Protective of These Iconic Songs'",
+      "url": "https://www.reddit.com/r/technology/comments/1xf4jxj/anthropic_sued_for_stealing_elvis_presley_music/",
+      "source": "Reddit",
+      "published_at": "2026-10-25T14:59:36+00:00",
+      "short_snippet": "submitted by /u/Just-Grocery-2229 [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-659192e508d5f379928e",
+    "article": {
+      "title": "Claude flags nearly 500 worrying open source security issues — C, Java, and Python code all at risk as one flaw wasn't spotted for 21 years",
+      "url": "https://www.reddit.com/r/technology/comments/1xfhxjz/claude_flags_nearly_500_worrying_open_source/",
+      "source": "Reddit",
+      "published_at": "2026-10-26T00:05:20+00:00",
+      "short_snippet": "submitted by /u/Logical_Welder3467 [link] [comments]",
+      "tags": [
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6d16f229fe40c89fd8a7",
+    "article": {
+      "title": "Google's privacy policy now has a loophole for using your Gmail and Photos data in ads",
+      "url": "https://www.reddit.com/r/technology/comments/1xf9bft/googles_privacy_policy_now_has_a_loophole_for/",
+      "source": "Reddit",
+      "published_at": "2026-10-25T18:06:47+00:00",
+      "short_snippet": "submitted by /u/ArgentineBeauty [link] [comments]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-8a51240c0e0c8eac7a20",
+    "article": {
+      "title": "Tech firms should pay the creators whose work they use | Technology",
+      "url": "https://www.reddit.com/r/technology/comments/1xfikdd/tech_firms_should_pay_the_creators_whose_work/",
+      "source": "Reddit",
+      "published_at": "2026-10-26T00:34:01+00:00",
+      "short_snippet": "submitted by /u/littlehavenbigsign [link] [comments]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-93b799af607d1bf7d65f",
+    "article": {
+      "title": "Aivres NVIDIA Vera Rubin and HGX B300 at OCP Summit",
+      "url": "https://www.servethehome.com/aivres-nvidia-vera-rubin-and-hgx-b300-at-ocp-summit-2026/",
+      "source": "ServeTheHome",
+      "published_at": "2026-10-25T21:51:55+00:00",
+      "short_snippet": "We check out the range of Aivres NVIDIA Vera, Vera Rubin, and Blackwell Ultra platforms at OCP Summit 2026 The post Aivres NVIDIA Vera Rubin and HGX B300 at OCP Summit appeared first on ServeTheHome .",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-8a281032e09977894b3b",
+    "article": {
+      "title": "AI 讓英文讀寫更快，企業卻更重視「開口說」的能力",
+      "url": "https://technews.tw/2026/10/26/ai-savvy-english-learners-in-japan-want-human-instructors/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-26T01:30:13+00:00",
+      "short_snippet": "日本一項最新調查顯示，隨著生成式 AI 與自動翻譯工具愈來愈普及，英語學習者與企業雖然普遍感受到 AI 在讀寫 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-00a214ee9242dff768fe",
+    "article": {
+      "title": "馬斯克喊 SpaceX 籌得 400 億美元買輝達晶片！嗆新雲端將被淘汰",
+      "url": "https://finance.technews.tw/2026/10/26/predicts-neocloud-shakeout/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-26T01:03:21+00:00",
+      "short_snippet": "全球 AI 晶片搶購潮白熱化，特斯拉執行長馬斯克（Elon Musk）週日正式宣布，旗下 SpaceX 已完成 […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-12d3bb89476f4c7d85bb",
+    "article": {
+      "title": "表現完全相同，研究：男性外觀 AI 助理薪資比女性高約 10%",
+      "url": "https://technews.tw/2026/10/26/ai-agents-reproduce-gender-pay-gap/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-26T00:30:20+00:00",
+      "short_snippet": "愛爾蘭利默瑞克大學（University of Limerick）的最新研究顯示，人類職場的性別偏見正悄悄延伸 […]",
+      "tags": [
+        "AI"
+      ]
+    }
   }
 ]
