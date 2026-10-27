@@ -27718,5 +27718,370 @@
         "產品與平台"
       ]
     }
+  },
+  {
+    "event_id": "evt-6f8ed921868106303e01",
+    "article": {
+      "title": "The platform approach to becoming Frontier",
+      "url": "https://blogs.microsoft.com/blog/2026/10/27/the-platform-approach-to-becoming-frontier/",
+      "source": "官方：Microsoft",
+      "published_at": "2026-10-27T16:01:38+00:00",
+      "short_snippet": "Last year at Ignite, we introduced the concept of Frontier Transformation and how it is different from any technology-led pursuit, because it requires us to focus on business outcomes first. It starts with a simple idea: technology was invented to serve humanity, not the other way around. There is no path where https://blogs.microsoft.com/blog/2026/10/27/the-platform-approach-to-becoming-frontier/",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d7e464add4da97a4e759",
+    "article": {
+      "title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
+      "url": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/",
+      "source": "官方：NVIDIA",
+      "published_at": "2026-10-27T15:00:20+00:00",
+      "short_snippet": "There are 57 million people worldwide living with dementia today. For the researchers working to help them, the obstacle isn’t a lack of effort — it’s too much data, too few experts to synthesize it and a pace of discovery that can’t keep up with the disease. The Consortium for Biomedical Research and AI in […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-03af1057c5bfb856a640",
+    "article": {
+      "title": "Apple introduces the new 14-inch MacBook Pro with M6",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+      "source": "官方：Apple Newsroom",
+      "published_at": "2026-10-27T12:59:39+00:00",
+      "short_snippet": "Apple today announced the new 14-inch MacBook Pro with M6, delivering more performance, powerful on-device AI capabilities, and faster connectivity.",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-960154d81ff874cbeba6",
+    "article": {
+      "title": "Apple unveils new iMac with M6",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/",
+      "source": "官方：Apple Newsroom",
+      "published_at": "2026-10-27T12:59:15+00:00",
+      "short_snippet": "Apple today announced the new iMac featuring the superfast M6, delivering even more performance and powerful AI capabilities.",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f6a5a2ea79f1441eb4d5",
+    "article": {
+      "title": "Apple Creator Studio adds powerful new AI features and even more creative tools",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/",
+      "source": "官方：Apple Newsroom",
+      "published_at": "2026-10-27T12:58:45+00:00",
+      "short_snippet": "Apple introduces updates to Apple Creator Studio, the collection of creative apps designed to put studio-grade tools into the hands of creators.",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-4e57319b6b771e50c827",
+    "article": {
+      "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+      "source": "The Verge",
+      "published_at": "2026-10-27T16:51:22+00:00",
+      "short_snippet": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6a24672b32ddd280a205",
+    "article": {
+      "title": "Meta’s $25 billion legal loss just put blood in the water",
+      "url": "https://www.theverge.com/policy/1019604/new-mexico-meta-cambridge-analytica-kids-safety-settlement",
+      "source": "The Verge",
+      "published_at": "2026-10-27T16:44:40+00:00",
+      "short_snippet": "When attorneys general from across the US announced a $17 billion settlement with Meta this summer, the sum was unprecedented. But a ruling last week by a New Mexico judge blew that number out of the water. The judge ordered Meta to pay $25 billion to resolve claims that Meta misled users around the 2018 […]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-01bdadda74d0641e1050",
+    "article": {
+      "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
+      "source": "The Verge",
+      "published_at": "2026-10-27T16:14:18+00:00",
+      "short_snippet": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your online portfolio or LinkedIn page to paste your work history into a job application. You […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-773b088116f5480889b6",
+    "article": {
+      "title": "Google’s next Genie AI model generates more realistic experiences",
+      "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+      "source": "The Verge",
+      "published_at": "2026-10-27T16:00:00+00:00",
+      "short_snippet": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.8 Flash under the hood to help […]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c09495c5bc9fbf25faa3",
+    "article": {
+      "title": "Apple’s latest AirTag is the cheapest it’s ever been",
+      "url": "https://www.theverge.com/gadgets/1019138/apple-airtag-second-gen-cricut-joy-2-printer-deal-sale",
+      "source": "The Verge",
+      "published_at": "2026-10-27T15:34:16+00:00",
+      "short_snippet": "Thanksgiving is less than a month away, so now’s a good time to start preparing before the rush. Fortunately, Apple’s latest AirTag can help you keep tabs on your luggage and other belongings amid the holiday chaos, and it’s currently down to an all-time low of $23 ($6 off) at Amazon and Walmart. If you […]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-732e51ffa7db925726e6",
+    "article": {
+      "title": "We’ve had touchscreen laptops for years. Can Apple make them better?",
+      "url": "https://www.theverge.com/tech/1019288/apple-event-la-macbook-pro-touchscreen-questions",
+      "source": "The Verge",
+      "published_at": "2026-10-27T14:00:00+00:00",
+      "short_snippet": "A fridge is about to be merged with a toaster. Dogs and cats are soon to be living together. But it's not mass hysteria; Apple is expected to finally announce a touchscreen MacBook tomorrow at its \"Pro and Tell\" event. A laptop with a touchscreen should be no big deal - we've had them for […]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-8cbeb4ddb96398b4ab11",
+    "article": {
+      "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+      "url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
+      "source": "The Verge",
+      "published_at": "2026-10-27T13:50:51+00:00",
+      "short_snippet": "Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform tasks like designing, animating, and refining slides in Keynote. In Pages, Apple says the AI assistant can draft, restructure, […]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-bc06f43d9de42918ac9d",
+    "article": {
+      "title": "Apple refreshes the iMac with M6 chips",
+      "url": "https://www.theverge.com/tech/1018467/apple-imac-m6-chip-announced-price-release",
+      "source": "The Verge",
+      "published_at": "2026-10-27T13:05:26+00:00",
+      "short_snippet": "Apple is updating the iMac with M6 chips. The new iMac generation was introduced today, giving Apple's all-in-one desktop computer a performance boost via the same chipset Apple launched with the Mac Mini in August. Prices start from $1,499, and the design otherwise appears largely unchanged. The update was announced ahead of Apple's \"Pro and […]",
+      "tags": [
+        "半導體",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e69be5ca83eaafd66070",
+    "article": {
+      "title": "'Constant surveillance is pushing us toward an authoritarian state': voters demand regulation of Flock cameras",
+      "url": "https://www.reddit.com/r/technology/comments/1xgrezg/constant_surveillance_is_pushing_us_toward_an/",
+      "source": "Reddit",
+      "published_at": "2026-10-27T12:39:22+00:00",
+      "short_snippet": "submitted by /u/Vucea [link] [comments]",
+      "tags": [
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6b53d22a3e8a1514582e",
+    "article": {
+      "title": "‘My social life completely plummeted’: gen Z is fighting back against big tech | From apps that block distractions to stripped-down phones, young people are finding ways to unplug from platforms they say profit from thei",
+      "url": "https://www.reddit.com/r/technology/comments/1xgtoj2/my_social_life_completely_plummeted_gen_z_is/",
+      "source": "Reddit",
+      "published_at": "2026-10-27T14:14:09+00:00",
+      "short_snippet": "submitted by /u/Hrmbee [link] [comments]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0668d5d045bb3754ca65",
+    "article": {
+      "title": "Microsoft And Epic Games Suddenly Agree That AI Is Theft",
+      "url": "https://www.reddit.com/r/technology/comments/1xgw83y/microsoft_and_epic_games_suddenly_agree_that_ai/",
+      "source": "Reddit",
+      "published_at": "2026-10-27T15:51:28+00:00",
+      "short_snippet": "submitted by /u/tylerthe-theatre [link] [comments]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-7afaf332abb2a5c6d753",
+    "article": {
+      "title": "The US Government Is Hiding a Secret Court Ruling About How It Spies on Americans",
+      "url": "https://www.reddit.com/r/technology/comments/1xgvhqp/the_us_government_is_hiding_a_secret_court_ruling/",
+      "source": "Reddit",
+      "published_at": "2026-10-27T15:24:24+00:00",
+      "short_snippet": "submitted by /u/Patient-Emphasis-664 [link] [comments]",
+      "tags": [
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c23847ace84f934204df",
+    "article": {
+      "title": "Apple cuts 400+ jobs, directors sacked as new CEO John Ternus swings the axe",
+      "url": "https://www.reddit.com/r/technology/comments/1xgvkud/apple_cuts_400_jobs_directors_sacked_as_new_ceo/",
+      "source": "Reddit",
+      "published_at": "2026-10-27T15:27:33+00:00",
+      "short_snippet": "submitted by /u/lurker_bee [link] [comments]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-975a2c4ad5ca7accfab7",
+    "article": {
+      "title": "Anthropic IPO gives its seven founders including Dario and Daniela Amodei new billion-dollar fortunes",
+      "url": "https://www.reddit.com/r/technology/comments/1xgssyz/anthropic_ipo_gives_its_seven_founders_including/",
+      "source": "Reddit",
+      "published_at": "2026-10-27T13:39:21+00:00",
+      "short_snippet": "submitted by /u/lurker_bee [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3187a005abda6398ab77",
+    "article": {
+      "title": "Data center gear is being hijacked in transit to the tune of hundreds of millions — grand-theft-GPU thieves hack accounts, perform hit-and-runs, spoof GPS signals, and funnel hardware to China",
+      "url": "https://www.reddit.com/r/technology/comments/1xgp7z3/data_center_gear_is_being_hijacked_in_transit_to/",
+      "source": "Reddit",
+      "published_at": "2026-10-27T10:48:20+00:00",
+      "short_snippet": "submitted by /u/ArgentineBeauty [link] [comments]",
+      "tags": [
+        "半導體",
+        "資料中心",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ea785cebd1d9cf8b5025",
+    "article": {
+      "title": "Google makes a privacy policy exception to use your Gmail and Photos data for ads",
+      "url": "https://www.reddit.com/r/technology/comments/1xgpzil/google_makes_a_privacy_policy_exception_to_use/",
+      "source": "Reddit",
+      "published_at": "2026-10-27T11:28:55+00:00",
+      "short_snippet": "submitted by /u/mepper [link] [comments]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-eb14a0bbbce94781d89a",
+    "article": {
+      "title": "Nvidia to invest $3 billion in Meta, expand partnership on Muse",
+      "url": "https://www.reddit.com/r/technology/comments/1xgrzr6/nvidia_to_invest_3_billion_in_meta_expand/",
+      "source": "Reddit",
+      "published_at": "2026-10-27T13:05:15+00:00",
+      "short_snippet": "submitted by /u/ethereal3xp [link] [comments]",
+      "tags": [
+        "半導體",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5ed14fffd1748be81239",
+    "article": {
+      "title": "Fine-Tuning NVIDIA Nemotron to Know Local Rules, Not Just Local Languages",
+      "url": "https://developer.nvidia.com/blog/fine-tuning-nvidia-nemotron-to-know-local-rules-not-just-local-languages/",
+      "source": "官方：NVIDIA Developer",
+      "published_at": "2026-10-27T16:00:00+00:00",
+      "short_snippet": "As AI adoption expands globally, people across languages and cultures are using it in more aspects of their daily lives. General-purpose language models serve...",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b836eb939c37ffa509e8",
+    "article": {
+      "title": "3 Ways to Boost MoE Inference on NVIDIA DGX Spark",
+      "url": "https://developer.nvidia.com/blog/3-ways-to-boost-moe-inference-on-nvidia-dgx-spark/",
+      "source": "官方：NVIDIA Developer",
+      "published_at": "2026-10-27T15:00:00+00:00",
+      "short_snippet": "Generating tokens faster starts with identifying what limits inference performance. In the batch-size-1 evaluation of Ling-3.0-flash from Inclusion AI on NVIDIA...",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-1d6c5c59e46e52b936cb",
+    "article": {
+      "title": "Can we trust LLMs to judge whether a research idea is novel?",
+      "url": "https://huggingface.co/blog/allenai/novelty-bench",
+      "source": "官方：Hugging Face",
+      "published_at": "2026-10-27T16:12:42+00:00",
+      "short_snippet": "",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5e25c8e2866eefd45b6a",
+    "article": {
+      "title": "蘋果創作坊也導入 OpenAI 技術，AI 助理進駐 Keynote、Pages",
+      "url": "https://technews.tw/2026/10/27/apple-creator-studio-openai/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-27T14:19:15+00:00",
+      "short_snippet": "蘋果持續擴大生成式 AI 在旗下應用程式的布局，宣布為訂閱制創作工具組合「Apple 創作坊」（Apple C […]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-8a2e578430b29a7a3782",
+    "article": {
+      "title": "蘋果 M6 iMac AI 效能最高提升 5 倍，售價 49,900 元起",
+      "url": "https://technews.tw/2026/10/27/m6-imac/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-27T14:02:46+00:00",
+      "short_snippet": "蘋果推出搭載 M6 晶片的 14 吋 MacBook Pro 後，也同步更新桌上型電腦產品線，正式發表新款 2 […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
   }
 ]
