@@ -27208,5 +27208,515 @@
         "資料中心"
       ]
     }
+  },
+  {
+    "event_id": "evt-d3ff2c1c637b4bc17271",
+    "article": {
+      "title": "Data center backlash is uniting America",
+      "url": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
+      "source": "The Verge",
+      "published_at": "2026-10-27T10:00:00+00:00",
+      "short_snippet": "If there's one issue that seems to activate all kinds of voters in 2026, it's data centers. The rapid buildout of these massive server storage facilities - and the infrastructure construction and expenses that come with them - has sparked local opposition in communities across the country and become a major issue in many congressional […]",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-7ab7175d58ff3db01951",
+    "article": {
+      "title": "Jensen and Musk both think aging GPUs are worth more than the books show",
+      "url": "https://www.digitimes.com/news/a20261027PD237/nvidia-gtc-gpu-tesla-berlin.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-27T09:35:06+00:00",
+      "short_snippet": "Speaking at GTC Berlin and on SpaceX's third-quarter 2026 earnings call, respectively, Nvidia CEO Jensen Huang and Tesla CEO Elon Musk reached a rare consensus on a pivotal topic: GPUs are no longer rapidly depreciating consumables. Instead, their effective operational lifespans far exceed initial market expectations.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-490238fa41328aaab2a9",
+    "article": {
+      "title": "Tesla sees Cybercab becoming a new growth bet amid declining auto revenue",
+      "url": "https://www.digitimes.com/news/a20261027PD241/tesla-revenue-vehicle-automotive-2026.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-27T09:29:00+00:00",
+      "short_snippet": "Tesla's automotive business weakened in the third quarter of 2026 as lower average vehicle prices and battery shortages pressured revenue and profit, while the company accelerated investment in artificial intelligence and its autonomous vehicle strategy. Total revenue was flat, automotive revenue fell 3% year-over-year to US$20.56 billion, and net income declined 4% to US$1.7 billion.",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-914b77b549bb6539c7f3",
+    "article": {
+      "title": "Australia's AI build-out hits the grid: how a delayed power line wiped out AUD3 billion",
+      "url": "https://www.digitimes.com/news/a20261027PD243/data-center-forecast-2027-revenue-development.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-27T09:25:00+00:00",
+      "short_snippet": "Australia's push to become an AI infrastructure hub for the Asia-Pacific is running into constraints that capital alone cannot solve: the last mile of grid connection, and the consent of the communities that power lines run through. That shift became clear this month when NextDC, one of the country's largest data center operators, cut its fiscal 2027 revenue forecast and reduced capital spending a",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-7d5e63953094ea09e776",
+    "article": {
+      "title": "Pat Gelsinger warns AI compute efficiency must jump 10,000x amid power, memory, and fab constraints",
+      "url": "https://www.digitimes.com/news/a20261027PD236/silicon-valley-expansion-taiwan-efficiency-wafer.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-27T09:01:32+00:00",
+      "short_snippet": "Silicon Valley venture capital firm Playground Global has returned to Taiwan alongside a cohort of portfolio companies specializing in memory, power management, optical communications, and advanced packaging to showcase joint technical breakthroughs and commercial strategies. The firm is also hosting an executive dinner with Foxconn Chairman Young Liu, highlighting their deep-seated partnership an",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f78a81694f0872d3ebfb",
+    "article": {
+      "title": "Nvidia DSX POD challenges traditional AI data center construction",
+      "url": "https://www.digitimes.com/news/a20261027PD235/nvidia-gtc-berlin-data-center-investment.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-27T08:59:00+00:00",
+      "short_snippet": "At its GTC conference in Berlin, Nvidia discussed the RTX Spark notebook, various implementations and partnerships involving physical AI, AI agents, and CUDA-X, as well as the DSX POD and European sovereign AI. Following its recently announced additional US$2 billion investment, Nvidia has committed nearly US$10 billion to Europe's technology ecosystem. The company said that building Europe's AI e",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5de2522918d450d584e1",
+    "article": {
+      "title": "Infineon and ASMedia team up on end-to-end USB 20Gbps setup for AI cameras",
+      "url": "https://www.digitimes.com/news/a20261027VL225/asmedia-usb-infineon-partnership-adoption.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-27T08:58:26+00:00",
+      "short_snippet": "Infineon Technologies and ASMedia have announced a partnership to speed up the adoption of 20Gbps USB, driven by demand from machine-learning cameras and other physical AI devices that need to move large amounts of data quickly.",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e0221dbcc4bdc9470360",
+    "article": {
+      "title": "Anthropic IPO filing shows the US govt is trying to be frontier AI's customer and gatekeeper",
+      "url": "https://www.digitimes.com/news/a20261027VL220/anthropic-ipo-commercial-technology.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-27T07:20:00+00:00",
+      "short_snippet": "Anthropic's IPO filing does more than outline the economics of a rapidly scaling AI company. Its risk disclosures show frontier AI developers becoming increasingly exposed to governments that act not only as regulators, but also as customers, procurement authorities, export-control gatekeepers and national-security actors.",
+      "tags": [
+        "AI",
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-19a296113d79fe436ee8",
+    "article": {
+      "title": "AI spending surges, Microsoft opens exit door to 60,000 employees",
+      "url": "https://www.digitimes.com/news/a20261027PD223/microsoft-workforce-investment-business-2026.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-27T06:54:49+00:00",
+      "short_snippet": "Microsoft launched a time-limited Voluntary Exit Offer (VEO) for approximately 60,000 employees in the US, Canada, the UK and India, as the software and cloud provider reshapes its workforce around rising investment in artificial intelligence. The offer applies to eligible employees in participating teams at Level 70 and below and covers about one-quarter of Microsoft's global workforce of approxi",
+      "tags": [
+        "AI",
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-81b8692a377bd95bf14c",
+    "article": {
+      "title": "SoftBank eyes US$50B Malaysia AI data-center expansion",
+      "url": "https://www.digitimes.com/news/a20261027PD222/investment-ceo-infrastructure-technology-masayoshi-son.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-27T06:51:46+00:00",
+      "short_snippet": "SoftBank Group founder and CEO Masayoshi Son has selected investment sites in Malaysia and plans to invest US$50 billion in technology, Malaysian Prime Minister Anwar Ibrahim said. Following investments in the US and Europe, the group is expanding its AI infrastructure strategy into Asia.",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0f094f9b5361129d7c05",
+    "article": {
+      "title": "AI data centers drive cooling, power, modular infrastructure demand",
+      "url": "https://www.digitimes.com/news/a20261027VL218/data-center-infrastructure-cooling-ai-server-demand.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-27T06:46:53+00:00",
+      "short_snippet": "As AI server computing density and server rack power consumption rise, data center construction must also take into account cooling, power distribution, energy management, and electromechanical infrastructure. In light of these trends, the 2026 Taiwan Industry Week trade show features a dedicated section for data centers, with Auras Technology, Walrus Pump, and Teco Electric and Machinery among th",
+      "tags": [
+        "AI",
+        "資料中心",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-8daa841e4b646f625448",
+    "article": {
+      "title": "Anthropic IPO filing exposes massive compute buildout spanning TPUs, GPUs, and dedicated data centers",
+      "url": "https://www.digitimes.com/news/a20261027VL217/anthropic-ipo-data-infrastructure-capacity.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-27T06:33:19+00:00",
+      "short_snippet": "Anthropic's IPO filing reveals an infrastructure strategy extending far beyond conventional cloud procurement, as the Claude developer locks in hundreds of billions of dollars of compute capacity across Google, Amazon, Microsoft, Broadcom, and a growing roster of GPU infrastructure providers.",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c8fc0f9aff2d1aaa7c87",
+    "article": {
+      "title": "PSMC capacity crunch holds back Jeju Semiconductor's growth",
+      "url": "https://www.digitimes.com/news/a20261027VL221/capacity-psmc-growth-manufacturing-wafer.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-27T06:00:12+00:00",
+      "short_snippet": "South Korean memory chip designer Jeju Semiconductor is struggling to secure enough wafer capacity from Taiwan's Powerchip Semiconductor Manufacturing (PSMC), limiting its sales growth as strong memory demand drives up prices and manufacturing costs.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-8609c3183ca15fe7e258",
+    "article": {
+      "title": "Server CPU shipments to exceed 50 million units in 2027; AMD's server CPU revenue will surpass Intel",
+      "url": "https://www.digitimes.com/news/a20261021RS400/ai-server-cpu-shipments-2027-intel-amd-arm-architecture.html?chid=2",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-27T05:56:41+00:00",
+      "short_snippet": "According to DIGITIMES, Agentic AI, AI server expansion, cloud service provider (CSP) in-house CPU ramp-up, and replacement demand for general-purpose servers will lift global server CPU shipments to 52.6 million units in 2027, up 45.7% year-over-year, wi",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6260a8e9cfc72a9ba3fd",
+    "article": {
+      "title": "Broadcom, financial firms agree on US$63 billion funding for Anthropic chip purchases",
+      "url": "https://www.digitimes.com/news/a20261027VL222/broadcom-anthropic-funding-financing-finance.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-27T05:56:04+00:00",
+      "short_snippet": "Broadcom has reached a deal with several financial firms for them to finance the purchase of US$63 billion worth of its chips for Anthropic. The agreement highlights how the line between supplier and lender is becoming blurred among some chipmakers, as well as Wall Street's growing involvement in funding arrangements as AI infrastructure spending continues to expand.",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-865cc291a5e64b5667a4",
+    "article": {
+      "title": "AI demand squeezes automotive memory, pushing automakers to take control of chip supply",
+      "url": "https://www.digitimes.com/news/a20261027PD220/automakers-automotive-demand-investment-data.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-27T04:20:00+00:00",
+      "short_snippet": "Expanding investment in AI data centers is putting pressure on memory supply and demand across the automotive industry. As semiconductor companies prioritize high-bandwidth memory (HBM) and server products, automotive memory faces rising prices and tighter supplies, making automakers' direct procurement, long-term partnerships, and in-house chip design increasingly strategic.",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6ce596c85ec26ae49290",
+    "article": {
+      "title": "AI is ruining haunted houses",
+      "url": "https://news.ycombinator.com/item?id=50256230",
+      "source": "Hacker News",
+      "published_at": "2026-10-27T08:50:33+00:00",
+      "short_snippet": "Article URL: https://www.plagiarismtoday.com/2026/10/26/ai-is-ruining-haunted-attractions/ Comments URL: https://news.ycombinator.com/item?id=50256230 Points: 32 # Comments: 33",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-746c6a37ef67d8e01e54",
+    "article": {
+      "title": "The Mythical Man-Month in the Age of AI",
+      "url": "https://news.ycombinator.com/item?id=50255298",
+      "source": "Hacker News",
+      "published_at": "2026-10-27T06:25:37+00:00",
+      "short_snippet": "Article URL: https://j11g.com/the-mythical-man-month-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=50255298 Points: 166 # Comments: 118",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a7fa0c069116226f95a0",
+    "article": {
+      "title": "iPhone Duo owners report cracks in Apple’s first foldable handset",
+      "url": "https://www.reddit.com/r/technology/comments/1xgan88/iphone_duo_owners_report_cracks_in_apples_first/",
+      "source": "Reddit",
+      "published_at": "2026-10-26T22:02:12+00:00",
+      "short_snippet": "submitted by /u/Slight_Sherbert_5239 [link] [comments]",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-06bf8ced833fa5702acd",
+    "article": {
+      "title": "Anthropic 提交 IPO 重振市場信心，日韓股市領漲亞股",
+      "url": "https://finance.technews.tw/2026/10/27/anthropic-ipo-boosts-market-confidence-japan-korea-stocks-lead-asia/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-27T10:10:30+00:00",
+      "short_snippet": "人工智慧（AI）巨擘 Anthropic 提交首次公開募股（IPO）申請，重燃市場對科技業的樂觀情緒，但亞股今 […]",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-8a7cf5d091f988853784",
+    "article": {
+      "title": "半導體用電翻倍、電力需求攀升！台電啟動十年供電布局",
+      "url": "https://technews.tw/2026/10/27/semiconductor-power-consumption-doubles-electricity-demand-soars-taipower-10-year-supply-plan/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-27T09:32:37+00:00",
+      "short_snippet": "隨著 AI、半導體等產業用電需求持續增加，台灣未來十年電力需求成長速度預估將較過去十年翻倍。台電今（27）日表 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-8222e3095a460640c144",
+    "article": {
+      "title": "吳敏求：旺宏章程明定 15% 員工分紅，業務鎖定太空、醫療與資料中心市場",
+      "url": "https://finance.technews.tw/2026/10/27/macronixs-bylaws-stipulate-that-15-of-employee-profits-will-be-distributed/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-27T09:15:05+00:00",
+      "short_snippet": "旺宏董事長吳敏求表示，旺宏將不再擴充 NOR Flash 產能，而是把有限產能移轉至 3D NAND 及 3D […]",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5b99cb57597b7c61f658",
+    "article": {
+      "title": "800VDC 明後年樂觀？台達電、光寶科法說揭關鍵進度",
+      "url": "https://technews.tw/2026/10/27/800-vdc-outlook-optimistic-next-year-delta-electronics-liteon-technology-investor-conferences-key-progress/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-27T09:03:41+00:00",
+      "short_snippet": "隨著輝達 Vera Rubin、AMD Helios 等新一代 AI 機櫃功率持續提高，加上大型雲端服務供應商 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-10e4189fee06422aa684",
+    "article": {
+      "title": "美 AI 投資若踩煞車 韓央：晶片出口恐少千億美元",
+      "url": "https://finance.technews.tw/2026/10/27/bank-of-korea-warns-countrys-chip-exports-could-fall-by-up-to-100-billion-if-ai-spending-slows/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-27T08:00:07+00:00",
+      "short_snippet": "韓國央行（BOK）警告，若美國科技巨頭明（2027）年放緩對 AI 基礎設施的資本支出，韓國半導體出口恐較原先 […]",
+      "tags": [
+        "AI",
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c6f18d992051fa0ad203",
+    "article": {
+      "title": "AI 科技擴廠高規電梯訂單達三年！貨梯王宏偉電機 11 月中掛牌上櫃",
+      "url": "https://finance.technews.tw/2026/10/27/elevator-orders/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-27T07:48:57+00:00",
+      "short_snippet": "宏偉電機明日將舉辦上櫃前業績發表會，預計 11 月中掛牌交易，董事長黃埮城表示，受惠 AI 科技擴廠熱潮，目前 […]",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b5c4ce8eec2f3c087293",
+    "article": {
+      "title": "智原 Q3 每股賺 1.07 元！毛利率 42.5%，獲 2 奈米雲端 AI ASIC 專案",
+      "url": "https://technews.tw/2026/10/27/faraday-2026-q3-financial-report/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-27T07:21:26+00:00",
+      "short_snippet": "智原今（27 日）舉辦法說會，公布第三季合併營收達新台幣（下同）36.6 億元，季增 11%、年增13%，創歷 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0902a87af15b1acbe4f5",
+    "article": {
+      "title": "博通攜華爾街籌資 630 億美元，為 Anthropic 採購 AI 晶片提供資金",
+      "url": "https://technews.tw/2026/10/27/broadcom-anthropic-deal/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-27T06:44:32+00:00",
+      "short_snippet": "彭博社報導，晶片大廠博通已與美國銀行、黑石集團、花旗集團及摩根士丹利達成一項規模達 630 億美元的交易，為 […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a348796884cd96c3fc40",
+    "article": {
+      "title": "研華啟用加州新總部！結盟 NVIDIA、AMD 引爆邊緣運算商機",
+      "url": "https://finance.technews.tw/2026/10/27/tustin-ats/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-27T06:42:18+00:00",
+      "short_snippet": "研華美國時間 10 月 20 日正式舉行位於加州塔斯汀（Tustin）的北美新總部開幕典禮，並接續舉辦研華科技 […]",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5f0517abdf525eaaa790",
+    "article": {
+      "title": "蘋果最高防護等級，成功抵禦間諜軟體的「封閉模式」誰才需要啟用",
+      "url": "https://infosecu.technews.tw/2026/10/27/iphone-lockdown-mode/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-27T06:40:49+00:00",
+      "short_snippet": "蘋果（Apple）的封閉模式（Lockdown Mode）再次受到關注。這項功能被蘋果形容為「極端」等級的安全 […]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e7519132b677cf21b676",
+    "article": {
+      "title": "AI 需求暴增 1 萬倍！Pat Gelsinger：AI 非泡沫，產業迎 20 年超級週期",
+      "url": "https://technews.tw/2026/10/27/2026-playground-pat-gelsinger/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-27T06:33:36+00:00",
+      "short_snippet": "由英特爾前執行長 Pat Gelsinger 做為合夥人的創投公司 Playground 於今（27 日）舉辦 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-2e2f51d611b9a60d2711",
+    "article": {
+      "title": "AI 算力推升載板需求，業界警示：ABF 供需缺口 2028 年恐飆至 42%",
+      "url": "https://finance.technews.tw/2026/10/27/taiwan-pcb-output-value-breaks-trillion-mark-faces-ai-challenges/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-27T06:20:47+00:00",
+      "short_snippet": "隨著人工智慧（AI）基礎建設持續擴張，全球電子供應鏈正面臨近年最嚴峻的緊俏考驗。最新產業觀察顯示，受資料中心與 […]",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f4bd1410a1009a40cd24",
+    "article": {
+      "title": "OpenAI 推出 GPT-6.1 Terra 模型，主打電腦操作與視覺推理、API 費用砍半",
+      "url": "https://technews.tw/2026/10/27/openai-introduces-gpt-6-1-terra/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-27T06:14:00+00:00",
+      "short_snippet": "OpenAI 26 日推出 GPT-6.1 Terra 模型，將重點放在電腦操作、視覺推理、程式開發以及日常工 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e2d739cad4f007bc7501",
+    "article": {
+      "title": "澳洲稱 AI 威脅前所未見，惡意活動警告年增八成",
+      "url": "https://infosecu.technews.tw/2026/10/27/australians-should-prepare-for-online-services-to-go-down-unexpectedly-as-threats-rise/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-27T06:10:51+00:00",
+      "short_snippet": "澳洲資安機構今天警告，外國政府利用人工智慧（AI）入侵電腦網路和關鍵基礎設施，凸顯 AI 正帶來「前所未有」的 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-826f67ad9d9dd08855e1",
+    "article": {
+      "title": "研華科技 AFE-E630 通過 DEKRA 德凱 IEC 62443-4-2 工控網路安全符合性證明證書",
+      "url": "https://technews.tw/2026/10/27/advantech-afe-e630-earns-dekra-iec-62443-4-2-cybersecurity-certification/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-27T06:00:42+00:00",
+      "short_snippet": "隨著能源基礎設施數位化，儲能系統、電力設備與營運技術（OT）環境持續聯網，工業邊緣裝置的資安能力日益受到重視。 […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-623bea9fa83e2dafe769",
+    "article": {
+      "title": "iPhone Duo 災情致新日興股價重挫，後續關注良率",
+      "url": "https://technews.tw/2026/10/27/iphone-duo-screen-issues-send-szs-shares-tumbling/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-27T05:50:34+00:00",
+      "short_snippet": "樞紐大廠新日興受到 iPhone Duo 首批用戶傳出產品災情影響，盤中股價重挫逾 9%。從蘋果官方訊息來看， […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-7d3892a37ae643cc6d4c",
+    "article": {
+      "title": "退役核電廠變身 AI 工廠？德國能源業者擬攜輝達評估轉型",
+      "url": "https://technews.tw/2026/10/27/german-energy-nvidia-evaluate-nuclear-plant-ai-factory-transformation/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-27T05:44:25+00:00",
+      "short_snippet": "隨著 AI 資料中心用電需求持續攀升，退役核電廠的既有基礎設施也成為潛在開發選項。德國能源集團意昂（E.ON） […]",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a5570f7b6c569a7351ab",
+    "article": {
+      "title": "國研院攜手汎銓科技，攻克新一代極紫外光製程後結構分析技術瓶頸",
+      "url": "https://technews.tw/2026/10/27/mss-high-na-euv-mor/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-27T05:35:33+00:00",
+      "short_snippet": "台灣展現半導體製程材料檢測、驗證領域強大研發能量，國研院攜手頂尖半導體材料分析大廠汎銓科技（MSS），成功攻克 […]",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    }
   }
 ]
