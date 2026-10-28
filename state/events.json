@@ -29531,5 +29531,31 @@
         "半導體"
       ]
     }
+  },
+  {
+    "event_id": "evt-2a099ae569036bc20e8e",
+    "article": {
+      "title": "Toyota accelerates robot commercialization as IKKA targets supply-chain opportunities",
+      "url": "https://www.digitimes.com/news/a20261028PD224/toyota-robot-ikka-manufacturing-automotive.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-28T06:25:00+00:00",
+      "short_snippet": "Toyota Motor Corporation is accelerating the commercialization of robots, creating potential opportunities for Ikka Holdings (IKKA-KY) to leverage its existing Japanese automotive supply-chain relationships and compete for robot component orders. IKKA, a long-standing supplier of Toyota-related automotive products, also plans to strengthen its metal-gear and robotic-arm assembly capabilities throu",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-1d507eab1633b93489c3",
+    "article": {
+      "title": "從上市說明書中看 Anthropic 爆發式成長下關鍵亮點與隱憂",
+      "url": "https://finance.technews.tw/2026/10/28/key-highlights-and-hidden-concerns-amid-anthropics-explosive-growth/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-28T07:20:12+00:00",
+      "short_snippet": "生成式 AI 獨角獸 Anthropic 於週一公開提交 S-1 上市說明書，擬以股票代碼「ANT」登陸那斯達 […]",
+      "tags": [
+        "AI"
+      ]
+    }
   }
 ]
