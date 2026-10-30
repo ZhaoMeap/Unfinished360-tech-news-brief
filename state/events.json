@@ -33038,5 +33038,784 @@
         "半導體"
       ]
     }
+  },
+  {
+    "event_id": "evt-186d6c963dcf446a281a",
+    "article": {
+      "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+      "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+      "source": "The Verge",
+      "published_at": "2026-10-30T09:00:00+00:00",
+      "short_snippet": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it says, could either deprive Wikipedians of useful AI-based tools or endanger […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-69da285ad3d772d2fbdc",
+    "article": {
+      "title": "Honda targets Level 4 autonomy by 2027, AI maps by 2030",
+      "url": "https://www.digitimes.com/news/a20261030PD241/honda-2027-2030-autonomous-driving-technology.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-30T09:59:00+00:00",
+      "short_snippet": "Honda Motor plans to achieve Level 4 autonomous driving around 2027 and replace high-definition maps with AI technology around 2030, enabling Level 4 vehicles to navigate the narrow roads and mountain routes common in Asia, said Yuji Yasui, a fellow at Honda R&D, at Hon Hai Tech Day 2026 (HHTD26).",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-08ab3926c5806da001b6",
+    "article": {
+      "title": "Micron says 700-plus Taiwan fab workers earned five years' salary in a single year",
+      "url": "https://www.digitimes.com/news/a20261030VL229/micron-taiwan-salary-fab-2026.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-30T09:34:14+00:00",
+      "short_snippet": "Micron Technology paid its fiscal 2026 bonuses to Taiwan employees on October 30. The company said more than 700 production-line workers earned at least five years' worth of monthly salary in total pay for the year. The payout comes while the union at its Taoyuan fab is still rejecting the company's pay offer.",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-add5cc0d336b08f5889c",
+    "article": {
+      "title": "Realtek targets 30% AI revenue share by 2030",
+      "url": "https://www.digitimes.com/news/a20261030PD239/realtek-revenue-2030-business-2027.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-30T09:29:00+00:00",
+      "short_snippet": "Realtek Semiconductor quantified its AI business for the first time at an investor conference on October 29, setting a target for high-performance computing (HPC) and edge AI revenue—including automotive and robotics applications—to exceed 30% of total revenue by 2030. These businesses currently account for a high-single-digit percentage of revenue, as AI expands into infrastructure and edge devic",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-751cf52ce17fd7833f1c",
+    "article": {
+      "title": "HHTD 26: Mitsubishi Electric Mobility to join Foxconn in 2027, targeting JPY1T revenue by 2030",
+      "url": "https://www.digitimes.com/news/a20261030PD243/mitsubishi-electric-foxconn-2027-revenue-cybersecurity.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-30T09:25:00+00:00",
+      "short_snippet": "Speaking at Hon Hai Tech Day (HHTD 26), Kazunori Tanaka, Representative Director and President of Mitsubishi Electric Mobility, emphasized that the company's core competitiveness in EV platforms has decisively pivoted toward software—spanning electric powertrains, autonomous driving, and in-cabin intelligence. Tanaka announced that Mitsubishi Electric Mobility will officially join the Foxconn fami",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e89967480d56b3787bfd",
+    "article": {
+      "title": "Holtek lands major server cooling contract, AI thermal demand soars",
+      "url": "https://www.digitimes.com/news/a20261030PD234/holtek-server-cooling-demand-mcu-shipments.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-30T09:15:00+00:00",
+      "short_snippet": "Microcontroller unit (MCU) major Holtek Semiconductor has secured a substantial order for brushless DC (BLDC) motors, with adoption in Taiwanese server cooling fans slated to begin in 2027, paving the way for steep year-over-year growth. In addition, the company's optical communication products, specifically storage area network (SAN) disk arrays tailored for AI servers, are scheduled to enter mas",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-644173229dc3bd4e2294",
+    "article": {
+      "title": "China smartphone market and industry, 3Q 2026",
+      "url": "https://www.digitimes.com/news/a20261029RS400/china-market-smartphone-shipments-digitimes-2026.html?chid=2",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-30T09:10:02+00:00",
+      "short_snippet": "According to DIGITIMES observations and analysis, smartphone memory contract prices in the first half of 2026 often rose 50% to 80% quarter-over-quarter.",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-7a41ef5949da5103a673",
+    "article": {
+      "title": "HHTD 26: The year robots share the stage with AI infrastructure",
+      "url": "https://www.digitimes.com/news/a20261030PD237/infrastructure-robotics-2026-tdk-robot.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-30T09:05:00+00:00",
+      "short_snippet": "Hon Hai Tech Day 2026 (HHTD 26) continued to focus on next-generation AI infrastructure. Although the event featured slightly fewer robots than in 2025, it still maintained a dedicated robotics exhibition area where Foxconn and its partners showcased the latest developments in smart manufacturing technology. Participants included KUKA, ABB, and Yaskawa, which are among the four major robotics fami",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-90b543b58121aae6d409",
+    "article": {
+      "title": "Eutelsat eyes EUR10B revenue from IRIS2 as EU seeks homegrown answer to Starlink",
+      "url": "https://www.digitimes.com/news/a20261030VL226/revenue-eu-starlink-leo-2027.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-30T08:58:06+00:00",
+      "short_snippet": "Eutelsat said that it predicts at least EUR10 billion (US$11.2 billion) in revenue from 2032 to 2040 as it leads the EU's low Earth orbit (LEO) network initiative IRIS2. The European satellite player is viewed by the EU to be a homegrown alternative to SpaceX's Starlink satellite service and a key to reducing technological reliance on the US.",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-05423cb8cee753a15812",
+    "article": {
+      "title": "Taiwan's economic indicator signals 'booming' for 10th straight month on AI-driven shipments",
+      "url": "https://www.digitimes.com/news/a20261029PD243/taiwan-shipments-national-development-council-2026-growth.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-30T08:55:00+00:00",
+      "short_snippet": "Taiwan's economy has stayed in \"booming\" territory for a record 10th consecutive month, according to the monitoring indicator compiled by the National Development Council (NDC), the government's monthly gauge of the business cycle. The streak, which began in December 2025, reflects continued strength in shipments of electronic and information and communications technology (ICT) products, and surpa",
+      "tags": [
+        "監管",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-329b2659ecd1c30ee985",
+    "article": {
+      "title": "SK Hynix taps HBM veteran to lead new American unit",
+      "url": "https://www.digitimes.com/news/a20261030VL227/sk-hynix-hbm-development-americas-technology.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-30T08:48:07+00:00",
+      "short_snippet": "SK Hynix has appointed its AI memory development chief to lead a newly established Americas unit based in the US, putting a technology veteran closer to major US customers as the industry shifts toward customized high-bandwidth memory (HBM) and deeper collaboration with chip developers.",
+      "tags": [
+        "AI",
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-185bb50fae886c4e9898",
+    "article": {
+      "title": "Google, Foxconn aims to cut AI infrastructure deployment to six months",
+      "url": "https://www.digitimes.com/news/a20261030PD242/google-foxconn-infrastructure-partnership-manufacturing.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-30T08:37:59+00:00",
+      "short_snippet": "Google is deepening its strategic partnership with Foxconn to accelerate AI infrastructure deployment, aiming to cut the time from chip supply to data-center deployment from the traditional 12 to 18 months to about six months, said Rehan Sheikh, vice president of global silicon chip technology and manufacturing at Google Cloud, at Hon Hai Tech Day (HHTD 26) on October 30.",
+      "tags": [
+        "AI",
+        "半導體",
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-dc21262635d37115b2fb",
+    "article": {
+      "title": "HHTD 26: Foxconn unveils three new EVs, expanding Model A and K platforms",
+      "url": "https://www.digitimes.com/news/a20261030PD232/foxconn-2026-vehicle-design-investment.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-30T08:35:00+00:00",
+      "short_snippet": "Foxconn Technology Group Chief Strategy Officer Jun Seki unveiled three new electric vehicles (EVs) at Hon Hai Tech Day 2026 (HHTD 26): the Model A+, an SUV derived from the Model A platform; the Model K, a light-duty truck built on a new compact platform; and the Model K+, a small SUV based on the Model K.",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ec55c87b7baf613c97e6",
+    "article": {
+      "title": "Foxconn, TECO showcase factory-built infrastructure for AI data center expansion",
+      "url": "https://www.digitimes.com/news/a20261030PD224/teco-foxconn-data-center-infrastructure-2026.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-30T08:30:00+00:00",
+      "short_snippet": "Hon Hai (Foxconn) and TECO Electric & Machinery showcased a jointly developed modular data center at Hon Hai Tech Day 2026, highlighting a factory-built approach to AI infrastructure. The 40-foot container integrates computing, cooling, power, energy management, and fire protection systems, as the companies target rising global demand for AI computing capacity.",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-86dee780c8ca769b3d2c",
+    "article": {
+      "title": "Foxconn argues it is more than a box mover in AI hardware",
+      "url": "https://www.digitimes.com/news/a20261030PD225/foxconn-design-chairman-manufacturing-young-liu.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-30T08:25:00+00:00",
+      "short_snippet": "Foxconn chairman Young Liu said the company's core strengths are processing capabilities and vertical integration, as the manufacturer seeks to move beyond its long-standing image as a simple \"Box Mover.\" At its 2026 Hon Hai Tech Day, Liu described an end-to-end model spanning design, components, assembly, software integration, and global logistics.",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-2ac3cc6be1dbb7c18b0d",
+    "article": {
+      "title": "China's memory module bellwethers post record profits as 3Q26 momentum fades",
+      "url": "https://www.digitimes.com/news/a20261030VL212/memory-module-profit-revenue-sina-inventory.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-30T08:20:00+00:00",
+      "short_snippet": "China's listed memory module makers, whose results offer an early read on how the global memory upcycle is reaching the country's storage supply chain, reported net profit gains of more than 300-fold at the top end for the first nine months of 2026. Yet several of the largest players also posted sharp sequential profit declines in the third quarter, suggesting the windfall from low-cost inventory ",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-abb0fb437d48a9091a9a",
+    "article": {
+      "title": "Nvidia secures substrate capacity as FCBGA market targets US$27.3 billion by 2030",
+      "url": "https://www.digitimes.com/news/a20261030PD226/nvidia-fc-bga-substrate-capacity-2030.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-30T07:00:00+00:00",
+      "short_snippet": "Nvidia has begun securing advanced substrate capacity in Taiwan, Japan and South Korea, using capacity reservation agreements and upfront payments to support supplier expansion as next-generation AI accelerators ramp up. The move comes as the global packaging substrate market is projected to grow from US$14.9 billion in 2025 to US$40.2 billion in 2030, while demand for advanced ABF build-up materi",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d49072594e573edf8554",
+    "article": {
+      "title": "Jinpao targets power cabinets, BBUs in AI-related expansion",
+      "url": "https://www.digitimes.com/news/a20261030PD212/expansion-manufacturing-high-end-supply-chain-demand.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-30T06:20:00+00:00",
+      "short_snippet": "Thailand-based precision sheet-metal manufacturer Jinpao Precision has entered the supply chain of a leading Thailand-based power-management company on the strength of its resilient manufacturing capabilities and highly adaptable product layout strategy. The company is accelerating its expansion in Thailand to capture growing AI demand as it furthers its efforts in high-end power cabinets, backup ",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-74361f2f9f3a49a3b92e",
+    "article": {
+      "title": "ASE expects packaging and testing margins to stay above 30%",
+      "url": "https://www.digitimes.com/news/a20261030PD214/ase-packaging-testing-revenue-business.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-30T06:00:00+00:00",
+      "short_snippet": "ASE Technology Holding (ASEH) expects gross margins in its packaging and testing business to remain above 30% in 2027 as growing demand for AI-related advanced packaging helps the company move beyond the profitability ceiling that has historically constrained the industry.",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-db27706ff9a86024dedf",
+    "article": {
+      "title": "Commentary: Why Marvell's rumored Lumentum buy may be hard to pull off but harder to pass up",
+      "url": "https://www.digitimes.com/news/a20261030PD218/marvell-communications-laser-technology-acquisition.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-30T05:52:47+00:00",
+      "short_snippet": "Marvell is reportedly in advanced talks to acquire Lumentum, a major laser supplier, in a deal that could be announced as early as next week if no other technology giant intervenes. Based on Lumentum's current market capitalization of approximately US$83 billion, the transaction would be Marvell's largest acquisition ever.",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-7534d9fb6ede6c78d441",
+    "article": {
+      "title": "KLA reportedly weighs India manufacturing entry as Semicon 2.0 opens to equipment makers",
+      "url": "https://www.digitimes.com/news/a20261030VL215/kla-inspection-equipment-semicon-manufacturing-india.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-30T05:00:00+00:00",
+      "short_snippet": "KLA Corporation, the US maker of semiconductor inspection and metrology equipment, is evaluating a manufacturing foray in India and is considering one or two applications under the country's Semicon 2.0 incentive scheme, The Economic Times reported on October 29, citing people familiar with the developments. KLA did not respond to the newspaper's queries.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-743d6e81671486fc4fc7",
+    "article": {
+      "title": "HyperAccel, Rebellions look beyond chips to AI data center systems",
+      "url": "https://www.digitimes.com/news/a20261030VL218/data-center-ai-chip-hardware-testing-training.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-30T04:29:27+00:00",
+      "short_snippet": "South Korean AI chip developers HyperAccel and Rebellions are moving beyond standalone accelerators to develop integrated data center systems, seeking to combine domestic processors, memory, and networking technologies into infrastructure capable of handling different AI workloads at lower cost.",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-fa68375fcf8a552c5fd5",
+    "article": {
+      "title": "Nvidia dominates AI robot chips with 69% market share",
+      "url": "https://www.digitimes.com/news/a20261030PD219/robotics-nvidia-development-robot-software.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-30T04:17:12+00:00",
+      "short_snippet": "The rapid development of AI robotics applications is driving a sharp increase in semiconductor computing requirements. According to DIGITIMES Intelligence, Nvidia is set to dominate the 2026 AI robotics computing IC market with a 69% share, far outpacing Intel (11%), Qualcomm (5%), and AMD (2%). Beyond raw computing power, Nvidia's comprehensive software ecosystem is the critical factor leaving co",
+      "tags": [
+        "AI",
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-26c420cb7ba506dac1fb",
+    "article": {
+      "title": "Amazon 3Q26 earnings call: AWS targets 40%-plus growth through 2028 as satellite costs weigh on near-term profit",
+      "url": "https://www.digitimes.com/news/a20261030VL214/amazon-aws-leo-satellite-profit-growth-2028.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-30T04:15:00+00:00",
+      "short_snippet": "Amazon expects its cloud unit to keep growing faster than 40% a year through 2028, even as costs from its satellite internet project hold back fourth-quarter profit.",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-11808b8beaa79ea7d69f",
+    "article": {
+      "title": "Intel tells Taiwan's chip suppliers to build service capacity early",
+      "url": "https://www.digitimes.com/news/a20261030VL219/intel-taiwan-equipment-materials-semi.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-30T04:14:47+00:00",
+      "short_snippet": "Intel told Taiwanese chip equipment and materials suppliers that they need spare parts and service capability in place early if they want its business. The company said this at a supplier forum held by industry group SEMI in San Francisco ahead of the SEMICON West trade show.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b1af817e3ca03005a938",
+    "article": {
+      "title": "Nvidia weighs credit support for Nscale as data center, IPO face pressure",
+      "url": "https://www.digitimes.com/news/a20261030PD220/nvidia-data-center-ipo-financing-uk.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-30T04:14:22+00:00",
+      "short_snippet": "Nvidia is reportedly evaluating billions of dollars in credit support for UK neocloud provider Nscale to help cover power and construction costs for a data center in West Virginia. Nscale faces simultaneous pressure to accelerate the launch of the Nvidia chip-powered campus, which is expected to be used by AI startup Anthropic, while preparing for an initial public offering (IPO), underscoring how",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0e9fe7e3066d86e48c0a",
+    "article": {
+      "title": "Jensen Huang calls Megaspeed ties normal amid Washington's spy probe",
+      "url": "https://www.digitimes.com/news/a20261030PD221/new-york-times-nvidia-jensen-huang-government-investigation.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-30T04:10:58+00:00",
+      "short_snippet": "After The New York Times reported that a female executive at Singapore-based Megaspeed International was under investigation for allegedly conducting espionage activities for China, Nvidia CEO Jensen Huang said the company's dealings with Megaspeed were normal and involved no irregularities.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-fe2ffe4eebee9e1d2b81",
+    "article": {
+      "title": "Sandisk sees 60–90GB of NAND per CPU in AI agent workloads",
+      "url": "https://www.digitimes.com/news/a20261030VL217/nand-cpu-demand-qlc-nand-flash.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-30T03:49:44+00:00",
+      "short_snippet": "Sandisk sees demand for roughly 60 to 90 gigabytes of NAND flash per CPU in certain AI inference and agent-orchestration applications, as customers rethink how they use different memory and storage technologies across their AI systems.",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-26ca9464e5c543499f11",
+    "article": {
+      "title": "Yageo plans 10-15% capacity expansion in 2027 as AI demand pushes utilization above 95%",
+      "url": "https://www.digitimes.com/news/a20261030PD210/yageo-demand-2027-component-capacity-expansion.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-30T03:45:00+00:00",
+      "short_snippet": "Passive component manufacturer Yageo said robust AI demand is driving shipments of multilayer ceramic capacitors (MLCCs) and tantalum capacitors, pushing AI-related applications to nearly 20% of its total revenue in the third quarter of 2026, up from 16% in the preceding quarter.",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f12ef2b13e2db0feb4fb",
+    "article": {
+      "title": "Intel's server surge faces a supply setback as PC weakness persists",
+      "url": "https://www.digitimes.com/news/a20261030VL200/intel-pc-business-demand-revenue.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-30T03:42:55+00:00",
+      "short_snippet": "Intel's growing server business is strengthening its operating recovery, but a factory disruption and a prolonged PC downturn threaten its ability to convert demand into near-term sales. Its third-quarter results show why the turnaround now depends as much on supplying data centers as on reviving the client business that has long anchored the company.",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-dca7f7aa1fe9eb7e91bf",
+    "article": {
+      "title": "Analysis: Oracle backs Cerebras as AI cloud shifts to multi-architecture compute",
+      "url": "https://www.digitimes.com/news/a20261030PD216/oracle-cerebras-cloud-computing-chips-demand-2027.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-30T03:41:02+00:00",
+      "short_snippet": "Oracle will offer cloud services powered by Cerebras' AI computing systems in its cloud data centers starting in 2027, giving the wafer-scale chipmaker another major cloud customer. Although the companies did not disclose Oracle's planned Cerebras hardware purchases, the deal highlights the shift toward diversified AI compute resources as inference demand accelerates.",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-532e5b2204540ca165f4",
+    "article": {
+      "title": "LLM Voice",
+      "url": "https://news.ycombinator.com/item?id=50290177",
+      "source": "Hacker News",
+      "published_at": "2026-10-29T14:57:55+00:00",
+      "short_snippet": "Article URL: https://martinfowler.com/bliki/LLM-Voice.html Comments URL: https://news.ycombinator.com/item?id=50290177 Points: 481 # Comments: 255",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c414114be7da75ba4816",
+    "article": {
+      "title": "Microsoft killed Windows 10 to push Windows 11, but Windows sales crashed 27% as holdouts still refuse to switch",
+      "url": "https://www.reddit.com/r/technology/comments/1xj45ld/microsoft_killed_windows_10_to_push_windows_11/",
+      "source": "Reddit",
+      "published_at": "2026-10-30T02:56:21+00:00",
+      "short_snippet": "submitted by /u/Turbostrider27 [link] [comments]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-8482471babb56f0494fe",
+    "article": {
+      "title": "Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’",
+      "url": "https://www.reddit.com/r/technology/comments/1xj8njh/reddits_ceo_says_googles_ai_mode_does_not_drive/",
+      "source": "Reddit",
+      "published_at": "2026-10-30T07:14:06+00:00",
+      "short_snippet": "submitted by /u/Hi_all_hwru [link] [comments]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0256e2b545faa36e70db",
+    "article": {
+      "title": "台灣去年 ICT 出口市占全球第三，電腦及周邊設備躍居第二",
+      "url": "https://ccc.technews.tw/2026/10/30/tw-ict-export-3rd-2025/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-30T10:20:18+00:00",
+      "short_snippet": "經濟部今天指出，受惠AI浪潮及全球供應鏈重組，台灣 ICT（資通訊科技）商品出口表現亮眼，2025 年全球市占 […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e9eb104cf055a18ee0d8",
+    "article": {
+      "title": "Google AI 搜尋蠶食流量，Reddit 祭「登入制」防堵爬蟲並強化廣告",
+      "url": "https://technews.tw/2026/10/30/google-s-ai-mode-does-not-drive-traffic/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-30T09:39:05+00:00",
+      "short_snippet": "Google 的 AI 模式（AI Mode）與 AI 摘要（AI Overviews）已經改變搜尋生態，對 […]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-1bfc9c9a7392368c9556",
+    "article": {
+      "title": "台積電外氣空調箱洗滌技術升級，再省電 60%",
+      "url": "https://technews.tw/2026/10/30/tsmc-ahu-washing-tech-upgrade-60-percent-power-savings/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-30T09:30:20+00:00",
+      "short_snippet": "晶圓代工廠台積電成功升級外氣空調箱洗滌技術，台積電表示，新一代設計運用自然重力取代馬達加壓，確保洗滌效果不變的 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-8636c729603d0d7cc935",
+    "article": {
+      "title": "盛美推升級版高溫 SPM 清洗設備！回收率達 70%，單台年省 400 噸化學品",
+      "url": "https://technews.tw/2026/10/30/acm-research-spm-cleaning-machine/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-30T09:14:56+00:00",
+      "short_snippet": "隨著半導體製程日益複雜，晶圓清洗技術對微粒控制、化學品使用效率及設備穩定性的要求持續提高。盛美半導體設備今（3 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c722c43c9b0c54861683",
+    "article": {
+      "title": "Sam Altman 低調訪台，劉揚偉為見他延後媒體聯訪逾二小時",
+      "url": "https://finance.technews.tw/2026/10/30/sam-altman-foxconn-liu/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-30T09:13:04+00:00",
+      "short_snippet": "OpenAI 執行長 Sam Altman 低調訪台，鴻海董事長劉揚偉今日證實，當天中午已與 Altman 會 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b5f40ed44dcf17d9239e",
+    "article": {
+      "title": "拚晶片部署縮短至半年，Google 高層：台灣是客製化晶片重鎮",
+      "url": "https://technews.tw/2026/10/30/google-executive-says-taiwan-is-a-major-hub-for-custom-chips/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-30T08:50:46+00:00",
+      "short_snippet": "Google Cloud AI 基礎建設供應鏈與製造營運副總裁謝赫今天指出，台灣的供應鏈樞紐將持續是 Goog […]",
+      "tags": [
+        "AI",
+        "半導體",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-97577de89935e53f40f4",
+    "article": {
+      "title": "舊版 DSM 淪勒索軟體目標，Synology 籲 NAS 用戶速更新",
+      "url": "https://infosecu.technews.tw/2026/10/30/dsm-ransomware-targets-synology-urges-nas-users-update-promptly/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-30T08:46:01+00:00",
+      "short_snippet": "群暉科技（Synology）10 月 29 日緊急安全警告，指已發現駭客針對仍使用過時 DiskStation […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0f9772471c991c96228d",
+    "article": {
+      "title": "強化 AI 代理服務！Oracle 明年秋季將 Arm AGI CPU 導入 OCI 雲端基礎設施",
+      "url": "https://technews.tw/2026/10/30/arm-oracle-arm-agi-cpu/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-30T08:44:41+00:00",
+      "short_snippet": "Oracle 在 Oracle AI World 大會上宣布計畫 2027 年秋季將 Arm AGI CPU […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d5d6552d9bd610b24267",
+    "article": {
+      "title": "遠超業界平均 11.3 年，微軟資料中心與辦公大樓預估壽命上調至 25 年",
+      "url": "https://finance.technews.tw/2026/10/30/microsoft-earnings-report-data-center-lifespan-extended/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-30T08:30:13+00:00",
+      "short_snippet": "微軟（Microsoft）在 2027 會計年度第一季的法說會上宣布，將旗下辦公大樓與資料中心的預估耐用年限從 […]",
+      "tags": [
+        "資料中心",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-8f1d52a5cf8d88b6fd2c",
+    "article": {
+      "title": "邁威爾傳併 Lumentum？市場不買單、憂財務衝擊",
+      "url": "https://finance.technews.tw/2026/10/30/marvell-lumentum-acquisition-rumor-market-disapproves-financial-impact-concerns/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-30T07:40:51+00:00",
+      "short_snippet": "網通晶片設計商邁威爾（Marvell）傳出洽購光通訊元件供應商 Lumentum，市場擔心收購溢價、發行新股稀 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-18f85d2fa5914b7f1c75",
+    "article": {
+      "title": "拒將思考外包給科技，美國大學一員工以「人的尊嚴」為由獲准工作免用 AI",
+      "url": "https://technews.tw/2026/10/30/kentucky-employee-gets-religious-exemption-from-using-ai-at-work/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-30T07:30:03+00:00",
+      "short_snippet": "美國肯塔基大學（University of Kentucky）一名員工近日獲准在工作中不必親自使用人工智慧，理 […]",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0030798513b0e8919423",
+    "article": {
+      "title": "光寶科第三季 EPS 創新高，資本支出再上修至 197 億元",
+      "url": "https://technews.tw/2026/10/30/lite-on-q3-eps-record-high-capex-revised-up-19-7-billion/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-30T07:23:09+00:00",
+      "short_snippet": "受惠 AI 資料中心電源需求成長，光寶科第三季獲利創下歷史新高。光寶科今（30）日召開法人說明會，公布第三季合 […]",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ca5887be57ccbb3e3172",
+    "article": {
+      "title": "實測「AI 死亡時鐘」：花錢交出血液求延壽，卻陷入數據焦慮的滿月體驗",
+      "url": "https://technews.tw/2026/10/30/experiencing-anxiety-ai-simulated-death/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-30T07:20:52+00:00",
+      "short_snippet": "《連線》（WIRED）記者付費使用以 AI 預測壽命的長壽 App「Death Clock」並抽血送驗一個月， […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f143e16642688689c5c7",
+    "article": {
+      "title": "OpenAI 撤回 ChatGPT Pro 縮水計畫，高階方案使用額度全面翻倍",
+      "url": "https://technews.tw/2026/10/30/chatgpt-advanced-plan-usage-limits-doubled/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-30T07:00:46+00:00",
+      "short_snippet": "OpenAI 於 10 月 29 日宣布，即刻調升 ChatGPT 高階付費方案的使用上限，適用範圍涵蓋 Pr […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-fd856fdf362dd53ff871",
+    "article": {
+      "title": "研發靠腦力而非爆肝，秦永沛揭密台積電「夜鷹計畫」僅半年就喊停內幕",
+      "url": "https://technews.tw/2026/10/30/tsmc-co-coo-y-p-chyn-says-longer-hours-do-not-improve-rd/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-30T06:40:06+00:00",
+      "short_snippet": "台積電（TSMC）共同營運長暨執行副總經理秦永沛近日在國立成功大學與學生對談時提到，公司早年曾嘗試讓研發團隊 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5cba31aa4c437eb41cab",
+    "article": {
+      "title": "AI 幫忙揪出河川污染，凱擘智慧監控布局 43 條溪流",
+      "url": "https://finance.technews.tw/2026/10/30/kbro-smart-monitoring/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-30T06:32:34+00:00",
+      "short_snippet": "隨著 AI 應用逐步進入公共建設及企業營運場域，有線電視業者也積極拓展傳統影音服務以外的商機。凱擘大寬頻今日表 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f09a56a2586b02fa6ced",
+    "article": {
+      "title": "華爾街日報：Anthropic 上市有利台灣國安",
+      "url": "https://technews.tw/2026/10/30/wall-street-journal-anthropic-ipo-benefits-taiwan-national-security/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-30T06:30:59+00:00",
+      "short_snippet": "人工智慧巨擘 Anthropic 本週公布首次公開發行（IPO）招股說明書，預計下個月上市。Anthropic […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5ee1b9e79b449bd4ad55",
+    "article": {
+      "title": "AXT 磷化銦訂單爆棚、高層直呼擴產仍跟不上需求",
+      "url": "https://finance.technews.tw/2026/10/30/axt-struggles-to-keep-up-with-indium-phosphide-demand-despite-expansion/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-30T06:20:48+00:00",
+      "short_snippet": "全球最大磷化銦（InP）基板供應商 AXT 公布的第三季（7-9 月）淨利擊敗分析師預期，主要受惠於 AI 資 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ccc801c1c1042d406baf",
+    "article": {
+      "title": "科技巨頭燒錢超出本業獲利，AI 軍備競賽引爆市場焦慮",
+      "url": "https://finance.technews.tw/2026/10/30/tech-giants-burning-cash-beyond-core-profits-ai-arms-race-market-anxiety/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-30T06:10:35+00:00",
+      "short_snippet": "為爭奪人工智慧（AI）領域霸主地位，美國 4 大科技巨頭上一季創歷史性資本支出紀錄，也跨過一道令人不安的分水嶺 […]",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e718db9f9b380d0b63f1",
+    "article": {
+      "title": "輝達 11/6 完成 10 億美元入股 Naver 躍第三大股東",
+      "url": "https://finance.technews.tw/2026/10/30/nvidia-1-billion-naver-investment-nov-6-third-largest-shareholder/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-30T06:00:39+00:00",
+      "short_snippet": "AI 晶片龍頭輝達（NVIDIA）持續擴大 AI 生態系布局，韓國入口網站巨頭 Naver 今（30）日公告， […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f79a3c5cba0a22e6bec4",
+    "article": {
+      "title": "超過 300 企業 IT 齊聚 Synology Solution Day 2026，探討如何立足資安防線，驅動 AI 營運潛能",
+      "url": "https://finance.technews.tw/2026/10/30/300-enterprise-it-synology-solution-day-2026-cybersecurity-ai-operational-potential/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-30T06:00:28+00:00",
+      "short_snippet": "Synology 群暉科技 Solution Day 2026 於 23 日圓滿落幕，吸引超過 300 位企業 […]",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-636c5d7897a882c76d1a",
+    "article": {
+      "title": "9 月製造業景氣續亮黃紅燈，AI 需求強勁但成長動能趨緩",
+      "url": "https://finance.technews.tw/2026/10/30/manufacturing-climate-indicator-remains-yellow-red-in-september/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-30T05:50:41+00:00",
+      "short_snippet": "台經院於 10 月 30 日公布 9 月製造業景氣燈號，儘管 AI 需求維持強勁，但相關指標增速略有收斂，製造 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a40109744221dff542b9",
+    "article": {
+      "title": "東元攜手鴻海展示模組化資料中心，導入輝達 DSX POD",
+      "url": "https://technews.tw/2026/10/30/teco-foxconn-showcase-modular-data-center-integrating-nvidia-dsx-pod/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-30T05:44:49+00:00",
+      "short_snippet": "東元電機今（30）日參與鴻海科技日，展示與鴻海合作開發、基於輝達 DSX POD 參考設計的模組化資料中心（M […]",
+      "tags": [
+        "資料中心",
+        "產品與平台"
+      ]
+    }
   }
 ]
