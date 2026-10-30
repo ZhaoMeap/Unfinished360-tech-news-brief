@@ -33817,5 +33817,219 @@
         "產品與平台"
       ]
     }
+  },
+  {
+    "event_id": "evt-fe4fff6d83fd18f23296",
+    "article": {
+      "title": "Silicon Valley wants you to invest in miracles",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
+      "source": "The Verge",
+      "published_at": "2026-10-30T13:11:05+00:00",
+      "short_snippet": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario, \"pose catastrophic or existential risks to humanity,\" or best case, \"bring forth an age of miracles\"? To some extent, […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-cbea1549be417a95d363",
+    "article": {
+      "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+      "source": "The Verge",
+      "published_at": "2026-10-30T13:01:14+00:00",
+      "short_snippet": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of stopping - and hints there could be much more to come from the company's stockpile of discoveries. \"I think, on net, […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-af102f69293cd77d594b",
+    "article": {
+      "title": "The HomeView and Echo Show 16 could be the family computers I’ve been asking for",
+      "url": "https://www.theverge.com/tech/1022592/apple-homeview-amazon-echo-show-16-smart-display-family-computer",
+      "source": "The Verge",
+      "published_at": "2026-10-30T13:00:00+00:00",
+      "short_snippet": "Three years ago, I wrote an obituary for the smart display. The category - smart speakers with touchscreens attached - was stuck with a few underpowered gadgets from Google and Amazon that tried to do too much and did too little well. Back then, I also laid out what they needed to do to improve. […]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-8830584dd16fbaf83de2",
+    "article": {
+      "title": "The Apple Pencil turned the Duo into my new favorite notebook",
+      "url": "https://www.theverge.com/tech/1022894/iphone-duo-apple-pencil-hands-on",
+      "source": "The Verge",
+      "published_at": "2026-10-30T12:30:00+00:00",
+      "short_snippet": "Apple's $2,000 folding phone is a surprisingly good stand-in for a $20 notebook. Believe me; nothing gets me going quite like a new notebook. This one will be different, I think. This time, I really will take it everywhere. Inspiration can strike at any moment, and you have to be ready, says David Sedaris in […]",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-fa8b4a805cbc8d7884d9",
+    "article": {
+      "title": "The touchscreen MacBook Pro is just a MacBook Pro with a touchscreen",
+      "url": "https://www.theverge.com/tech/1022628/apple-macbook-pro-proled-xdr-touchscreen-oled-impressions-totally-normal",
+      "source": "The Verge",
+      "published_at": "2026-10-30T12:00:00+00:00",
+      "short_snippet": "Apple's long-awaited touchscreen MacBook Pro is finally here. I got to try this MacBook that, according to the last two Apple CEOs, shouldn't exist. The most surprising thing is how normal it is. The MacBook Pro with PROLED XDR Display (what a name) has one of the nicest screens I've seen on a laptop. The […]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-2b803e9859885a4e30c6",
+    "article": {
+      "title": "Binance hackers stole $6.3 billion in record-breaking crypto heist",
+      "url": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
+      "source": "The Verge",
+      "published_at": "2026-10-30T11:44:53+00:00",
+      "short_snippet": "Binance has disclosed that $6.3 billion worth of crypto funds have been stolen from the platform, in what's believed to be the biggest cryptocurrency hack on record. In a series of updates posted to X, the crypto exchange said that user funds are safe, and that around $3 billion of the impacted assets have been […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-4fc874c1f89db7306dd8",
+    "article": {
+      "title": "Maine’s data center revolt will decide who controls the Senate",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
+      "source": "The Verge",
+      "published_at": "2026-10-30T11:00:00+00:00",
+      "short_snippet": "Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short. \"I'm terrified,\" a man shouted. \"AI data centers are destroying our climate. They are poisoning our water.\" Collins brushed off the outburst, tying the man to her Democratic challenger, […]",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6f6a6f3f73ffd158d69b",
+    "article": {
+      "title": "From living neurons to enterprise AI: TBC pursues faster video generation with AWS",
+      "url": "https://www.digitimes.com/news/a20261030VL207/ai-startup-video-aws-cost.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-30T14:00:00+00:00",
+      "short_snippet": "The Biological Computing Co. (TBC), a San Francisco startup that grows living neurons in its lab to find ways to make AI models more efficient, launched its first publicly available product on October 30: mischief 1, an image-to-video model the company says generates video five times faster than the open-weight model it is built on. The release moves TBC's technology from an early-access program t",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-56b6f6d91f19397c3de7",
+    "article": {
+      "title": "Intel plunges 25%, triggers global chip rout on bleak outlook",
+      "url": "https://news.ycombinator.com/item?id=50303791",
+      "source": "Hacker News",
+      "published_at": "2026-10-30T13:43:48+00:00",
+      "short_snippet": "Article URL: https://www.reuters.com/business/intel-warning-sparks-chip-rout-pc-weakness-clouds-turnaround-2026-10-30/ Comments URL: https://news.ycombinator.com/item?id=50303791 Points: 10 # Comments: 7",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-101b25f5f6a4f8bfff07",
+    "article": {
+      "title": "Fiber lasts decades, GPUs last three years: the AI boom isn't the dot-com boom [video]",
+      "url": "https://news.ycombinator.com/item?id=50302407",
+      "source": "Hacker News",
+      "published_at": "2026-10-30T11:16:15+00:00",
+      "short_snippet": "Article URL: https://www.youtube.com/watch?v=MENoB3Rex28 Comments URL: https://news.ycombinator.com/item?id=50302407 Points: 32 # Comments: 28",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-aad6aca4e7b384d79087",
+    "article": {
+      "title": "Anthropic hacked to deliver remote access trojan",
+      "url": "https://news.ycombinator.com/item?id=50301983",
+      "source": "Hacker News",
+      "published_at": "2026-10-30T10:22:51+00:00",
+      "short_snippet": "Article URL: https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2 Comments URL: https://news.ycombinator.com/item?id=50301983 Points: 312 # Comments: 58",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-4525437c46cedadfaccc",
+    "article": {
+      "title": "Google hit with criminal probe over unapproved AI data center deforestation — 816 acres of forest destroyed in Finland as wolves flee into local villages, facility threatens 40% power bill hikes",
+      "url": "https://www.reddit.com/r/technology/comments/1xjc5mk/google_hit_with_criminal_probe_over_unapproved_ai/",
+      "source": "Reddit",
+      "published_at": "2026-10-30T10:54:19+00:00",
+      "short_snippet": "submitted by /u/Miserable_Phase_2519 [link] [comments]",
+      "tags": [
+        "AI",
+        "資料中心",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e3324c9ea003ffe24025",
+    "article": {
+      "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
+      "url": "https://www.reddit.com/r/technology/comments/1xjb1y6/openai_doubles_chatgpt_pro_usage_limits_after/",
+      "source": "Reddit",
+      "published_at": "2026-10-30T09:49:12+00:00",
+      "short_snippet": "submitted by /u/Hi_all_hwru [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-25eead3ca5984164376a",
+    "article": {
+      "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
+      "url": "https://www.reddit.com/r/technology/comments/1xja1gi/google_value_plunges_by_500bn_as_ai_fears_rattle/",
+      "source": "Reddit",
+      "published_at": "2026-10-30T08:45:27+00:00",
+      "short_snippet": "submitted by /u/Naderium [link] [comments]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-75a4044e4e4c4f46bffb",
+    "article": {
+      "title": "OpenAI CEO Sam Altman says its “terrible to have everybody have a bunch of the world’s limited supply of DRAM” instead of shoving it all in datacentres",
+      "url": "https://www.reddit.com/r/technology/comments/1xjfjl6/openai_ceo_sam_altman_says_its_terrible_to_have/",
+      "source": "Reddit",
+      "published_at": "2026-10-30T13:34:56+00:00",
+      "short_snippet": "submitted by /u/Puzzleheaded_irl [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-7c6fa8fb8ef60351384d",
+    "article": {
+      "title": "TXOne Networks 推出 ServiceNow 整合，將企業弱點管理延伸至 OT 現場",
+      "url": "https://infosecu.technews.tw/2026/10/30/txone-networks-launches-servicenow-integration/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-30T12:30:21+00:00",
+      "short_snippet": "工控（ICS）與營運技術（OT）環境打造資安解決方案TXOne Networks 宣布，Vulnerabili […]",
+      "tags": [
+        "資料中心"
+      ]
+    }
   }
 ]
