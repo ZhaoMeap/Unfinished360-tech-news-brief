@@ -34031,5 +34031,780 @@
         "資料中心"
       ]
     }
+  },
+  {
+    "event_id": "evt-ff6320ee6be80c9fb290",
+    "article": {
+      "title": "Google Fitbit Edge: On shelves now",
+      "url": "https://blog.google/products-and-platforms/devices/fitbit/google-fitbit-edge-on-shelves-now/",
+      "source": "官方：Google",
+      "published_at": "2026-10-30T20:15:00+00:00",
+      "short_snippet": "Shop the new Google Fitbit Edge featuring a bright, large display and physical side buttons for easy control. Upgrade your fitness tracker today.",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c468748a949f72d4dc5f",
+    "article": {
+      "title": "See who has access to your Gmail inbox in 2 minutes.",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/google-security-checkup/",
+      "source": "官方：Google",
+      "published_at": "2026-10-30T16:00:00+00:00",
+      "short_snippet": "Run a quick Google Security Checkup and protect your email with three quick and easy steps.",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-91038b3a35f762ad5020",
+    "article": {
+      "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+      "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
+      "source": "官方：NVIDIA",
+      "published_at": "2026-10-30T15:00:10+00:00",
+      "short_snippet": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence took a major leap forward with AI, and it increasingly focuses on AI agents built by humans listening for AI agents […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-35348fba4514d3e373cb",
+    "article": {
+      "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+      "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+      "source": "The Verge",
+      "published_at": "2026-10-30T22:32:53+00:00",
+      "short_snippet": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December. This launch doesn't bring […]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-95ff5a86d48724455fcf",
+    "article": {
+      "title": "Exclusive details about Akai’s MPC Sample Key",
+      "url": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive",
+      "source": "The Verge",
+      "published_at": "2026-10-30T21:01:32+00:00",
+      "short_snippet": "Akai teased its new MPC Sample Key on Instagram earlier this week, and said it plans to open-source its software so the modding community can hack it to their hearts' delight. While there's no word yet on when the device will launch or how much it will cost, The Verge has received exclusive images of […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-7628f788d5556746c2c2",
+    "article": {
+      "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+      "source": "The Verge",
+      "published_at": "2026-10-30T20:48:43+00:00",
+      "short_snippet": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on math, Altman said: \"A lot of people want […]",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-af14fa00446d6e594174",
+    "article": {
+      "title": "The biggest names in AI are backing a new way to opt out of scraping",
+      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "source": "The Verge",
+      "published_at": "2026-10-30T20:26:10+00:00",
+      "short_snippet": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually. The shared \"policy token\" signal […]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-42e07c8bc5f2fdc0242f",
+    "article": {
+      "title": "Google’s satellite AI server transmits its first response to Earth",
+      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+      "source": "The Verge",
+      "published_at": "2026-10-30T18:21:38+00:00",
+      "short_snippet": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space: Blue marble below Data streams in […]",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-87551f71f78c7aab2150",
+    "article": {
+      "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+      "source": "The Verge",
+      "published_at": "2026-10-30T17:38:04+00:00",
+      "short_snippet": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating customers as they arrive, present personalized digital menus, and make payment more effortless,\" as spotted earlier by More […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-703f8968f4a353b5939c",
+    "article": {
+      "title": "The delightfully messy state of Apple gadgets",
+      "url": "https://www.theverge.com/podcast/1023194/the-delightfully-messy-state-of-apple-gadgets",
+      "source": "The Verge",
+      "published_at": "2026-10-30T17:25:20+00:00",
+      "short_snippet": "The iPhone has more screens! The MacBook has a touchscreen! The HomeView does CarPlay apps! For the first time in a long time, Apple is in a period of unabashed gadget experimentation, and while the final results aren't always perfect, it's fun to watch the most successful product maker try some new things again. Even […]",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a0020b028450b9366cd3",
+    "article": {
+      "title": "Google’s latest Nest Learning Thermostat is $60 off just in time for sweater weather",
+      "url": "https://www.theverge.com/gadgets/1022819/google-nest-learning-thermostat-4th-gen-casio-ws-b1000-watch-deal-sale",
+      "source": "The Verge",
+      "published_at": "2026-10-30T15:29:02+00:00",
+      "short_snippet": "As the weather cools, it may be worth investing in a smart thermostat to help lower your energy bills. Right now, Google’s fourth-gen Nest Learning Thermostat is on sale in all three colors for $219.99 ($60 off) at Amazon, Best Buy, and The Home Depot, matching its best price of the year and just $10 […]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b4603f424cb776057bc0",
+    "article": {
+      "title": "Nvidia moves beyond GPUs as Meta's Muse agent stack pulls it deeper into AI infrastructure",
+      "url": "https://www.digitimes.com/news/a20261028VL216/meta-infrastructure-nvidia-launch-security.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-30T23:35:09+00:00",
+      "short_snippet": "The launch of Muse in September across Meta's expanding agent ecosystem has highlighted how quickly AI agents are evolving beyond conventional chatbot architectures, bringing more complex operating requirements and increasingly diversified roles into the definition of what an AI agent can do.",
+      "tags": [
+        "AI",
+        "半導體",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-7c7c6357cfdfaa4c7455",
+    "article": {
+      "title": "TSIA 30: The manpower problem behind Taiwan's semiconductor resilience",
+      "url": "https://www.digitimes.com/news/a20261030VL224/taiwan-tsia-manufacturing-talent-technology.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-30T23:34:24+00:00",
+      "short_snippet": "Taiwan's semiconductor industry has earned its reputation for chip dominance through decades of sustained investment in solving some of the world's hardest technological challenges. That persistence has helped build a manufacturing ecosystem whose industrial density, specialization, and resilience remain difficult for competitors to replicate.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-990bd0916d1be8ace9e2",
+    "article": {
+      "title": "TSIA 30: Taiwan builds the AI backbone — but can it capture the AI economy?",
+      "url": "https://www.digitimes.com/news/a20261030VL222/taiwan-infrastructure-packaging-manufacturing-technology.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-30T23:34:04+00:00",
+      "short_snippet": "Taiwan already manufactures much of the physical infrastructure on which the AI boom depends. Advanced logic, packaging, substrates, testing, power delivery, cooling, and server assembly can all be sourced through an unusually dense industrial base.",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-7a765dda465a03a66658",
+    "article": {
+      "title": "Marvell-Lumentum talks put optical supply chain in focus",
+      "url": "https://www.digitimes.com/news/a20261030PD240/marvell-acquisition-communications-supply-chain-apple.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-30T23:33:24+00:00",
+      "short_snippet": "Marvell is reportedly in talks to acquire Lumentum, drawing attention across the optical communications supply chain. The deal would offer strong strategic synergies, particularly through Lumentum's expertise in critical optical transceiver components, but Lumentum's size and its contracts with major customers, including Apple, could make the acquisition difficult.",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-1b7d9f42b1db0855a521",
+    "article": {
+      "title": "AUO targets major revenue contribution from optical engines, glass core substrates within 2 to 3 years",
+      "url": "https://www.digitimes.com/news/a20261030PD233/auo-revenue-communications-packaging-transmission.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-30T23:32:31+00:00",
+      "short_snippet": "AUO is accelerating its strategic push into optical communications and advanced semiconductor packaging, establishing optical engines and glass core substrates (GCS) as its two primary technological pillars. According to AUO chairman and CEO Paul Peng, while these technologies are still in their early phases and specific operational targets have yet to be finalized, they are projected to make sign",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c47ad14b02a4aa21ed9f",
+    "article": {
+      "title": "Analysis: Elon Musk, Jensen Huang clash over neocloud survival",
+      "url": "https://www.digitimes.com/news/a20261030PD229/elon-musk-jensen-huang-outlook-demand-ceo.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-30T23:31:07+00:00",
+      "short_snippet": "The outlook for AI neocloud providers has sparked a clash between Tesla CEO Elon Musk, who warned that more than 200 such companies could face large-scale failures or consolidation, and Nvidia CEO Jensen Huang, who said during an interview at the GTC Berlin conference that demand for neocloud services has exceeded expectations and current funding shortages will eventually be resolved.",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f0adbdb9e408b8ec7182",
+    "article": {
+      "title": "Global smartphone shipments fall 14% as brands launch more 5G models",
+      "url": "https://www.digitimes.com/news/a20261030PD228/smartphone-shipments-5g-2026-demand.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-30T23:30:43+00:00",
+      "short_snippet": "Global smartphone shipments fell an estimated 14% year-over-year in the first three quarters of 2026, even as the number of new 5G smartphone models rose 18.4%, according to DIGITIMES Intelligence. The figures show a divergence between new model launches and actual shipment volumes.",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e1065f72b85fc6eecd9c",
+    "article": {
+      "title": "MediaTek raises ASIC outlook as fourth-quarter revenue could jump 32%",
+      "url": "https://www.digitimes.com/news/a20261030PD245/revenue-mediatek-asic-outlook-2026.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-30T23:30:16+00:00",
+      "short_snippet": "MediaTek reported third-quarter 2026 revenue of NT$168.06 billion (US$5.17 billion), up 10.4% quarter-over-quarter (QoQ) and 18.3% year-over-year, and projected fourth-quarter revenue growth of as much as 32% on accelerating shipments of AI accelerator application-specific integrated circuits (ASICs). The Taiwanese IC design company disclosed the results and outlook at an investor conference on Oc",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-dd875e6cc1476a41a38a",
+    "article": {
+      "title": "TSIA 30: AI is breaking the sequential supply chain — Taiwan may be built for what comes next",
+      "url": "https://www.digitimes.com/news/a20261030VL220/taiwan-supply-chain-tsia-hardware-development.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-30T23:30:00+00:00",
+      "short_snippet": "The AI hardware race is usually measured in nanometers, memory bandwidth, and accelerator performance. But another constraint is emerging much earlier in the development process: whether dozens of specialized suppliers can move fast enough together.",
+      "tags": [
+        "AI",
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-7ad4ed6d68adb3a2893b",
+    "article": {
+      "title": "Compeq plans sustained investment as AI infrastructure, LEO satellite demand grows",
+      "url": "https://www.digitimes.com/news/a20261030PD230/compeq-manufacturing-demand-infrastructure-revenue-capacity.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-30T23:29:35+00:00",
+      "short_snippet": "Compeq Manufacturing is reshaping its product portfolio and expanding capacity in Taiwan and overseas as demand rises for AI data center infrastructure and next-generation low Earth orbit satellite products. It plans annual capex above NT$20 billion (US$616.96 million) from 2026 through 2028, as revenue reaches record levels across its key markets.",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-05b988348032eaf5b86e",
+    "article": {
+      "title": "Ibiden expands AI packaging substrate capacity for Intel from 2029",
+      "url": "https://www.digitimes.com/news/a20261030PD223/ibiden-substrate-packaging-2026-capacity.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-30T23:29:18+00:00",
+      "short_snippet": "Ibiden on October 29 raised its fiscal 2026 forecast, projecting consolidated net profit to rise 40% year-over-year to JPY89 billion (US$563 million) and revenue to increase 36% to JPY565 billion. The company also announced an additional JPY151 billion in capital investment to expand advanced IC packaging substrate capacity for generative AI servers and CPUs.",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-8094455bff289889cc28",
+    "article": {
+      "title": "Renesas expands AI data center capacity, targets 33.2% margin in 2026",
+      "url": "https://www.digitimes.com/news/a20261030PD222/renesas-2026-revenue-capacity-demand.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-30T23:28:59+00:00",
+      "short_snippet": "Japan’s Renesas Electronics expects strong demand for AI data centers, industrial applications, and automotive semiconductors to drive 2026 revenue to JPY1.6668 trillion (US$10.55 billion), up 26.4% year-over-year, with its operating margin rising to 33.2%, according to its third-quarter 2026 earnings report.",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f263f358348527e88c18",
+    "article": {
+      "title": "Infineon's 300mm GaN push turns Europe's power-chip strength into an AI infrastructure bet",
+      "url": "https://www.digitimes.com/news/a20261028VL223/gan-300mm-infineon-infrastructure-europe.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-30T23:28:25+00:00",
+      "short_snippet": "The aggressive deployment of infrastructure-scale AI projects is rapidly driving up compute demand as chip architectures continue to scale across an expanding ecosystem of data-center racks. At the same time, sustaining those massive buildouts is pushing one of the industry's most critical bottlenecks beyond raw compute toward power delivery and thermal efficiency.",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ca4acda404ec74b9164d",
+    "article": {
+      "title": "DIGITIMES Insight: Arm extends from IP licensing to server CPU products, with strong growth potential in China",
+      "url": "https://www.digitimes.com/news/a20261029PD227/ai-server-cpu-arm-ip-licensing-digitimes.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-30T18:59:00+00:00",
+      "short_snippet": "Arm is expanding its business model from licensing Neoverse core IP and compute subsystem (CSS) technologies to selling finished server CPUs for artificial general intelligence (AGI) applications. Meta is a co-developer and primary customer, while OpenAI also plans to adopt the products. Customers can purchase processors directly, reducing the time and cost required to develop and deploy their own",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-601992c65e69c0bd3db4",
+    "article": {
+      "title": "Interview: Why this Taiwan mmWave maker chose to sidestep SpaceX and look to niche markets for demand",
+      "url": "https://www.digitimes.com/news/a20261027PD227/communications-mmwave-market-demand-technology.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-10-30T16:41:00+00:00",
+      "short_snippet": "Millimeter-wave (mmWave) technology was previously used mainly in military and aerospace applications, where costs were extremely high. Now, as high-frequency communications and non-terrestrial network (NTN) technologies gain momentum, new opportunities are opening up across the communications industry.",
+      "tags": [
+        "資料中心",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-22123fcf5f025a9ad601",
+    "article": {
+      "title": "AI isn't replacing SREs, it's deskilling them",
+      "url": "https://news.ycombinator.com/item?id=50305693",
+      "source": "Hacker News",
+      "published_at": "2026-10-30T15:52:18+00:00",
+      "short_snippet": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 566 # Comments: 411",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-195a952f4a47184fee40",
+    "article": {
+      "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+      "url": "https://news.ycombinator.com/item?id=50304122",
+      "source": "Hacker News",
+      "published_at": "2026-10-30T14:08:20+00:00",
+      "short_snippet": "Article URL: https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/ Comments URL: https://news.ycombinator.com/item?id=50304122 Points: 153 # Comments: 191",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-280d1d85b28befea4853",
+    "article": {
+      "title": "Turning a solar power system into its own backup",
+      "url": "https://news.ycombinator.com/item?id=50293437",
+      "source": "Hacker News",
+      "published_at": "2026-10-29T18:10:33+00:00",
+      "short_snippet": "Article URL: https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/ Comments URL: https://news.ycombinator.com/item?id=50293437 Points: 44 # Comments: 15",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-7b9df105ba5fb83045fe",
+    "article": {
+      "title": "OpenAI CEO says it's 'quite terrible' for your PC to have RAM",
+      "url": "https://www.reddit.com/r/technology/comments/1xjmixe/openai_ceo_says_its_quite_terrible_for_your_pc_to/",
+      "source": "Reddit",
+      "published_at": "2026-10-30T17:59:02+00:00",
+      "short_snippet": "submitted by /u/Mountain_Till_5868 [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-8fcdc1dc563bb2277139",
+    "article": {
+      "title": "Anthropic Nerfs Claude Again To Stop Users From Making AI Slop Out Of Any ‘Specific Existing Game’",
+      "url": "https://www.reddit.com/r/technology/comments/1xjvvfc/anthropic_nerfs_claude_again_to_stop_users_from/",
+      "source": "Reddit",
+      "published_at": "2026-10-31T00:17:25+00:00",
+      "short_snippet": "submitted by /u/Logical_Welder3467 [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-684cfd3448544879212a",
+    "article": {
+      "title": "Cisco gives 27-year-old engineer unlimited AI tokens to rewrite 98% of the company's legacy code in 24 months — president plucks former startup founder, telling him to 'go nuts'",
+      "url": "https://www.reddit.com/r/technology/comments/1xjn25u/cisco_gives_27yearold_engineer_unlimited_ai/",
+      "source": "Reddit",
+      "published_at": "2026-10-30T18:18:42+00:00",
+      "short_snippet": "submitted by /u/screw-britannia [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3db47c5a966567288d16",
+    "article": {
+      "title": "OpenAI CEO Sam Altman Thinks It's 'Terrible' for You to Have RAM in Your Gaming PC",
+      "url": "https://www.reddit.com/r/technology/comments/1xjqfvx/openai_ceo_sam_altman_thinks_its_terrible_for_you/",
+      "source": "Reddit",
+      "published_at": "2026-10-30T20:27:34+00:00",
+      "short_snippet": "submitted by /u/Bill3000 [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-7811aacd4bc2d6bacf81",
+    "article": {
+      "title": "\"Morale has been terrible\" at EA, workers claim, saying that AI mandates and mismanagement have left the company \"a cold dead place that's slowly decaying as leadership pilfers every last cent\"",
+      "url": "https://www.reddit.com/r/technology/comments/1xjvhgx/morale_has_been_terrible_at_ea_workers_claim/",
+      "source": "Reddit",
+      "published_at": "2026-10-31T00:00:27+00:00",
+      "short_snippet": "submitted by /u/ControlCAD [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3f2fed4f584c5d974665",
+    "article": {
+      "title": "Intel on course for worst day ever, triggers global chip rout",
+      "url": "https://www.reddit.com/r/technology/comments/1xjr5mw/intel_on_course_for_worst_day_ever_triggers/",
+      "source": "Reddit",
+      "published_at": "2026-10-30T20:56:19+00:00",
+      "short_snippet": "submitted by /u/talkingatoms [link] [comments]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6d6e8bc5b4c6c06cc47b",
+    "article": {
+      "title": "Computer Science Programs Lose Students as AI Replaces Jobs",
+      "url": "https://www.reddit.com/r/technology/comments/1xjx5b5/computer_science_programs_lose_students_as_ai/",
+      "source": "Reddit",
+      "published_at": "2026-10-31T01:15:09+00:00",
+      "short_snippet": "submitted by /u/Just-Grocery-2229 [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c03fd324e665c4da4547",
+    "article": {
+      "title": "Nvidia store quietly pulls the RTX 5080 following RTX 5090 removal — street prices climb to 2.2X MSRP | Out-of-control pricing and soon completely out of stock",
+      "url": "https://www.reddit.com/r/technology/comments/1xk1j63/nvidia_store_quietly_pulls_the_rtx_5080_following/",
+      "source": "Reddit",
+      "published_at": "2026-10-31T05:03:18+00:00",
+      "short_snippet": "submitted by /u/ControlCAD [link] [comments]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-da03be3fdbaa82565779",
+    "article": {
+      "title": "Nearly One In Five White House Press Releases Show Signs Of AI",
+      "url": "https://www.reddit.com/r/technology/comments/1xju5m9/nearly_one_in_five_white_house_press_releases/",
+      "source": "Reddit",
+      "published_at": "2026-10-30T23:01:54+00:00",
+      "short_snippet": "submitted by /u/Just-Grocery-2229 [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d5a96cf364a73a3a1620",
+    "article": {
+      "title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
+      "url": "https://www.reddit.com/r/technology/comments/1xjlrgx/thousands_of_ghost_students_use_ai_to_steal/",
+      "source": "Reddit",
+      "published_at": "2026-10-30T17:30:25+00:00",
+      "short_snippet": "submitted by /u/Hi_all_hwru [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ac5c73b036c5ae3fca42",
+    "article": {
+      "title": "Proton’s CEO Cancels AI ‘Re-Interviews’ | The move came after 404 Media published an investigation into how Proton CEO Andy Yen was aggressively pushing AI across Proton despite security concerns and the culture of fear ",
+      "url": "https://www.reddit.com/r/technology/comments/1xjpqi7/protons_ceo_cancels_ai_reinterviews_the_move_came/",
+      "source": "Reddit",
+      "published_at": "2026-10-30T20:00:55+00:00",
+      "short_snippet": "submitted by /u/ControlCAD [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-df0b1c9c6512778d6bb1",
+    "article": {
+      "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone tells investors",
+      "url": "https://www.reddit.com/r/technology/comments/1xjr20m/anthropic_may_not_secure_investmentgrade_rating/",
+      "source": "Reddit",
+      "published_at": "2026-10-30T20:52:14+00:00",
+      "short_snippet": "submitted by /u/FallenVampireLord [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-7054ce55161b722274ee",
+    "article": {
+      "title": "Anthropic spent $2.75 million guarding Dario Amodei last year—more than 4 times his salary, but a fraction of Mark Zuckerberg's security bill",
+      "url": "https://www.reddit.com/r/technology/comments/1xjkrjx/anthropic_spent_275_million_guarding_dario_amodei/",
+      "source": "Reddit",
+      "published_at": "2026-10-30T16:54:38+00:00",
+      "short_snippet": "submitted by /u/Just-Grocery-2229 [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-869014b81cc7bf413692",
+    "article": {
+      "title": "Build a Validated Kubernetes Runtime for NVIDIA Dynamo",
+      "url": "https://developer.nvidia.com/blog/build-a-validated-kubernetes-runtime-for-nvidia-dynamo/",
+      "source": "官方：NVIDIA Developer",
+      "published_at": "2026-10-30T21:35:31+00:00",
+      "short_snippet": "Teams building AI applications need a repeatable path from a model configuration to a working inference endpoint. NVIDIA Dynamo is a distributed inference...",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-cfb4189f31938d74a87f",
+    "article": {
+      "title": "Run AI Models for Edge Application Development with Just a Few Commands",
+      "url": "https://developer.nvidia.com/blog/run-ai-models-for-edge-application-development-with-just-a-few-commands/",
+      "source": "官方：NVIDIA Developer",
+      "published_at": "2026-10-30T20:33:18+00:00",
+      "short_snippet": "AI is expanding beyond the data center as developers build a new generation of agents to act at the edge: monitoring driver attention and cabin conditions,...",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b0afceb347e7b188bf46",
+    "article": {
+      "title": "Build Specialized Agents on a Stack You Control with NVIDIA NemoClaw",
+      "url": "https://developer.nvidia.com/blog/build-specialized-agents-on-a-stack-you-control-with-nvidia-nemoclaw/",
+      "source": "官方：NVIDIA Developer",
+      "published_at": "2026-10-30T16:00:00+00:00",
+      "short_snippet": "Building an autonomous agent requires a model, a harness, and domain-specific tools. To deploy an agent more securely, developers need a runtime that enforces...",
+      "tags": [
+        "AI",
+        "半導體",
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-457063de4ee2957a09d5",
+    "article": {
+      "title": "How to Check and Configure NVIDIA GPUDirect Storage for Your Platform",
+      "url": "https://developer.nvidia.com/blog/how-to-check-and-configure-nvidia-gpudirect-storage-for-your-platform/",
+      "source": "官方：NVIDIA Developer",
+      "published_at": "2026-10-30T15:01:36+00:00",
+      "short_snippet": "NVIDIA GPUDirect Storage (GDS) accelerates GPU storage access in on-premises and cloud environments. It provides a robust, portable, and efficient data path...",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f58df6b4251ad9c288f0",
+    "article": {
+      "title": "Intel Q3 2026 Earnings Data Center Soars While PC Faces Memory Pressure",
+      "url": "https://www.servethehome.com/intel-q3-2026-earnings-data-center-foundry-client/",
+      "source": "ServeTheHome",
+      "published_at": "2026-10-30T22:43:29+00:00",
+      "short_snippet": "Intel's Q3 2026 earnings highlighted how well the data center segment is doing and how rough the client segment is due to DRAM and NAND pricing The post Intel Q3 2026 Earnings Data Center Soars While PC Faces Memory Pressure appeared first on ServeTheHome .",
+      "tags": [
+        "半導體",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3100afdf1acddbbc9a60",
+    "article": {
+      "title": "鎖定 AI 伺服器 MLCC 需求！村田製作所未來五年擬砸 1 兆日圓擴產",
+      "url": "https://technews.tw/2026/10/31/murata-invest-6-3bn-in-capacitor-production/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-31T06:27:04+00:00",
+      "short_snippet": "據日經報導，日本村田製作所將在未來 5 年投入 1 兆日圓（約 63 億美元），以因應人工智慧（AI）伺服器及 […]",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-1c3537663143f0e66862",
+    "article": {
+      "title": "台達電 AI 訂單能見度高但出貨時點變動大，鄭平稱庫存增加屬階段性現象",
+      "url": "https://finance.technews.tw/2026/10/31/delta-electronics-ai-orders-high-visibility-shipment-timing-highly-variable/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-31T06:00:19+00:00",
+      "short_snippet": "台達電上半年股價曾漲破 2,500 元，截至 10 月底卻跌掉四成，不少散戶都在關注背後原因，好奇近期會翻身嗎 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f6df8c84d8699eff22c5",
+    "article": {
+      "title": "韓國品牌搶攻海外都靠社群行銷！新創推 AI 代理自動對接 72 國網紅",
+      "url": "https://finance.technews.tw/2026/10/31/social-media-key-to-success-for-k-brands-ai-expert-says/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-31T06:00:19+00:00",
+      "short_snippet": "商務 AI 轉型（AX）解決方案開發商 Indent 創辦人暨執行長 Seldon Yoon 10 月 27 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d41c8fb35064f6a3855e",
+    "article": {
+      "title": "AI 聊天機器人回應科技虐待提問 86% 有問題，換個說法甚至轉成協助跟蹤者",
+      "url": "https://infosecu.technews.tw/2026/10/31/ai-chatbots-are-falling-prey-to-manipulative-prompts-that-could-help-stalkers-spy-on-victims/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-31T03:30:17+00:00",
+      "short_snippet": "遭跟蹤或控制的受害者向 AI 聊天機器人求助，得到的建議可能不但無效，甚至更危險。美國紐約大學坦登工程學院（N […]",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-9829eee512e34e38079c",
+    "article": {
+      "title": "批 PC 配大量 DRAM「相當糟糕」！Sam Altman：應優先配置 AI 資料中心",
+      "url": "https://technews.tw/2026/10/31/openai-ceo-sam-altman-talk-about-dram/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-31T01:23:40+00:00",
+      "short_snippet": "OpenAI 執行長 Sam Altman 近日談及 AI 運算資源配置時，直言一般消費者將大量 DRAM 配 […]",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b95ba82f318f30d634bc",
+    "article": {
+      "title": "前三季營收翻倍衝刺轉上市，通寶從高通技術打底跨界布局 ASIC 與無人機晶片",
+      "url": "https://finance.technews.tw/2026/10/31/qbit-semiconductor-ltd/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-31T01:00:34+00:00",
+      "short_snippet": "沈軾榮 2016 年承接高通事務機影像處理技術團隊，準備承擔 5 年虧損；如今在核心事業穩定成長下，通寶正把技 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-1044f20c62a299c52e1a",
+    "article": {
+      "title": "英特爾股價大崩 30%！恐創史上最大單日跌幅，全球晶片股跟著下殺",
+      "url": "https://finance.technews.tw/2026/10/31/intel-stock-chip/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-31T00:54:03+00:00",
+      "short_snippet": "英特爾週五（30 日）股價重挫 30%，恐創下史上最大單日跌幅，科技股賣壓進一步擴大。由於 PC 需求疲軟，加 […]",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-68c8650e13d582318008",
+    "article": {
+      "title": "個案用 AI 打造心理諮商師「分身」，專家提醒恐混淆療程並延誤治療",
+      "url": "https://technews.tw/2026/10/31/using-an-ai-persona-to-impersonate-your-therapist-so-you-can-get-inside-their-head/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-31T00:30:16+00:00",
+      "short_snippet": "愈來愈多民眾向生成式 AI 尋求心理健康建議，如今更出現新用法：正在接受心理治療的個案，利用 AI 角色扮演（ […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6893c20798f5f211a309",
+    "article": {
+      "title": "不沾鍋塗料「鐵氟龍」為何成為輝達機櫃新歡？黃仁勳新賭注或讓兩岸 PCB 廠版圖重新洗牌",
+      "url": "https://technews.tw/2026/10/31/nvidia-love-ptfe/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-31T00:00:34+00:00",
+      "short_snippet": "為突破 AI 傳輸極限，輝達強推新材料 PTFE 進入伺服器 PCB 板，但「不沾」特性卻讓產線陷入困境，台廠 […]",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-aec5e9f20da3329a307a",
+    "article": {
+      "title": "AI 提前 15 個月預警「癌王」胰臟癌，敏感度高達 73% 遠勝傳統判讀",
+      "url": "https://technews.tw/2026/10/31/ai-early-detection-pancreatic-cancer/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-30T16:00:44+00:00",
+      "short_snippet": "一項最新研究指出，人工智慧（AI）技術可能讓胰臟癌的偵測時間大幅提前。研究團隊開發的系統「REDMOD」，能從 […]",
+      "tags": [
+        "AI"
+      ]
+    }
   }
 ]
