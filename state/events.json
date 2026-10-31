@@ -34820,5 +34820,151 @@
         "產品與平台"
       ]
     }
+  },
+  {
+    "event_id": "evt-59c5e21d20d1b97352d1",
+    "article": {
+      "title": "AI startup hacks Anthropic, gains access to employee details, internal messages",
+      "url": "https://news.ycombinator.com/item?id=50315990",
+      "source": "Hacker News",
+      "published_at": "2026-10-31T13:25:10+00:00",
+      "short_snippet": "Article URL: https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26 Comments URL: https://news.ycombinator.com/item?id=50315990 Points: 4 # Comments: 0",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-04af133e5d9f3c3b3f1d",
+    "article": {
+      "title": "Why Anthropic's Filing Crushed Tech Stocks",
+      "url": "https://news.ycombinator.com/item?id=50315574",
+      "source": "Hacker News",
+      "published_at": "2026-10-31T12:32:10+00:00",
+      "short_snippet": "Article URL: https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech Comments URL: https://news.ycombinator.com/item?id=50315574 Points: 11 # Comments: 10",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-df2d2b0674ffe9f3e3e4",
+    "article": {
+      "title": "We Took over ChatGPT Accounts",
+      "url": "https://news.ycombinator.com/item?id=50314699",
+      "source": "Hacker News",
+      "published_at": "2026-10-31T10:30:11+00:00",
+      "short_snippet": "Article URL: https://www.parameter.ai/labs/we-found-a-gap-at-openai Comments URL: https://news.ycombinator.com/item?id=50314699 Points: 75 # Comments: 32",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-658d5060beb0e400c0ef",
+    "article": {
+      "title": "Apple Alerts Stores to iPhone Duo's Display Cracking Issue",
+      "url": "https://www.reddit.com/r/technology/comments/1xk487v/apple_alerts_stores_to_iphone_duos_display/",
+      "source": "Reddit",
+      "published_at": "2026-10-31T07:49:40+00:00",
+      "short_snippet": "submitted by /u/Hi_all_hwru [link] [comments]",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c2affe9b24e22859e46f",
+    "article": {
+      "title": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
+      "url": "https://www.reddit.com/r/technology/comments/1xk4jzu/mistral_says_its_ai_model_le_chonk_has/",
+      "source": "Reddit",
+      "published_at": "2026-10-31T08:10:57+00:00",
+      "short_snippet": "submitted by /u/sakhaliner [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a492448c093048b97008",
+    "article": {
+      "title": "Tech sell-off drives US markets down by nearly $1 trillion after subpar earnings reports — Big tech stocks falter as investors question whether billions being poured into AI can generate returns quickly enough",
+      "url": "https://www.reddit.com/r/technology/comments/1xk773d/tech_selloff_drives_us_markets_down_by_nearly_1/",
+      "source": "Reddit",
+      "published_at": "2026-10-31T10:54:35+00:00",
+      "short_snippet": "submitted by /u/marketrent [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-62b1dafad953999782b3",
+    "article": {
+      "title": "Plans for a data center threaten scenic wilderness and dark skies in West Virginia",
+      "url": "https://www.reddit.com/r/technology/comments/1xk7m6s/plans_for_a_data_center_threaten_scenic/",
+      "source": "Reddit",
+      "published_at": "2026-10-31T11:17:35+00:00",
+      "short_snippet": "submitted by /u/zsreport [link] [comments]",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-60c8a52479abfbbbb657",
+    "article": {
+      "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
+      "url": "https://www.reddit.com/r/technology/comments/1xk94u4/anthropics_claude_ai_blocks_video_game_cloning/",
+      "source": "Reddit",
+      "published_at": "2026-10-31T12:37:31+00:00",
+      "short_snippet": "submitted by /u/Miserable_Phase_2519 [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0c707e8772cd69deb7dd",
+    "article": {
+      "title": "A University of Kentucky employee asked to be exempted from using AI for his 'religious' beliefs",
+      "url": "https://www.reddit.com/r/technology/comments/1xk8xlz/a_university_of_kentucky_employee_asked_to_be/",
+      "source": "Reddit",
+      "published_at": "2026-10-31T12:27:33+00:00",
+      "short_snippet": "submitted by /u/AdSpecialist6598 [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d63e4f9ce48f46872809",
+    "article": {
+      "title": "蘑菇 AI 陪伴機器人 Mori 亮相，不說話也沒有螢幕、主打找回注意力",
+      "url": "https://technews.tw/2026/10/31/mori-might-be-the-cutest-ai-companion-robot-yet-and-it-reacts-to-you-like-a-pet/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-31T09:00:02+00:00",
+      "short_snippet": "新創公司 OKA（One Kind Artifact）10 月 22 日發表首款產品「Mori」。Mori 外 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-77cda2cb32275a69abc4",
+    "article": {
+      "title": "科林研發、imec 擴大合作！布局 High-NA EUV 乾式光阻，加速量產進程",
+      "url": "https://technews.tw/2026/10/31/lam-imec-collaboration/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-10-31T08:18:58+00:00",
+      "short_snippet": "人工智慧（AI）運算需求持續攀升，半導體產業的技術競爭已從電晶體微縮，進一步延伸至先進封裝、3D 整合及新世代 […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
   }
 ]
