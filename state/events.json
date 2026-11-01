@@ -34966,5 +34966,311 @@
         "半導體"
       ]
     }
+  },
+  {
+    "event_id": "evt-5661ba9f7e14bb384725",
+    "article": {
+      "title": "Get in the spirit with these horrors from YouTube",
+      "url": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
+      "source": "The Verge",
+      "published_at": "2026-10-31T21:06:58+00:00",
+      "short_snippet": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube. There's a little something for everyone here. Whether you're a fan of surreal art house shorts, cosmic horror, or […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-2f89173793d28b3fab7a",
+    "article": {
+      "title": "Happy Pikmin Day Eve",
+      "url": "https://www.theverge.com/games/1024085/happy-pikmin-day-eve",
+      "source": "The Verge",
+      "published_at": "2026-10-31T17:50:12+00:00",
+      "short_snippet": "This morning, Nintendo announced that tomorrow, November 1st, would be the first annual Pikmin Day. As part of the short Pikmin Day Direct, Shigeru Miyamoto shared new info about Pikmin 4 for the Switch 2, as well as an update for the mobile app Pikmin Bloom, and announced the Hello! Pikmin series of shorts. Players […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-8734052d0cd6131314b5",
+    "article": {
+      "title": "I built an AI Tamagotchi before Meta could",
+      "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+      "source": "The Verge",
+      "published_at": "2026-10-31T16:05:00+00:00",
+      "short_snippet": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It […]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c227af10fdf084ee9ef8",
+    "article": {
+      "title": "Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders",
+      "url": "https://www.theverge.com/gadgets/1023302/best-buy-gift-card-macbook-pro-proled-xdr-preorder-deal-sale",
+      "source": "The Verge",
+      "published_at": "2026-10-31T15:00:00+00:00",
+      "short_snippet": "While the new touch-enabled MacBook Pro with the PROLED XDR screen is available for preorder across a few major retailers, Best Buy is sweetening the deal by including a $100 gift card. The gift card will be automatically added to your cart when you preorder one of Apple’s highest-end laptops available in 14- or 16-inch […]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ec26a1b80f94f55827bc",
+    "article": {
+      "title": "Vic Mensa can’t live without the Voice Memos app",
+      "url": "https://www.theverge.com/entertainment/1023477/vic-mensa-voice-memos-app-interview",
+      "source": "The Verge",
+      "published_at": "2026-10-31T15:00:00+00:00",
+      "short_snippet": "Vic Mensa is one of those people who has done so many things that it's hard to remember where you were first introduced to him. Was it his debut mixtape Innanetape, which finally hit the major streaming services for the first time in September? Or maybe his house-influenced single \"Down On My Luck\"? Maybe you […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-832937ed0d78aa4da536",
+    "article": {
+      "title": "Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",
+      "url": "https://news.ycombinator.com/item?id=50321522",
+      "source": "Hacker News",
+      "published_at": "2026-11-01T00:10:30+00:00",
+      "short_snippet": "Hi HN, I kept wiring Ben Eater's 8-bit computer wrong, so I built a realistic virtual breadboard editor. Some of the nice features are side-by-side diff, scope, schematics auto-sync, auto-router (BBRouter stands for breadboard router), and my favorites: upload from the real Arduino IDE and connect to your AI with MCP, let Claude & co build it or help you troubleshoot. The link is the SAP-1 running",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-cd03fd099e810268809e",
+    "article": {
+      "title": "AI text watermarking and quality loss",
+      "url": "https://news.ycombinator.com/item?id=50320599",
+      "source": "Hacker News",
+      "published_at": "2026-10-31T21:50:13+00:00",
+      "short_snippet": "Article URL: https://blog.keyvan.net/p/ai-text-watermarking-and-quality Comments URL: https://news.ycombinator.com/item?id=50320599 Points: 25 # Comments: 5",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b51bdcca7152d6d3aa59",
+    "article": {
+      "title": "Anthropic blocks users for anything touching training larger models",
+      "url": "https://news.ycombinator.com/item?id=50319358",
+      "source": "Hacker News",
+      "published_at": "2026-10-31T19:39:19+00:00",
+      "short_snippet": "Article URL: https://twitter.com/jiahaoshao1/status/2116475922190922088 Comments URL: https://news.ycombinator.com/item?id=50319358 Points: 210 # Comments: 118",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-96f7e9b716ae098e09ff",
+    "article": {
+      "title": "It's the memory latency, stupid",
+      "url": "https://news.ycombinator.com/item?id=50318720",
+      "source": "Hacker News",
+      "published_at": "2026-10-31T18:38:16+00:00",
+      "short_snippet": "Article URL: https://pivotlake.io/blog/its-the-memory-latency-stupid/ Comments URL: https://news.ycombinator.com/item?id=50318720 Points: 133 # Comments: 42",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d155a87b72f793634b48",
+    "article": {
+      "title": "Show HN: A language model that lives in a boot sector",
+      "url": "https://news.ycombinator.com/item?id=50315782",
+      "source": "Hacker News",
+      "published_at": "2026-10-31T12:58:29+00:00",
+      "short_snippet": "All the ideas came from the boot sector demo scene where people had been writing chess and BASIC games in 512 bytes, even a C compiler. I wondered what one can do using a neural network instead of a program and generating boot logs for non-existent hardware was something fun to try. Entire inference engine is 510 bytes of MBR, weights, vocab, and strings reside in the sectors following MBR. Small ",
+      "tags": [
+        "資料中心",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-534b30461ff72f3ac70c",
+    "article": {
+      "title": "Reddit will soon force users to log in as Google search traffic drops by more than 1 million referrals a week",
+      "url": "https://www.reddit.com/r/technology/comments/1xki4m4/reddit_will_soon_force_users_to_log_in_as_google/",
+      "source": "Reddit",
+      "published_at": "2026-10-31T18:49:04+00:00",
+      "short_snippet": "submitted by /u/AdSpecialist6598 [link] [comments]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0ea754148b95537b9b45",
+    "article": {
+      "title": "AI Data Centers Could Erase 15 Years of America's Climate Progress by 2030",
+      "url": "https://www.reddit.com/r/technology/comments/1xkfac2/ai_data_centers_could_erase_15_years_of_americas/",
+      "source": "Reddit",
+      "published_at": "2026-10-31T16:56:18+00:00",
+      "short_snippet": "submitted by /u/IKeepItLayingAround [link] [comments]",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e236721d0147c731118e",
+    "article": {
+      "title": "Tech stocks wipe out $1 trillion in value as concerns deepen about the AI boom",
+      "url": "https://www.reddit.com/r/technology/comments/1xknnvn/tech_stocks_wipe_out_1_trillion_in_value_as/",
+      "source": "Reddit",
+      "published_at": "2026-10-31T22:51:42+00:00",
+      "short_snippet": "submitted by /u/Playful_Leg7143 [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d3aa8445d6558508ec5e",
+    "article": {
+      "title": "Apple Launches Touchscreen MacBook, Users Say 'Steve Jobs Wouldn’t Approve'",
+      "url": "https://www.reddit.com/r/technology/comments/1xkmob8/apple_launches_touchscreen_macbook_users_say/",
+      "source": "Reddit",
+      "published_at": "2026-10-31T22:04:47+00:00",
+      "short_snippet": "submitted by /u/Hi_all_hwru [link] [comments]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-1d6f879f053062c89bee",
+    "article": {
+      "title": "Intel shifts production capacity from consumer to server CPUs in face of 'unprecedented' AI demand — company navigating 'one of the most significant supply shortages in history'",
+      "url": "https://www.reddit.com/r/technology/comments/1xkpdsv/intel_shifts_production_capacity_from_consumer_to/",
+      "source": "Reddit",
+      "published_at": "2026-11-01T00:14:26+00:00",
+      "short_snippet": "submitted by /u/Logical_Welder3467 [link] [comments]",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-78d9e18fda0c4704b1e1",
+    "article": {
+      "title": "Reddit (and everyone else) faces a bleak internet without Google traffic",
+      "url": "https://www.reddit.com/r/technology/comments/1xk9fjx/reddit_and_everyone_else_faces_a_bleak_internet/",
+      "source": "Reddit",
+      "published_at": "2026-10-31T12:52:25+00:00",
+      "short_snippet": "submitted by /u/Hi_all_hwru [link] [comments]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-13b5cb5b45e1c8f5f5ff",
+    "article": {
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "url": "https://www.reddit.com/r/technology/comments/1xkqchy/judge_allows_naacp_lawsuit_over_xai_data_center/",
+      "source": "Reddit",
+      "published_at": "2026-11-01T01:04:07+00:00",
+      "short_snippet": "submitted by /u/Hi_all_hwru [link] [comments]",
+      "tags": [
+        "資料中心",
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f13c6b33995742bf97c5",
+    "article": {
+      "title": "French lawmakers approve $11.2 billion internet tax based on traffic usage, costs $0.06 per gigabyte of content accessed — U.S tech giants like Google and Meta face new levies on content delivered to French subscribers",
+      "url": "https://www.reddit.com/r/technology/comments/1xkfw9p/french_lawmakers_approve_112_billion_internet_tax/",
+      "source": "Reddit",
+      "published_at": "2026-10-31T17:20:13+00:00",
+      "short_snippet": "submitted by /u/ControlCAD [link] [comments]",
+      "tags": [
+        "Big Tech",
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-4256795874d04fb392b6",
+    "article": {
+      "title": "Pope Leo calls for the disarmament of AI: ‘the future of AI is not pre-determined; machines are tools, not people; certain decisions cannot ever be delegated’",
+      "url": "https://www.reddit.com/r/technology/comments/1xk7dk0/pope_leo_calls_for_the_disarmament_of_ai_the/",
+      "source": "Reddit",
+      "published_at": "2026-10-31T11:04:18+00:00",
+      "short_snippet": "submitted by /u/LogicalDirect [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-fd4794d6a2d8de401e60",
+    "article": {
+      "title": "AI 代理幫你比價、下單、付款，品牌與客戶的關係將被重新瓜分",
+      "url": "https://technews.tw/2026/11/01/ai-agents-are-splitting-the-customer-relationship-into-pieces/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-01T02:30:16+00:00",
+      "short_snippet": "AI 代理人正把原本由單一品牌掌握的客戶關係，拆解成多個可被不同業者爭取的環節。從搜尋、比價、授權付款，到履約 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-95f2704f67b93ed13d1e",
+    "article": {
+      "title": "同公司兩樣情！台中簽密約、桃園拉布條，解析美光勞資角力的三方算計",
+      "url": "https://finance.technews.tw/2026/11/01/taiwan-semiconductor-industry-first-legal-strike-11-protestors-micron-negotiations-stalled/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-01T02:00:48+00:00",
+      "short_snippet": "台灣半導體業首場合法罷工，10 月 22 日在美光桃園廠登場。只有 11 名工會幹部上街，背後卻是同一家公司兩 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-7c7b6f1a57e9bac0cdf0",
+    "article": {
+      "title": "經濟與降險還不夠，牛津研究提倡將「幸福感」列為 AI 政策第三大核心",
+      "url": "https://technews.tw/2026/11/01/happiness-is-the-next-ai-kpi-if-oxford-boffins-have-their-way/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-01T01:30:21+00:00",
+      "short_snippet": "牛津大學研究人員呼籲，歐盟在推動人工智慧政策時，不應只看經濟成長與風險降低，還要把民眾的幸福感納入評估標準，讓 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-bdaf3a0ddfb7344c1f7e",
+    "article": {
+      "title": "研究推半對抗式訓練，打造更貼近真實的 AI 心理輔助",
+      "url": "https://technews.tw/2026/11/01/ai-personas-as-therapists-versus-clients-shed-new-light-on-improving-ai-powered-mental-health-guidance/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-01T00:30:33+00:00",
+      "short_snippet": "一項聚焦 AI 心理健康應用的研究指出，傳統訓練方式多半讓兩個 AI 人格分別扮演治療師與個案，並在高度合作、 […]",
+      "tags": [
+        "AI"
+      ]
+    }
   }
 ]
