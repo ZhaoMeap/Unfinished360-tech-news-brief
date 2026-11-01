@@ -35367,5 +35367,219 @@
         "AI"
       ]
     }
+  },
+  {
+    "event_id": "evt-5a1d39d725d710acb0df",
+    "article": {
+      "title": "HomePod Mini 2 first look: Three things I love and one disappointment",
+      "url": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
+      "source": "The Verge",
+      "published_at": "2026-11-01T14:00:00+00:00",
+      "short_snippet": "When I first heard about the new $149 HomePod Mini 2 at Apple's Welcome Home event last month, I was disappointed. It's been six years since Apple launched its entry-level smart speaker, and all it got in the second gen was a chip bump, some color glowy stuff, and better AirPlay? For $50 more than […]",
+      "tags": [
+        "半導體",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-35a3b343427eb01610b2",
+    "article": {
+      "title": "Prop 45 in California could be hiding a loophole for data centers",
+      "url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
+      "source": "The Verge",
+      "published_at": "2026-11-01T13:00:00+00:00",
+      "short_snippet": "A high-stakes California ballot measure pitched as a fast track for \"essential\" infrastructure could wind up giving data center developers a loophole to evade public scrutiny, environmental advocates warn. Proposition 45 would shorten timelines for state-mandated environmental assessments for eligible projects and make it more difficult for residents to challenge those projects in court. Proponent",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-eddecba1ef343f499c27",
+    "article": {
+      "title": "Police chief unplugs Flock cameras after company ignores contract cancellation",
+      "url": "https://news.ycombinator.com/item?id=50326118",
+      "source": "Hacker News",
+      "published_at": "2026-11-01T14:36:13+00:00",
+      "short_snippet": "Article URL: https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies Comments URL: https://news.ycombinator.com/item?id=50326118 Points: 75 # Comments: 12",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c6c6b6e3fcbcb4a39a12",
+    "article": {
+      "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+      "url": "https://news.ycombinator.com/item?id=50326099",
+      "source": "Hacker News",
+      "published_at": "2026-11-01T14:34:43+00:00",
+      "short_snippet": "Article URL: https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/ Comments URL: https://news.ycombinator.com/item?id=50326099 Points: 99 # Comments: 42",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-2fc917d72a752d140e3d",
+    "article": {
+      "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+      "url": "https://news.ycombinator.com/item?id=50325662",
+      "source": "Hacker News",
+      "published_at": "2026-11-01T13:47:24+00:00",
+      "short_snippet": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy Comments URL: https://news.ycombinator.com/item?id=50325662 Points: 58 # Comments: 21",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-92bd7004a5e8f161cff1",
+    "article": {
+      "title": "The AI cost of JavaScript frameworks",
+      "url": "https://news.ycombinator.com/item?id=50323088",
+      "source": "Hacker News",
+      "published_at": "2026-11-01T06:06:19+00:00",
+      "short_snippet": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/ Comments URL: https://news.ycombinator.com/item?id=50323088 Points: 188 # Comments: 126",
+      "tags": [
+        "AI",
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5d536650af984b44b4d6",
+    "article": {
+      "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+      "url": "https://news.ycombinator.com/item?id=50322173",
+      "source": "Hacker News",
+      "published_at": "2026-11-01T02:19:53+00:00",
+      "short_snippet": "Article URL: https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/ Comments URL: https://news.ycombinator.com/item?id=50322173 Points: 224 # Comments: 120",
+      "tags": [
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-097557aea7f5dc93128d",
+    "article": {
+      "title": "AI agent swarms unleashed in Minecraft to ‘build a thriving civilization’ — 50-agent teams fail after falling into paralyzing bureaucracy",
+      "url": "https://www.reddit.com/r/technology/comments/1xl2oer/ai_agent_swarms_unleashed_in_minecraft_to_build_a/",
+      "source": "Reddit",
+      "published_at": "2026-11-01T13:09:53+00:00",
+      "short_snippet": "submitted by /u/Hi_all_hwru [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-03ca5085d036cf1a3bbb",
+    "article": {
+      "title": "Basically no one is using AI agents for their DoorDash orders",
+      "url": "https://www.reddit.com/r/technology/comments/1xl21ad/basically_no_one_is_using_ai_agents_for_their/",
+      "source": "Reddit",
+      "published_at": "2026-11-01T12:38:31+00:00",
+      "short_snippet": "submitted by /u/AdSpecialist6598 [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-db0c04040b6c65c4e62e",
+    "article": {
+      "title": "Europe and Canada team up in AI computing alliance that doesn't depend on Washington",
+      "url": "https://www.reddit.com/r/technology/comments/1xl1msd/europe_and_canada_team_up_in_ai_computing/",
+      "source": "Reddit",
+      "published_at": "2026-11-01T12:17:13+00:00",
+      "short_snippet": "submitted by /u/ArgentineBeauty [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b427142c11b828d93ed3",
+    "article": {
+      "title": "Sam Altman meets with Samsung leadership to secure more RAM for data centers amid crushing shortages — OpenAI CEO travels to South Korea to meet Samsung leadership to discuss future AI data centers",
+      "url": "https://www.reddit.com/r/technology/comments/1xl5c3g/sam_altman_meets_with_samsung_leadership_to/",
+      "source": "Reddit",
+      "published_at": "2026-11-01T15:06:10+00:00",
+      "short_snippet": "submitted by /u/Hi_all_hwru [link] [comments]",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5ff95728d79b18548b0b",
+    "article": {
+      "title": "Apple Warns iPhone Users in 99 Countries of Sophisticated Mercenary Spyware Attacks",
+      "url": "https://www.reddit.com/r/technology/comments/1xkx4s9/apple_warns_iphone_users_in_99_countries_of/",
+      "source": "Reddit",
+      "published_at": "2026-11-01T07:40:27+00:00",
+      "short_snippet": "submitted by /u/Hi_all_hwru [link] [comments]",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-7965880d10b30ba95354",
+    "article": {
+      "title": "While Americans turn against data centers, Brazil offers tax breaks and cheap power, representing a potential ‘release valve’ for U.S. constraints",
+      "url": "https://www.reddit.com/r/technology/comments/1xl2iiv/while_americans_turn_against_data_centers_brazil/",
+      "source": "Reddit",
+      "published_at": "2026-11-01T13:02:06+00:00",
+      "short_snippet": "submitted by /u/Logical_Welder3467 [link] [comments]",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ff0e6aa118487b5ad5d7",
+    "article": {
+      "title": "Brazilian lawyers busted for attempting to manipulate court's AI with prompt injection hidden in filing — court's AI flags hidden text that demanded superficial legal scrutiny, lawyers fined $16,000",
+      "url": "https://www.reddit.com/r/technology/comments/1xl5dyg/brazilian_lawyers_busted_for_attempting_to/",
+      "source": "Reddit",
+      "published_at": "2026-11-01T15:08:19+00:00",
+      "short_snippet": "submitted by /u/Turbostrider27 [link] [comments]",
+      "tags": [
+        "AI",
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-2e9fb0a766c904a3df0b",
+    "article": {
+      "title": "North Korean Hackers Steal Developer Credentials to Inject Malware Into GitHub and Software Packages",
+      "url": "https://www.reddit.com/r/technology/comments/1xkx5cw/north_korean_hackers_steal_developer_credentials/",
+      "source": "Reddit",
+      "published_at": "2026-11-01T07:41:30+00:00",
+      "short_snippet": "submitted by /u/Hi_all_hwru [link] [comments]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0c538106ed00f7976795",
+    "article": {
+      "title": "學者授四招破解假圖，點名食物照是 AI 最大死穴",
+      "url": "https://infosecu.technews.tw/2026/11/01/identifying-flaws-ai-generated-photos/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-01T09:00:03+00:00",
+      "short_snippet": "隨著生成式人工智慧（AI）快速普及，逼真的假照片在網路上流竄，如何分辨 AI 生成影像已成為大眾關注的焦點。美 […]",
+      "tags": [
+        "AI"
+      ]
+    }
   }
 ]
