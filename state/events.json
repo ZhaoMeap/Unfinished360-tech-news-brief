@@ -35272,5 +35272,100 @@
         "AI"
       ]
     }
+  },
+  {
+    "event_id": "evt-c8d99dbd3b84420365af",
+    "article": {
+      "title": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
+      "url": "https://www.reddit.com/r/technology/comments/1xktg1e/spacex_loses_bid_to_toss_naacp_lawsuit_over/",
+      "source": "Reddit",
+      "published_at": "2026-11-01T03:54:37+00:00",
+      "short_snippet": "submitted by /u/ControlCAD [link] [comments]",
+      "tags": [
+        "資料中心",
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-836949133286a50c8a6d",
+    "article": {
+      "title": "The End Of The Human Internet? How AI Agents Are Rebuilding The Web Around Machines – OpEd",
+      "url": "https://www.reddit.com/r/technology/comments/1xkr6ts/the_end_of_the_human_internet_how_ai_agents_are/",
+      "source": "Reddit",
+      "published_at": "2026-11-01T01:49:04+00:00",
+      "short_snippet": "submitted by /u/Hi_all_hwru [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-55c2ae3b3696109e595b",
+    "article": {
+      "title": "NVIDIA Updates Rubin GPU Specs as First Production Hardware Arrives",
+      "url": "https://www.servethehome.com/nvidia-updates-rubin-gpu-specs-as-first-production-hardware-arrives/",
+      "source": "ServeTheHome",
+      "published_at": "2026-11-01T03:00:28+00:00",
+      "short_snippet": "As production hardware starts shipping, NVIDIA has updated some of the specifications for its Rubin GPU platforms The post NVIDIA Updates Rubin GPU Specs as First Production Hardware Arrives appeared first on ServeTheHome .",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ed92f8fdce2b702fec37",
+    "article": {
+      "title": "美 AI 私校 Alpha School 號稱學習快兩倍，紐時揭數據僅 42% 學生達標",
+      "url": "https://technews.tw/2026/11/01/alpha-school-claims-to-teach-kids-twice-as-fast-many-dont-make-it/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-01T07:00:25+00:00",
+      "short_snippet": "主打以人工智慧（AI）教學的美國私校連鎖體系 Alpha School，對家長承諾學生每天只需 2 小時學科課 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-9084bb429675e6bc310c",
+    "article": {
+      "title": "Google 太空資料中心首顆晶片啟動，Gemma 4 模型在軌運作還寫詩",
+      "url": "https://technews.tw/2026/11/01/google-receives-first-response-from-its-project-suncatcher-prototype-satellite/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-01T04:39:00+00:00",
+      "short_snippet": "在 30 日的一篇官方部落格文章中， Google 表示已成功啟動實驗衛星上的 TPU 晶片，且讓衛星搭載的 […]",
+      "tags": [
+        "半導體",
+        "資料中心",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-80b382f75a2e7fcdd411",
+    "article": {
+      "title": "不靠 AI 抓 AI 的錯，CiteProof 專門揪出法律文件裡的虛構判例",
+      "url": "https://technews.tw/2026/11/01/new-online-tool-will-check-lawyers-sloppy-ai-written-briefs/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-01T03:30:26+00:00",
+      "short_snippet": "一款名為 CiteProof 的新工具近日登場，鎖定近年愈來愈常見的法律文件 AI 錯誤問題，主打在訴狀與法庭 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d68e43df392866b7a496",
+    "article": {
+      "title": "讓產品更好用而非技術噱頭，執行長特納斯：蘋果不會為 AI 而做 AI",
+      "url": "https://technews.tw/2026/11/01/apple-ceo-says-the-company-is-focused-on-useful-ai-not-ai-for-its-own-sake/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-01T02:49:50+00:00",
+      "short_snippet": "蘋果執行長約翰·特納斯（John Ternus）近日馬不停蹄為新款 MacBook Pro 進行宣傳，強調現在 […]",
+      "tags": [
+        "AI"
+      ]
+    }
   }
 ]
