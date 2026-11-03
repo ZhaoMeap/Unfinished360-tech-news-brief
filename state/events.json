@@ -38834,5 +38834,659 @@
         "資料中心"
       ]
     }
+  },
+  {
+    "event_id": "evt-f0d23aa208df96d78828",
+    "article": {
+      "title": "We’re providing funding for organizations building AI for teachers.",
+      "url": "https://blog.google/products-and-platforms/products/education/google-org-funding-ai-education/",
+      "source": "官方：Google",
+      "published_at": "2026-11-03T14:00:00+00:00",
+      "short_snippet": "Google.org is funding five organizations to build AI tools for teachers. See how these initiatives support educators and students. Get the details.",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-2b728cf359cf7fb3768d",
+    "article": {
+      "title": "AI in the learning era",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-2026/",
+      "source": "官方：Google",
+      "published_at": "2026-11-03T14:00:00+00:00",
+      "short_snippet": "Read announcements from Google’s 2026 AI in the Learning Era event.",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f2497d2da3243c287b78",
+    "article": {
+      "title": "Designing responsible AI for learning",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/",
+      "source": "官方：Google",
+      "published_at": "2026-11-03T14:00:00+00:00",
+      "short_snippet": "A teacher pointing at a student's Chromebook screen while the student observes.",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e557c70ef358aa0f25ec",
+    "article": {
+      "title": "Working collaboratively to fight scams in Asia Pacific",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/fight-against-apac-scams/",
+      "source": "官方：Google",
+      "published_at": "2026-11-03T14:00:00+00:00",
+      "short_snippet": "A woman using her smartphone, surrounded by graphic icons representing online security, privacy, and message alerts.",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-31aaaae73a614a69444d",
+    "article": {
+      "title": "Expanding AI educator training to new countries",
+      "url": "https://blog.google/products-and-platforms/products/education/google-ai-educator-series-global-expansion-november-2026/",
+      "source": "官方：Google",
+      "published_at": "2026-11-03T14:00:00+00:00",
+      "short_snippet": "An illustration featuring a stylized globe in the center with network lines connecting points across the world to various colorful icon badges, including graduation caps, award ribbons, and stylized figures.",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-1864e43d05e791382882",
+    "article": {
+      "title": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
+      "url": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/",
+      "source": "官方：NVIDIA",
+      "published_at": "2026-11-03T16:00:45+00:00",
+      "short_snippet": "Demand for advanced chips is rising. The processes to build them are getting more complex. And the margin for error is shrinking. For engineers, understanding how a process change will behave, how a material will interact with a new step, how a defect maps back to a root cause are critical, challenging steps in semiconductor […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5dce952e37fcbcd4d9a4",
+    "article": {
+      "title": "Netflix will show you themed recommendations through a new ‘AI Discover’ tab",
+      "url": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
+      "source": "The Verge",
+      "published_at": "2026-11-03T18:00:00+00:00",
+      "short_snippet": "Netflix's TV app is getting a new \"AI Discover\" tab where the company will show experimental, AI-powered features to help you find new shows and movies to watch. The first of these experiments surfaces content based around themes, like \"Something Light,\" \"Family Movie Night,\" or \"Quick Watches.\" When you pick a theme, Netflix will show […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-042a6e6a8ab626820812",
+    "article": {
+      "title": "Moft’s new origami case adds a kickstand and grip to the iPhone Duo",
+      "url": "https://www.theverge.com/tech/1025364/moft-dynamic-folio-case-stand-grip-apple-iphone-duo",
+      "source": "The Verge",
+      "published_at": "2026-11-03T17:27:52+00:00",
+      "short_snippet": "Originally released in early 2025 as an accessory for the iPad, Moft has redesigned its Dynamic Folio as a case for the iPhone Duo that does more than just protect Apple's folding phone. You can use it to prop the Duo up at several different angles for hands-free use, or reconfigure the Dynamic Folio's origami-like […]",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a49931d822050cb7e601",
+    "article": {
+      "title": "The Xbox Nano has a hidden cloud secret",
+      "url": "https://www.theverge.com/games/1025430/xbox-nano-controller-direct-cloud-wifi-connectivity",
+      "source": "The Verge",
+      "published_at": "2026-11-03T17:16:04+00:00",
+      "short_snippet": "Microsoft is about to launch its new Xbox Nano controller tomorrow, and the tiny device has a little secret. The Nano can connect directly to Xbox Cloud Gaming over Wi-Fi to improve latency. It's a feature Microsoft hasn't officially announced yet, but one I've been anticipating since the Xbox Nano leaked earlier this year. The […]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-38539ccfb5ea0519dd43",
+    "article": {
+      "title": "Google is entirely disabling Search in schools that don’t want AI",
+      "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
+      "source": "The Verge",
+      "published_at": "2026-11-03T17:00:04+00:00",
+      "short_snippet": "Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related update from Google on Tuesday, saying that access to Gemini, Gemini Notebook, Gemini in Classroom, and Google Search \"will be entirely off\" for K-12 student accounts […]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e192cec162b2dbe28607",
+    "article": {
+      "title": "Xbox’s smallest-ever controller is surprisingly comfortable",
+      "url": "https://www.theverge.com/tech/1025097/xbox-nano-controller-hands-on",
+      "source": "The Verge",
+      "published_at": "2026-11-03T17:00:00+00:00",
+      "short_snippet": "Even though I knew Microsoft's new Xbox Nano controller was tiny, I still gasped when I unboxed it a few days ago. The compact controller is small enough to slip into a pocket unnoticed, and it has been designed specifically for younger people, or for anyone with smaller hands. I'm not young, but I do […]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b2fbaa7f3d68396a25a8",
+    "article": {
+      "title": "Windows 11 is now ‘up to 40 percent faster’ on PCs with 8GB of RAM",
+      "url": "https://www.theverge.com/news/1025142/windows-11-8gb-ram-memory-improvements-speed-performance",
+      "source": "The Verge",
+      "published_at": "2026-11-03T17:00:00+00:00",
+      "short_snippet": "Microsoft has been doing a lot of work to improve memory usage and increase performance on Windows 11 PCs over the past year. Last month the company revealed Windows 11 is now \"more responsive\" and runs better on PCs with 8GB of RAM, and now the company is releasing a new update today that includes […]",
+      "tags": [
+        "半導體",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ee9c86031e77082535fb",
+    "article": {
+      "title": "Apple is all in on AI — its own and everyone else’s",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
+      "source": "The Verge",
+      "published_at": "2026-11-03T15:24:51+00:00",
+      "short_snippet": "Apple's latest earnings show how it's continuing to capitalize on the AI boom without busting its budget on the infrastructure spending consuming its competitors. Overall, Apple posted its best-ever fiscal year for revenue and earnings per share. iPhone and Mac sales continued to grow strongly in the fourth quarter. iPhone revenue rose 17.5% from a […]",
+      "tags": [
+        "AI",
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3a8531abd4c5c9e53513",
+    "article": {
+      "title": "South Korea urged to link chip fab support to local suppliers",
+      "url": "https://www.digitimes.com/news/a20261103VL221/fab-government-packaging-investment-demand.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-03T09:27:10+00:00",
+      "short_snippet": "South Korea should tie government support for new semiconductor fabs to commitments that benefit domestic chip designers, equipment makers, and packaging suppliers, a state-funded researcher proposed on November 2, a move that could influence chipmakers' sourcing decisions if adopted.",
+      "tags": [
+        "半導體",
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-74e8ab7446049bf3cec3",
+    "article": {
+      "title": "Nvidia selects Taipei tech park for overseas headquarters",
+      "url": "https://www.digitimes.com/news/a20261103PD218/nvidia-taipei-government-legal-taiwan.html?chid=10",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-03T09:12:50+00:00",
+      "short_snippet": "Premier Jung-tai Cho said on November 3 that Taiwan's government provided Nvidia with timely support in three areas—budget, legal frameworks, and policy—to establish its first overseas R&D center and headquarters in Taipei's Beitou-Shilin Technology Park (BSTP). Nvidia's decision has also become a key achievement for Taipei Mayor Wayne Chiang as he seeks reelection.",
+      "tags": [
+        "半導體",
+        "監管",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6ab770537e1bb4106084",
+    "article": {
+      "title": "Nvidia uses 8,192 GPUs to set fault-tolerant quantum simulation record, targeting error correction costs",
+      "url": "https://www.digitimes.com/news/a20261103PD212/quantum-computing-ceo-jensen-huang-development-hardware.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-03T09:12:21+00:00",
+      "short_snippet": "Nvidia CEO Jensen Huang's latest European trip has highlighted another strategic priority: using massive computing resources to simulate quantum systems and establish a foothold in the underlying quantum computing ecosystem.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e7df47e411b20909833f",
+    "article": {
+      "title": "Ceva takes NeuPro NPU into AI data centers, targeting efficiency gaps rather than Nvidia's dominance",
+      "url": "https://www.digitimes.com/news/a20261103PD217/data-npu-ip-efficiency-nvidia.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-03T09:11:55+00:00",
+      "short_snippet": "US semiconductor intellectual property (IP) provider Ceva has expanded its NeuPro neural processing unit (NPU) portfolio into AI infrastructure for the first time. At a November 2 press conference in Taiwan, chief strategy officer Iri Trashanski said the company was not seeking to compete with Nvidia or other major chipmakers, but to meet demand for a common architecture spanning edge AI and cloud",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-905410a63ce609b1e21a",
+    "article": {
+      "title": "OpenAI expands Abu Dhabi partnerships across energy, government, investment",
+      "url": "https://www.digitimes.com/news/a20261103PD225/openai-abu-dhabi-investment-government-financing.html?chid=10",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-03T09:10:35+00:00",
+      "short_snippet": "OpenAI has signed a series of agreements in Abu Dhabi covering energy, investment, and public-sector applications, as the artificial intelligence company expands generative AI deployment across the United Arab Emirates. The initiatives involve the Abu Dhabi government, sovereign investment institutions, and energy companies, while regional funds are also reportedly discussing participation in a po",
+      "tags": [
+        "AI",
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f340cca580a5d009b4f2",
+    "article": {
+      "title": "Stellantis warns chip shortages could disrupt Fiat production in Italy",
+      "url": "https://www.digitimes.com/news/a20261103PD226/stellantis-production-italy-plant-electronic-components.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-03T09:10:33+00:00",
+      "short_snippet": "Stellantis said on November 2 that shortages of critical electronic components for engine control units (ECUs) had significantly disrupted production of several Fiat models in Italy. The automaker said the supply-chain problem had already affected October sales and could continue into November and December as it works to find alternative parts and gradually restore normal production.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c394ebe4d924fa186f4e",
+    "article": {
+      "title": "Apple's iPhone Duo launch lifts Samsung Galaxy Z Fold 8 sales in South Korea",
+      "url": "https://www.digitimes.com/news/a20261103PD227/samsung-galaxy-iphone-duo-sales-launch.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-03T09:10:08+00:00",
+      "short_snippet": "Samsung Electronics' Galaxy Z Fold 8 weekly sales in South Korea increased by more than 20% in the week after Apple launched its first foldable iPhone Duo, according to Seoul Economic Daily and Financial News . The increase followed the iPhone Duo's South Korean debut on October 23, 2026, as reported problems involving shipment delays and cracked internal displays created additional attention for ",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c50dbfd63ca61c4990e1",
+    "article": {
+      "title": "Foxconn's EV strategy opens new export routes for Taiwan",
+      "url": "https://www.digitimes.com/news/a20261103PD231/foxconn-taiwan-vehicle-europe-poland.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-03T09:10:06+00:00",
+      "short_snippet": "Foxconn outlined EV expansion plans for Europe and Japan at its 2026 Hon Hai Tech Day (HHTD 26), positioning Taiwan as more than a manufacturing base. The strategy could give Taiwan's auto industry new ways to enter international markets through vehicle exports, contract manufacturing, and overseas platform partnerships.",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d1f3ea9dce7d108264f6",
+    "article": {
+      "title": "TDK invests JPY100B in physical AI sensors, targets 2029 production",
+      "url": "https://www.digitimes.com/news/a20261103PD232/tdk-production-demand-sensor-2030.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-03T09:09:13+00:00",
+      "short_snippet": "Electronic components maker TDK will invest about JPY100 billion (US$633.5 million) to renovate an existing factory in Ojiya, Niigata Prefecture, Japan, and expand magnetic sensor production. The company aims to double capacity by fiscal 2030, which runs from April 2030 to March 2031, to capture demand from humanoid robots and other physical AI applications.",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0f5a2137ab9a8d8171e0",
+    "article": {
+      "title": "Samsung reportedly plans Galaxy-style TV lineup for 2027",
+      "url": "https://www.digitimes.com/news/a20261103VL220/samsung-tv-2027-lcd-qled.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-03T09:09:05+00:00",
+      "short_snippet": "Samsung Electronics is considering a major overhaul of its TV lineup for 2027, replacing technology-based product names with three tiers modeled on its Galaxy smartphones as it looks to increase shipments and expand its services business, South Korea's ETNews reported.",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-97f149738df2cb33cd3f",
+    "article": {
+      "title": "OpenAI recruits former US Army secretary Dan Driscoll to strengthen its national security, cybersecurity ambitions",
+      "url": "https://www.digitimes.com/news/a20261103PD235/openai-security-cybersecurity-personnel-bloomberg.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-03T09:08:01+00:00",
+      "short_snippet": "OpenAI has appointed former US Army Secretary Daniel P. Driscoll as senior counselor for national security modernization, seeking to expand the use of artificial intelligence (AI) in national security and cybersecurity. Driscoll will advise the company's leadership on applying AI across both areas.",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-dca61a559b12318f7b8b",
+    "article": {
+      "title": "Onsemi's AI data center revenue surges 175% as 3Q26 earnings outpace sales growth",
+      "url": "https://www.digitimes.com/news/a20261103VL219/onsemi-data-center-demand-growth-revenue-sales.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-03T08:41:20+00:00",
+      "short_snippet": "Onsemi reported stronger-than-expected third-quarter 2026 results, driven by accelerating demand for power management solutions in AI data centers and industrial applications, as the semiconductor supplier continued to improve profitability through operational restructuring and higher-value products.",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-fe86fc928d8a2aa6f001",
+    "article": {
+      "title": "Motorola taps Taboola to bring trusted-media AI to smartphones",
+      "url": "https://www.digitimes.com/news/a20261103PD228/motorola-advertising-smartphone-2026-gemini.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-03T08:11:05+00:00",
+      "short_snippet": "Performance advertising company Taboola is partnering with Motorola to bring its DeeperDive AI question-and-answer engine to the Moto G series of smartphones, offering users a new way to interact with AI.",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ccf19b0ab14fc39d4364",
+    "article": {
+      "title": "Memory price surge hits smartphones, cutting 2026 mobile SoC shipments nearly 20%",
+      "url": "https://www.digitimes.com/news/a20261103PD229/soc-shipments-infrastructure-2026-mobile.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-03T07:50:09+00:00",
+      "short_snippet": "The AI infrastructure boom has driven up memory prices across consumer electronics, dampening sales of smartphones and notebooks while hitting upstream system-on-chip (SoC) developers. With memory prices projected to keep climbing through 2027, industry observers generally expect end-market sales to remain sluggish, testing the resilience and strategy of players across the entire value chain.",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-2fdb51641321efc72a89",
+    "article": {
+      "title": "Panasonic Industry to invest JPY92 billion in AI-related circuit board materials and capacitors",
+      "url": "https://www.digitimes.com/news/a20261103PD224/panasonic-materials-investment-2026-subsidiary.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-03T07:22:50+00:00",
+      "short_snippet": "Panasonic Industry, the electronic components subsidiary of Panasonic Group, plans to invest approximately JPY92 billion (approx. US$582.8 million) in its AI-related businesses to meet surging demand driven by generative AI. The investment will accelerate production capacity expansion and R&D for advanced circuit board materials, specialized capacitors, and next-generation semiconductor materials.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-cb11d656090016074f4b",
+    "article": {
+      "title": "Japanese distributor turns away new customers as DDR5 prices double",
+      "url": "https://www.digitimes.com/news/a20261103VL218/electronics-ddr5-dram-demand-hbm.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-03T07:17:17+00:00",
+      "short_snippet": "A Japanese electronics distributor has stopped accepting new customers because it cannot fully supply its existing ones, Nikkei reported, as demand from AI data centers tightens supply of the conventional DRAM used in PCs.",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f063e5a4d1af8a809d68",
+    "article": {
+      "title": "ESMT sees higher 4Q26 ASP as DDR2, DDR3 supply tightens",
+      "url": "https://www.digitimes.com/news/a20261103PD220/esmt-ddr3-ddr2-ic-asp.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-03T07:17:15+00:00",
+      "short_snippet": "Memory IC designer Elite Semiconductor Microelectronics Technology (ESMT) expects shipments and gross margin to remain stable in the fourth quarter of 2026 despite higher memory wafer procurement costs, while its average selling price (ASP) will rise from the third quarter of 2026. The company also expects tight DDR2 and DDR3 supply-demand conditions to keep prices stable in 2027 as it continues s",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-be12cb48504c6093b6a0",
+    "article": {
+      "title": "Google Will Turn Off Search for Schools That Reject A.I. (Gift Article)",
+      "url": "https://www.reddit.com/r/technology/comments/1xmvlo8/google_will_turn_off_search_for_schools_that/",
+      "source": "Reddit",
+      "published_at": "2026-11-03T15:15:12+00:00",
+      "short_snippet": "submitted by /u/Well_Socialized [link] [comments]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-217495fce48c17582ede",
+    "article": {
+      "title": "The AI Layoff Experiment Is Backfiring – And Companies Are Quietly Rehiring Humans",
+      "url": "https://www.reddit.com/r/technology/comments/1xmnf96/the_ai_layoff_experiment_is_backfiring_and/",
+      "source": "Reddit",
+      "published_at": "2026-11-03T08:19:41+00:00",
+      "short_snippet": "submitted by /u/Hi_all_hwru [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d07f029096ebcb7850e7",
+    "article": {
+      "title": "'What we're seeing with memory pricing right now is unprecedented': new CEO issues Apple's bleakest warning on the RAM crisis yet — and that's a big worry",
+      "url": "https://www.reddit.com/r/technology/comments/1xmsx4a/what_were_seeing_with_memory_pricing_right_now_is/",
+      "source": "Reddit",
+      "published_at": "2026-11-03T13:28:20+00:00",
+      "short_snippet": "submitted by /u/Mountain_Till_5868 [link] [comments]",
+      "tags": [
+        "半導體",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0c408681be894deb0568",
+    "article": {
+      "title": "ChatGPT Is Giving Voters Serious Misinformation as the Midterms Hit: Fake Candidates and Wrong Election Information",
+      "url": "https://www.reddit.com/r/technology/comments/1xmx4rs/chatgpt_is_giving_voters_serious_misinformation/",
+      "source": "Reddit",
+      "published_at": "2026-11-03T16:12:15+00:00",
+      "short_snippet": "submitted by /u/Hi_all_hwru [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c861735a0b6c4a12f855",
+    "article": {
+      "title": "Anthropic's IPO filing reveals $1.7 billion quarterly personnel bill, averaging $107,000 per employee monthly",
+      "url": "https://www.reddit.com/r/technology/comments/1xmpff9/anthropics_ipo_filing_reveals_17_billion/",
+      "source": "Reddit",
+      "published_at": "2026-11-03T10:25:12+00:00",
+      "short_snippet": "submitted by /u/ArgentineBeauty [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-803e384dbeec89cad647",
+    "article": {
+      "title": "The SEC Should Block Anthropic’s IPO to Protect the Public",
+      "url": "https://www.reddit.com/r/technology/comments/1xmnam8/the_sec_should_block_anthropics_ipo_to_protect/",
+      "source": "Reddit",
+      "published_at": "2026-11-03T08:11:17+00:00",
+      "short_snippet": "submitted by /u/LogicalDirect [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5aeb3516b8bbc8280536",
+    "article": {
+      "title": "‘Our Risk, Their Reward’: Zohran Mamdani on AI and Data Centers",
+      "url": "https://www.reddit.com/r/technology/comments/1xmxoky/our_risk_their_reward_zohran_mamdani_on_ai_and/",
+      "source": "Reddit",
+      "published_at": "2026-11-03T16:32:13+00:00",
+      "short_snippet": "submitted by /u/TripleShotPls [link] [comments]",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-abf02ed14112d93fbbb8",
+    "article": {
+      "title": "Blackstone president calls for more equity to fund AI buildout as debt risks mount",
+      "url": "https://www.reddit.com/r/technology/comments/1xmso1j/blackstone_president_calls_for_more_equity_to/",
+      "source": "Reddit",
+      "published_at": "2026-11-03T13:16:41+00:00",
+      "short_snippet": "submitted by /u/Logical_Welder3467 [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-402f224a8487bc21bc0a",
+    "article": {
+      "title": "Google Will Turn Off Search for Schools That Reject A.I.",
+      "url": "https://www.reddit.com/r/technology/comments/1xmziac/google_will_turn_off_search_for_schools_that/",
+      "source": "Reddit",
+      "published_at": "2026-11-03T17:38:45+00:00",
+      "short_snippet": "submitted by /u/LogicalDirect [link] [comments]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-aa35adcaca536735680f",
+    "article": {
+      "title": "NVIDIA GeForce RTX 50-Series Scheduled for up to $500 Price Hike This Week",
+      "url": "https://www.reddit.com/r/technology/comments/1xmtss9/nvidia_geforce_rtx_50series_scheduled_for_up_to/",
+      "source": "Reddit",
+      "published_at": "2026-11-03T14:05:10+00:00",
+      "short_snippet": "submitted by /u/quickslvrr [link] [comments]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-27f26fa3df6ecdc6d911",
+    "article": {
+      "title": "‘A serious failure’: CPS prosecutor cites imaginary case to high court after AI search",
+      "url": "https://www.reddit.com/r/technology/comments/1xmq8zc/a_serious_failure_cps_prosecutor_cites_imaginary/",
+      "source": "Reddit",
+      "published_at": "2026-11-03T11:13:20+00:00",
+      "short_snippet": "submitted by /u/rejs7 [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d9438743d335a14342f0",
+    "article": {
+      "title": "Hackers Using Microsoft Teams Messages and Calls to Trick Users and Gain Remote Access to System",
+      "url": "https://www.reddit.com/r/technology/comments/1xmrkzn/hackers_using_microsoft_teams_messages_and_calls/",
+      "source": "Reddit",
+      "published_at": "2026-11-03T12:24:29+00:00",
+      "short_snippet": "submitted by /u/Hi_all_hwru [link] [comments]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d3d329add4eb3715e7fd",
+    "article": {
+      "title": "義隆電砸 10 億造 11 顆 IC 攻頂！攜雷虎、新馳組 AI 無人機國家隊",
+      "url": "https://finance.technews.tw/2026/11/03/transition-from-peacetime-to-wartime/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-03T09:23:56+00:00",
+      "short_snippet": "義隆電今日宣布與雷虎科技、新馳科技共同提出的「國產 AI 智慧平戰轉換無人機平台暨先進手持式地面站全方位解決方 […]",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-544602930ba8186b1161",
+    "article": {
+      "title": "Google App 介面迎重大更新：專屬「You」分頁整合個人設定，亮點一次掌握",
+      "url": "https://technews.tw/2026/11/03/google-app-major-interface-redesign/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-03T09:20:40+00:00",
+      "short_snippet": "根據外媒最新的 APK 拆解報告指出，Google App 即將迎來重大介面更新。官方目前正在開發一個以個人帳 […]",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-99deb228fc783790da41",
+    "article": {
+      "title": "華邦電通過 731 億元資本支出案，高雄廠第二期預計 12 月底動工",
+      "url": "https://finance.technews.tw/2026/11/03/winbond-electronics-approves-nt73-1-billion-capital-expenditure-plan/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-03T08:30:36+00:00",
+      "short_snippet": "華邦電總經理陳沛銘表示，因應 AI 伺服器、網通與車用電子等高階應用需求強勁成長，華邦電董事會已正式通過高達 […]",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-14ea5d1513c0c8b9128c",
+    "article": {
+      "title": "AI 攻擊威脅升高，數發部成立跨部會資安應變小組",
+      "url": "https://infosecu.technews.tw/2026/11/03/moda-ai-csirt/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-03T08:26:15+00:00",
+      "short_snippet": "隨著生成式 AI 與代理式 AI（AI Agent）技術快速發展，網路攻擊逐漸朝向自動化、精準化及規模化演進。 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-8a6fe51e8e16e6891a51",
+    "article": {
+      "title": "那斯達克高層：台積電成全球第七大企業，反映該國建立的成就",
+      "url": "https://finance.technews.tw/2026/11/03/edward-knight-says-tsmc-reflects-taiwan-achievements/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-03T08:20:06+00:00",
+      "short_snippet": "那斯達克執行副董事長奈特今天指出，今年台灣股票市場總市值躍居全球第四，整體經濟表現也令人驚嘆；目前台積電已是全 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b17b1fe9168912573af8",
+    "article": {
+      "title": "蘋果 iPhone Duo 上市 三星 Fold8 在韓銷量反增 20%",
+      "url": "https://technews.tw/2026/11/03/samsung-galaxy-z-fold-8-sales-rise-20-in-south-korea/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-03T08:00:48+00:00",
+      "short_snippet": "蘋果（Apple）首款摺疊手機 iPhone Duo 正式上市，摺疊機市場競爭日益激烈。韓國電信業界最新消息指 […]",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
   }
 ]
