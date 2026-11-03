@@ -37631,5 +37631,569 @@
         "資料中心"
       ]
     }
+  },
+  {
+    "event_id": "evt-32b6511968de9a76f24f",
+    "article": {
+      "title": "Apple reports fourth quarter results",
+      "url": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/",
+      "source": "官方：Apple Newsroom",
+      "published_at": "2026-11-02T21:30:04+00:00",
+      "short_snippet": "Apple today announced financial results for its fiscal 2026 fourth quarter ended September 26, 2026.",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-52e80b2e2bcfa51cadab",
+    "article": {
+      "title": "Apple is ‘not able to predict’ when it’ll have enough iPhone Duos to go around",
+      "url": "https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints",
+      "source": "The Verge",
+      "published_at": "2026-11-02T22:56:11+00:00",
+      "short_snippet": "Apple CEO John Ternus doesn't have a timeline for when iPhone Duo supply constraints could lift. During an interview with Reuters, Ternus said the company is \"working hard to get it to as many customers as quickly as possible, but at this ​point, we're not able to predict when supply and demand will be in […]",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ce817560377fb830dc49",
+    "article": {
+      "title": "Apple set an iPhone sales record even without a new standard iPhone",
+      "url": "https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings",
+      "source": "The Verge",
+      "published_at": "2026-11-02T22:02:36+00:00",
+      "short_snippet": "Apple had a record-breaking quarter for iPhone sales - despite not releasing a standard model during its latest refresh. In its fourth-quarter earnings report released on Monday, Apple says it earned $57.58 billion in iPhone revenue, a 17 percent jump from the same time last year. The increase in revenue follows the launch of Apple's […]",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0f0e3c74a14f84ff7106",
+    "article": {
+      "title": "Meta will end Quest 2 OS updates in 2027",
+      "url": "https://www.theverge.com/tech/1024835/meta-vr-quest-2-pro-os-end-updates",
+      "source": "The Verge",
+      "published_at": "2026-11-02T21:04:20+00:00",
+      "short_snippet": "Meta is planning to release the last OS update for its Quest 2 and Quest Pro VR headsets by March 2027, the company announced today. The last OS update for those devices is planned to be v213, and after that, Meta will continue to ship security patches and critical bug fixes through the end of […]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a009c8a0889a68e2b125",
+    "article": {
+      "title": "One of Google’s Android partners turned 1.3 million set-top boxes into a botnet",
+      "url": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
+      "source": "The Verge",
+      "published_at": "2026-11-02T20:37:49+00:00",
+      "short_snippet": "Google says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet. The company says it has now dismantled the backdoor and \"cut ties\" with the manufacturer, the Shenzhen, China-based Videostrong Technology Co., which has been banned from building or selling certified Android devices or […]",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-81d7920d4364aa72734e",
+    "article": {
+      "title": "The Apple Watch Ultra 4 is $100 off, matching its best price to date",
+      "url": "https://www.theverge.com/gadgets/1024416/apple-watch-ultra-4-ugreen-finetrack-2-bluetooth-tracker-deal-sale",
+      "source": "The Verge",
+      "published_at": "2026-11-02T19:24:09+00:00",
+      "short_snippet": "The Apple Watch Ultra 4 is the company’s most capable smartwatch. Whether you intend to put its many tracking features to the test, or you simply want the longest battery life of any Apple Watch, it’s currently on sale for $699.99 ($100 off) in multiple colors at Amazon, matching its all-time low price. Powered by […]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-27b5771e67d786b78b15",
+    "article": {
+      "title": "Ford promises not to sell your driving habits to data brokers",
+      "url": "https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers",
+      "source": "The Verge",
+      "published_at": "2026-11-02T19:05:46+00:00",
+      "short_snippet": "Ford vowed to never sell customer driving data to third-party data brokers as part of a new privacy promise aimed at setting the automaker apart from competitors that have faced legal and regulatory blowback for sharing telematics with data brokers without authorization. As part of its new promise, Ford says it will strive to protect […]",
+      "tags": [
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-85570ceb797b7e75ca57",
+    "article": {
+      "title": "Anthropic clamps down on Claude’s AI video game clones",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+      "source": "The Verge",
+      "published_at": "2026-11-02T18:56:02+00:00",
+      "short_snippet": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Claude Code to make games, it doesn't want people to […]",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-fa4b04d3b4a813eabd5a",
+    "article": {
+      "title": "Xbox’s former COO has ‘serious concerns’ about her abrupt departure",
+      "url": "https://www.theverge.com/news/1024649/xbox-chief-operating-officer-helen-chiang-depature-comments",
+      "source": "The Verge",
+      "published_at": "2026-11-02T18:43:24+00:00",
+      "short_snippet": "Xbox's former chief operating officer, Helen Chiang, suddenly left Microsoft less than two weeks ago after being promoted into the role in July. I wrote in my Notepad newsletter last week that it seemed very weird for Chiang to suddenly depart Microsoft after 21 years with a surprisingly short memo from Xbox CEO Asha Sharma. […]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-eb5e7a533ca889e92327",
+    "article": {
+      "title": "Apple's iPhone growth meets a tougher test on costs",
+      "url": "https://www.digitimes.com/news/a20261103VL200/apple-growth-iphone-revenue-demand.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-02T23:33:39+00:00",
+      "short_snippet": "Apple enters the holiday selling season with stronger demand for its core products, but its latest results show that expanding sales do not automatically translate into faster operating profit growth. Record September-quarter iPhone revenue and an all-time high for Services supported the business as research spending increased and tariff refunds helped reported margins.",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c2306a5ddc69f037f4a7",
+    "article": {
+      "title": "Marvell pays up for Lumentum, 33 times forward earnings, to match Broadcom on lasers",
+      "url": "https://www.digitimes.com/news/a20261103VL201/marvell-broadcom-earnings-inp.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-02T23:32:48+00:00",
+      "short_snippet": "Marvell Technology's agreement to buy Lumentum Holdings would give the custom chip designer its own supply of indium phosphide (InP) lasers, one of the scarcest components in AI data center networking, and make it one of the few suppliers spanning both the electrical and optical sides of the link. The deal positions Marvell more directly against Broadcom as connections inside AI clusters move from",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-cc50f04bc83cc97cf349",
+    "article": {
+      "title": "SK Hynix ramps up SOCAMM2 as material shortages push up PCB prices",
+      "url": "https://www.digitimes.com/news/a20261102VL215/sk-hynix-pcb-production-materials-nvidia.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-02T23:31:04+00:00",
+      "short_snippet": "SK Hynix is increasing orders for small outline compression attached memory module 2 (SOCAMM2) printed circuit boards (PCBs) as production ramps up for Nvidia's Vera Rubin AI platform, while shortages of copper-clad laminate (CCL) and other materials are pushing up substrate prices, South Korea's Dealsite reported on October 30.",
+      "tags": [
+        "AI",
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-055d2d79501e727f5b0e",
+    "article": {
+      "title": "Nuvoton expects BMC shipments to expand in 2027 as CSPs, startups join",
+      "url": "https://www.digitimes.com/news/a20261102PD232/nuvoton-bmc-shipments-demand-2027.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-02T23:30:07+00:00",
+      "short_snippet": "Nuvoton expects its baseboard management controller (BMC) business to grow faster in 2027 than in 2026, driven by strong AI demand, higher orders from existing customers, and new customers entering mass production. The company said new customers, including cloud service providers (CSPs) and startups, will expand its BMC shipment base.",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-dc07b389a8fae0c555cf",
+    "article": {
+      "title": "DIGITIMES Insight: Intel's retreat from low-margin industrial chips opens edge AI market to AMD and Arm rivals",
+      "url": "https://www.digitimes.com/news/a20261102PD230/intel-industrial-chips-amd-arm.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-02T23:29:49+00:00",
+      "short_snippet": "As edge AI applications and AI agents move toward real-world deployment, industrial control and embedded processors are undergoing a structural upgrade in computing capabilities.",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5259c82adeae1fa42ce5",
+    "article": {
+      "title": "Intel stock collapse worsens as $3.5T chip rout spreads",
+      "url": "https://news.ycombinator.com/item?id=50346153",
+      "source": "Hacker News",
+      "published_at": "2026-11-03T00:08:53+00:00",
+      "short_snippet": "Article URL: https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html Comments URL: https://news.ycombinator.com/item?id=50346153 Points: 57 # Comments: 24",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-2c60460afda5e6d3c3b1",
+    "article": {
+      "title": "Anthropic's growth just flattened",
+      "url": "https://news.ycombinator.com/item?id=50344958",
+      "source": "Hacker News",
+      "published_at": "2026-11-02T22:33:20+00:00",
+      "short_snippet": "Article URL: https://www.regenerator1.com/p/anthropics-growth-just-flattened Comments URL: https://news.ycombinator.com/item?id=50344958 Points: 156 # Comments: 187",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-803e384dbeec89cad647",
+    "article": {
+      "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+      "url": "https://news.ycombinator.com/item?id=50344919",
+      "source": "Hacker News",
+      "published_at": "2026-11-02T22:30:47+00:00",
+      "short_snippet": "Article URL: https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/ Comments URL: https://news.ycombinator.com/item?id=50344919 Points: 188 # Comments: 116",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-4ccc9894925d5afebeb6",
+    "article": {
+      "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+      "url": "https://news.ycombinator.com/item?id=50342284",
+      "source": "Hacker News",
+      "published_at": "2026-11-02T19:27:37+00:00",
+      "short_snippet": "Article URL: https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html Comments URL: https://news.ycombinator.com/item?id=50342284 Points: 155 # Comments: 113",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c535f0d49096ceaefaa8",
+    "article": {
+      "title": "Egoless Mathematics in the AI Era",
+      "url": "https://news.ycombinator.com/item?id=50341736",
+      "source": "Hacker News",
+      "published_at": "2026-11-02T18:54:44+00:00",
+      "short_snippet": "Article URL: https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50341736 Points: 107 # Comments: 81",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6e0deaf81cb58275f8e6",
+    "article": {
+      "title": "Polyend releases the Tracker firmware source code",
+      "url": "https://news.ycombinator.com/item?id=50340159",
+      "source": "Hacker News",
+      "published_at": "2026-11-02T17:20:13+00:00",
+      "short_snippet": "Article URL: https://polyend.com/whats-up/tracker-the-biggest-update-yet/ Comments URL: https://news.ycombinator.com/item?id=50340159 Points: 81 # Comments: 17",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-febd3c9f04c75e489e66",
+    "article": {
+      "title": "The Intel stock collapse is getting worse — and the $3.5 trillion chip rout is spreading",
+      "url": "https://www.reddit.com/r/technology/comments/1xm9jey/the_intel_stock_collapse_is_getting_worse_and_the/",
+      "source": "Reddit",
+      "published_at": "2026-11-02T21:07:07+00:00",
+      "short_snippet": "submitted by /u/Broadband- [link] [comments]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-9ea55f0ba3448bd78b33",
+    "article": {
+      "title": "Anthropic's colossal pay packages cost the company more than $100,000 a month per employee",
+      "url": "https://www.reddit.com/r/technology/comments/1xmcpr7/anthropics_colossal_pay_packages_cost_the_company/",
+      "source": "Reddit",
+      "published_at": "2026-11-02T23:13:59+00:00",
+      "short_snippet": "submitted by /u/Logical_Welder3467 [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-1de44838c39315cb6fae",
+    "article": {
+      "title": "Proton Mail goes full AI slop, Tuta starts going AI slop",
+      "url": "https://www.reddit.com/r/technology/comments/1xm6tf2/proton_mail_goes_full_ai_slop_tuta_starts_going/",
+      "source": "Reddit",
+      "published_at": "2026-11-02T19:25:39+00:00",
+      "short_snippet": "submitted by /u/SkankHuntThreeFiddy [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6571faff2c17a2557840",
+    "article": {
+      "title": "Putin demands Russian data centers supply capacity to the state in wake of Ukraine drone attacks — 10% capacity must be available for state IT infrastructure with 24 hours' notice",
+      "url": "https://www.reddit.com/r/technology/comments/1xm56qt/putin_demands_russian_data_centers_supply/",
+      "source": "Reddit",
+      "published_at": "2026-11-02T18:27:36+00:00",
+      "short_snippet": "submitted by /u/ArgentineBeauty [link] [comments]",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-132e00c982b50fdc952b",
+    "article": {
+      "title": "No Bailouts, Just Confiscations: Nationalize The Artificial Intelligence Companies",
+      "url": "https://www.reddit.com/r/technology/comments/1xm8ro9/no_bailouts_just_confiscations_nationalize_the/",
+      "source": "Reddit",
+      "published_at": "2026-11-02T20:37:25+00:00",
+      "short_snippet": "submitted by /u/Gari_305 [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-fbe148e2cddff137a3d2",
+    "article": {
+      "title": "49.9% of All New Games Released on Steam in October Disclosed Using AI Content, up From 1.7% of Games in January 2024",
+      "url": "https://www.reddit.com/r/technology/comments/1xmd213/499_of_all_new_games_released_on_steam_in_october/",
+      "source": "Reddit",
+      "published_at": "2026-11-02T23:28:15+00:00",
+      "short_snippet": "submitted by /u/Hi_all_hwru [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-fd91fa76a0e72622962e",
+    "article": {
+      "title": "Anthropic warns that it's very close to RSI capability, aka self-building AI",
+      "url": "https://www.reddit.com/r/technology/comments/1xmdwvj/anthropic_warns_that_its_very_close_to_rsi/",
+      "source": "Reddit",
+      "published_at": "2026-11-03T00:04:11+00:00",
+      "short_snippet": "submitted by /u/lurker_bee [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0dde73a752eec2652b74",
+    "article": {
+      "title": "Diagnose Distributed AI Workload Failures with NVIDIA Attribution",
+      "url": "https://developer.nvidia.com/blog/diagnose-distributed-ai-workload-failures-with-nvidia-attribution/",
+      "source": "官方：NVIDIA Developer",
+      "published_at": "2026-11-02T23:39:34+00:00",
+      "short_snippet": "In distributed AI workloads, a single error can produce a cascade of symptoms. A GPU or fabric event may surface as NCCL errors on other ranks, scheduler state...",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6d49bd650ae9b86be9f3",
+    "article": {
+      "title": "Keep Distributed Training Running with Automated Workload Recovery",
+      "url": "https://developer.nvidia.com/blog/keep-distributed-training-running-with-automated-workload-recovery/",
+      "source": "官方：NVIDIA Developer",
+      "published_at": "2026-11-02T22:43:05+00:00",
+      "short_snippet": "As distributed AI training scales, failures across hardware and software dependencies increasingly disrupt training progress, making fast, reliable recovery...",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f3123bdeed841684f4be",
+    "article": {
+      "title": "v0.40.14",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.14-rc0",
+      "source": "官方：Ollama releases",
+      "published_at": "2026-11-03T01:40:40+00:00",
+      "short_snippet": "What's Changed ci: pin buildx to workaround deadlock by @dhiltgen in #19373 openai: preserve readable Responses input content by @hoyyeva in #19192 mlx: sort long top-k rows in chunks by @dhiltgen in #19392 app: make ChatGPT disconnect failures retryable by @hoyyeva in #19336 launch: use model output limits for Claude Code by @ParthSareen in #19410 opena https://github.com/ollama/ollama/pull/19373",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b8282834baa6b6bb8057",
+    "article": {
+      "title": "Marvell Proposes Acquiring Lumentum to Combine Optical Circuit Switching with AI Connectivity Silicon",
+      "url": "https://www.servethehome.com/marvell-to-acquire-lumentum-115-billion-optical-ai-connectivity/",
+      "source": "ServeTheHome",
+      "published_at": "2026-11-02T22:30:09+00:00",
+      "short_snippet": "Marvell announced its intention to acquire Lumentum in a $115B acquisition to further optical connectivity in the AI era The post Marvell Proposes Acquiring Lumentum to Combine Optical Circuit Switching with AI Connectivity Silicon appeared first on ServeTheHome .",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e818b4321c8c6312e436",
+    "article": {
+      "title": "歐洲超市冰箱遭新一波網攻，荷比盧、瑞典等地傳災情",
+      "url": "https://infosecu.technews.tw/2026/11/03/new-cyberattack-on-supermarket-fridges-sweeps-across-europe/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-03T01:30:51+00:00",
+      "short_snippet": "荷蘭連鎖超市 Ahold Delhaize 與比利時的 Colruyt 2 日表示，深夜一起資訊科技（IT）事 […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c19ec5217b0822db8556",
+    "article": {
+      "title": "奧特曼稱 PC 閒置 DRAM 太浪費，馬斯克發迷因反諷：人民也該有自己的 RAM",
+      "url": "https://technews.tw/2026/11/03/elon-musk-mocks-openai-ceo-sam-altmans-claim-that-pcs-having-ram-is-terrible/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-03T01:20:19+00:00",
+      "short_snippet": "OpenAI 執行長山姆‧奧特曼（Sam Altman）近日談到記憶體供應吃緊時表示，從資源配置角度來看，把有 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-42f7b7e5c476efa31361",
+    "article": {
+      "title": "Anthropic 第 3 季營收年增逾 11 倍，最快下週 IPO",
+      "url": "https://finance.technews.tw/2026/11/03/anthropic-says-revenue-surged-1100-percent-ahead-of-ipo/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-03T01:10:49+00:00",
+      "short_snippet": "美國人工智慧（AI）公司 Anthropic 今天報告第 3 季營收較去年同期暴增逾 1,100%，公司預計本 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-84c2c3f99e0aad9d0474",
+    "article": {
+      "title": "蘋果財報穩、但記憶體成本壓力加劇 盤後挫",
+      "url": "https://finance.technews.tw/2026/11/03/apple-inc-condensed-consolidated-statements-of-operations/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-03T00:50:55+00:00",
+      "short_snippet": "蘋果（Apple）財報優於市場預期，iPhone 需求強勁、漲價也有助抵銷成本上漲壓力，但高毛利率的服務業務成 […]",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-55b3a6093c55033c598a",
+    "article": {
+      "title": "AI 一味討好恐誤事，專家建議以問句下指令並堅守人工查核",
+      "url": "https://technews.tw/2026/11/03/your-ai-is-a-shameless-suck-up-and-it-could-be-costing-you-big/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-03T00:30:40+00:00",
+      "short_snippet": "人工智慧（AI）聊天機器人日益普及，但討好使用者的傾向，恐讓人付出代價。科技趨勢專家馬爾（Bernard Ma […]",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-99b422194691dafa60ee",
+    "article": {
+      "title": "AI 泡沫疑慮升溫，Neocloud 業者債台高築、股價重挫",
+      "url": "https://finance.technews.tw/2026/11/03/these-firms-youve-never-heard-of-are-feeding-fears-the-ai-bubble-could-burst/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-03T00:10:05+00:00",
+      "short_snippet": "為 AI 產業提供算力的「新雲端業者」（neocloud）近來成為矽谷熱議焦點，市場質疑財務體質，連帶加深外界 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5c9f9bcc951e1f8f0443",
+    "article": {
+      "title": "AI 資料中心成為日本新商機，為什麼連發電廠都開始投資 AI？",
+      "url": "https://technews.tw/2026/11/03/why-power-plants-are-investing-in-ai-too/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-03T00:00:19+00:00",
+      "short_snippet": "人工智慧算力急劇擴張，正在徹底影響全球能源與基礎建設的產業版圖。日本最大發電企業 JERA 近期宣布將與美國戴 […]",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-cdaec27fd20f7603e2b1",
+    "article": {
+      "title": "淺談 iPhone Duo 災情：是必經的學習曲線還是低級錯誤？",
+      "url": "https://technews.tw/2026/11/03/iphone-duo-issues-inevitable-learning-curve-or-fundamental-error/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-02T23:50:58+00:00",
+      "short_snippet": "2019 年，三星首款摺疊手機 Galaxy Fold 因螢幕接連故障，最後不得不延後上市，成為科技圈的一大笑 […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5c3f87b77d4166f6adbd",
+    "article": {
+      "title": "AI 打造求子財務安全網，新創 Sunfish 推試管嬰兒未成功最高退費 2 萬美元保障",
+      "url": "https://technews.tw/2026/11/03/sunfish-ivf-refund-guarantee/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-02T23:40:43+00:00",
+      "short_snippet": "在人工生殖的求子之路上，患者往往必須獨自承受巨大的財務不確定性。為了解決這個痛點，洛杉磯生育科技新創公司 Su […]",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-18dd3195e10ec77b3350",
+    "article": {
+      "title": "AI 新創 Tolan 估值上看 2.68 億美元，活躍用戶破 25 萬穩站 AI 情緒陪伴市場",
+      "url": "https://technews.tw/2026/11/03/ai-startup-tolan-valuation-268m/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-02T23:20:11+00:00",
+      "short_snippet": "標榜能協助使用者管理日常生活、處理人際關係與情緒並達成個人目標的 AI 陪伴應用程式 Tolan，近日宣布再獲 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-8d5fd217322d260b2cfc",
+    "article": {
+      "title": "2026 年第四季全球伺服器市場動態與 2027 年展望",
+      "url": "https://technews.tw/2026/11/03/global-server-market-dynamics-q4-2026-2027-outlook/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-02T23:00:50+00:00",
+      "short_snippet": "預估 2026 年九大 CSP 資本支出逾 9,571 億美元、年增約 106%，2027 年約 1.53 兆 […]",
+      "tags": [
+        "資料中心"
+      ]
+    }
   }
 ]
