@@ -40555,5 +40555,826 @@
         "產品與平台"
       ]
     }
+  },
+  {
+    "event_id": "evt-dc7fb4cb30ba0703f2d4",
+    "article": {
+      "title": "Samsung to reportedly make AMD, Nvidia HBM base dies at second Texas fab",
+      "url": "https://www.digitimes.com/news/a20261104VL220/samsung-hbm-amd-texas-fab.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-04T06:57:15+00:00",
+      "short_snippet": "Samsung Electronics plans to produce high-bandwidth memory (HBM) base dies for AMD at its second foundry plant in Taylor, Texas, with the US chipmaker accounting for most of the facility's planned output, South Korea's Maeil Business Newspaper reported on November 3, citing industry sources. The report said the plant would also supply Nvidia, although Samsung has not confirmed either customer's or",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-2eae6bb1aa91c761e674",
+    "article": {
+      "title": "HBF could cut AI memory costs but squeeze NAND supply",
+      "url": "https://www.digitimes.com/news/a20261104VL218/nand-flash-manufacturing-capacity-wafer-sandisk.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-04T06:32:16+00:00",
+      "short_snippet": "High Bandwidth Flash (HBF) could give AI accelerators more memory at roughly one-tenth the manufacturing cost per gigabyte of HBM4. But producing it could consume far more wafer capacity than conventional NAND, potentially tightening supply for SSD makers.",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a70a10ab5b8c004fcf88",
+    "article": {
+      "title": "Explosion at Panasonic CCL plant in Taiwan injures five, two missing",
+      "url": "https://www.digitimes.com/news/a20261104PD245/panasonic-taiwan-plant-fire-production.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-04T06:21:42+00:00",
+      "short_snippet": "Panasonic Industrial Devices Materials Taiwan's Hukou plant experienced an explosion and fire early on November 4, injuring five employees and leaving two others unaccounted for. The fire continued to spread through the five-story, steel-framed, metal-clad facility, while the cause and extent of the damage remained under investigation.",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-4b4def218dcbe9b1fb52",
+    "article": {
+      "title": "High-speed optical communications drive demand for mSAP competition among Taiwan PCB makers",
+      "url": "https://www.digitimes.com/news/a20261104PD217/communications-pcb-demand-hdi-data.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-04T05:55:00+00:00",
+      "short_snippet": "As AI computing clusters continue to expand, data centers are demanding higher transmission speeds and greater bandwidth. To overcome the manufacturing bottlenecks of traditional high-density interconnect (HDI) technology, modified semi-additive processes (mSAP) are rapidly emerging as the new market mainstream for optical communications modules and high-end server PCBs.",
+      "tags": [
+        "AI",
+        "資料中心",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e3b5c0f0a0664cb557d9",
+    "article": {
+      "title": "Apple eyes sputtered HMO process for next-gen OLED",
+      "url": "https://www.digitimes.com/news/a20261104PD207/apple-technology-lg-display-sdc-performance.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-04T05:49:16+00:00",
+      "short_snippet": "Apple is reportedly developing high-mobility oxide (HMO) technology for next-generation OLED displays and evaluating it at its own research facilities in Taiwan. Although the mass-production process has not been finalized, Apple, Samsung Display (SDC), and LG Display (LGD) all appear to favor existing sputtering processes.",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c940e7047ddfe9f967c7",
+    "article": {
+      "title": "Supermicro eyes faster cash conversion as turnaround times shrink to 74 days",
+      "url": "https://www.digitimes.com/news/a20261104VL219/supermicro-earnings-cash-flow-demand-2027.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-04T05:42:22+00:00",
+      "short_snippet": "Supermicro expressed confidence to analysts during its earnings call for the first quarter of fiscal year 2027 regarding quicker turnaround times for orders and improved cash flow. The company cited greater demand for its Data Center Building Block Solutions (DCBBS), which accelerate data center infrastructure deployments, but kept a cautious full-year sales outlook to account for component shorta",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e65182b6d3bab6f9197d",
+    "article": {
+      "title": "Darfon to consolidate China, Southeast Asia capacity, shift resources to AIDC components",
+      "url": "https://www.digitimes.com/news/a20261104PD237/darfon-pc-asia-capacity-aidc.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-04T05:38:09+00:00",
+      "short_snippet": "PC component maker Darfon Electronics is consolidating its production capacity in China and Southeast Asia, while simultaneously shifting some of its resources for IT peripherals toward components for AI data centers (AIDC), including structural components, thermal solutions, and battery backup systems.",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-1d67886182a6d3dc5d54",
+    "article": {
+      "title": "SpaceX is reportedly building AI data centers faster than anyone",
+      "url": "https://www.digitimes.com/news/a20261104VL215/spacex-data-capacity-business-merger.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-04T04:55:00+00:00",
+      "short_snippet": "SpaceX, which only entered the AI infrastructure business this year through its merger with xAI, may now be the fastest data center builder in the world, according to research firm SemiAnalysis. The firm argues this pace will make the rocket company the world's biggest AI cloud.",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-53d75a3527d1aa5669b8",
+    "article": {
+      "title": "AEB 3Q26 revenue jumps 70% on AI demand",
+      "url": "https://www.digitimes.com/news/a20261104PD236/revenue-aeb-cloud-demand-profit.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-04T04:25:55+00:00",
+      "short_snippet": "Cloud and AI services provider Acer E-Enabling Service Business (AEB) reported 3Q26 revenue of NT$3.822 billion (approx. US$116.7 million), up 70% year-over-year, as AI application demand drove simultaneous growth in revenue and profit.",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-df3f11a60f1d27095449",
+    "article": {
+      "title": "UTI begins iPhone Duo UTG shipments to Samsung Display",
+      "url": "https://www.digitimes.com/news/a20261104PD206/utg-iphone-duo-production-sdc-shipments.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-04T03:47:13+00:00",
+      "short_snippet": "South Korean company UTI, the second supplier of ultra-thin glass (UTG) cover glass for Apple’s first foldable smartphone, the iPhone Duo, has begun shipments to Samsung Display (SDC), but mass production is running about one quarter behind schedule.",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6c9f0019179c8542a030",
+    "article": {
+      "title": "Taiwan launches first maritime unmanned vehicle expo",
+      "url": "https://www.digitimes.com/news/a20261104PD205/taiwan-vehicle-maritime-technology-uk.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-04T03:40:53+00:00",
+      "short_snippet": "Taiwan has launched its first maritime unmanned vehicle exhibition, drawing major military unmanned boat makers from the US, UK, Singapore, and other countries to showcase technologies and explore opportunities in the island's expanding defense technology market.",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-efa6359f6d3ff293cdd7",
+    "article": {
+      "title": "Zhongji InnoLight revenue and profit more than double in 3Q26",
+      "url": "https://www.digitimes.com/news/a20261104PD232/2026-demand-profit-communications-revenue.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-04T03:35:00+00:00",
+      "short_snippet": "China-based optical communications module maker Zhongji InnoLight reported strong results for the third quarter of 2026 as global AI infrastructure expansion drove robust demand for high-speed optical transceiver modules and increased shipments of 800G and 1.6T products. Revenue reached CNY27.769 billion (US$4.17 billion), up 171.83% year over year, while net profit attributable to the parent comp",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f2934a80f469823935bc",
+    "article": {
+      "title": "CAS Space's Kinetica-2 joins Spacesail deployment, raising stakes for China's commercial rockets",
+      "url": "https://www.digitimes.com/news/a20261104PD227/rocket-commercial-launch-production-testing.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-04T03:16:14+00:00",
+      "short_snippet": "Chinese commercial launch provider CAS Space launched its Kinetica-2 rocket at 8:15:25am on 3 November from the Dongfeng Commercial Aerospace Innovation Experimental Zone, placing 18 Spacesail Constellation satellites into their designated orbit. It was the rocket's first deployment mission for the low-Earth-orbit network, also known as G60 Starlink.",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-373e9238715477d65f65",
+    "article": {
+      "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
+      "url": "https://news.ycombinator.com/item?id=50351463",
+      "source": "Hacker News",
+      "published_at": "2026-11-03T12:58:43+00:00",
+      "short_snippet": "Article URL: https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/ Comments URL: https://news.ycombinator.com/item?id=50351463 Points: 57 # Comments: 135",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-1a21cc733fad97c7fb58",
+    "article": {
+      "title": "Stock futures fall on speculation Democrats to win big in midterms, slow data center buildout",
+      "url": "https://www.reddit.com/r/technology/comments/1xnec0k/stock_futures_fall_on_speculation_democrats_to/",
+      "source": "Reddit",
+      "published_at": "2026-11-04T03:58:32+00:00",
+      "short_snippet": "submitted by /u/Logical_Welder3467 [link] [comments]",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-7d7aea373e926511f74b",
+    "article": {
+      "title": "AI stocks slide as Texas governor result raises data center risks",
+      "url": "https://www.reddit.com/r/technology/comments/1xnh94y/ai_stocks_slide_as_texas_governor_result_raises/",
+      "source": "Reddit",
+      "published_at": "2026-11-04T06:38:50+00:00",
+      "short_snippet": "submitted by /u/Hi_all_hwru [link] [comments]",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b019d1aa2ce54f121b99",
+    "article": {
+      "title": "Google responds to political backlash over removing search from schools that ban AI",
+      "url": "https://www.reddit.com/r/technology/comments/1xngycd/google_responds_to_political_backlash_over/",
+      "source": "Reddit",
+      "published_at": "2026-11-04T06:20:42+00:00",
+      "short_snippet": "submitted by /u/Hi_all_hwru [link] [comments]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b82e3f5da7313f851960",
+    "article": {
+      "title": "MCPGuard: Finding Conformance Gaps in MCP SDKs via Dual-Track Analysis and Dynamic Adjudication",
+      "url": "https://arxiv.org/abs/2611.03662",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-04T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.03662v1 Announce Type: new Abstract: The Model Context Protocol (MCP) connects large language model agents to external tools and services through official SDKs that implement message validation and session logic. Specification constraints omitted by these SDKs may propagate to downstream applications, highlighting the importance of SDK-level conformance testing. Yet existing MCP conform",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-590db0199eb15999aea0",
+    "article": {
+      "title": "Functional-Group Knowledge Is Structured in Language Models Before It Is Spoken",
+      "url": "https://arxiv.org/abs/2611.03684",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-04T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.03684v1 Announce Type: new Abstract: Language models serve as the reasoning core of agents for chemistry and materials science, where they must interpret molecular structure before planning syntheses or proposing materials. Yet their outputs show only what they say, not what they know. Given a prompt such as ``The primary functional group in 1-Fluorobutane (CCCCF) is'', a small general-",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-2c44ff8988c41f3e3625",
+    "article": {
+      "title": "LOLPlay: Benchmarking Real-Time Visual Agents in League of Legends",
+      "url": "https://arxiv.org/abs/2611.03685",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-04T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.03685v1 Announce Type: new Abstract: Visual agents need to coordinate reasoning and action while their environment evolves during inference. We introduce LOLPlay, a benchmark in native \\emph{League of Legends} with 36 champion-specific tasks spanning resource management, combat, cooperation, and objectives. Agents interact through screenshots and mouse--keyboard actions; automated initi",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b649a352e5dba3b48168",
+    "article": {
+      "title": "Training LLM Agents to Automate LLM Post-Training with RSI-Dojo",
+      "url": "https://arxiv.org/abs/2611.03698",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-04T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.03698v1 Announce Type: new Abstract: Recursive Self-Improvement (RSI) aims to enable AI systems to autonomously build and improve AI systems themselves, including models, harnesses, and underlying infrastructure. Within this broader agenda, a central capability is enabling agents to train and improve base models. However, existing studies on automated model training primarily focused on",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-1afc5db13dcf50e70ea6",
+    "article": {
+      "title": "Unsatz: Evaluating Scientific Discovery Without a Given Ansatz",
+      "url": "https://arxiv.org/abs/2611.03713",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-04T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.03713v1 Announce Type: new Abstract: Before a scientist fits any parameter, they must decide what the model contains: which quantities exist, which are hidden, how they interact, and how they are measured. Physicists call such a trial form an ansatz. Benchmarks for automated equation discovery mostly supply it, by fixing the variables, a library of candidate terms, or a law to be modifi",
+      "tags": [
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-70aa2010d2df01366f05",
+    "article": {
+      "title": "Counterexample-driven autonomous research with application to excess radiated energy in a Z-pinch",
+      "url": "https://arxiv.org/abs/2611.03721",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-04T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.03721v1 Announce Type: new Abstract: Recent breakthroughs in artificial-intelligence-assisted mathematics show that open-ended machine search can outperform human mathematicians, yet transferring this paradigm to physics requires refactoring the research workflow. We introduce Simjecture, an open-source framework in which language-model agents pursue human-defined physical conjectures. ",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-38016044e59057cc445b",
+    "article": {
+      "title": "EMBERS: Empirically Motivated Robustness Testing of Deep Research Systems via Defect-Guided Fuzzing",
+      "url": "https://arxiv.org/abs/2611.03723",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-04T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.03723v1 Announce Type: new Abstract: Deep Research (DR) systems extend large language models into autonomous agents that decompose complex information needs, iteratively search the web, and synthesize evidence to answer challenging questions. However, their multi-stage execution may introduce robustness risks, as variations in user questions or intermediate search inputs may propagate a",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3e85f68dbcd3d2db8bef",
+    "article": {
+      "title": "Reasoning is topologically simple",
+      "url": "https://arxiv.org/abs/2611.03739",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-04T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.03739v1 Announce Type: new Abstract: We formulate and investigate the hypothesis that reasoning text has simpler co-occurrence topology than non-reasoning text, and that higher-quality reasoning has simpler co-occurrence topology than lower-quality reasoning. We discuss and test applications to AI safety and AI evaluation.",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6ad18cfa83cc1d4773a3",
+    "article": {
+      "title": "VagueBench: Benchmarking the Robustness of Embodied Agents on Ambient Context Illusions",
+      "url": "https://arxiv.org/abs/2611.03765",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-04T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.03765v1 Announce Type: new Abstract: Embodied agents are increasingly deployed in open-world environments, yet current robustness evaluations remain biased toward hazardous instructions and jailbreak vulnerabilities. A more fundamental issue is largely overlooked: agents are rarely tested under semantically sufficient but contextually minimal instructions (i.e., common in real-world hum",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-8b0d9aa8cd4402820165",
+    "article": {
+      "title": "El Agente F\\'armaco: A Scalable AI Scientist for Drug Discovery",
+      "url": "https://arxiv.org/abs/2611.03832",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-04T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.03832v1 Announce Type: new Abstract: Computational drug discovery offers a growing range of tools for proposing and evaluating molecules, but combining them and deciding what to do next still requires substantial expert effort. Here, we introduce El Agente F\\'armaco, an AI scientist that uses modern large language model (LLM) technology to turn discovery goals expressed in everyday lang",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-54fefb3acf156ddeaf4b",
+    "article": {
+      "title": "Performance, Scalability and Maintenance: An Experimental Study of RPA vs. Autonomous Agents in the Healthcare Domain",
+      "url": "https://arxiv.org/abs/2611.03853",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-04T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.03853v1 Announce Type: new Abstract: Healthcare information systems are fragmented, and retrieving data from legacy web portals is a recurrent need. Robotic Process Automation (RPA) is deterministic but sensitive to interface changes, whereas autonomous agents based on large language models (Agent Process Automation, APA) promise adaptability at a higher computational cost. Following De",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0ecbe0cad7af4ff67551",
+    "article": {
+      "title": "ProofPaths: An AI Agent Framework for Assessing Student Reasoning",
+      "url": "https://arxiv.org/abs/2611.03882",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-04T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.03882v1 Announce Type: new Abstract: Students can use large language models to complete assignments, but a correct solution does not establish whether they understand the reasoning behind it. Individualized interviews can probe that understanding but require recurring staff effort. We introduce ProofPaths, an AI agentic framework that combines rubric-based grading with individualized an",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-818c50c40182e13b702f",
+    "article": {
+      "title": "What Is This Memory Useful For? Measuring Task-Conditioned Utility in Long-Term Agent Memory",
+      "url": "https://arxiv.org/abs/2611.03930",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-04T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.03930v1 Announce Type: new Abstract: A stored experience may answer one future question and offer little help with another. We measure this task-conditioned utility rather than assigning each memory a single importance score. A task-blind writer stores a memory without seeing the later task; a frozen reader then answers that task with and without the memory, using identical filler. A co",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c2ea6d764a0a5f4ce644",
+    "article": {
+      "title": "We Ran a Research Sprint With AI. The AI Worked. The Research Didn't",
+      "url": "https://arxiv.org/abs/2611.03946",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-04T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.03946v1 Announce Type: new Abstract: Generative AI tools for research are widely deployed, yet individual productivity gains do not guarantee better team research. We argue that how AI use is structured matters alongside access. Personal AI tools may amplify two failures under deadline pressure: a consumption bottleneck, in which generation outpaces team-visible evaluation, and AI-induc",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-738a2c3e0b15376d10c5",
+    "article": {
+      "title": "Measuring Model-Specific Alignment Drift in LLM-Based Opinion Dynamics",
+      "url": "https://arxiv.org/abs/2611.03980",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-04T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.03980v1 Announce Type: new Abstract: Large language model (LLM) agents are increasingly used as synthetic participants in opinion-dynamics experiments, often assuming that an agent's behaviour is fully determined by its prompt. We test this assumption with a framework in which LLM agents discuss a contested policy issue over repeated rounds while their stance is quantified by a fixed ps",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b15cf880ff80c80fac94",
+    "article": {
+      "title": "A Guideline-Grounded Multi-Agent Framework for Personalized Exercise Prescription from Clinical and Wearable Data",
+      "url": "https://arxiv.org/abs/2611.03983",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-04T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.03983v1 Announce Type: new Abstract: Translating population-level exercise guidance into individualized prescriptions requires integrating clinical and wearable data, including diagnoses, medications, functional limitations, and baseline activity, with condition-specific recommendations, a process difficult to scale beyond specialist rehabilitation settings. We developed FITTER, a multi",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3ed65ab17adc2b47b50a",
+    "article": {
+      "title": "Thinking Fast, Trading Late: System One Decision Models vs the Market",
+      "url": "https://arxiv.org/abs/2611.03985",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-04T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.03985v1 Announce Type: new Abstract: Large language models (LLMs) read company news at scale, and backtests suggest that their readings predict stock returns. We ask how much of that predictability survives a test that rules out look-ahead, memorization and selection. We propose OLIVIA, a protocol for such tests: point-in-time inputs with company identities masked, selection on validati",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-658ea49966e89c912987",
+    "article": {
+      "title": "WASP-Mem: Let Agent Organize Procedural Memory. Human Spend Effort on Diagnosis",
+      "url": "https://arxiv.org/abs/2611.04003",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-04T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.04003v1 Announce Type: new Abstract: LLM agents struggle to automate complex enterprise procedures because static, pre-built harness cannot capture proprietary policies, undocumented behaviors, or state-dependent recovery paths that surface only during execution. Procedural memory accrued from agent experience offers a training-free path to closing this gap -- yet unlike episodic record",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-aa9197acd8fd76be5360",
+    "article": {
+      "title": "ROCm InferaSim: Cut LLM Serving Trial Costs and Deploy the Best Configuration",
+      "url": "https://arxiv.org/abs/2611.04032",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-04T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.04032v1 Announce Type: new Abstract: Serving an LLM efficiently depends on the engine, how the model is split across GPUs, precision, scheduler settings, speculative decoding, KV-cache management, and prefill-decode disaggregation. The best configuration depends on the model, hardware, workload, and objective. Operators usually find it by trial and error. Exhaustively measuring the cand",
+      "tags": [
+        "AI",
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-dd127f19ff0aa57581c7",
+    "article": {
+      "title": "Exploit or conform? How norm utility prompting changes the way LLMs use community beliefs",
+      "url": "https://arxiv.org/abs/2611.04048",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-04T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.04048v1 Announce Type: new Abstract: Large Language Models (LLMs) serve both as tools for aiding human decision-making in everyday life and as models of human agents in experimental simulation studies. Alignment on prototypical social decisions -- such as whether to cooperate on a collective action -- therefore has immediate practical consequences for researchers and for society at larg",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f3843b52f6ffcd9d4a14",
+    "article": {
+      "title": "Look Before You Launch: Learned Throughput Prediction for Hardware Selection in a Production Training Fleet",
+      "url": "https://arxiv.org/abs/2611.04057",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-04T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.04057v1 Announce Type: new Abstract: In mixed-vendor accelerator fleets, many training jobs can run on several hardware types, and the best choice depends on each job's throughput on each type. Routing a job needs a throughput estimate for every candidate type before the job runs. We present LEAP, a machine learning performance prediction service that predicts each training job's throug",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e768cdaa3ca002abc9d4",
+    "article": {
+      "title": "AlgoPilot: Cross-Paradigm Reasoning in Language Models via Strategy Selection and Guidance",
+      "url": "https://arxiv.org/abs/2611.04079",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-04T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.04079v1 Announce Type: new Abstract: Real-world problems span diverse domains, including program synthesis, symbolic reasoning, planning, and optimization, and often require fundamentally different solution paradigms. A central challenge for LLM-based reasoning is twofold: identifying an appropriate problem-solving approach and formulating it correctly. In this paper, we propose AlgoPil",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3a2a4f51cbd419a45f05",
+    "article": {
+      "title": "The Agent Board: Kanban for Machines; Durable Coordination for Agents That Outlive the Conversation",
+      "url": "https://arxiv.org/abs/2611.04100",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-04T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.04100v1 Announce Type: new Abstract: Harnesses for large language models have converged on a single-threaded shape: one agent, one history, one machine, one sitting. That shape fails work that spans many agents, outlives any one model call, or waits on systems that are not agents. We describe the Agent Board, the coordination substrate in the Corvic harness. The board is a durable, shar",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3dcc9109f87500b50046",
+    "article": {
+      "title": "Structured Clinical Memory as Context for Probabilistic Decision Models: A Synthetic Evaluation with Jev",
+      "url": "https://arxiv.org/abs/2611.04101",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-04T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.04101v1 Announce Type: new Abstract: Longitudinal clinical context is often distributed across noisy, repetitive forms and narrative records. We study whether a compact structured memory can improve a probabilistic decision model's answers when the underlying patient vignette is already available. We created 30 fully synthetic cases spanning twelve clinical domains, paired each with syn",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b25b2caa2d2e7a4cce21",
+    "article": {
+      "title": "The Evolution Strategies Paradox: Better Models from Worse Perturbations",
+      "url": "https://arxiv.org/abs/2611.04113",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-04T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.04113v1 Announce Type: new Abstract: How is it possible for perturbation-based methods like Evolution Strategies (ES) to optimize billion-parameter large language models (LLMs)? Classical search methods are highly dependent on finding good candidates within generated populations. However, when using ES to fine-tune LLMs, a phenomenon can occur where all offspring models consistently per",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6bd1a983c494991c6f89",
+    "article": {
+      "title": "GlucoAgent: Personalized Glucose Forecasting from Multimodal Personal Context",
+      "url": "https://arxiv.org/abs/2611.04126",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-04T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.04126v1 Announce Type: new Abstract: Continuous glucose monitors, smartwatches, meal logs, and health profiles form a rich multimodal personal context that can significantly enhance glucose forecasting. However, existing methods struggle to effectively utilize these signals to improve glucose prediction because the relevance of different modalities varies drastically across individuals ",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6aaf91acec4481292ac4",
+    "article": {
+      "title": "Interpretable Early Termination of Web Navigation Agents via Closed Sequential Pattern Mining",
+      "url": "https://arxiv.org/abs/2611.04142",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-04T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.04142v1 Announce Type: new Abstract: Web navigation agents built on open-weight language models fail often and fail late, with most of the tokens spent after the trajectory has become unrecoverable. Recent work has shown that early termination is a viable cost-reduction strategy, but existing approaches produce opaque termination decisions that do not support diagnosis or human oversigh",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3407de081edc74e9cf89",
+    "article": {
+      "title": "Palimpsestic Accountability in the US Federal AI Inventories",
+      "url": "https://arxiv.org/abs/2611.04153",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-04T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.04153v1 Announce Type: new Abstract: An AI inventory is a structured, often public record in which a government or organization lists and describes the AI systems it uses or plans to use. Studies of single AI inventory releases describe what systems do but say little about how they are governed over time. We linked entries across three releases of the US Federal AI Use Case Inventory (2",
+      "tags": [
+        "AI",
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-8898aab2ad812713d78e",
+    "article": {
+      "title": "Validation-Gated ML Pipeline Synthesis with Expert-Grounded Self-Evolving Skills",
+      "url": "https://arxiv.org/abs/2611.04180",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-04T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.04180v1 Announce Type: new Abstract: Recent advances in large language models have enabled agentic systems that automate machine learning pipeline construction from minimal user input. However, existing agentic AutoML methods either depend on rigid templates that limit adaptability, target narrow task domains, or rely on free-form code generation that lacks reliability guarantees, leavi",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-930ef0a1ca0366130113",
+    "article": {
+      "title": "Clocks all the way down: does sequence-processing AI need endogenous temporal structure?",
+      "url": "https://arxiv.org/abs/2611.04181",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-04T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.04181v1 Announce Type: new Abstract: Mainstream sequence-processing AI is temporally reactive: each update is driven by input and learned state transitions, rather than by an independently evolving internal temporal reference. Biological brains, by contrast, continuously generate rhythmic activity that structures perception, memory, and cognition, and this rhythmicity reaches all the wa",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-9917ec76d7dba5e94257",
+    "article": {
+      "title": "AMD Q3 2026 Earnings Data Center Growth Drives Record Quarter",
+      "url": "https://www.servethehome.com/amd-q3-2026-earnings-data-center-growth/",
+      "source": "ServeTheHome",
+      "published_at": "2026-11-04T05:24:08+00:00",
+      "short_snippet": "AMD Q3 2026 earnings were massive with the data center and embedded segments seeing big uplift with the clear Venice x86 leadership looming The post AMD Q3 2026 Earnings Data Center Growth Drives Record Quarter appeared first on ServeTheHome .",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c0cc3086fa21bfc7654a",
+    "article": {
+      "title": "Arista 財報優、受惠 AI 基建擴張 盤後上揚",
+      "url": "https://finance.technews.tw/2026/11/04/arista-shares-rise-after-strong-earnings-after-hours/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-04T07:10:18+00:00",
+      "short_snippet": "美國網路設備商 Arista Networks 財報出色，營收成長幅度創 2014 年上市以來之最，第四季展望 […]",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-be6a5c619eba79aefe02",
+    "article": {
+      "title": "矽谷喊 AI 十年就能治百病，藥廠執行長直言生物學太複雜是真正難關",
+      "url": "https://technews.tw/2026/11/04/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-04T07:00:21+00:00",
+      "short_snippet": "Anthropic執行長阿莫迪（Dario Amodei）曾預言，AI 可望十年內治癒多數人類疾病。《華爾街日 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-65a924db4c6d497a103c",
+    "article": {
+      "title": "群電前三季 EPS 3.40 元，AI 伺服器、通訊電源成第四季成長動能",
+      "url": "https://technews.tw/2026/11/04/chicony-power-q3-profit-pressure-q4-communication-power-double-digit-growth/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-04T06:20:49+00:00",
+      "short_snippet": "群光電能今（4）日公布第三季財報，受到 NB 市場需求趨緩、記憶體缺貨及原物料成本上漲影響，第三季稅後淨利為 […]",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-7898c5e7506f52086b24",
+    "article": {
+      "title": "科技業一週狂吸 600 億美元，Meta 帶頭發債 200 億打造 AI 帝國",
+      "url": "https://finance.technews.tw/2026/11/04/meta-issues-20-billion-bonds-expand-ai-infrastructure/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-04T06:20:09+00:00",
+      "short_snippet": "為了支應人工智慧（AI）基礎設施的龐大擴張需求，Meta Platforms 正計劃發行總額至少 200 億美 […]",
+      "tags": [
+        "AI",
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-36d41413afd97002fcf5",
+    "article": {
+      "title": "中國科技巨頭狂訂 600 萬顆輝達 RTX PRO 5500，四個月內恐只拿得到 1%",
+      "url": "https://technews.tw/2026/11/04/nvidia-china-clients-to-get-1-percent-of-70-billion-rtx-chips-ordered/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-04T06:10:59+00:00",
+      "short_snippet": "彭博（Bloomberg）報導指出，中國人工智慧與雲端業者向輝達（NVIDIA）下單的 RTX PRO 550 […]",
+      "tags": [
+        "AI",
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3bec9e5cd725d0a00387",
+    "article": {
+      "title": "漫畫、影片、文件都能翻，「沉浸式翻譯」取得 ISO 雙認證",
+      "url": "https://technews.tw/2026/11/04/immersivetranslate-ai-iso/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-04T05:52:11+00:00",
+      "short_snippet": "隨著生成式 AI 應用逐漸普及，翻譯工具的用途已從外文網頁閱讀延伸至線上漫畫、影音字幕及商業文件等領域，但資料 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0249869377c58b86e6d7",
+    "article": {
+      "title": "超微估明年 AI 成長確保供應鏈穩定，封測台廠搭順風車",
+      "url": "https://technews.tw/2026/11/04/amd-ai-growth-secures-supply-chain-stability-taiwan-osat-firms-benefit/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-04T05:30:04+00:00",
+      "short_snippet": "人工智慧（AI）晶片大廠超微（AMD）董事長暨執行長蘇姿丰今天在線上投資人會議表示，資料中心需求遠大於供給，已 […]",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ee97bb67ec7974fcf14c",
+    "article": {
+      "title": "中華電攜 Google 搶 AI 訂閱商機，力拚一年 20 萬戶",
+      "url": "https://finance.technews.tw/2026/11/04/cht-google-ai-plus/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-04T05:14:11+00:00",
+      "short_snippet": "中華電信今日宣布擴大與 Google 合作，推出 Google AI Plus、Google AI Pro 等 […]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d0e9497cc95b623f65c4",
+    "article": {
+      "title": "Google 力推「引導式學習」，校方被迫加入惹議",
+      "url": "https://technews.tw/2026/11/04/google-brings-guided-learning-features-to-search-and-classroom/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-04T05:09:54+00:00",
+      "short_snippet": "Google 今日針對學生學習情境加入全新 AI 設定，但有個巨大的附加條件，如果完全關閉 AI 功能，學生帳 […]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-1743ac4ac2f6f06e72b5",
+    "article": {
+      "title": "聞泰科技遭提告 安世半導體指控違反內部協議",
+      "url": "https://technews.tw/2026/11/04/wingtech-rejects-allegations-in-nexperias-2-billion-lawsuit/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-04T04:20:37+00:00",
+      "short_snippet": "綜合港媒報導，聞泰科技表示，位於荷蘭的安世半導體（Nexperia B.V.）已向荷蘭阿姆斯特丹地方法院對公司 […]",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-04bd661736d393f0364a",
+    "article": {
+      "title": "手機晶片寒冬 Skyworks 財測失色股價暴跌 17%",
+      "url": "https://finance.technews.tw/2026/11/04/skyworks-shares-plunge-17-on-weak-outlook/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-04T03:50:50+00:00",
+      "short_snippet": "美國射頻晶片大廠 Skyworks Solutions 發表最新財報，雖然上季營收略優於預期，但受高階 And […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d565e44c39353b5e106c",
+    "article": {
+      "title": "可口可樂為何能漲贏科技股？貝萊德：AI 進入考驗「高利率估到明年中」",
+      "url": "https://finance.technews.tw/2026/11/04/buying-hardware-with-your-eyes-closed/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-04T03:28:26+00:00",
+      "short_snippet": "貝萊德投信今日台灣週期間舉辦 2026 ETF 國際論壇，貝萊德大中華區投資策略長陸文杰分享，市場對 AI 的 […]",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5b3cef3000440cadef5f",
+    "article": {
+      "title": "不需重新訓練，MIT 最新研究：AI 已能直接「微創」修改其他 AI 的底層權重",
+      "url": "https://technews.tw/2026/11/04/ai-directly-modifies-other-model-weights/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-04T03:20:29+00:00",
+      "short_snippet": "麻省理工學院電腦科學與人工智慧實驗室（MIT CSAIL）近期發表了一項名為「權重空間程式設計」（Weight […]",
+      "tags": [
+        "AI"
+      ]
+    }
   }
 ]
