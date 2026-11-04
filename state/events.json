@@ -41376,5 +41376,712 @@
         "AI"
       ]
     }
+  },
+  {
+    "event_id": "evt-1123652f7a6a1d0979db",
+    "article": {
+      "title": "Watch Henry Cavill build a video game on his Googlebook",
+      "url": "https://blog.google/products-and-platforms/devices/googlebook/henry-cavill-mustache-protocol-video-game/",
+      "source": "官方：Google",
+      "published_at": "2026-11-04T18:00:00+00:00",
+      "short_snippet": "The video shows the making of Henry Cavill's game, “Mustache Protocol.\"",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6ca7ade89b448d15482d",
+    "article": {
+      "title": "We're sharing our framework for building safer and more helpful AI for health.",
+      "url": "https://blog.google/innovation-and-ai/technology/health/evaluating-health-ai-at-scale/",
+      "source": "官方：Google",
+      "published_at": "2026-11-04T14:00:00+00:00",
+      "short_snippet": "Many of us have turned to AI with a health question or received care from a doctor who’s using it. The adoption of technology for health is accelerating and impacts bill…",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ebcb473680819ed5ad4c",
+    "article": {
+      "title": "Take a closer look at art with the Courtauld",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/the-art-of-looking/",
+      "source": "官方：Google",
+      "published_at": "2026-11-04T10:00:00+00:00",
+      "short_snippet": "Experts from the Courtauld discuss their digital partnership with Google Arts & Culture, demonstrating how ultra-high-resolution imagery brings gallery masterpieces into focus. Focusing on works like Paul Cézanne's still life, they explore hidden brushstr",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f6093f8ed496df65140e",
+    "article": {
+      "title": "Nothing teases a screen-free AI device ahead of launch next month",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+      "source": "The Verge",
+      "published_at": "2026-11-04T18:26:07+00:00",
+      "short_snippet": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI operating system. He didn't give away much about what exactly the new device is, only that one feature […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c0ee565b909c0f401f43",
+    "article": {
+      "title": "Apple will check shared iCloud links for ‘harmful content’",
+      "url": "https://www.theverge.com/tech/1026604/apple-icloud-links-harmful-content-27-3",
+      "source": "The Verge",
+      "published_at": "2026-11-04T18:23:37+00:00",
+      "short_snippet": "Apple will start checking iCloud items that are accessible to anyone who has the link for \"harmful content\" starting with iOS 27.3 and other 27.3 updates, the company says. \"When you share an item that can be accessed by Anyone with the Link in version 27.3 or later of iOS, iPadOS, macOS, and visionOS, that […]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-aba13b9629de510c16b0",
+    "article": {
+      "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
+      "url": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
+      "source": "The Verge",
+      "published_at": "2026-11-04T18:00:00+00:00",
+      "short_snippet": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. \"How does that make you feel?\" I get asked this a lot in therapy. Plenty of life events, big and […]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c1e68860d6535a2fe558",
+    "article": {
+      "title": "ChatGPT will now make you animated GIFs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+      "source": "The Verge",
+      "published_at": "2026-11-04T18:00:00+00:00",
+      "short_snippet": "ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Images 2.6 model, allows you to adjust the GIF's animation speed, edit individual frames, and share it with others. Before this change, ChatGPT couldn't natively generate GIFs in a single […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c6713d94e8275029102f",
+    "article": {
+      "title": "Nintendo is losing a Switch cartridge supplier",
+      "url": "https://www.theverge.com/games/1026426/nintendo-switch-cartridges-rom-supplier-data-center",
+      "source": "The Verge",
+      "published_at": "2026-11-04T17:03:32+00:00",
+      "short_snippet": "Nintendo is about to lose a major memory supplier for its Switch cartridges. The supplier, Macronix, announced during a recent quarterly earnings call that it would be gradually phasing out ROM production and is instead focusing on NOR flash memory for data centers, Taipei Times reports. Macronix's ROM revenue fell 39 percent compared with last […]",
+      "tags": [
+        "半導體",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-1d076396c9e510c5230e",
+    "article": {
+      "title": "Rian Johnson explains why he had to build his own iPhone camera app",
+      "url": "https://www.theverge.com/tech/1025659/rian-johnson-chromagraph-camera-interview",
+      "source": "The Verge",
+      "published_at": "2026-11-04T16:10:05+00:00",
+      "short_snippet": "Rian Johnson is an analog photography devotee. The director of Knives Out and The Last Jedi can often be spotted on set with a Leica M6 at his side, documenting production on film. But sometimes, it's still easier to reach for a phone. So Johnson started wondering if the photos from his iPhone could be […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5e44e8825150e5e9ab0c",
+    "article": {
+      "title": "Data centers lost the midterms",
+      "url": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
+      "source": "The Verge",
+      "published_at": "2026-11-04T16:05:39+00:00",
+      "short_snippet": "Data center developers are poised to face a more restrictive building environment after voters across the country voted in candidates who favor moratoriums and ballot measures that put more obstacles on their expansion, delivering a stinging blow to a central pillar of the AI industry. Of voters polled by NBC News on Election Day, 76 […]",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-44e003522651de67f861",
+    "article": {
+      "title": "Uber only fulfilled 4 rides from AI agents last quarter",
+      "url": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
+      "source": "The Verge",
+      "published_at": "2026-11-04T15:58:45+00:00",
+      "short_snippet": "AI agents won't be stealing Uber's lunch any time soon. Only four rides were arranged by third-party AI agents during the third quarter of 2026, Uber executives disclosed during an earnings call this morning. The volume of Uber Eats orders fulfilled by AI agents was a little higher, with the company recording \"around 500\" during […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-44ec718e6bb06d07e200",
+    "article": {
+      "title": "Waymo fleet crowds San Diego chargers, straining EV access",
+      "url": "https://www.digitimes.com/news/a20261104PD211/waymo-alphabet-vehicle-2026-california.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-04T09:29:00+00:00",
+      "short_snippet": "Alphabet's autonomous taxi service Waymo began operations in San Diego, California, in September 2026 and expanded its coverage on October 27. However, EV owners have reported that large numbers of robotaxis are using public fast-charging stations, forcing other drivers to queue and prompting local politicians to call for tighter oversight of autonomous vehicles.",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-fd693c81f1bdbd608444",
+    "article": {
+      "title": "Amazon's US$2 billion Ohio data center plan faces new hurdle as voters approve ban",
+      "url": "https://www.digitimes.com/news/a20261104VL223/data-center-ban-amazon-data-development.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-04T09:27:12+00:00",
+      "short_snippet": "Voters in Sunbury, Ohio, approved a ban on large data centers in the November 3 election, raising a new obstacle to Amazon's proposed US$2 billion project as communities across the US move to restrict AI infrastructure development.",
+      "tags": [
+        "AI",
+        "資料中心",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-59101d4dda6a2f301e8a",
+    "article": {
+      "title": "US election previews shift toward AI oversight and data center regulation",
+      "url": "https://www.digitimes.com/news/a20261104VL224/data-center-regulation-data.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-04T09:24:56+00:00",
+      "short_snippet": "Asian stocks wavered on November 4 in response to the US midterm election results. While the final votes are still being counted, current results show the Democratic Party winning majorities in both the House of Representatives and Senate, a clear indication of voters' discontent about data center development in their localities, which could usher in more regulation of the AI industry.",
+      "tags": [
+        "AI",
+        "資料中心",
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-676aa996f669b743f83d",
+    "article": {
+      "title": "Innodisk advances AI data center push with eSSD, DDR5 products",
+      "url": "https://www.digitimes.com/news/a20261104PD249/innodisk-data-center-ddr5-ssd-memory-module.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-04T08:56:00+00:00",
+      "short_snippet": "Industrial memory module maker Innodisk is deepening its AI data center strategy by supplying critical components for AI infrastructure, including enterprise solid-state drives (eSSDs) and AI server memory modules. Its data center SSD series is now undergoing full customer sampling, while DDR5 and RDIMM products will launch in stages to support data-intensive model training, inference, and high-pe",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3d03dbc6b084a6af7368",
+    "article": {
+      "title": "Raydium faces 4Q26 slowdown after AI capacity fears fuel customer stockpiling",
+      "url": "https://www.digitimes.com/news/a20261104PD244/driver-ic-raydium-demand-capacity-revenue.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-04T08:54:00+00:00",
+      "short_snippet": "Display driver IC designer Raydium Semiconductor reported consolidated revenue of NT$6.57 billion (≈ US$200 million) for the third quarter of 2026, down 3.8% sequentially but up 21.0% year on year. Gross margin reached 26.4%, rising 0.7pp from the previous quarter but falling 2.2pp from a year earlier. Operating profit declined 13.1% sequentially and 11.7% year on year to NT$310 million.",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-08bc0cf7cb94ad7a8ca9",
+    "article": {
+      "title": "Broadcom loses final appeal over Samsung chip supply deal",
+      "url": "https://www.digitimes.com/news/a20261104VL221/samsung-broadcom-supreme-smartphone-2023.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-04T08:53:59+00:00",
+      "short_snippet": "South Korea's Supreme Court has upheld a KRW18.664 billion (approx. US$13.9 million) fine against Broadcom for pressuring Samsung Electronics into a long-term smartphone component purchasing agreement by disrupting supplies, bringing the US chipmaker's legal challenge to an end.",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-7642d920dfcbbb537760",
+    "article": {
+      "title": "Onsemi to buy Ferric for US$600M to strengthen AI processor power delivery",
+      "url": "https://www.digitimes.com/news/a20261104PR201/onsemi-processor-technology-revenue-growth.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-04T08:47:00+00:00",
+      "short_snippet": "Onsemi has agreed to acquire Ferric, Inc., a developer of integrated voltage regulator (IVR) technology, for US$600 million in cash plus up to US$175 million in contingent consideration tied to revenue milestones, the company announced on November 2, 2026. Alongside the deal, Onsemi raised its 2030 AI data center revenue target by US$500 million to more than US$3 billion.",
+      "tags": [
+        "AI",
+        "資料中心",
+        "監管",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-2c885d3e3f2f24670d65",
+    "article": {
+      "title": "Weblink International posts record 3Q26 profit on AI demand",
+      "url": "https://www.digitimes.com/news/a20261104PD250/weblink-profit-demand-2026-sales.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-04T08:45:00+00:00",
+      "short_snippet": "Weblink International Inc. reported record profit for both the third quarter of 2026 and the first three quarters, driven by growing enterprise AI adoption and sales of new products. The company's board approved its third-quarter 2026 financial report on November 3.",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-019f655da6d3e9918963",
+    "article": {
+      "title": "Pegatron chairman says AI crisis fears after Democratic midterm win are overblown",
+      "url": "https://www.digitimes.com/news/a20261104PD251/taiwan-growth-pegatron-technology-tsmc.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-04T08:32:40+00:00",
+      "short_snippet": "Pegatron Corp. Chairman Tung Tzu-hsien said on November 4 that claims AI is in crisis because the Democratic Party won the US election are somewhat overblown, adding that the narrative could be the work of short sellers.",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-83f560ce87cf4a79f5e4",
+    "article": {
+      "title": "Global chip sales top US$500 billion in a single quarter for first time",
+      "url": "https://www.digitimes.com/news/a20261104VL222/revenue-sales-2026-growth-data.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-04T08:15:00+00:00",
+      "short_snippet": "Worldwide semiconductor revenue reached US$517.7 billion in the third quarter of 2026, a 24.1% increase from the prior quarter, according to data released by the Semiconductor Industry Association (SIA) on Tuesday.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b38fff016b4dcf801372",
+    "article": {
+      "title": "Taiwan advances virtual asset governance as FSC unveils new regulatory framework",
+      "url": "https://www.digitimes.com/news/a20261104PD231/taiwan-cryptocurrency-governance-security.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-04T08:06:22+00:00",
+      "short_snippet": "Taiwan has taken a major step toward regulating its virtual asset market, with the Financial Supervisory Commission (FSC) announcing supporting rules for the Virtual Asset Services Act on November 3. As the regulatory framework takes shape, stablecoins, digital asset custody and blockchain-based financial services are emerging as potential drivers of financial innovation, although industry leaders",
+      "tags": [
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f119efb46e5a08f86de8",
+    "article": {
+      "title": "CHT expands Google partnership with AI services",
+      "url": "https://www.digitimes.com/news/a20261104PD247/google-cht-partnership-youtube-google-taiwan.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-04T07:45:34+00:00",
+      "short_snippet": "Chunghwa Telecom (CHT) is expanding its partnership with Google beyond Google One, YouTube Premium and Pixel smartphone sales to include GenAI services. On November 4, CHT announced plans to introduce Google's latest AI offerings through its channels, while Google Taiwan said the partners will launch more initiatives in 2027 to promote AI-enabled living.",
+      "tags": [
+        "AI",
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-571678db573aecbb2193",
+    "article": {
+      "title": "Intel reportedly targets DDR4 upgrades with Raptor Lake Next",
+      "url": "https://www.digitimes.com/news/a20261104PD210/intel-ddr4-raptor-lake-pc.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-04T07:22:47+00:00",
+      "short_snippet": "DDR4 memory, once gradually fading from the market, is regaining popularity as tight DRAM supply drives DDR5 prices higher. Following AMD's revival of processors supporting the AM4 platform, Intel is reportedly preparing to extend its Raptor Lake architecture to target the DDR4 PC upgrade market.",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-2227012ef12cae544177",
+    "article": {
+      "title": "GCS Holdings welcomes Marvell's Lumentum deal, locks in 2027 InP supply",
+      "url": "https://www.digitimes.com/news/a20261104PD243/marvell-communications-inp-2027-laser.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-04T07:17:59+00:00",
+      "short_snippet": "Marvell Technology and optical communications laser maker Lumentum announced on November 2 that they had signed a definitive agreement for Marvell to acquire Lumentum in an all-stock transaction. Compound semiconductor maker GCS welcomed the deal, saying it will give Marvell's optoelectronics business a more complete product portfolio.",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-44cd1b0540a7c509f47f",
+    "article": {
+      "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+      "url": "https://news.ycombinator.com/item?id=50368804",
+      "source": "Hacker News",
+      "published_at": "2026-11-04T17:31:53+00:00",
+      "short_snippet": "Hi HN! I'm Luke from Kino ( https://kino.ai ). Kino lets you make great videos with your agents and your teammates. Storage of footage and assets, a rich video editor, and review links for teammates are all bundled into one. Your colleagues and Codex / Claude Code can work on the same timeline with review notes and footage all in one place. See a basic overview at https://kino.ai/walkthrough-video",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-465dca8e58804d8cf2c4",
+    "article": {
+      "title": "Progress on provable inference for large language models",
+      "url": "https://news.ycombinator.com/item?id=50368626",
+      "source": "Hacker News",
+      "published_at": "2026-11-04T17:17:46+00:00",
+      "short_snippet": "Article URL: https://www.anthropic.com/research/provable-inference Comments URL: https://news.ycombinator.com/item?id=50368626 Points: 78 # Comments: 28",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-43115a9f100e53a6acfd",
+    "article": {
+      "title": "AMD expects to outsell Intel in Q4 for the first time in history",
+      "url": "https://news.ycombinator.com/item?id=50367125",
+      "source": "Hacker News",
+      "published_at": "2026-11-04T15:38:34+00:00",
+      "short_snippet": "Article URL: https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections Comments URL: https://news.ycombinator.com/item?id=50367125 Points: 241 # Comments: 78",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-40084505bce264f29baa",
+    "article": {
+      "title": "Show HN: I built a tool that prices a prebuilt PC part by part",
+      "url": "https://news.ycombinator.com/item?id=50366929",
+      "source": "Hacker News",
+      "published_at": "2026-11-04T15:25:33+00:00",
+      "short_snippet": "I've missed out on an awesome computer that I could use for a project because figuring out value took too long. Users paste a listing and receive a value grade, dated component estimates and a shareable report. AI reads the listing but my custom built price engine determines the grade (updated every day). Self financed and working now. Looking for feedback re: scoring, interface, and if its helpfu",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-038d448838914d4fdfb1",
+    "article": {
+      "title": "Pierre Computer is being acquired by OpenAI",
+      "url": "https://news.ycombinator.com/item?id=50366863",
+      "source": "Hacker News",
+      "published_at": "2026-11-04T15:21:21+00:00",
+      "short_snippet": "Article URL: https://twitter.com/pierrecomputer/status/2117999036175188183 Comments URL: https://news.ycombinator.com/item?id=50366863 Points: 70 # Comments: 27",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-8c2ca907f160478fb3da",
+    "article": {
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "url": "https://news.ycombinator.com/item?id=50364336",
+      "source": "Hacker News",
+      "published_at": "2026-11-04T11:52:17+00:00",
+      "short_snippet": "Article URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability Comments URL: https://news.ycombinator.com/item?id=50364336 Points: 749 # Comments: 464",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d5eecd06151a76634490",
+    "article": {
+      "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+      "url": "https://news.ycombinator.com/item?id=50363461",
+      "source": "Hacker News",
+      "published_at": "2026-11-04T10:10:27+00:00",
+      "short_snippet": "If you have a personal Google AI subscription, all your saved chat history in Gemini can be used for training and there is no way to opt out unless you turn off chat history or use temporary chat sessions. These chat transcripts may even be read by human reviewers. Although Google claims to disconnect them from your account when human-reviewed, they explicitly warn not to enter confidential inform",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b342009fc1864be1b2d1",
+    "article": {
+      "title": "10 States With Data Centers on the Ballot All Voted to Ban Them",
+      "url": "https://www.reddit.com/r/technology/comments/1xnrvcr/10_states_with_data_centers_on_the_ballot_all/",
+      "source": "Reddit",
+      "published_at": "2026-11-04T15:59:01+00:00",
+      "short_snippet": "submitted by /u/crates-of-bigfoots [link] [comments]",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-42dfb04792d9fc841b75",
+    "article": {
+      "title": "Tesla, SpaceX And AI Stocks Slide After Democrats Take Congress",
+      "url": "https://www.reddit.com/r/technology/comments/1xnpjl5/tesla_spacex_and_ai_stocks_slide_after_democrats/",
+      "source": "Reddit",
+      "published_at": "2026-11-04T14:25:47+00:00",
+      "short_snippet": "submitted by /u/MarvelsGrantMan136 [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-00b005c4d86b7d9c246c",
+    "article": {
+      "title": "Voters reject data centers in 40 local ballot initiatives",
+      "url": "https://www.reddit.com/r/technology/comments/1xnquh1/voters_reject_data_centers_in_40_local_ballot/",
+      "source": "Reddit",
+      "published_at": "2026-11-04T15:18:32+00:00",
+      "short_snippet": "submitted by /u/ap25000 [link] [comments]",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-fff607e0b6404ef3f5d0",
+    "article": {
+      "title": "Disgruntled software developers start ambitious open-source revolt, using AI to clone common services — OccupySaaS AI-powered project wants to kick Auth0, Salesforce, and other pricy service-as-software to the curb",
+      "url": "https://www.reddit.com/r/technology/comments/1xnmcrg/disgruntled_software_developers_start_ambitious/",
+      "source": "Reddit",
+      "published_at": "2026-11-04T11:57:41+00:00",
+      "short_snippet": "submitted by /u/Miserable_Phase_2519 [link] [comments]",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0b743a69bbb29b394413",
+    "article": {
+      "title": "AI data centers comprehensively defeated at US midterm elections — 45 measures put on the ballot as Americans overwhelmingly vote against developments",
+      "url": "https://www.reddit.com/r/technology/comments/1xno00h/ai_data_centers_comprehensively_defeated_at_us/",
+      "source": "Reddit",
+      "published_at": "2026-11-04T13:19:11+00:00",
+      "short_snippet": "submitted by /u/MarvelsGrantMan136 [link] [comments]",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-843689fe1839d6e232d1",
+    "article": {
+      "title": "Hackers are using 'LLMjacking attacks' to hijack company AI usage and run up huge cloud bills",
+      "url": "https://www.reddit.com/r/technology/comments/1xno5mx/hackers_are_using_llmjacking_attacks_to_hijack/",
+      "source": "Reddit",
+      "published_at": "2026-11-04T13:26:40+00:00",
+      "short_snippet": "submitted by /u/lurker_bee [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-77dff4ba74a870e4c12f",
+    "article": {
+      "title": "Google says schools that ban AI will also lose search",
+      "url": "https://www.reddit.com/r/technology/comments/1xnmwhb/google_says_schools_that_ban_ai_will_also_lose/",
+      "source": "Reddit",
+      "published_at": "2026-11-04T12:25:40+00:00",
+      "short_snippet": "submitted by /u/AdSpecialist6598 [link] [comments]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-4b7a6c5dfb18d848d319",
+    "article": {
+      "title": "The Results Are In: Voters Hate Data Centers",
+      "url": "https://www.reddit.com/r/technology/comments/1xnvwqf/the_results_are_in_voters_hate_data_centers/",
+      "source": "Reddit",
+      "published_at": "2026-11-04T18:30:42+00:00",
+      "short_snippet": "submitted by /u/Hi_all_hwru [link] [comments]",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5acd07c875ea982ee441",
+    "article": {
+      "title": "NVIDIA CUDA 13.5 Brings NVIDIA Vera Rubin GA Support",
+      "url": "https://developer.nvidia.com/blog/nvidia-cuda-13-5-brings-nvidia-vera-rubin-ga-support/",
+      "source": "官方：NVIDIA Developer",
+      "published_at": "2026-11-04T18:46:07+00:00",
+      "short_snippet": "As artificial intelligence and accelerated computing continue to push the boundaries of what's possible, the latest NVIDIA CUDA release arrives to unlock...",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-73bbcb2d707df5a34997",
+    "article": {
+      "title": "How NVIDIA Factory Operations Blueprint Coordinates AI Agents to Investigate Production Issues",
+      "url": "https://developer.nvidia.com/blog/how-nvidia-factory-operations-blueprint-coordinates-ai-agents-to-investigate-production-issues/",
+      "source": "官方：NVIDIA Developer",
+      "published_at": "2026-11-04T17:00:00+00:00",
+      "short_snippet": "A Siemens report estimates that unplanned downtime costs an average large plant in the surveyed sectors $253 million per year. Whether investigating a failed...",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-1f522e8436ab4f4eb31b",
+    "article": {
+      "title": "Use NVIDIA NeMo to Turn Agent Failures into Tests and Harness Fixes",
+      "url": "https://developer.nvidia.com/blog/use-nvidia-nemo-to-turn-agent-failures-into-tests-and-harness-fixes/",
+      "source": "官方：NVIDIA Developer",
+      "published_at": "2026-11-04T16:00:00+00:00",
+      "short_snippet": "Turn production evidence into prioritized issues and custom evaluations that help you improve prompts, tools, models, memory, skills, and harness code. When you...",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-7aa27366a61ad5d30051",
+    "article": {
+      "title": "企業 AI 帳單驚爆百萬美元，新型駭客攻擊「LLMjacking」手法大解密",
+      "url": "https://infosecu.technews.tw/2026/11/04/beware-new-llmjacking-attacks/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-04T09:50:23+00:00",
+      "short_snippet": "生成式 AI 發展迅速，卻也成為網路犯罪份子的新目標。Google 威脅情報團隊與 Mandiant 近期發布 […]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f81206216df999a83f87",
+    "article": {
+      "title": "YouTube 程式曝光神祕專案 Tamba，Google 疑似打造類 IG 社群應用程式",
+      "url": "https://technews.tw/2026/11/04/youtube-might-get-its-own-social-network-since-shorts-obviously-wasnt-addictive-enough/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-04T09:40:50+00:00",
+      "short_snippet": "YouTube 可能正在開發獨立社群應用程式。科技網站 Android Authority 拆解 Androi […]",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-aa6b1af8b950f711c291",
+    "article": {
+      "title": "記憶體頻寬增 18 倍！高通第一代 HBC 完成驗證，AI250 明上半年送樣",
+      "url": "https://technews.tw/2026/11/04/qualcomm-hbc-demonstrates/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-04T09:25:35+00:00",
+      "short_snippet": "高通宣布已在美國聖地牙哥實驗室，完成第一代高頻寬運算（HBC）晶片驗證。根據測試結果顯示，相較於 LPDDR5 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-8f02a87ca50d1c548e30",
+    "article": {
+      "title": "美選舉變天影響資料中心建置？童子賢：AI 已崛起非單一政黨專屬",
+      "url": "https://technews.tw/2026/11/04/us-election-shift-data-center-construction-charles-kao-ai-rise-not-party-exclusive/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-04T09:20:07+00:00",
+      "short_snippet": "美國民主黨在期中選舉取得壓倒性勝利，將奪回聯邦參、眾兩院控制權，市場憂心恐牽動全美資料中心建置進度。代工廠和碩 […]",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d692d67ee157e4cbe09c",
+    "article": {
+      "title": "AI 智慧社區專案挹注，擷發科 10 月營收年增 611%",
+      "url": "https://technews.tw/2026/11/04/microip-2026-oct-revenue/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-04T08:55:26+00:00",
+      "short_snippet": "擷發科公告 2026 年 10 月合併營收達新台幣（下同）1,291 萬，月增 217.1%、年增 610.9 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0a65624c0f1d19ce84d1",
+    "article": {
+      "title": "「AI 教父」辛頓警告：明年前恐爆車諾比級資安事件，甚至人類或許不該發展 AI",
+      "url": "https://infosecu.technews.tw/2026/11/04/ai-godfather-geoffrey-hinton-it-might-turn-out-we-were-better-off-without-ai/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-04T08:10:44+00:00",
+      "short_snippet": "諾貝爾獎得主、有「AI 教父」之稱的辛頓（Geoffrey Hinton）接受《衛報》（The Guardia […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-831a79f102233bbd2816",
+    "article": {
+      "title": "Anthropic IPO 文件揭獲利落差，中國模型開發商難追上",
+      "url": "https://finance.technews.tw/2026/11/04/anthropic-outpaces-chinese-ai-rivals-z-ai-and-minimax-in-profitability/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-04T07:54:18+00:00",
+      "short_snippet": "Anthropic 首次公開募股（Initial Public Offerings，IPO）的申請文件，揭露與 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e811338a63df3805e887",
+    "article": {
+      "title": "美科技五大巨頭 AI「影子債務」飆達 3.2 兆美元，投資風險高度集中引發市場警戒",
+      "url": "https://finance.technews.tw/2026/11/04/tech-giants-off-balance-sheet-ai-commitments-surge/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-04T07:50:26+00:00",
+      "short_snippet": "根據外媒彙整的最新財報揭露，為爭奪人工智慧（AI）主導權，Alphabet、Meta、微軟（Microsoft […]",
+      "tags": [
+        "AI",
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e81bcf1c5b7ac34f7a46",
+    "article": {
+      "title": "股市震盪不改基本面，童子賢：台灣科技業仍有成長空間",
+      "url": "https://finance.technews.tw/2026/11/04/taiwan-stock-th-tung/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-04T07:38:43+00:00",
+      "short_snippet": "近期台股及 AI 概念股出現震盪，市場關注科技產業後續成長動能。和碩董事長童子賢今日表示，對台灣科技產業前景仍 […]",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
   }
 ]
