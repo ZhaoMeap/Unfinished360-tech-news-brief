@@ -46808,5 +46808,522 @@
         "產品與平台"
       ]
     }
+  },
+  {
+    "event_id": "evt-e40d1a928ab478602877",
+    "article": {
+      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+      "source": "The Verge",
+      "published_at": "2026-11-06T23:46:18+00:00",
+      "short_snippet": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wall Street Journal […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-348cd589f28fa379c9c4",
+    "article": {
+      "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+      "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+      "source": "The Verge",
+      "published_at": "2026-11-06T23:00:44+00:00",
+      "short_snippet": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most advanced chips to be made available to China.\" Megaspeed […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-bdaf3de72b15f605bbaa",
+    "article": {
+      "title": "Starlink Mobile: All the news on SpaceX’s major mobile carrier ambitions",
+      "url": "https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news",
+      "source": "The Verge",
+      "published_at": "2026-11-06T22:45:43+00:00",
+      "short_snippet": "SpaceX has declared that it’s going to make Starlink Mobile a “major” mobile carrier. The Elon Musk-owned company has already deployed thousands of direct-to-cell satellites, but its next big challenge is building out its 5G network here on Earth. As part of its plans to rival AT&T, Verizon, and T-Mobile, SpaceX has inked a deal […]",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-807eebe6235dd4188fa3",
+    "article": {
+      "title": "KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium",
+      "url": "https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale",
+      "source": "The Verge",
+      "published_at": "2026-11-06T21:50:32+00:00",
+      "short_snippet": "Buying the 4K Blu-ray disc version of KPop Demon Hunters was already going to be a wise idea for some people, especially those who primarily keep their $26.99 Netflix Premium subscription just to watch the hit animated flick in 4K. But at just $24.99 from Barnes and Noble and Amazon instead of its original $49.95 […]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-173ed00250a8a4605283",
+    "article": {
+      "title": "All the latest updates on AI data centers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+      "source": "The Verge",
+      "published_at": "2026-11-06T20:02:22+00:00",
+      "short_snippet": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. Data centers were a major bipartisan issue ahead […]",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6abbd8cbec1c5543fb1d",
+    "article": {
+      "title": "Shure’s popular podcasting and streaming mic is almost $50 off",
+      "url": "https://www.theverge.com/gadgets/1028846/shure-mv7-plus-podcasting-streaming-mic-deal-sale",
+      "source": "The Verge",
+      "published_at": "2026-11-06T19:47:02+00:00",
+      "short_snippet": "While the Shure Mv7 Plus is popular with streamers and podcasters, it’s equally good at impressing your friends and coworkers on meetings and Discord calls. It’s currently marked down to $255 at various retailers, including Amazon, Guitar Center, and directly from Shure. That’s almost $50 lower than its usual price, and just a few dollars […]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b2ea7e2505221a93ef29",
+    "article": {
+      "title": "Lame-duck Congress might actually do something: speed up energy projects",
+      "url": "https://www.theverge.com/policy/1028228/energy-infrastructure-permitting-reform-bill-congress-vote",
+      "source": "The Verge",
+      "published_at": "2026-11-06T18:42:30+00:00",
+      "short_snippet": "A massive permitting bill that could help energy projects come online much quicker and potentially lower utility bills for Americans is advancing with bipartisan support. And while it could be a catalyst for lots of clean energy, it could also speed up polluting projects and limit oversight of new data centers. With data centers demanding […]",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5ea500deb6467a52205c",
+    "article": {
+      "title": "Interview: Infineon's first RISC-V automotive MCU is built for a decade-plus production run",
+      "url": "https://www.digitimes.com/news/a20261105PD206/risc-v-infineon-production-automotive-mcu-mcu.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-06T18:34:00+00:00",
+      "short_snippet": "Infineon Technologies is betting on RISC-V scalability with AURIX RC1, its first RISC-V-based microcontroller (MCU) platform, unveiled this week. A single instruction set lets the platform span everything from very small controllers to real-time vehicle computers and robotic motion controllers, so RC1 can serve automotive, robotics, and industrial customers at the same time.",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b2454898231d5bfb7c44",
+    "article": {
+      "title": "Outbound SIP calling is now available to all organizations",
+      "url": "https://news.ycombinator.com/item?id=50399695",
+      "source": "Hacker News",
+      "published_at": "2026-11-06T23:03:55+00:00",
+      "short_snippet": "Article URL: https://developers.openai.com/api/docs/guides/voice-sip Comments URL: https://news.ycombinator.com/item?id=50399695 Points: 56 # Comments: 43 https://developers.openai.com/api/docs/guides/voice-sip",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-7281ddc278b47f63ffa7",
+    "article": {
+      "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
+      "url": "https://news.ycombinator.com/item?id=50399569",
+      "source": "Hacker News",
+      "published_at": "2026-11-06T22:50:43+00:00",
+      "short_snippet": "Article URL: https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053 Comments URL: https://news.ycombinator.com/item?id=50399569 Points: 82 # Comments: 35 https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ddbf6519f2e58a55f33a",
+    "article": {
+      "title": "AI is dramatically accelerating AI research",
+      "url": "https://news.ycombinator.com/item?id=50397994",
+      "source": "Hacker News",
+      "published_at": "2026-11-06T20:27:23+00:00",
+      "short_snippet": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 218 # Comments: 166",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3a2f878432ae7d2e9c4f",
+    "article": {
+      "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
+      "url": "https://news.ycombinator.com/item?id=50397711",
+      "source": "Hacker News",
+      "published_at": "2026-11-06T20:09:14+00:00",
+      "short_snippet": "Article URL: https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update Comments URL: https://news.ycombinator.com/item?id=50397711 Points: 45 # Comments: 8",
+      "tags": [
+        "資料中心",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-7e6ebf855d01ed3c8bab",
+    "article": {
+      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+      "url": "https://news.ycombinator.com/item?id=50397429",
+      "source": "Hacker News",
+      "published_at": "2026-11-06T19:48:51+00:00",
+      "short_snippet": "Article URL: https://hightouch.com/blog/llm-judges-identity-resolution Comments URL: https://news.ycombinator.com/item?id=50397429 Points: 361 # Comments: 82",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-2778882241145a050b93",
+    "article": {
+      "title": "Memorilla: Latent Semantic Memory for LLMs",
+      "url": "https://news.ycombinator.com/item?id=50395919",
+      "source": "Hacker News",
+      "published_at": "2026-11-06T18:03:33+00:00",
+      "short_snippet": "Article URL: https://arxiv.org/abs/2610.21375 Comments URL: https://news.ycombinator.com/item?id=50395919 Points: 92 # Comments: 8",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-90ab05f829e37e37982c",
+    "article": {
+      "title": "Anthropic IPO buyers see valuation as low as $1.1T",
+      "url": "https://news.ycombinator.com/item?id=50394906",
+      "source": "Hacker News",
+      "published_at": "2026-11-06T16:54:36+00:00",
+      "short_snippet": "https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3... Comments URL: https://news.ycombinator.com/item?id=50394906 Points: 247 # Comments: 500",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-14e721802b059d4444ba",
+    "article": {
+      "title": "'No Blank Checks for Big Tech': Schumer Faces Protest Over 'Dirty Data Center Deal'",
+      "url": "https://www.reddit.com/r/technology/comments/1xpmxhv/no_blank_checks_for_big_tech_schumer_faces/",
+      "source": "Reddit",
+      "published_at": "2026-11-06T20:14:25+00:00",
+      "short_snippet": "submitted by /u/Just-Grocery-2229 [link] [comments]",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a6dda2d52f654c5915d6",
+    "article": {
+      "title": "Mark Cuban Accuses Facebook of Running AI Deepfake Scams as $16 Billion Revenue Estimate Emerges",
+      "url": "https://www.reddit.com/r/technology/comments/1xpkqxo/mark_cuban_accuses_facebook_of_running_ai/",
+      "source": "Reddit",
+      "published_at": "2026-11-06T18:47:40+00:00",
+      "short_snippet": "submitted by /u/AdSpecialist6598 [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-172b16ce04265ea49b8f",
+    "article": {
+      "title": "Investors brace for lower Anthropic valuation, calling $1.5 trillion a 'stretch'",
+      "url": "https://www.reddit.com/r/technology/comments/1xpoudx/investors_brace_for_lower_anthropic_valuation/",
+      "source": "Reddit",
+      "published_at": "2026-11-06T21:33:53+00:00",
+      "short_snippet": "submitted by /u/Tech-100 [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-23deb22acb1aaa4b90f3",
+    "article": {
+      "title": "Trump Asked Grok AI About Invading Venezuela. Democrats Want His Chat History",
+      "url": "https://www.reddit.com/r/technology/comments/1xpgbmk/trump_asked_grok_ai_about_invading_venezuela/",
+      "source": "Reddit",
+      "published_at": "2026-11-06T15:57:24+00:00",
+      "short_snippet": "submitted by /u/tiredofnagging99 [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c58bc04f400edefae0e9",
+    "article": {
+      "title": "Six pallets of Nvidia GPUs worth $11.4 million stolen in California cargo heist — authorities investigate after truck posing as a food transport company disappears",
+      "url": "https://www.reddit.com/r/technology/comments/1xpsfm0/six_pallets_of_nvidia_gpus_worth_114_million/",
+      "source": "Reddit",
+      "published_at": "2026-11-07T00:13:21+00:00",
+      "short_snippet": "submitted by /u/Logical_Welder3467 [link] [comments]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-30f254e5e8251e59d122",
+    "article": {
+      "title": "Several Democrats renew calls for datacenter pauses after blue wave",
+      "url": "https://www.reddit.com/r/technology/comments/1xpp6mt/several_democrats_renew_calls_for_datacenter/",
+      "source": "Reddit",
+      "published_at": "2026-11-06T21:48:19+00:00",
+      "short_snippet": "submitted by /u/ArgentineBeauty [link] [comments]",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b5fd2f9f816388ea9ffa",
+    "article": {
+      "title": "Every Windows 11 app should kill Electron, and Discord just showed why: no “Starting” screen and 70% less RAM, even with two accounts signed in",
+      "url": "https://www.reddit.com/r/technology/comments/1xpiw0n/every_windows_11_app_should_kill_electron_and/",
+      "source": "Reddit",
+      "published_at": "2026-11-06T17:35:49+00:00",
+      "short_snippet": "submitted by /u/Mountain_Till_5868 [link] [comments]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5ec974343439b45a967a",
+    "article": {
+      "title": "Absurd NVIDIA Steam game about unboxing a 20-year-old GPU requires RTX 4070 to run",
+      "url": "https://www.reddit.com/r/technology/comments/1xppgc4/absurd_nvidia_steam_game_about_unboxing_a/",
+      "source": "Reddit",
+      "published_at": "2026-11-06T21:59:47+00:00",
+      "short_snippet": "submitted by /u/Dilpickle2113 [link] [comments]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3b7071ea84ab77ee48b0",
+    "article": {
+      "title": "US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy",
+      "url": "https://www.reddit.com/r/technology/comments/1xpvi73/us_believes_nvidias_huang_had_romantic/",
+      "source": "Reddit",
+      "published_at": "2026-11-07T02:45:20+00:00",
+      "short_snippet": "submitted by /u/ResultBackground2450 [link] [comments]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-9e7c1bc2d56b513050ca",
+    "article": {
+      "title": "Fox Closes $22 Billion Roku Takeover, Says Streaming Platform Will Remain ‘Open Ecosystem’",
+      "url": "https://www.reddit.com/r/technology/comments/1xpmqhm/fox_closes_22_billion_roku_takeover_says/",
+      "source": "Reddit",
+      "published_at": "2026-11-06T20:06:38+00:00",
+      "short_snippet": "submitted by /u/Tech-100 [link] [comments]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-2b37a70bb0f28077eb2a",
+    "article": {
+      "title": "Microsoft to reportedly wind down Oracle deal to rent AI cloud capacity",
+      "url": "https://www.reddit.com/r/technology/comments/1xpm9r1/microsoft_to_reportedly_wind_down_oracle_deal_to/",
+      "source": "Reddit",
+      "published_at": "2026-11-06T19:48:01+00:00",
+      "short_snippet": "submitted by /u/CarciaNerissa [link] [comments]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-4e0aa3919fe104e56d23",
+    "article": {
+      "title": "Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs",
+      "url": "https://developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus/",
+      "source": "官方：NVIDIA Developer",
+      "published_at": "2026-11-06T22:20:20+00:00",
+      "short_snippet": "When deploying diffusion models in design tools, image editors, and visual production workflows, developers must account for inference latency. Generating an...",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a5bae14740fe5437d4b7",
+    "article": {
+      "title": "AI 聽力照護進軍中東市場！瑞音生技 SaMD 軟體破解三大驗配痛點",
+      "url": "https://finance.technews.tw/2026/11/07/samd/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-07T03:09:56+00:00",
+      "short_snippet": "精技電腦董事長、瑞昱半導體共同創辦人暨瑞音生技董事長葉佳紋近日在成大鳳凰講座發表「從聽見，到聽得清楚-AI 如 […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0b150c9204fcdb7e6445",
+    "article": {
+      "title": "連 OpenAI 都撤退，它卻拚出 145 億年營收！解密 AI 影片霸主 Runway 的突圍之道",
+      "url": "https://technews.tw/2026/11/07/how-runway-reached-450-million-dollars-in-arr/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-07T03:00:56+00:00",
+      "short_snippet": "AI 影片生成新創 Runway 共同創辦人暨共同執行長 Anastasis Germanidis，11 月 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c4151369b0110434c3b4",
+    "article": {
+      "title": "AI 電商新創 Dalet Labs 獲 700 萬美元融資，首推「生成式導購」App Scene",
+      "url": "https://technews.tw/2026/11/07/lightspeed-is-betting-this-startup-can-lure-shoppers-with-a-feed-of-ai-images/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-07T02:30:27+00:00",
+      "short_snippet": "AI 電商新創公司 Dalet Labs 近日正式走出隱身模式，對外宣布完成 700 萬美元種子前融資，並同步 […]",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-554e74d0bdee8ffbf0c3",
+    "article": {
+      "title": "選舉結果不改擴張計劃！OpenAI 完成 110 億美元融資、估值 1.25 兆美元",
+      "url": "https://finance.technews.tw/2026/11/07/openai-gets-11-billion/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-07T02:05:13+00:00",
+      "short_snippet": "OpenAI 的擴張步伐並未因市場波動與政治阻力而放緩，根據知情人士透露，OpenAI 已完成新一輪融資的首批 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-4409ae17e0ac99917ff3",
+    "article": {
+      "title": "半年狂虧 800 億卻衝 2 兆市值！Anthropic 挑戰史上最大 IPO，是一場豪賭還是盛世？",
+      "url": "https://finance.technews.tw/2026/11/07/anthropic-2-trillion-market-cap-biggest-ipo-challenge-wall-street-nervous/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-07T02:00:14+00:00",
+      "short_snippet": "Claude 開發商 Anthropic 遞交上市文件，市值上看 2 兆美元，可能挑戰史上最大 IPO。微軟、 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a0f78d3f0a4ad608d736",
+    "article": {
+      "title": "矽谷 AI 領袖「效率至上」文化與大眾經驗嚴重脫節，難打造貼近消費者的產品",
+      "url": "https://technews.tw/2026/11/07/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-07T01:30:39+00:00",
+      "short_snippet": "雅虎（Yahoo）前執行長梅爾（Marissa Mayer）近日接受《紐約時報》專訪，介紹新 AI 助理 Ap […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d41448beeb7cd2477eda",
+    "article": {
+      "title": "輝達要求台積電進軍先進記憶體市場？傳組建 3D DRAM 產線解 AI 缺貨荒",
+      "url": "https://finance.technews.tw/2026/11/07/3d-dram/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-07T01:01:22+00:00",
+      "short_snippet": "隨著 AI 晶片需求持續增加，記憶體已成為影響高效能運算設備供應的重要環節，迫使輝達（NVIDIA）、蘋果開始 […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-94fe1677aba806bd1016",
+    "article": {
+      "title": "聯發科 AI ASIC 第四季營收上看 25 億美元，蔡力行：AI 投資回收仍有過渡期",
+      "url": "https://technews.tw/2026/11/07/mediatek-rick-tsai-reveals-the-truth-about-ai-investment/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-07T01:00:01+00:00",
+      "short_snippet": "AI 熱潮持續推升全球科技業資本支出，然而，近期雲端業者大量開資本支出建資料中心，市場也開始標準拉高，逐一檢視 […]",
+      "tags": [
+        "AI",
+        "資料中心",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c66ae71d07adbdf3ec15",
+    "article": {
+      "title": "美國 PNNL 導入代理式 AI，加速開發衛星與核反應爐用抗輻射晶片",
+      "url": "https://technews.tw/2026/11/07/covering-the-fastest-computers-in-the-world-and-the-people-who-run-them-14/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-07T00:30:32+00:00",
+      "short_snippet": "太空高能粒子撞擊衛星可能導致資料遺失、系統停擺，甚至偏離軌道。美國能源部太平洋西北國家實驗室（PNNL）近日宣 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d2712cf403efee45fb9d",
+    "article": {
+      "title": "捨重油換天然氣大降四成碳排，金聯成打造「零廢棄」產線獲晶圓代工大廠青睞",
+      "url": "https://finance.technews.tw/2026/11/07/how-jlcycle-can-pivot-to-recycling-and-regenerating-used-lead-acid-batteries/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-07T00:00:11+00:00",
+      "short_snippet": "鉛蓄電池回收處理廠金聯成，是目前唯一直接打進半導體代工龍頭不斷電（UPS）電池回收 Tier 1 供應鏈的業者 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-089cb5f43964683169b3",
+    "article": {
+      "title": "元太擴張材料事業版圖！攜手台虹推動 PTFE CCL 材料，購置華紙觀音廠",
+      "url": "https://finance.technews.tw/2026/11/07/e-ink-and-taiflex/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-06T22:44:30+00:00",
+      "short_snippet": "元太科技董事會 6 日通過與台虹科技股份有限公司簽訂合作意向書，雙方將發揮各自在電子材料研發與製造領域的專業優 […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-52abc9ebcf23861d794d",
+    "article": {
+      "title": "元太參與永豐金現金增資，前三季每股賺 7.94 元",
+      "url": "https://finance.technews.tw/2026/11/07/e-ink-and-sinopac-holdings/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-06T22:29:38+00:00",
+      "short_snippet": "基於長期投資與資產配置考量，電子紙大廠 E Ink 元太科技董事會 6 日通過，擬於永豐金融控股股份有限公司 […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
   }
 ]
