@@ -47325,5 +47325,167 @@
         "產品與平台"
       ]
     }
+  },
+  {
+    "event_id": "evt-f7c1a3d93d9acd122ce5",
+    "article": {
+      "title": "The Components of Agent Memory",
+      "url": "https://news.ycombinator.com/item?id=50402212",
+      "source": "Hacker News",
+      "published_at": "2026-11-07T06:39:04+00:00",
+      "short_snippet": "Article URL: https://www.anthropic.com/research/components-of-agent-memory Comments URL: https://news.ycombinator.com/item?id=50402212 Points: 48 # Comments: 23",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6eebf45ddff7e738369c",
+    "article": {
+      "title": "Protesters storm Microsoft AI data center construction site — Amsterdam reportedly first of 85 targeted actions across Europe",
+      "url": "https://www.reddit.com/r/technology/comments/1xq1byu/protesters_storm_microsoft_ai_data_center/",
+      "source": "Reddit",
+      "published_at": "2026-11-07T08:19:59+00:00",
+      "short_snippet": "submitted by /u/Puzzleheaded_irl [link] [comments]",
+      "tags": [
+        "AI",
+        "資料中心",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-9dfe64f9796a4693edff",
+    "article": {
+      "title": "Someone used Claude Code to reverse-engineer the Apple AirPods 3, and now head-tracking works on Linux",
+      "url": "https://www.reddit.com/r/technology/comments/1xq2xd3/someone_used_claude_code_to_reverseengineer_the/",
+      "source": "Reddit",
+      "published_at": "2026-11-07T10:05:07+00:00",
+      "short_snippet": "submitted by /u/_Dark_Wing [link] [comments]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b23c804f8365e377c2b5",
+    "article": {
+      "title": "Report: Apple faces congressional scrutiny over ICE tracking apps and Trump donations",
+      "url": "https://www.reddit.com/r/technology/comments/1xpq4k6/report_apple_faces_congressional_scrutiny_over/",
+      "source": "Reddit",
+      "published_at": "2026-11-06T22:28:11+00:00",
+      "short_snippet": "submitted by /u/FollowingFeisty5321 [link] [comments]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e9622a4fab1e402bef19",
+    "article": {
+      "title": "US prosecutors say 3 men used AI to fake CEOs' voices, and sometimes their faces, and talked staff into wiring them $129 Million.",
+      "url": "https://www.reddit.com/r/technology/comments/1xq1r14/us_prosecutors_say_3_men_used_ai_to_fake_ceos/",
+      "source": "Reddit",
+      "published_at": "2026-11-07T08:47:21+00:00",
+      "short_snippet": "submitted by /u/LogicalDirect [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0243eb8a25c8c7998274",
+    "article": {
+      "title": "被 AI 取代後更難翻身，高盛：年長勞工重返職場比他人多等五週",
+      "url": "https://technews.tw/2026/11/07/goldman-sachs-says-ai-displaced-employees-face-a-harder-path-back-to-work/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-07T09:00:32+00:00",
+      "short_snippet": "高盛（Goldman Sachs）最新研究顯示，人工智慧正在重塑勞動市場，而因 AI 影響而失業的勞工，重返職 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ee68e4e7450b10f0d73e",
+    "article": {
+      "title": "少子化與 AI 下的高教兩極化：頂大狂開跨域新學程，私校連理工系所也失守",
+      "url": "https://technews.tw/2026/11/07/ai-impacting-ntu-nccu-nthu-new-degree-programs-private-schools-suspend-stem-enrollment/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-07T08:30:51+00:00",
+      "short_snippet": "在近年少子化浪潮對大學校院的持續挑戰之下，除大學退場或合併外，大學科系的存廢也是一個重點，尤其面臨 AI 對職 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-240988631342cdf896eb",
+    "article": {
+      "title": "一張圖看美國資料中心建置放緩對台灣 AI 供應鏈影響！法人稱訂單僅遞延",
+      "url": "https://finance.technews.tw/2026/11/07/taiwans-ai-supply-chain/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-07T07:01:56+00:00",
+      "short_snippet": "美國資料中心建置疑慮升溫，市場擔憂 AI 投資動能降溫，衝擊台灣 AI 供應鏈投資信心，台股上週五一片慘綠。瀚 […]",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-954e400f24b0a704d3a0",
+    "article": {
+      "title": "焦佑鈞：2027~2028 年記憶體需求明確，下一波循環預計 2029 年開始",
+      "url": "https://finance.technews.tw/2026/11/07/winbond-believes-that-memory-demand-will-be-strong-in-2027-2028/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-07T07:00:21+00:00",
+      "short_snippet": "面對美國期中選舉過後的政策變化與政治情勢，華邦電董事長焦佑鈞表示，期中選舉結果必然會對AI資料中心的建置趨勢產 […]",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-182fb819ae8e3244db7e",
+    "article": {
+      "title": "AI 記憶系統結合腦感測穿戴裝置，成為職場新型輔助工具",
+      "url": "https://technews.tw/2026/11/07/how-ai-memory-and-wearables-could-give-you-a-career-advantage/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-07T07:00:03+00:00",
+      "short_snippet": "AI 記憶系統與腦感測穿戴裝置，正逐漸成為職場上的新型輔助工具，讓工作者不只更容易回顧過去經驗，也能更清楚掌握 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c869a930c2c5a28c4241",
+    "article": {
+      "title": "工業 AI 邁向規模化導入，AVEVA 以資料基礎串聯工程與營運",
+      "url": "https://finance.technews.tw/2026/11/07/aveva-connects-engineering-and-operations-through-data/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-07T06:00:03+00:00",
+      "short_snippet": "人工智慧正加速進入工業現場，然而要從單點試驗走向穩定營運，企業仍須建立連貫且可信賴的資料基礎。AVEVA（劍維 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-af30f9157db33d76c4a3",
+    "article": {
+      "title": "滿手 AI 慘綠怎麼辦？野村籲緊盯「三大指標」抱緊這幾類護城河股",
+      "url": "https://finance.technews.tw/2026/11/07/resource-center/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-07T05:27:14+00:00",
+      "short_snippet": "美國期中選舉後，市場對 AI 資料中心監管、融資成本及投資回收期的疑慮升溫，台股盤面一片慘綠。野村投信表示，市 […]",
+      "tags": [
+        "AI",
+        "資料中心",
+        "監管"
+      ]
+    }
   }
 ]
