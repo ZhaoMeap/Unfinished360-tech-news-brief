@@ -47487,5 +47487,166 @@
         "監管"
       ]
     }
+  },
+  {
+    "event_id": "evt-73468542508eb8df69ca",
+    "article": {
+      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "source": "The Verge",
+      "published_at": "2026-11-07T12:30:00+00:00",
+      "short_snippet": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-61a433205d9d56beb098",
+    "article": {
+      "title": "WT Microelectronics Chairman says AI growth holds as auto, industrial markets recover",
+      "url": "https://www.digitimes.com/news/a20261106PD236/wt-growth-industrial-revenue-2026.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-07T12:42:28+00:00",
+      "short_snippet": "WT Microelectronics chairman Eric Cheng said November 5, 2026, that the long-term AI growth trend remains intact, while the automotive and industrial markets have both passed their cyclical troughs. Following its acquisition of Future, WT Microelectronics has entered the European and North American AI data center supply chains for the first time, bringing its global integration synergies into the ",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e56f184ce9c21ab92ee8",
+    "article": {
+      "title": "Quantum computing company IonQ raises 2026 revenue forecast above US$500 million on commercial growth",
+      "url": "https://www.digitimes.com/news/a20261106PD235/revenue-2026-forecast-commercial-skywater.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-07T12:42:15+00:00",
+      "short_snippet": "IonQ raised its 2026 revenue forecast to US$505 million-US$515 million after reporting record third-quarter revenue of US$173.8 million, as its quantum computing business expanded across data centers, defense programs, and enterprise deployments. The results marked a 336% year-over-year increase and reflected the company’s shift from laboratory research toward commercial quantum applications in th",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-8dac10aa35248720c072",
+    "article": {
+      "title": "Global AI memory crunch drives Taiwan to launch advanced memory initiative",
+      "url": "https://www.digitimes.com/news/a20261106PD231/memory-chips-demand-taiwan-government-2027.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-07T12:42:00+00:00",
+      "short_snippet": "The boom in AI demand has triggered a global memory crunch, creating persistent supply shortages and price hikes. The market is currently dominated by Samsung Electronics, SK Hynix, and Micron Technology. While China's ChangXin Memory Technologies (CXMT) has expanded its mass-production capabilities rapidly, US export controls and cybersecurity concerns continue to prevent it from competing direct",
+      "tags": [
+        "AI",
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-99bf02dbed821fb3974a",
+    "article": {
+      "title": "Solidigm eyes US NAND fab as funding questions linger",
+      "url": "https://www.digitimes.com/news/a20261106PD229/solidigm-fab-nand-flash-nand-funding.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-07T12:41:41+00:00",
+      "short_snippet": "Solidigm, a subsidiary of SK Hynix, is considering building a NAND flash wafer fab in the US. Funding and the investment timeline have yet to be settled, but DIGITIMES Intelligence believes the project is highly likely to move forward, given AI-driven storage demand and the prospect of US government support.",
+      "tags": [
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c8127f419f6d60c2f9ed",
+    "article": {
+      "title": "Samsung reportedly sells 300 chipmaking tools to DB Group",
+      "url": "https://www.digitimes.com/news/a20261106VL218/samsung-equipment-manufacturing-production-capacity-production.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-07T12:40:59+00:00",
+      "short_snippet": "Samsung Electronics has reportedly agreed to sell approximately 300 semiconductor manufacturing tools from its shuttered 8-inch S7 foundry in Giheung to South Korea's DB Group, as DB HiTek faces tight production capacity and Samsung prepares to withdraw from the 8-inch foundry business.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-9290b60a990ee76f374c",
+    "article": {
+      "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
+      "url": "https://news.ycombinator.com/item?id=50403507",
+      "source": "Hacker News",
+      "published_at": "2026-11-07T11:11:15+00:00",
+      "short_snippet": "Article URL: https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/ Comments URL: https://news.ycombinator.com/item?id=50403507 Points: 54 # Comments: 51",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-033bdad9502ccb518ad3",
+    "article": {
+      "title": "Every Mac comes with an (undocumented) family member classifier",
+      "url": "https://news.ycombinator.com/item?id=50403097",
+      "source": "Hacker News",
+      "published_at": "2026-11-07T09:46:03+00:00",
+      "short_snippet": "Article URL: https://8rank.ai/game/apple-intelligence-personal-knowledge-graph Comments URL: https://news.ycombinator.com/item?id=50403097 Points: 230 # Comments: 114",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-4b072bac7f1505e2265f",
+    "article": {
+      "title": "Running a law firm on Free software",
+      "url": "https://news.ycombinator.com/item?id=50403066",
+      "source": "Hacker News",
+      "published_at": "2026-11-07T09:39:06+00:00",
+      "short_snippet": "Article URL: https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/ Comments URL: https://news.ycombinator.com/item?id=50403066 Points: 35 # Comments: 4",
+      "tags": [
+        "監管",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ca57c66d0432ee322c4d",
+    "article": {
+      "title": "Former Rockstar dev says threat of unofficial AI ports could force GTA 6 onto PC sooner",
+      "url": "https://www.reddit.com/r/technology/comments/1xq5x2u/former_rockstar_dev_says_threat_of_unofficial_ai/",
+      "source": "Reddit",
+      "published_at": "2026-11-07T13:05:34+00:00",
+      "short_snippet": "submitted by /u/tylerthe-theatre [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5062746c5cd6d4b53569",
+    "article": {
+      "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
+      "url": "https://www.reddit.com/r/technology/comments/1xq4z2z/microsoft_is_winding_down_oracle_deal_to_rent_ai/",
+      "source": "Reddit",
+      "published_at": "2026-11-07T12:14:18+00:00",
+      "short_snippet": "submitted by /u/Logical_Welder3467 [link] [comments]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c7cf4bc3c479b5cdbfb9",
+    "article": {
+      "title": "傳跨足先進記憶體生產？焦佑鈞：台積電與三大記憶體原廠均有合作不會加入競爭",
+      "url": "https://finance.technews.tw/2026/11/07/tsmc-collaborates-with-all-three-major-memory-manufacturers-and-will-not-join-the-competition/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-07T12:00:12+00:00",
+      "short_snippet": "針對近期市場傳出半導體龍頭台積電為因應輝達需求，擬跨足先進記憶體與 3D DRAM 領域，引發半導體供應鏈高度 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
   }
 ]
