@@ -48046,5 +48046,100 @@
         "半導體"
       ]
     }
+  },
+  {
+    "event_id": "evt-4e4f94d7d64ff915b224",
+    "article": {
+      "title": "I will not be using LLMs in my coding",
+      "url": "https://news.ycombinator.com/item?id=50412591",
+      "source": "Hacker News",
+      "published_at": "2026-11-08T12:14:10+00:00",
+      "short_snippet": "Article URL: https://www.polso.info/why-i-will-not-be-using-llms-coding Comments URL: https://news.ycombinator.com/item?id=50412591 Points: 62 # Comments: 77",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-81d9dcf31ca176f3f914",
+    "article": {
+      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "url": "https://news.ycombinator.com/item?id=50411961",
+      "source": "Hacker News",
+      "published_at": "2026-11-08T10:22:04+00:00",
+      "short_snippet": "Article URL: https://github.com/synchopate/llama-modchip Comments URL: https://news.ycombinator.com/item?id=50411961 Points: 46 # Comments: 18",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d828a652d6bf85ab9a80",
+    "article": {
+      "title": "Agent memory needs its OpenTelemetry moment",
+      "url": "https://news.ycombinator.com/item?id=50411467",
+      "source": "Hacker News",
+      "published_at": "2026-11-08T08:40:23+00:00",
+      "short_snippet": "Article URL: https://www.lorekit.io/blog/open-agent-memory-format Comments URL: https://news.ycombinator.com/item?id=50411467 Points: 78 # Comments: 69",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-fbafc1144f4cc0fedcce",
+    "article": {
+      "title": "Hundreds arrested after Microsoft data center protest turns violent",
+      "url": "https://www.reddit.com/r/technology/comments/1xqycfz/hundreds_arrested_after_microsoft_data_center/",
+      "source": "Reddit",
+      "published_at": "2026-11-08T13:24:21+00:00",
+      "short_snippet": "submitted by /u/MarvelsGrantMan136 [link] [comments]",
+      "tags": [
+        "資料中心",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-4aab06c9476983b85c3d",
+    "article": {
+      "title": "AI 讓 App 變得可有可無，消費性軟體入口正轉向訊息對話框",
+      "url": "https://technews.tw/2026/11/08/ai-is-making-the-app-optional/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-08T09:00:45+00:00",
+      "short_snippet": "AI 正在將消費性軟體的使用方式，從「下載一個 App」推向「直接在訊息裡完成任務」。根據 11 月 3 日的 […]",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-717e4c8ba7477199fc9f",
+    "article": {
+      "title": "AI 自動化攻擊秒速得手！防守不能只拚快，專家點名企業必備的三大資安決策",
+      "url": "https://infosecu.technews.tw/2026/11/08/three-steps-companies-should-take-to-defend-against-ai-attacks/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-08T08:30:20+00:00",
+      "short_snippet": "「我看大家的眼神都非常疲倦，」在 11 月 3 日舉行的台灣資安通報應變年會上，奧義智慧科技技術長暨共同創辦人 […]",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-962d8d71750192c79aa3",
+    "article": {
+      "title": "AI 演算法解碼兩萬基因發現天然胜肽 BRP，進食量降 50% 且純減脂不甩肌",
+      "url": "https://technews.tw/2026/11/08/stanford-ai-discovers-natural-weight-loss-peptide/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-08T08:00:12+00:00",
+      "short_snippet": "史丹佛醫學院研究團隊日前利用人工智慧（AI），從大量候選生物分子中成功篩選出一種名為「BRP」的天然胜肽。最新 […]",
+      "tags": [
+        "AI"
+      ]
+    }
   }
 ]
