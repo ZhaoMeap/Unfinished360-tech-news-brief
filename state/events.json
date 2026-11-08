@@ -47648,5 +47648,389 @@
         "半導體"
       ]
     }
+  },
+  {
+    "event_id": "evt-a2958beb18e46dc73be0",
+    "article": {
+      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+      "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+      "source": "The Verge",
+      "published_at": "2026-11-07T15:50:00+00:00",
+      "short_snippet": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins. Recently, my best […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6edc4f4db658358b3e57",
+    "article": {
+      "title": "The US let Nvidia sell chips to an empty office in China",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "source": "The Verge",
+      "published_at": "2026-11-07T15:43:45+00:00",
+      "short_snippet": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a hollow gray shell […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-348805e0618f54a38f51",
+    "article": {
+      "title": "AI broke the cybersecurity world. What’s next?",
+      "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+      "source": "The Verge",
+      "published_at": "2026-11-07T15:00:00+00:00",
+      "short_snippet": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so direct, and you’re going to hear him say […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ce58a06ff55adbbdb01e",
+    "article": {
+      "title": "Goodbye Claude, Hello Pi",
+      "url": "https://news.ycombinator.com/item?id=50410107",
+      "source": "Hacker News",
+      "published_at": "2026-11-08T03:11:48+00:00",
+      "short_snippet": "Article URL: https://caleb.software/posts/claude-to-pi.html Comments URL: https://news.ycombinator.com/item?id=50410107 Points: 114 # Comments: 62",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-68db3dae39ad7fc82634",
+    "article": {
+      "title": "Consumer brain wave headsets threaten privacy",
+      "url": "https://news.ycombinator.com/item?id=50409856",
+      "source": "Hacker News",
+      "published_at": "2026-11-08T02:02:38+00:00",
+      "short_snippet": "Article URL: https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F Comments URL: https://news.ycombinator.com/item?id=50409856 Points: 17 # Comments: 5",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6e9ed7bdbad509f92b39",
+    "article": {
+      "title": "ZapFast: A fast, native WhatsApp client in Rust and egui",
+      "url": "https://news.ycombinator.com/item?id=50409855",
+      "source": "Hacker News",
+      "published_at": "2026-11-08T02:02:27+00:00",
+      "short_snippet": "Article URL: https://github.com/crmne/zapfast Comments URL: https://news.ycombinator.com/item?id=50409855 Points: 43 # Comments: 17",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-1b952e8ccf388d9f34d9",
+    "article": {
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "url": "https://news.ycombinator.com/item?id=50407882",
+      "source": "Hacker News",
+      "published_at": "2026-11-07T20:45:32+00:00",
+      "short_snippet": "Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again Comments URL: https://news.ycombinator.com/item?id=50407882 Points: 310 # Comments: 214",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c0caf17611be21735097",
+    "article": {
+      "title": "The end of Microsoft Research's AI Frontiers group",
+      "url": "https://news.ycombinator.com/item?id=50406563",
+      "source": "Hacker News",
+      "published_at": "2026-11-07T18:02:17+00:00",
+      "short_snippet": "https://archive.is/AaY5O https://businessexaminer.ca/victoria-articles/item/microsoft... Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 434 # Comments: 260",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-fc7d426e33cfcaa8aaab",
+    "article": {
+      "title": "GeoWorks, Microsoft Windows' Upstart '90s Competitor (2016)",
+      "url": "https://news.ycombinator.com/item?id=50406502",
+      "source": "Hacker News",
+      "published_at": "2026-11-07T17:54:56+00:00",
+      "short_snippet": "Article URL: https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor Comments URL: https://news.ycombinator.com/item?id=50406502 Points: 54 # Comments: 20",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-14d081fd0536a72a1e7f",
+    "article": {
+      "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
+      "url": "https://news.ycombinator.com/item?id=50406111",
+      "source": "Hacker News",
+      "published_at": "2026-11-07T17:06:36+00:00",
+      "short_snippet": "Article URL: https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you Comments URL: https://news.ycombinator.com/item?id=50406111 Points: 425 # Comments: 280",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-4a344d59bca7b95898a5",
+    "article": {
+      "title": "Every processor die anyone has photographed and given away",
+      "url": "https://news.ycombinator.com/item?id=50405782",
+      "source": "Hacker News",
+      "published_at": "2026-11-07T16:21:36+00:00",
+      "short_snippet": "Article URL: https://sheets.works/data-viz/cpu-dies Comments URL: https://news.ycombinator.com/item?id=50405782 Points: 104 # Comments: 18",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-25b3d19d315c1f32739a",
+    "article": {
+      "title": "Americans just resoundingly rejected AI data centers",
+      "url": "https://www.reddit.com/r/technology/comments/1xqf2wz/americans_just_resoundingly_rejected_ai_data/",
+      "source": "Reddit",
+      "published_at": "2026-11-07T19:44:57+00:00",
+      "short_snippet": "submitted by /u/marketrent [link] [comments]",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3e8c067a9dee9179a51f",
+    "article": {
+      "title": "US intelligence believes Nvidia CEO Jensen Huang had affair with Chinese spy in honeypot operation",
+      "url": "https://www.reddit.com/r/technology/comments/1xqbulk/us_intelligence_believes_nvidia_ceo_jensen_huang/",
+      "source": "Reddit",
+      "published_at": "2026-11-07T17:27:57+00:00",
+      "short_snippet": "submitted by /u/Miserable_Phase_2519 [link] [comments]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-cfc7ae12a3198d08de17",
+    "article": {
+      "title": "Data center heists are getting bolder, and the latest one hit Nvidia for $11.4 million",
+      "url": "https://www.reddit.com/r/technology/comments/1xqbkde/data_center_heists_are_getting_bolder_and_the/",
+      "source": "Reddit",
+      "published_at": "2026-11-07T17:16:16+00:00",
+      "short_snippet": "submitted by /u/ArgentineBeauty [link] [comments]",
+      "tags": [
+        "半導體",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6edc4f4db658358b3e57",
+    "article": {
+      "title": "The US let Nvidia sell chips to an empty office in China",
+      "url": "https://www.reddit.com/r/technology/comments/1xq9u70/the_us_let_nvidia_sell_chips_to_an_empty_office/",
+      "source": "Reddit",
+      "published_at": "2026-11-07T16:03:41+00:00",
+      "short_snippet": "submitted by /u/Cheap_Corner_3504 [link] [comments]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a9708be8982e71b844ae",
+    "article": {
+      "title": "More than half of US hyperscale data center projects face 'regulatory friction' after 2026 midterm elections - report",
+      "url": "https://www.reddit.com/r/technology/comments/1xqos5r/more_than_half_of_us_hyperscale_data_center/",
+      "source": "Reddit",
+      "published_at": "2026-11-08T03:33:52+00:00",
+      "short_snippet": "submitted by /u/Logical_Welder3467 [link] [comments]",
+      "tags": [
+        "資料中心",
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-68b33ac9c296b8d2a38f",
+    "article": {
+      "title": "SpaceX says Google executive Don Harrison has resigned from the rocket maker’s board of directors",
+      "url": "https://www.reddit.com/r/technology/comments/1xqjdwf/spacex_says_google_executive_don_harrison_has/",
+      "source": "Reddit",
+      "published_at": "2026-11-07T22:59:23+00:00",
+      "short_snippet": "submitted by /u/ControlCAD [link] [comments]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f4daa317b2fe344b0ae7",
+    "article": {
+      "title": "Nvidia CEO's daughter cancels planned visit to S. Korea: sources",
+      "url": "https://www.reddit.com/r/technology/comments/1xqamrz/nvidia_ceos_daughter_cancels_planned_visit_to_s/",
+      "source": "Reddit",
+      "published_at": "2026-11-07T16:37:05+00:00",
+      "short_snippet": "submitted by /u/NeverImpossible [link] [comments]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f3bc321de23cda75344f",
+    "article": {
+      "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
+      "url": "https://www.reddit.com/r/technology/comments/1xqey87/does_meta_think_we_cant_read_meta_abandons/",
+      "source": "Reddit",
+      "published_at": "2026-11-07T19:39:18+00:00",
+      "short_snippet": "submitted by /u/AdSpecialist6598 [link] [comments]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-cf124855333d8d547037",
+    "article": {
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "url": "https://www.reddit.com/r/technology/comments/1xqom4m/ramp_data_shows_ai_spending_stalling_just_as/",
+      "source": "Reddit",
+      "published_at": "2026-11-08T03:24:44+00:00",
+      "short_snippet": "submitted by /u/Logical_Welder3467 [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f5332ab9c96a393ef239",
+    "article": {
+      "title": "Microsoft patent filing describes AI that rewrites what people say in livestreams in real time",
+      "url": "https://www.reddit.com/r/technology/comments/1xq7ndm/microsoft_patent_filing_describes_ai_that/",
+      "source": "Reddit",
+      "published_at": "2026-11-07T14:28:10+00:00",
+      "short_snippet": "submitted by /u/ArgentineBeauty [link] [comments]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-8e6c3909000a4db520c2",
+    "article": {
+      "title": "Korea, Taiwan and Japan take first jolt from Democratic AI shock",
+      "url": "https://www.reddit.com/r/technology/comments/1xqp137/korea_taiwan_and_japan_take_first_jolt_from/",
+      "source": "Reddit",
+      "published_at": "2026-11-08T03:47:34+00:00",
+      "short_snippet": "submitted by /u/Logical_Welder3467 [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ee40fce0dc0954eccf7f",
+    "article": {
+      "title": "AI Could Make Filmmaking Costlier Than the 35mm Era, Korean Pioneers Warn at Taiwan Creative Content Fest",
+      "url": "https://www.reddit.com/r/technology/comments/1xqp034/ai_could_make_filmmaking_costlier_than_the_35mm/",
+      "source": "Reddit",
+      "published_at": "2026-11-08T03:46:01+00:00",
+      "short_snippet": "submitted by /u/Logical_Welder3467 [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-7eff9eea3b7eeef1b61e",
+    "article": {
+      "title": "「AI 開發 AI」時代來臨？解密遞迴式自我改進的無限潛力與作弊隱憂",
+      "url": "https://infosecu.technews.tw/2026/11/08/ai-autonomously-creates-next-gen-ai/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-08T05:00:54+00:00",
+      "short_snippet": "人工智慧是否有一天能「自己打造自己」，正成為 AI 圈最受關注的議題之一。根據最新報導，越來越多頂尖 AI 研 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-7ea1d4c11f0b7cd50d59",
+    "article": {
+      "title": "OpenAI 發表逾 700 篇 AI 數學論文，數學家指有突破性但品質差",
+      "url": "https://technews.tw/2026/11/08/mathematician-criticizes-the-quality-of-700-openai-math-papers/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-08T04:30:32+00:00",
+      "short_snippet": "數學家弗蘭克·卡萊加里（Frank Calegari）在陶哲軒（Terence Tao）的網誌發表客座文章，指 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6bb1f013d31c8f6b1d26",
+    "article": {
+      "title": "AI 時代最好的機會不是追流行，奧特曼喊話年輕人：別做下一個 OpenAI，要做更大的新事業",
+      "url": "https://technews.tw/2026/11/08/openai-ceo-slams-mba-programs-disappointment-students-5-year-old-trends/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-08T03:00:19+00:00",
+      "short_snippet": "史丹佛大學商學研究所（Stanford Graduate School of Business）的「頂峰視野」 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-087910ab2f07d5b335ba",
+    "article": {
+      "title": "AI 理財是神隊友還是陷阱，採納建議前必做的交叉驗證四步驟",
+      "url": "https://finance.technews.tw/2026/11/08/how-to-check-ai-financial-advice-before-you-act-on-it/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-08T02:30:24+00:00",
+      "short_snippet": "隨著越來越多人將 AI 當作理財與投資研究工具，最新內容也同步提醒，這類建議不能直接照單全收。文章指出，AI […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3ce7b75321e31797e630",
+    "article": {
+      "title": "AI 聊天機器人也能當學者？實測揭露學術出版防線的新危機",
+      "url": "https://technews.tw/2026/11/08/ai-generated-fake-papers-challenge-academic-defenses/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-08T00:30:44+00:00",
+      "short_snippet": "一項與《IEEE Access》期刊合作的實驗，大膽將 AI 生成內容直接帶進學術出版流程。結果顯示：即使是看 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-54a991af427f682321bd",
+    "article": {
+      "title": "鎖定「超乎預期」獲利黑馬！台股年底突圍，聚焦 ABC 三大族群與半導體",
+      "url": "https://finance.technews.tw/2026/11/08/unexpected-profit-dark-horses-taiwan-stocks-year-end-breakout-focus-abc-sectors-semiconductors/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-08T00:00:42+00:00",
+      "short_snippet": "台股面臨半年線保衛戰，在線型收復前，短期操作宜保持謹慎，理性過濾市場雜音，逢低布局長線獲利具爆發力的好公司，以 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
   }
 ]
