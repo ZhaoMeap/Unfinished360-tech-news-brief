@@ -48141,5 +48141,913 @@
         "AI"
       ]
     }
+  },
+  {
+    "event_id": "evt-0920037064cbbce8702d",
+    "article": {
+      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+      "source": "The Verge",
+      "published_at": "2026-11-08T22:54:50+00:00",
+      "short_snippet": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair. You can read the full text below. To my […]",
+      "tags": [
+        "AI",
+        "半導體",
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-dc76b4dc6a4e0178fd86",
+    "article": {
+      "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+      "source": "The Verge",
+      "published_at": "2026-11-08T20:22:39+00:00",
+      "short_snippet": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads: The NVIDIA Board is initiating an independent investigation in light […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d61b9bc4b24c0a895e8c",
+    "article": {
+      "title": "Apple is racing to make Siri more agentic",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+      "source": "The Verge",
+      "published_at": "2026-11-08T19:18:19+00:00",
+      "short_snippet": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it's […]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e4174df85a3276af4d86",
+    "article": {
+      "title": "Elvis and Eminem rights holders are suing Suno",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+      "source": "The Verge",
+      "published_at": "2026-11-08T17:23:19+00:00",
+      "short_snippet": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that Suno has violated Tennessee's […]",
+      "tags": [
+        "AI",
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f60ff538e77c6b70c216",
+    "article": {
+      "title": "Apple’s M5 MacBook Air is down to its lowest price since July",
+      "url": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
+      "source": "The Verge",
+      "published_at": "2026-11-08T16:00:00+00:00",
+      "short_snippet": "The latest 13-inch MacBook Air is currently available for $1,099.99, marking the second time we’ve seen this $200 discount following the company’s hefty price increases over the summer. Although the base model — which features Apple’s M5 processor, 16GB of RAM, and 512GB of storage — often sold for around $950 to $1,000 shortly after […]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-42adb52657a13c88d59e",
+    "article": {
+      "title": "Chatbots might be coming to Apple’s HomeView",
+      "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
+      "source": "The Verge",
+      "published_at": "2026-11-08T15:00:30+00:00",
+      "short_snippet": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a \"Conversational Apps\" category. While there are no details about what apps would fall under that heading, it seems reasonable that AI chatbots like ChatGPT and Claude could be added to […]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-849b10d86b5e236c5098",
+    "article": {
+      "title": "Nvidia cancels South Korea trip of Jensen Huang's daughter over family reasons",
+      "url": "https://www.digitimes.com/news/a20261109PD227/jensen-huang-nvidia-ai-south-korea-2026.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-09T01:58:01+00:00",
+      "short_snippet": "Madison Huang, Nvidia CEO Jensen Huang's eldest daughter and the company's senior director of marketing for Omniverse and robotics products, has canceled her entire visit to South Korea, including a planned meeting with South Korean Deputy Prime Minister and Minister of Science and ICT (MSIT) Bae Kyung-hoon. Nvidia cited only \"family reasons\" for the cancellation.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-bb3c34df07fe658eab49",
+    "article": {
+      "title": "Sino-American Silicon Products posts record revenue in first three quarters of 2026 on AI, energy demand",
+      "url": "https://www.digitimes.com/news/a20261107PD200/sas-revenue-demand-2026-electricity.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-09T01:50:38+00:00",
+      "short_snippet": "Sino-American Silicon Products (SAS) is focusing on computing power and electricity, as construction of artificial intelligence (AI) data centers accelerates, demand for high-bandwidth memory (HBM) surges, and the global energy transition continues to advance. By leveraging its dual-track strategy of manufacturing and services, the company is capitalizing on market opportunities, driving consolida",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-2be523948ee6e9e61ae4",
+    "article": {
+      "title": "Trump says Huang should stay on as Nvidia CEO as board opens spy probe",
+      "url": "https://www.digitimes.com/news/a20261109VL214/nvidia-jensen-huang-investigation-donald-trump.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-09T01:47:50+00:00",
+      "short_snippet": "US President Donald Trump said on November 8 that Jensen Huang should remain CEO of Nvidia, hours after the chipmaker's board opened an independent investigation into whether Huang had been the target of a foreign intelligence effort following his admission of an affair with a woman US officials suspect of spying for China.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-31b58b9554837f146167",
+    "article": {
+      "title": "Taiwan telecom provider FarEasTone evaluates AIDC demand, has no new build plans",
+      "url": "https://www.digitimes.com/news/a20261106PD238/aidc-demand-revenue-2026-data.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-09T01:46:45+00:00",
+      "short_snippet": "FarEasTone Telecommunications is evaluating opportunities in AI data centers (AIDCs) but has no concrete plans to build a new facility, according to company president Chee Ching. Speaking at the company's latest earnings call, Ching said that FarEasTone will assess actual market demand to consider effective strategies for utilizing resources across the corporate group.",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-1d8570c07545cc15332c",
+    "article": {
+      "title": "ECS sees 4Q26 shipments plunging 56%, targets edge AI",
+      "url": "https://www.digitimes.com/news/a20261106PD239/ecs-edge-ai-pc-demand-shipments-2026.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-09T01:46:40+00:00",
+      "short_snippet": "Weak PC demand, customer order adjustments, product transitions, and component supply changes are sharply weakening Elitegroup Computer Systems' (ECS) 2026 OEM and channel shipment outlook. Supply-chain sources estimate the company's related shipments at about 1.92 million units for 2026, down 43% from 3.38 million units in 2025, with fourth-quarter shipments expected to fall 55.9% year-over-year.",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a6fd79e5f5e84f3c2bd5",
+    "article": {
+      "title": "Adlink's shift beyond industrial PC hardware unlocks stronger margins, growth",
+      "url": "https://www.digitimes.com/news/a20261106PD240/pc-ipc-hardware-industrial-growth.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-09T01:46:29+00:00",
+      "short_snippet": "Industrial PC (IPC) manufacturer Adlink reported a 43% year-on-year increase in consolidated revenue for the first nine months of 2026, with its operating margin rising to 11% from approximately 5% a year earlier. Earnings per share (EPS) reached NT$4.83 (approx. US$0.15). The company attributed its improved profitability to greater operating scale, efficiency gains, and a shift from standalone ha",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-690d088d7857f5c21fa5",
+    "article": {
+      "title": "Podcast highlights: Apple hoards supplies via long-term contracts; Intel reverts 18A to Intel 3",
+      "url": "https://www.digitimes.com/news/a20261106PD244/apple-intel-earnings-intel-3-capacity.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-09T01:46:17+00:00",
+      "short_snippet": "Recent earnings reports from Apple and Intel highlight growing supply-chain strain driven by soaring memory costs and massive AI infrastructure build-outs. DIGITIMES analyst Luke Lin identified two supply-chain signals: Apple is locking in capacity through aggressive long-term procurement, while Intel is taking the unusual step of converting 18A capacity back to the older Intel 3 node to chase urg",
+      "tags": [
+        "AI",
+        "半導體",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d6a01aee80c0ab37afb6",
+    "article": {
+      "title": "PMIC supplier GMT sees upside in potential AI spending slowdown",
+      "url": "https://www.digitimes.com/news/a20261106PD247/gmt-pmic-management-ic-supplier.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-09T01:46:04+00:00",
+      "short_snippet": "Taiwanese power management IC (PMIC) supplier Global Mixed-mode Technology (GMT) sees a potential slowdown in cloud AI spending as an opportunity to ease wafer capacity constraints and rising memory prices that have weighed on consumer electronics demand.",
+      "tags": [
+        "AI",
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-99afa99dff59f7196d88",
+    "article": {
+      "title": "PCB manufacturer Zhen Ding Tech sets new revenue record, sees 4Q26 peak to continue",
+      "url": "https://www.digitimes.com/news/a20261106PD248/revenue-zhen-ding-pcb-2026-demand.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-09T01:45:57+00:00",
+      "short_snippet": "PCB manufacturer Zhen Ding Tech (ZDT) reported record revenue for October 2026, driven by peak-season demand for mobile communications products and ramping shipments of high-end AI applications. The company expects fourth-quarter revenue to reach a yearly high as demand for optical modules and AI servers remains strong.",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-7ce5cec27f1ec99e5f06",
+    "article": {
+      "title": "IC test-interface supplier WinWay hits AI, HPC record in 3Q26",
+      "url": "https://www.digitimes.com/news/a20261106PD249/revenue-hpc-2026-profit-earnings.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-09T01:45:51+00:00",
+      "short_snippet": "WinWay reported record revenue and profit for the third quarter of 2026, driven by fully booked AI and high-performance computing (HPC) orders and expanded production capacity. The semiconductor test-interface supplier said shipments reached a new high, pushing cumulative revenue for the first three quarters of 2026 above NT$10 billion (US$305.4 million) and marking six consecutive quarters of rec",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-4153b2f9178c461b21cc",
+    "article": {
+      "title": "Adata revenue to dip slightly in 4Q26 as AI investment shifts overseas",
+      "url": "https://www.digitimes.com/news/a20261106PD251/revenue-2026-investment-dram-usb.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-09T01:45:39+00:00",
+      "short_snippet": "Memory module maker Adata reported October 2026 consolidated revenue of NT$17.06 billion (US$521.6 million), up 8.5% month-over-month and 282.3% year-over-year, marking its third-highest monthly revenue on record. However, year-end customer inventory adjustments are expected to push fourth-quarter revenue below the third quarter, while revenue for the first 10 months of 2026 reached NT$134.37 bill",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-8ecaadbc5c911c3f978b",
+    "article": {
+      "title": "Nittobo's T-Glass supply crunch deepens despite 3.6-fold capacity expansion plan for AI chips",
+      "url": "https://www.digitimes.com/news/a20261106VL215/nittobo-production-investment-materials-expansion.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-09T01:45:32+00:00",
+      "short_snippet": "Japan's Nittobo (Nitto Boseki) plans to invest an additional JPY20 billion (approx. US$127 million) to expand production of T-Glass, a specialized low-coefficient-of-thermal-expansion (low-CTE) glass fiber cloth used in advanced semiconductor packaging. The expansion will increase capacity to 3.6 times its fiscal 2025 level by fiscal 2029, reflecting persistent supply shortages and growing demand ",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-8e9c08516aeef7ca6f0a",
+    "article": {
+      "title": "India roundup: India electronics manufacturing expands amid AI-driven supply constraints",
+      "url": "https://www.digitimes.com/news/a20261106VL205/electronics-manufacturing-capacity-expansion-2027.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-09T01:45:22+00:00",
+      "short_snippet": "India's electronics sector is drawing fresh investment in semiconductors, optical connectivity and manufacturing capacity, even as AI-driven component shortages threaten production, while consumer brands pursue expansion into new markets.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a072756b4055d4e0ebb4",
+    "article": {
+      "title": "Exclusive: From quantum breakthroughs to industrial reality, UKSC weighs Britain's ambitions at London showcase",
+      "url": "https://www.digitimes.com/news/a20261109VL205/uk-industrial-silicon-manufacturing-communications.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-09T01:44:07+00:00",
+      "short_snippet": "From quantum computers built on conventional silicon to semiconductor light sources promising a new generation of secure communications, the breadth of innovation on display at the UK's National Quantum Technologies Showcase offered a striking glimpse into an industry pushing beyond the established boundaries of computing.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-770fa10483fdef1ec422",
+    "article": {
+      "title": "Weekly news roundup: AI compute race intensifies as DRAM rivals diverge and chipmakers expand investments",
+      "url": "https://www.digitimes.com/news/a20261109VL201/2026-competition-dram-cxmt-packaging.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-09T01:41:32+00:00",
+      "short_snippet": "This week's coverage highlights accelerating competition across AI infrastructure, semiconductor manufacturing and advanced memory. Sweden launched the NVIDIA-based Sferical One supercomputer as leaders urged transformational AI adoption. DRAM makers remain divided over 4F-squared scaling, while CXMT reported sharply higher revenue and outlined 2027 growth plans. Panasonic's Taiwan plant suffered ",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6bcd23ca647e7de9a79e",
+    "article": {
+      "title": "Commentary: China's AI data center catch-up hinges on three US policy scenarios",
+      "url": "https://www.digitimes.com/news/a20261109PD223/data-center-policy-electricity-expansion-infrastructure.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-09T01:39:47+00:00",
+      "short_snippet": "The US AI data center expansion is entering a critical phase, with electricity supply and local governance emerging as major constraints. Democrat Gina Hinojosa's victory in the 2026 Texas gubernatorial election has added policy uncertainty to new data center projects already delayed by grid interconnection and environmental reviews.",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-bab9b03de5ef5134f216",
+    "article": {
+      "title": "Nvidia board opens independent probe after CEO Jensen Huang admits to affair",
+      "url": "https://www.digitimes.com/news/a20261109VL200/nvidia-ceo-jensen-huang-probe-investigation.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-09T01:18:50+00:00",
+      "short_snippet": "According to an official statement, Nvidia's board has opened an independent investigation into reports that founder and CEO Jensen Huang was targeted in a foreign intelligence effort. The move puts the leadership of the world's most closely watched AI chipmaker under formal review just as lawmakers in both US parties press for answers about China's access to sensitive American technology.",
+      "tags": [
+        "AI",
+        "半導體",
+        "監管",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3561b875f9cb2264395a",
+    "article": {
+      "title": "TSMC reaffirms foundry focus after report of 3D DRAM plans for Nvidia",
+      "url": "https://www.digitimes.com/news/a20261109VL202/tsmc-taiwan-dram-nvidia-3d.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-09T01:06:10+00:00",
+      "short_snippet": "Taiwan Semiconductor Manufacturing Co. (TSMC) has pushed back on a report that it is weighing a move into advanced memory chip manufacturing, saying it remains focused on its contract chipmaking business. Industry figures in Taiwan said a large-scale entry into DRAM production looked unlikely in the near term.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-25615c0b29107503c533",
+    "article": {
+      "title": "I'm Not Convinced the AI Bubble Exists",
+      "url": "https://news.ycombinator.com/item?id=50418975",
+      "source": "Hacker News",
+      "published_at": "2026-11-08T23:44:36+00:00",
+      "short_snippet": "Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists Comments URL: https://news.ycombinator.com/item?id=50418975 Points: 60 # Comments: 59",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-18dd5d9a012deeb8e78e",
+    "article": {
+      "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+      "url": "https://news.ycombinator.com/item?id=50418176",
+      "source": "Hacker News",
+      "published_at": "2026-11-08T22:35:35+00:00",
+      "short_snippet": "Article URL: https://ketchup3d.github.io/app/ Comments URL: https://news.ycombinator.com/item?id=50418176 Points: 243 # Comments: 69",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-fe1f124a1ac4b5316234",
+    "article": {
+      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+      "url": "https://news.ycombinator.com/item?id=50418016",
+      "source": "Hacker News",
+      "published_at": "2026-11-08T22:20:09+00:00",
+      "short_snippet": "Article URL: https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company Comments URL: https://news.ycombinator.com/item?id=50418016 Points: 387 # Comments: 410",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3ee1162f786e6c4256dc",
+    "article": {
+      "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
+      "url": "https://news.ycombinator.com/item?id=50416801",
+      "source": "Hacker News",
+      "published_at": "2026-11-08T20:26:43+00:00",
+      "short_snippet": "Article URL: https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors Comments URL: https://news.ycombinator.com/item?id=50416801 Points: 409 # Comments: 300 https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a8056d183a23c0b1389b",
+    "article": {
+      "title": "How I Fight AI Brain Fry",
+      "url": "https://news.ycombinator.com/item?id=50416363",
+      "source": "Hacker News",
+      "published_at": "2026-11-08T19:37:42+00:00",
+      "short_snippet": "Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry Comments URL: https://news.ycombinator.com/item?id=50416363 Points: 165 # Comments: 131",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-1035ce1dbc7d99d248fb",
+    "article": {
+      "title": "NVIDIA CEO Admits Infidelity With Suspected Chinese Spy",
+      "url": "https://www.reddit.com/r/technology/comments/1xr86kx/nvidia_ceo_admits_infidelity_with_suspected/",
+      "source": "Reddit",
+      "published_at": "2026-11-08T20:25:13+00:00",
+      "short_snippet": "submitted by /u/NPE-333 [link] [comments]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0b85c471c824222a2755",
+    "article": {
+      "title": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Chinese Spy",
+      "url": "https://www.reddit.com/r/technology/comments/1xr7tzk/nvidia_opens_investigation_into_jensen_huangs/",
+      "source": "Reddit",
+      "published_at": "2026-11-08T20:10:24+00:00",
+      "short_snippet": "submitted by /u/SoulNew [link] [comments]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-326b5598ddbfae4905b9",
+    "article": {
+      "title": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link",
+      "url": "https://www.reddit.com/r/technology/comments/1xr4wwy/nvidia_ceo_jensen_huang_faces_bipartisan/",
+      "source": "Reddit",
+      "published_at": "2026-11-08T18:11:57+00:00",
+      "short_snippet": "submitted by /u/MarvelsGrantMan136 [link] [comments]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-44c7d1ccf4b51f85fb3e",
+    "article": {
+      "title": "Nvidia's Jensen Huang admits to affair after allegations of romance with Chinese spy: Report",
+      "url": "https://www.reddit.com/r/technology/comments/1xr9rlh/nvidias_jensen_huang_admits_to_affair_after/",
+      "source": "Reddit",
+      "published_at": "2026-11-08T21:33:26+00:00",
+      "short_snippet": "submitted by /u/johnk317 [link] [comments]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-1bee2e3fd4e620a44673",
+    "article": {
+      "title": "Banks ban AI from accounts over fears of rogue agents",
+      "url": "https://www.reddit.com/r/technology/comments/1xqyxhh/banks_ban_ai_from_accounts_over_fears_of_rogue/",
+      "source": "Reddit",
+      "published_at": "2026-11-08T13:53:27+00:00",
+      "short_snippet": "submitted by /u/Amitmandal001 [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-057fd82567217531065c",
+    "article": {
+      "title": "After the midterms, things are looking rocky for data centers",
+      "url": "https://www.reddit.com/r/technology/comments/1xr24hh/after_the_midterms_things_are_looking_rocky_for/",
+      "source": "Reddit",
+      "published_at": "2026-11-08T16:17:06+00:00",
+      "short_snippet": "submitted by /u/l3tsgo0 [link] [comments]",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-1d8c63c4080c1d95ddb0",
+    "article": {
+      "title": "Read Huang's email to his staff and statement from Nvidia's board of directors",
+      "url": "https://www.reddit.com/r/technology/comments/1xratjj/read_huangs_email_to_his_staff_and_statement_from/",
+      "source": "Reddit",
+      "published_at": "2026-11-08T22:19:20+00:00",
+      "short_snippet": "submitted by /u/joe4942 [link] [comments]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-dfdd1a3fbd1049cc6efc",
+    "article": {
+      "title": "Accenture accused of publishing AI paper littered with AI hallucinations",
+      "url": "https://www.reddit.com/r/technology/comments/1xr4cr5/accenture_accused_of_publishing_ai_paper_littered/",
+      "source": "Reddit",
+      "published_at": "2026-11-08T17:49:15+00:00",
+      "short_snippet": "submitted by /u/GuestFromBudushchego [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f35ad61a92bf5d57f5df",
+    "article": {
+      "title": "PC's with 64GB of RAM plummet 18% as memory prices soar — CPU-Z install base data shows DDR4 making a surprise comeback",
+      "url": "https://www.reddit.com/r/technology/comments/1xrdp7k/pcs_with_64gb_of_ram_plummet_18_as_memory_prices/",
+      "source": "Reddit",
+      "published_at": "2026-11-09T00:32:37+00:00",
+      "short_snippet": "submitted by /u/Mountain_Till_5868 [link] [comments]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e3367bce3486dd060281",
+    "article": {
+      "title": "Dell PowerEdge R770AP Review One Fast Intel Xeon 6 Server",
+      "url": "https://www.servethehome.com/dell-poweredge-r770ap-review-one-fast-intel-xeon-6-server/",
+      "source": "ServeTheHome",
+      "published_at": "2026-11-08T23:00:11+00:00",
+      "short_snippet": "Today we are taking a look at Dell's PowerEdge R770AP. The 2U server goes all-in on performance with a dual-socket Xeon 6 setup and 24 channels of DDR5 memory The post Dell PowerEdge R770AP Review One Fast Intel Xeon 6 Server appeared first on ServeTheHome .",
+      "tags": [
+        "半導體",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-82a8c205a8c777bb99d4",
+    "article": {
+      "title": "AI 吸走七成 DRAM，記憶體荒恐延續到 2030 年代，GPU 價格難回落",
+      "url": "https://technews.tw/2026/11/09/there-is-no-end-in-sight-for-the-gpu-supply-problem/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-09T02:55:27+00:00",
+      "short_snippet": "AI 資料中心需求持續升溫，正把全球記憶體供應推向更緊繃的局面，也讓消費級 GPU 與其他電腦零組件價格一路攀 […]",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-4b5f66134a77b479604b",
+    "article": {
+      "title": "AI 帶旺記憶體，三星現金資產衝破 200 兆韓圜創韓國企業紀錄",
+      "url": "https://technews.tw/2026/11/09/samsungs-cash-pile-hits-record-214-8-trillion-won/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-09T02:45:31+00:00",
+      "short_snippet": "受惠於人工智慧帶動的半導體景氣，三星電子（Samsung Electronics）2026 年第三季末現金資產 […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3a6ea383be91bb30e2a3",
+    "article": {
+      "title": "連洗澡做飯都成難題，印尼巴淡島居民抗議 AI 資料中心搶民生用水",
+      "url": "https://technews.tw/2026/11/09/indonesians-take-aim-at-data-centres/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-09T02:40:24+00:00",
+      "short_snippet": "在印尼巴淡島，隨著一座座資料中心拔地而起，為全球人工智慧（AI）熱潮提供支援，當地自來水卻面臨枯竭，連做飯與洗 […]",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6bd3becbed8a740d9573",
+    "article": {
+      "title": "打得出來卻不會被推薦，iPhone 鍵盤暗藏約 10 萬個「不建議詞」",
+      "url": "https://technews.tw/2026/11/09/apples-iphone-keyboard-has-a-hidden-list-of-words-it-refuses-to-suggest/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-09T02:35:38+00:00",
+      "short_snippet": "研究人員近日發現，蘋果（Apple） iPhone 鍵盤內部存在一份未公開的多語言灰名單，涵蓋約 10 萬個詞 […]",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c9d1f264b695d2e51055",
+    "article": {
+      "title": "彭博：蘋果特納斯施壓軟體主管，下令全面加速 AI 開發藍圖",
+      "url": "https://technews.tw/2026/11/09/apple-executives-pressure-accelerate-ai-development/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-09T02:30:03+00:00",
+      "short_snippet": "《彭博社》引述消息人士報導，蘋果新任執行長約翰·特納斯（John Ternus）近期在一場閉門會議中，要求軟體 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-fb753fbe1a9e5c8d7f6a",
+    "article": {
+      "title": "黃仁勳間諜外遇案擴大：紐時揭露兩家獲准經手輝達 H200 中企是空殼公司",
+      "url": "https://finance.technews.tw/2026/11/09/nvidia-h200-china-buyer-turns-out-to-be-an-empty-office/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-09T02:25:06+00:00",
+      "short_snippet": "《紐約時報》調查指出，美國商務部核准多家中國企業經手輝達 H200 人工智慧晶片後，發現至少兩家公司登記地址幾 […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-4855a01a2114a8838ab5",
+    "article": {
+      "title": "伺服器上升週期帶動信驊強勁成長，高盛力挺目標價 22,000 元",
+      "url": "https://finance.technews.tw/2026/11/09/the-server-upcycle-has-driven-aspeeds-strong-growth/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-09T02:20:17+00:00",
+      "short_snippet": "外資高盛發布最新研究報告指出，伺服器產業上升週期將持續驅動台灣伺服器遠端管理晶片（BMC）大廠信驊強勁成長。高 […]",
+      "tags": [
+        "半導體",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-505e91a2afc3a798dd6e",
+    "article": {
+      "title": "傳 Anthropic 斥資逾千億元採購發電機，供電 AI 資料中心",
+      "url": "https://technews.tw/2026/11/09/anthropic-strikes-3-4bn-deal-to-generate-gas-fired-power-for-data-centres/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-09T02:10:17+00:00",
+      "short_snippet": "英國《金融時報》報導，美國人工智慧（AI）公司 Anthropic 已敲定一項價值 34 億美元（約新台幣 1 […]",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-9182447f41c2a8421edb",
+    "article": {
+      "title": "緯穎 AI 伺服器出貨升溫，三外資看好成長、示警毛利率壓力",
+      "url": "https://finance.technews.tw/2026/11/09/6669-q326/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-09T02:08:12+00:00",
+      "short_snippet": "緯穎第 3 季財報優於市場預期，隨著一般伺服器需求維持強勁，加上 AI ASIC 伺服器出貨持續放量，美銀證券 […]",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-83423d32c4da5e20ef1a",
+    "article": {
+      "title": "Terafab 追三星？傳記憶體擬月產 70 萬片 台廠助陣",
+      "url": "https://technews.tw/2026/11/09/terafab-is-now-aiming-for-a-memory-production-capacity-of-around-700000-wafers-per-month/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-09T02:05:06+00:00",
+      "short_snippet": "特斯拉（Tesla）與 SpaceX 共同推動的半導體製造計畫 Terafab，傳出已向設備供應商提出 203 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6f3d56dd298dcbac2dbc",
+    "article": {
+      "title": "川普稱輝達執行長黃仁勳「為人正直」，盼外界聽取其說法",
+      "url": "https://technews.tw/2026/11/09/trump-calls-nvidia-ceo-jensen-huang-man-integrity-hopes-others-listen/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-09T02:00:59+00:00",
+      "short_snippet": "美國總統川普今天稱讚輝達（Nvidia）執行長黃仁勳「為人正直」，肯定他對美國的貢獻，但表示自己尚未與黃仁勳談 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-226e8a121dfc7653b429",
+    "article": {
+      "title": "群聯第三季毛利率因低價庫存耗盡而下滑，大摩維持中立給目標價 2,588 元",
+      "url": "https://finance.technews.tw/2026/11/09/phisons-third-quarter-gross-margin-declined-as-low-priced-inventory-ran-out/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-09T02:00:14+00:00",
+      "short_snippet": "快閃記憶體控制晶片與儲存解決方案大廠群聯電子，日前在公布的 2026 年第三季財務報告指出，受惠於市場強勁需求 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-44a4949d6bb627be8ab4",
+    "article": {
+      "title": "黃仁勳承認婚外情，轟動美國政壇及科技界",
+      "url": "https://infosecu.technews.tw/2026/11/09/jensen-huang-admits-affair-rocks-us-political-tech-circles/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-09T01:50:23+00:00",
+      "short_snippet": "輝達執行長黃仁勳承認婚外情，董事會今天聲明，針對黃仁勳疑遭外國情報行動鎖定一事啟動獨立調查。黃仁勳在 AI 浪 […]",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a00efba1657259901db7",
+    "article": {
+      "title": "AI 代理群體挑戰〈Minecraft〉建立繁榮文明，50 名 AI 組隊卻深陷「官僚主義」導致失敗",
+      "url": "https://technews.tw/2026/11/09/ai-agent-swarms-minecraft-experiment/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-09T01:22:16+00:00",
+      "short_snippet": "近期，知名創業孵化器 Y Combinator 與 Olam Labs 公布一系列極具啟發性的 AI 代理人群 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-808115bf4b5cbbf0db6c",
+    "article": {
+      "title": "微軟傳未續租 AI 算力 甲骨文股價劇烈震盪",
+      "url": "https://finance.technews.tw/2026/11/09/microsoft-winding-down-oracle-deal-to-rent-ai-cloud-capacity/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-09T01:10:48+00:00",
+      "short_snippet": "微軟（Microsoft）傳出未續租甲骨文（Oracle）的人工智慧（AI）運算資源，並重新評估數十億美元的雲 […]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-fb8d20e1294e722e7921",
+    "article": {
+      "title": "迎戰超級細菌威脅，Google DeepMind 導入尖端 AI 攻克抗藥性危機",
+      "url": "https://technews.tw/2026/11/09/ai-aids-combating-superviruses/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-09T01:00:16+00:00",
+      "short_snippet": "Google DeepMind 正將人工智慧技術應用於醫療領域最棘手的挑戰之一：抗微生物抗藥性（AMR）。面對 […]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6011bb338ec6ba2ff972",
+    "article": {
+      "title": "德新科州長牽動 AI 發展 CoreWeave 致信求合作",
+      "url": "https://technews.tw/2026/11/09/governor-dexinke-influences-ai-development-coreweave-seeks-collaboration/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-09T00:50:39+00:00",
+      "short_snippet": "德州政壇變天，牽動 AI 基礎建設前景。AI 雲端服務商 CoreWeave 已致信候任州長希諾霍薩（Gina […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-aa0d2b09bd33aa3b5df2",
+    "article": {
+      "title": "AI 運算迎超省電曙光，布朗大學破解晶片微縮「死層」魔咒",
+      "url": "https://technews.tw/2026/11/09/magnetic-material-breakthrough-reduces-chip-power-consumption/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-09T00:45:10+00:00",
+      "short_snippet": "美國布朗大學研究團隊近日宣布，已找到一種方法，解決長期阻礙多鐵材料進入超低功耗電腦晶片的關鍵難題。這項成果聚焦 […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-164bc4d783016f949d7d",
+    "article": {
+      "title": "YC 執行長陳嘉興堪稱 AI 代理「重度發燒友」，每年 token 費高達 20 萬美元",
+      "url": "https://finance.technews.tw/2026/11/09/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-09T00:30:44+00:00",
+      "short_snippet": "陳嘉興（Garry Tan） 在 Walter Isaacson 的 Podcast 透露自己每年 AI to […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-4b99444760935aa6d259",
+    "article": {
+      "title": "調查：Z 世代約會意願升至 34%，但只給交友軟體 AI 功能五成信任",
+      "url": "https://technews.tw/2026/11/09/gen-z-socializing-resists-ai/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-09T00:20:06+00:00",
+      "short_snippet": "根據彭博產業研究（Bloomberg Intelligence）最新發布的調查，美國年輕人的交友意願正顯著回溫 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d4dec82fb5e3e792c5b8",
+    "article": {
+      "title": "用說的就能查維修數據，韓國研發對話式 AI 強化海陸空武器後勤支援",
+      "url": "https://technews.tw/2026/11/09/kai-to-develop-ai-agent-to-improve-weapon-system-efficiency/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-09T00:10:47+00:00",
+      "short_snippet": "韓國航空宇宙產業（KAI）已著手開發人工智慧（AI）代理人，以提升武器系統的效率。KAI 於 11 月 4 日 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-18f5e335c1118ca47b6c",
+    "article": {
+      "title": "AI 駭客攻擊日韓企業：自動化網路入侵加劇企業資安與營運風險",
+      "url": "https://infosecu.technews.tw/2026/11/09/automated-cyberattacks-raise-corporate-security-and-operational-risks/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-09T00:00:25+00:00",
+      "short_snippet": "人工智慧的演進在推動企業效率提升的同時，也徹底翻轉了網路犯罪的攻擊形態。過去企業面對的資安威脅，多半來自特定團 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ac77f58241c3c9d6b8b1",
+    "article": {
+      "title": "AI 最大的阻力不是水電，是人？",
+      "url": "https://technews.tw/2026/11/09/ai-biggest-obstacle-not-power-but-humans/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-08T23:50:46+00:00",
+      "short_snippet": "過去兩年，科技巨頭為了搶占 AI 市場，幾乎陷入一場不計成本的軍備競賽。NVIDIA 的 GPU 供不應求，微 […]",
+      "tags": [
+        "AI",
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-269c5e3ddeb4dce913f6",
+    "article": {
+      "title": "標普 500 企業僅 15% 設「AI 長」，企業高層問責機制為何面臨難產？",
+      "url": "https://technews.tw/2026/11/09/why-businesses-not-yet-widely-adopted-ai/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-08T23:40:01+00:00",
+      "short_snippet": "人工智慧（AI）已不再僅限於單純的技術部署，而是全面滲透至企業的營運核心，涵蓋公司治理、風險控管與資訊安全等重 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5ec64ca06546388384b9",
+    "article": {
+      "title": "特納斯首份財報過關，蘋果「AI 避風港」光環卻開始褪色",
+      "url": "https://finance.technews.tw/2026/11/09/apples-growth-machine-is-slowing/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-08T23:30:25+00:00",
+      "short_snippet": "蘋果（Apple）沒砸大錢拚 AI，股價為何還是大跌？ 11月2日（美國時間），蘋果公布新任執行長特納斯（Jo […]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3d0c14aa26753cfe1cb7",
+    "article": {
+      "title": "種子輪就募 6,250 萬美元，42AI 以行為 AI 切入金融業",
+      "url": "https://technews.tw/2026/11/09/42ai-unveils-62-5-million-seed-backed-behavioral-model-for-brokerages/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-08T23:20:30+00:00",
+      "short_snippet": "以色列新創公司 42AI 於 11 月 2 日正式結束隱身狀態，宣布完成 6,250 萬美元的種子輪融資，並推 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-41a5ce909d3509b5a238",
+    "article": {
+      "title": "亞資中心滿兩年驗收：法規鬆綁 60 項，業者坦言仍有「卡卡的地方」",
+      "url": "https://finance.technews.tw/2026/11/09/asia-asset-management-center-two-year-review-60-regulations-relaxed-industry-bottlenecks/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-08T23:10:28+00:00",
+      "short_snippet": "金融圈等了兩年的「有感」，到了驗收時刻。 2024年7月，金管會主委彭金隆喊出打造「台灣味」的亞洲資產管理中心 […]",
+      "tags": [
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-106a9a272b76fb610a6e",
+    "article": {
+      "title": "黃仁勳承認婚外情！輝達董事會立案獨立調查中國間諜滲透事件",
+      "url": "https://finance.technews.tw/2026/11/09/jensen-huang-admits-to-extramarital-affair/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-08T22:30:46+00:00",
+      "short_snippet": "根據 CNBC 引述《紐約時報》與《金融時報》等消息報導，半導體大廠輝達（Nvidia）創辦人兼執行長黃仁勳（ […]",
+      "tags": [
+        "半導體"
+      ]
+    }
   }
 ]
