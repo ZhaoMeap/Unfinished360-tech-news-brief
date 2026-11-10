@@ -50986,5 +50986,942 @@
         "半導體"
       ]
     }
+  },
+  {
+    "event_id": "evt-ecb09e0e383ab74d809b",
+    "article": {
+      "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+      "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+      "source": "The Verge",
+      "published_at": "2026-11-10T00:28:49+00:00",
+      "short_snippet": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out and look at production, AI really has the potential to […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-481f889f69ffa8aa20e9",
+    "article": {
+      "title": "What could China get from Jensen Huang?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+      "source": "The Verge",
+      "published_at": "2026-11-09T23:51:58+00:00",
+      "short_snippet": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range of up-and-coming AI companies in recent years, with about […]",
+      "tags": [
+        "AI",
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f84c177cd1ad5d45d40f",
+    "article": {
+      "title": "Here’s what Trump said he knew about Jensen Huang",
+      "url": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+      "source": "The Verge",
+      "published_at": "2026-11-09T23:47:46+00:00",
+      "short_snippet": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been \"​​unfaithful\" to his wife, and the company has opened an investigation into Huang. Recent articles from The New […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-4e08509e1a0db7be82f5",
+    "article": {
+      "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "source": "The Verge",
+      "published_at": "2026-11-09T23:07:59+00:00",
+      "short_snippet": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-33bc7cad8fd522238727",
+    "article": {
+      "title": "Nokia eyes AI optical interconnect market, potentially challenging Lumentum and Coherent",
+      "url": "https://www.digitimes.com/news/a20261110PD231/nokia-market-coherent-data-center-laser.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-10T03:55:00+00:00",
+      "short_snippet": "The AI data center optical interconnect market may soon see another heavyweight contender. Roughly a week after Marvell announced a US$1.15 billion acquisition of Lumentum to bolster its AI optical communications portfolio, Nokia is actively evaluating entry into the optical interconnect space and may even supply laser components directly to the market.",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-29bbdd1859655934ca26",
+    "article": {
+      "title": "South Korea approves advanced display research platform",
+      "url": "https://www.digitimes.com/news/a20261110PR200/display-development-technology-budget-panel.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-10T03:48:41+00:00",
+      "short_snippet": "South Korea has approved a seven-year national research program to support display technology development and provide companies with shared testing and commercialization facilities. The Ministry of Trade, Industry and Resources said the program will run from 2027 to 2033, with a total budget of KRW368.87 billion (US$272.15 million), including KRW278.9 billion in government funding.",
+      "tags": [
+        "監管",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e6a25fdf2769c72afe18",
+    "article": {
+      "title": "Rebellions calls for govt support to test AI chips in space",
+      "url": "https://www.digitimes.com/news/a20261110PD220/chips-data-government-hardware-market.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-10T03:45:00+00:00",
+      "short_snippet": "Space-based data centers could open a new market for low-power AI chips, but moving computing workloads into orbit presents challenges involving radiation, cooling, and hardware reliability. South Korean AI chip developer Rebellions is calling for government support to help companies establish a track record in space, while researchers recommend adapting existing processors rather than developing ",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心",
+        "監管",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-52c583360831945cdf01",
+    "article": {
+      "title": "Nvidia, SPIL target CPO volume shipments in 2027",
+      "url": "https://www.digitimes.com/news/a20261110PD223/cpo-spil-nvidia-infrastructure-investment.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-10T03:41:37+00:00",
+      "short_snippet": "AI infrastructure investment is accelerating the shift toward optical connectivity, as rising data-center traffic exposes the power and bandwidth limits of conventional electrical signals. Nvidia and ASE's SPIL are expanding the supply of optical engines for co-packaged optics (CPO), targeting a 15x capacity increase by mid-2027 and a 30x increase by the end of 2028 as CPO moves toward volume ship",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d3d5cd637f510687f506",
+    "article": {
+      "title": "OLED smartphone panel market faces pressure in 2026, Counterpoint says",
+      "url": "https://www.digitimes.com/news/a20261110PR201/smartphone-oled-panel-display-2026.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-10T03:40:11+00:00",
+      "short_snippet": "The global smartphone display market faces a weaker 2026, as OLED panel shipments and revenue are forecast to decline, while memory constraints, rising production costs, and shifting demand pressure manufacturers worldwide. The downturn is expected to accelerate competition among suppliers, even as foldable devices, LTPO adoption, and power-efficient technologies create opportunities.",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0ba74ca68c447bddb110",
+    "article": {
+      "title": "Automotive architecture shifts to zonal control as AI cyber risks rise",
+      "url": "https://www.digitimes.com/news/a20261110PD229/software-cybersecurity-design-automotive-security.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-10T03:38:31+00:00",
+      "short_snippet": "Automotive electrical/electronic architecture (E/EA) continues to evolve—moving from early distributed control systems to today's mature domain-based architectures, and now ushering in the era of zonal control. However, as AI significantly amplifies attackers' capabilities, automotive cybersecurity is facing renewed scrutiny, with potential vulnerabilities between distinct functional zones emergin",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-acfeaa85784b367fa063",
+    "article": {
+      "title": "Sharp eyes AI server deliveries in Japan as early as March 2027",
+      "url": "https://www.digitimes.com/news/a20261110PD227/sharp-2027-revenue-2026-foxconn.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-10T03:32:14+00:00",
+      "short_snippet": "Sharp said it could begin delivering its new AI servers to customers as early as March 2027, leveraging parent company Foxconn's procurement and manufacturing capabilities to target Japan's growing AI server market.",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-1109cd195ab738a20c8d",
+    "article": {
+      "title": "Apple's OLED iPad Air targets 2027, SDC leads panel supply",
+      "url": "https://www.digitimes.com/news/a20261110PD211/apple-sdc-2027-ipad-air-panel.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-10T03:28:54+00:00",
+      "short_snippet": "Apple is reportedly set to launch an OLED iPad Air in the first half of 2027, expanding its OLED tablet lineup. The supply chain expects Samsung Display (SDC) to lead overall OLED iPad panel shipments, while LG Display (LGD) is expected to retain its supply advantage for the iPad Pro. Whether Beijing-based BOE Technology can enter the Air supply chain remains uncertain.",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f9efc75094a258a306b9",
+    "article": {
+      "title": "Commentary: How will US midterms and Jensen Huang controversy reshape AI policy?",
+      "url": "https://www.digitimes.com/news/a20261110PD232/usa-policy-ai-chip-security-jensen-huang-nvidia.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-10T03:23:52+00:00",
+      "short_snippet": "Recent developments, including the Democratic Party's strong showing in the US midterm elections and calls for Nvidia CEO Jensen Huang to brief Congress on national security matters, have stirred uncertainty over the future direction of AI policy and the AI chip market in the US. Huang has also drawn global media attention after addressing an alleged extramarital affair in an open letter.",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c37b186708ddc2367730",
+    "article": {
+      "title": "Nvidia probe fuels push for China chip curbs, raising risks for Samsung, SK Hynix",
+      "url": "https://www.digitimes.com/news/a20261110VL203/nvidia-samsung-investigation-sk-hynix-ceo.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-10T03:20:55+00:00",
+      "short_snippet": "Samsung Electronics and SK Hynix face uncertainty over demand for high-bandwidth memory (HBM) as US lawmakers press for tighter controls on AI chip exports to China following allegations involving Nvidia CEO Jensen Huang.",
+      "tags": [
+        "AI",
+        "半導體",
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-8a5481f35b649c892303",
+    "article": {
+      "title": "Novatek faces AI infrastructure squeeze, pins growth ramp-up on new products",
+      "url": "https://www.digitimes.com/news/a20261109PD263/novatek-display-growth-infrastructure-driver-ic.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-10T03:17:36+00:00",
+      "short_snippet": "Novatek Microelectronics, a leading Taiwanese display driver IC (DDI) design house, hosted its quarterly earnings conference last week. Novatek President and Vice Chairman Steve Wang stated that third-quarter 2026 revenue reached the upper end of its guidance, propelled by seasonal stock-up demand from smartphone clients that drove strong shipment growth in small- and medium-sized DDIs. Small- and",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ef188ebeb47a6136db7c",
+    "article": {
+      "title": "Phison locks in 70% of its 2027 NAND supply as AI demand surges",
+      "url": "https://www.digitimes.com/news/a20261109PD258/phison-demand-nand-2027-ceo.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-10T03:12:26+00:00",
+      "short_snippet": "Phison Electronics CEO Pua Khein-Seng expects AI demand to surge again after the Lunar New Year, tightening NAND Flash supplies and intensifying competition for high-capacity triple-level cell (TLC) and quad-level cell (QLC) products. The company has already secured more than 70% of its targeted 2027 supply.",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-277a84d93225823c1be6",
+    "article": {
+      "title": "CXMT chairman's reported DeepSeek investment spotlights China's semiconductor capital network",
+      "url": "https://www.digitimes.com/news/a20261110PD217/cxmt-deepseek-gigadevice-investment.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-10T03:11:24+00:00",
+      "short_snippet": "Zhu Yiming, chairman of ChangXin Memory Technologies (CXMT), reportedly participated in Chinese AI startup DeepSeek's second funding round, drawing attention to his semiconductor investment network. Neither DeepSeek nor the reported investors have confirmed the claims, leaving the investment entity, amount, and shareholding structure unclear.",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-efb8799028504b3fa733",
+    "article": {
+      "title": "Trump says FBI examining Huang affair as Nvidia faces widening legal scrutiny",
+      "url": "https://www.digitimes.com/news/a20261110VL205/nvidia-security-ceo-jensen-huang-investigation.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-10T03:08:19+00:00",
+      "short_snippet": "US scrutiny surrounding Nvidia CEO Jensen Huang is expanding across national security, chip export enforcement, and shareholder disclosures, with US President Donald Trump saying the FBI is examining his relationship with an alleged Chinese agent as lawmakers seek answers and investors take the company to court.",
+      "tags": [
+        "AI",
+        "半導體",
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-520e01603f26484f06e3",
+    "article": {
+      "title": "Chenbro, AES stay optimistic on AI demand despite US midterm volatility",
+      "url": "https://www.digitimes.com/news/a20261109PD256/demand-chenbro-component-development-revenue.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-10T02:29:40+00:00",
+      "short_snippet": "Two leading server component manufacturers remain optimistic about AI demand despite potential short-term volatility following the US midterm elections. Chenbro Micom CEO Corona Chen said the elections would not derail AI's medium- to long-term development, while Advanced Energy Solution (AES) President Wei-Che Sung said customer demand would remain strong in 2027.",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f111c65a6fb7c6c05d4d",
+    "article": {
+      "title": "Mitsui Chemicals to acquire JSR for US$11.6 billion, targeting semiconductor materials growth",
+      "url": "https://www.digitimes.com/news/a20261110VL201/mitsui-chemicals-jsr-acquisition-materials-business-growth.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-10T02:28:16+00:00",
+      "short_snippet": "Mitsui Chemicals plans to acquire semiconductor materials maker JSR in a transaction valued at JPY1.84 trillion (approx. US$11.6 billion), including assumed debt, as it seeks to strengthen its position in the global semiconductor materials market and accelerate a broader business portfolio transformation.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-cf7c5f00b3501fcfc411",
+    "article": {
+      "title": "Google expands eighth-generation TPU portfolio to target secure, high-context agentic AI",
+      "url": "https://www.digitimes.com/news/a20261110VL202/tpu-google-training-silicon-security.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-10T02:26:05+00:00",
+      "short_snippet": "Google has expanded its eighth-generation TPU portfolio with the announcement of two specialized AI systems—the TPU 8tx for hardware-encrypted confidential compute and the TPU 8i Max for high-density context workloads. Joining the previously released TPU 8t training engine and TPU 8i reasoning engine, this update marks the first time Google has shipped four distinct TPU systems in a single year to",
+      "tags": [
+        "AI",
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ef29f0450ea613faa23a",
+    "article": {
+      "title": "Exclusive: Designing light for everyone—Wave Photonics seeks to make custom photonic chips accessible",
+      "url": "https://www.digitimes.com/news/a20261110VL200/chips-testing-design-photonics-component.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-10T02:16:51+00:00",
+      "short_snippet": "In a Cambridge laboratory, an automated testing machine sits at the end of a process that has traditionally demanded years of specialized engineering: designing a photonic chip, sending it for fabrication, and discovering whether light behaves inside the finished device as simulations predicted.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-048f4d3e4fa874d3a809",
+    "article": {
+      "title": "Column: Nvidia explores PTFE for AI servers amid PFAS concerns",
+      "url": "https://www.digitimes.com/news/a20261110PD215/chemical-materials-ai-server-brand-electronics-nvidia.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-10T02:14:45+00:00",
+      "short_snippet": "Polytetrafluoroethylene (PTFE), the material behind the Teflon brand, has become one of the most closely watched materials for advanced electronics, drawing attention at the Open Compute Project (OCP) Global Summit and the Taiwan Printed Circuit Association (TPCA) International Exhibition.",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-777d19a5810b34c0491c",
+    "article": {
+      "title": "Taiwan's proposed Amazon Leo network would broaden emergency communications",
+      "url": "https://www.digitimes.com/news/a20261110PD208/taiwan-leo-amazon-project-kuiper-cables.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-10T02:10:46+00:00",
+      "short_snippet": "Taiwan's proposed 2027 government budget would fund a low Earth orbit satellite network using Amazon Leo, adding backup communications for critical sites during disasters and emergencies. The plan reflects concern over the island's reliance on submarine cables and seeks to strengthen connectivity for government, response, medical, and other essential services.",
+      "tags": [
+        "資料中心",
+        "Big Tech",
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-363ded23bacf8f9fd690",
+    "article": {
+      "title": "Commentary: Why Nvidia's board would struggle to replace Jensen Huang",
+      "url": "https://www.digitimes.com/news/a20261110PD219/nvidia-jensen-huang-ceo-chips-security.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-10T02:04:44+00:00",
+      "short_snippet": "Nvidia CEO Jensen Huang's personal relationship controversy continues to widen, now spanning US national security, AI chip export controls, and corporate governance.",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f0701f8f68c04ebce630",
+    "article": {
+      "title": "TIER sees Taiwan growth slowing to 6.45% in 2027",
+      "url": "https://www.digitimes.com/news/a20261110PD209/taiwan-2027-2026-exports-investment.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-10T02:02:03+00:00",
+      "short_snippet": "Taiwan's growth is expected to ease in 2027 as a surge in AI-related exports and business investment lifts this year's comparison base. However, continued spending on AI infrastructure should support trade and private investment, the Taiwan Institute of Economic Research (TIER) said.",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ae9e7fadd20837a5c0cf",
+    "article": {
+      "title": "Commentary: China's emerging semiconductor investment empire takes quieter route to dominance",
+      "url": "https://www.digitimes.com/news/a20261110PD216/cxmt-tsinghua-unigroup-manufacturing-investment.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-10T02:01:11+00:00",
+      "short_snippet": "A decade ago, China's Tsinghua Unigroup alarmed Taiwan's semiconductor industry with an aggressive acquisition campaign. Under then-chairman Zhao Weiguo, the group acquired Spreadtrum Communications and RDA Microelectronics, sought stakes in Powertech, SPIL and ChipMOS, and publicly expressed interest in integrating MediaTek. Its financial firepower and rapid expansion unsettled Taiwanese chipmake",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0add7e7614e738fde61f",
+    "article": {
+      "title": "Exclusive: Quantum without quantum computers — Quinas bets on quantum tunneling to break AI's memory bottleneck",
+      "url": "https://www.digitimes.com/news/a20261109VL213/quantum-taiwan-technology.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-10T01:46:35+00:00",
+      "short_snippet": "As artificial intelligence pushes computing systems toward unprecedented processing demands, another technological bottleneck is becoming increasingly difficult to ignore: the energy and time required to store, retrieve, and move data.",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-2a6d679710ecafdfdb84",
+    "article": {
+      "title": "Global smartphone revenue rises despite sharp shipment decline",
+      "url": "https://www.digitimes.com/news/a20261110PD213/asp-shipments-sales-market-global-smartphone.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-10T01:44:02+00:00",
+      "short_snippet": "Global smartphone revenue rose 3% year on year to US$114 billion in the third quarter of 2026, even as shipments fell 19%, highlighting a worldwide shift toward more expensive devices. Higher prices supported value, but rising memory costs are squeezing manufacturers' margins and threatening affordability, especially in entry-level markets worldwide.",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0c7ab840954d2a0bfdb5",
+    "article": {
+      "title": "AI boom drives photomask outsourcing despite IP fears, Tekscend says",
+      "url": "https://www.digitimes.com/news/a20261109VL231/photomask-outsourcing-chipmakers-production-euv.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-10T01:35:04+00:00",
+      "short_snippet": "Memory chipmakers have long been reluctant to outsource sensitive photomask production over intellectual property concerns, but growing artificial intelligence (AI) demand and capacity constraints are pushing more work to merchant suppliers, according to Japan's Tekscend Photomask. Manufacturers are keeping their most advanced extreme ultraviolet (EUV) masks in-house while outsourcing more convent",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b037e8d8d82940825b76",
+    "article": {
+      "title": "7STARLAKE, South Korea's Raion Robotics, builds Taiwan AI platform",
+      "url": "https://www.digitimes.com/news/a20261109PD253/taiwan-vehicle-robot-hardware-data.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-10T01:22:46+00:00",
+      "short_snippet": "Unmanned vehicle systems developer 7STARLAKE announced on November 6 that it will work with South Korean robotics company Raion Robotics and National Cheng Kung University (NCKU) to develop a physical AI and autonomous quadruped robot platform in Taiwan. The project will integrate multisensor data fusion, robot dynamics and terrain-contact simulations through virtual-physical closed-loop validatio",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3c320403b426b81ec9ac",
+    "article": {
+      "title": "Trans-Sun Materials Technology sees AI server, robot growth defying US political shifts",
+      "url": "https://www.digitimes.com/news/a20261109PD246/growth-ai-server-expansion-revenue-profit.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-10T01:22:40+00:00",
+      "short_snippet": "Calls to curb artificial intelligence (AI) expansion have intensified after the US Democratic Party's sweeping victory in the midterm elections, but Trans-Sun Materials Technology Chairman Chia-Wang Li said political changes will not derail the AI growth trend. Regulatory measures under Democratic control could slightly delay some AI infrastructure projects, he said, but AI infrastructure remains ",
+      "tags": [
+        "AI",
+        "資料中心",
+        "監管",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-2fbe51c933c19642fa43",
+    "article": {
+      "title": "Semiconductor test-interface supplier WinWay revenue falls 11.51% MoM, rises 62.62% YoY",
+      "url": "https://www.digitimes.com/news/a20261109PD244/revenue-demand-supplier-growth-market.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-10T01:22:35+00:00",
+      "short_snippet": "WinWay Technology, a semiconductor test-interface supplier, reported a slight decline in October revenue as holidays reduced shipping days and customer project adjustments affected deliveries. However, AI demand kept annual growth above 62%, while new projects involving AI, ASICs, GPUs, and CPUs are expected to offset seasonal weakness and support future operations.",
+      "tags": [
+        "AI",
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-2f1dd16a679f4bc1c6c4",
+    "article": {
+      "title": "Y-S Electronic tops 2025 revenue in October 2026, expands AI server push",
+      "url": "https://www.digitimes.com/news/a20261109PD232/revenue-2025-subsidiary-development-high-end.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-10T01:22:24+00:00",
+      "short_snippet": "Y-S Electronic, a subsidiary of Sun Yad Group, reported consolidated revenue of NT$73.271 million (US$2.24 million) in October 2026, up 31.67% year-on-year. Revenue for the first 10 months reached NT$792.871 million, up 23.20% year-on-year and surpassing its full-year 2025 revenue of NT$782.351 million, highlighting continued momentum in its core businesses.",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-1679fb391062a4f34f8a",
+    "article": {
+      "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+      "url": "https://news.ycombinator.com/item?id=50435660",
+      "source": "Hacker News",
+      "published_at": "2026-11-10T03:20:06+00:00",
+      "short_snippet": "Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html Comments URL: https://news.ycombinator.com/item?id=50435660 Points: 29 # Comments: 3",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-2a8c5a15904331d05cb4",
+    "article": {
+      "title": "Exact – a new cross platform UI framework",
+      "url": "https://news.ycombinator.com/item?id=50433541",
+      "source": "Hacker News",
+      "published_at": "2026-11-09T22:59:13+00:00",
+      "short_snippet": "Article URL: https://github.com/expo/exact Comments URL: https://news.ycombinator.com/item?id=50433541 Points: 76 # Comments: 36",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ef571b3dbb63b0916486",
+    "article": {
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "url": "https://news.ycombinator.com/item?id=50429068",
+      "source": "Hacker News",
+      "published_at": "2026-11-09T18:01:10+00:00",
+      "short_snippet": "Article URL: https://www.anthropic.com/claude-fable-and-mythos-5-2 Comments URL: https://news.ycombinator.com/item?id=50429068 Points: 296 # Comments: 653",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-71485e5c2a3ca58f474c",
+    "article": {
+      "title": "AI Cameras on School Buses Now Trigger Hundreds of Thousands of Fines for Passing Drivers",
+      "url": "https://www.reddit.com/r/technology/comments/1xs8ctt/ai_cameras_on_school_buses_now_trigger_hundreds/",
+      "source": "Reddit",
+      "published_at": "2026-11-10T00:12:05+00:00",
+      "short_snippet": "submitted by /u/IKeepItLayingAround [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c6c5e6654e8093f97542",
+    "article": {
+      "title": "The Unknown Hero Who Helped Stall a $5 Billion Data Center Plan",
+      "url": "https://www.reddit.com/r/technology/comments/1xs8ev9/the_unknown_hero_who_helped_stall_a_5_billion/",
+      "source": "Reddit",
+      "published_at": "2026-11-10T00:14:36+00:00",
+      "short_snippet": "submitted by /u/IKeepItLayingAround [link] [comments]",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-388bfb82ec402252388e",
+    "article": {
+      "title": "Synaptics sends cease-and-desist order to creator of open-source DisplayLink driver, dares him to publicize its threats — dev reverse-engineers DisplayLink using Claude AI and Rust, Synaptics threatens to bill creator fo",
+      "url": "https://www.reddit.com/r/technology/comments/1xs9cak/synaptics_sends_ceaseanddesist_order_to_creator/",
+      "source": "Reddit",
+      "published_at": "2026-11-10T00:56:55+00:00",
+      "short_snippet": "submitted by /u/_Dark_Wing [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e85e3f3ffe1e843f80b8",
+    "article": {
+      "title": "v0.40.16",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.16",
+      "source": "官方：Ollama releases",
+      "published_at": "2026-11-09T23:45:36+00:00",
+      "short_snippet": "Ripple Preview Ripple Preview from Ricursive Intelligence is a 65B dense model built for agentic coding. ollama run ripple-preview What's Changed Qwen3.8 Flash Next uses about 27 GiB less memory on Apple silicon ollama launch claude always routes Claude Code to the selected model ollama launch explains when a cloud model has been retired https://github.com/ollama/ollama/compare/v0.40.15...v0.40.16",
+      "tags": [
+        "AI",
+        "半導體",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-cec4731f6d6e9fa76c79",
+    "article": {
+      "title": "「AI 需求未放緩」 半導體材料商 JX 金屬上修財測",
+      "url": "https://finance.technews.tw/2026/11/10/jx-metals-raises-financial-forecast/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-10T04:00:42+00:00",
+      "short_snippet": "AI 需求加持，日本半導體材料商 JX 金屬（JX Advanced Metals Corporation）上 […]",
+      "tags": [
+        "AI",
+        "半導體",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b6782612409fd85f3a08",
+    "article": {
+      "title": "金融時報：黃樂曾兜售資料中心計畫，稱有辦法拿到輝達 GPU",
+      "url": "https://technews.tw/2026/11/10/alleged-chinese-spy-linked-to-nvidia-chief-pitched-ai-chip-deals-to-investors/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-10T03:45:51+00:00",
+      "short_snippet": "英國《金融時報》報導，黃仁勳婚外情風波核心人物黃樂曾向中國投資人推銷大型資料中心計畫，聲稱有能力取得輝達繪圖處 […]",
+      "tags": [
+        "半導體",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a9c7e262adbe7d03c8f9",
+    "article": {
+      "title": "從助眠神器變 AI 訓練庫，神經科技公司遭踢爆未經同意收集腦電波",
+      "url": "https://infosecu.technews.tw/2026/11/10/sleep-trackers-surreptitiously-use-brainwaves-train-ai/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-10T03:40:16+00:00",
+      "short_snippet": "隨著穿戴式科技普及，許多人在追求提升睡眠品質與專注度的同時，可能在不知情的情況下，讓自己最私密的生理資料成為了 […]",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-67107d5426a2e2783d98",
+    "article": {
+      "title": "AI 旺、供不應求 古河電工擴充台灣、日本銅箔產能",
+      "url": "https://technews.tw/2026/11/10/furukawa-electric-expands-copper-foil-capacity-in-taiwan-and-japan/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-10T03:30:34+00:00",
+      "short_snippet": "AI 需求旺、供不應求，日本古河電氣工業（Furukawa Electric）將擴充台灣、日本銅箔產能，目標將 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-104fff2b207cc02de851",
+    "article": {
+      "title": "Anthropic IPO 前夕推 Fable 5.2 與 Mythos 5.2，效能提升且降價 20%",
+      "url": "https://technews.tw/2026/11/10/anthropic-introduces-claude-fable-5-2-and-claude-mythos-5-2/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-10T03:29:42+00:00",
+      "short_snippet": "預期即將掛牌上市的前夕，Anthropic 9 日推出 Claude Fable 5.2 與 Claude M […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-8d29167f1a043501791a",
+    "article": {
+      "title": "AI 資料中心民怨升溫，燃料電池能當和事佬？",
+      "url": "https://technews.tw/2026/11/10/ai-data-center-complaints-rise-fuel-cells-peacemaker/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-10T03:29:42+00:00",
+      "short_snippet": "美國 AI 資料中心快速擴張，龐大的用電需求、電價上漲及水資源消耗引發地方居民反彈，也讓科技巨頭開始調整供電策 […]",
+      "tags": [
+        "AI",
+        "資料中心",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d134388fcb6fc96215cc",
+    "article": {
+      "title": "Meta 策略長 Dave Wehner 離職，轉戰 AI 推論新創 Fireworks 財務長",
+      "url": "https://technews.tw/2026/11/10/metas-dave-wehner-is-leaving-to-become-cfo-of-fireworks-ai/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-10T03:20:25+00:00",
+      "short_snippet": "Meta 策略長威納（Dave Wehner）宣布離開任職 14 年的 Meta，轉任 AI 推論新創公司 F […]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-55e16e6b17a40b5b6ce0",
+    "article": {
+      "title": "受惠半導體需求帶動接單暢旺！東佑達 10 月營收年增 62.32%",
+      "url": "https://finance.technews.tw/2026/11/10/automated-key-components/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-10T03:19:39+00:00",
+      "short_snippet": "東佑達自動化今日公布 2026 年 10 月營收 2 億 4,288 萬元，年增 62.32%；累計今年前 1 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-fcac352dcdcd00cf046b",
+    "article": {
+      "title": "七成求職者用 AI 查公司底細，企業官網形象擋不住員工真實評價",
+      "url": "https://technews.tw/2026/11/10/job-seekers-asking-chatgpt-what-employees-really-think-of-their-company/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-10T03:10:10+00:00",
+      "short_snippet": "隨著生成式人工智慧（Generative AI）技術普及，人資（HR）主管正面臨全新挑戰：求職者不再只依賴公司 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-2e4086b01eb6683c8243",
+    "article": {
+      "title": "迪士尼與 Adobe 締結多年戰略聯盟，以專屬 AI 模型驅動次世代創意敘事",
+      "url": "https://technews.tw/2026/11/10/disney-adobe-partner-create-new-ai-experiences/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-10T03:00:40+00:00",
+      "short_snippet": "在 11 月 9 日於邁阿密海灘盛大舉辦的 Adobe MAX 大會上，Adobe 與華特迪士尼公司（The […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-7d58e3d16598206d7cc2",
+    "article": {
+      "title": "Meta 將 AI 年齡預估系統推向全球，Instagram 主動揪出謊報年齡的青少年",
+      "url": "https://infosecu.technews.tw/2026/11/10/meta-expands-ai-age-assessment-on-instagram-globally/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-10T02:50:19+00:00",
+      "short_snippet": "Meta 9 日宣布，將 Instagram 的 AI 年齡預估技術擴大至全球，主動找出疑似謊報年齡的青少年用 […]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-9ef9652fcc4071601bbc",
+    "article": {
+      "title": "大摩指雲端半導體成長恐見頂，信驊遭調降評等至中立目標價下修 40%",
+      "url": "https://finance.technews.tw/2026/11/10/sino-huas-rating-was-downgraded-to-neutral-and-its-target-price-was-reduced-by-40/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-10T02:45:43+00:00",
+      "short_snippet": "外資摩根士丹利（Morgan Stanley，大摩）最新半導體產業報告指出，雲端半導體供應鏈面臨獲利預期上修動 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-397cb8accbf3a246f608",
+    "article": {
+      "title": "獨吞空巴 A350 認證、AI 能源櫃爆量！經寶前三季賺 14.05 元連兩根漲停板",
+      "url": "https://finance.technews.tw/2026/11/10/power-energy-components/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-10T02:42:50+00:00",
+      "short_snippet": "經寶精密（JPP-KY）受惠 AI 伺服器、電力能源機構件需求強勁，以及歐洲併購效益與航太業務逐步回溫，累計今 […]",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5bcc9668dd77f1ea65a2",
+    "article": {
+      "title": "中國打造 800MW「銀河」AI 巨型資料中心，成本僅美國 1/5、力抗「星際之門」",
+      "url": "https://technews.tw/2026/11/10/china-builds-giant-ai-data-center/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-10T02:40:48+00:00",
+      "short_snippet": "隨著全球對人工智慧（AI）算力需求激增，中國正透過極具競爭力的成本優勢與技術創新，加速布局超大規模資料中心。根 […]",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-021926efa508ad17d9d0",
+    "article": {
+      "title": "黃仁勳婚外情掀國安疑慮，三項對中晶片法案有望過關",
+      "url": "https://technews.tw/2026/11/10/nvidia-spy-allegations-likely-to-spur-laws-to-tighten-chinas-access-to-ai-chips/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-10T02:35:46+00:00",
+      "short_snippet": "美國多名國會議員與倡議人士指出，輝達（Nvidia）執行長黃仁勳與疑似中國女間諜交往的消息曝光後，國會將更有望 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-180ccf99dec7b90031aa",
+    "article": {
+      "title": "光寶科衝刺 AI 電源市場，外資估明年營收逼近 3,000 億元",
+      "url": "https://technews.tw/2026/11/10/ai-power-demand-robust-morgan-stanley-projects-lite-on-revenue-nears-300-billion/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-10T02:32:05+00:00",
+      "short_snippet": "光寶科 10 月營收達約 201 億元，月增 6%、年增 32%，受惠 AI 伺服器電源供應器（PSU）、備援 […]",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-9af68ed685787e73ddfb",
+    "article": {
+      "title": "黃仁勳陷婚外情與共諜風暴，外媒爆去年已悄聘「喬事級」公關操盤",
+      "url": "https://technews.tw/2026/11/10/jensen-huang-pr-affair-scandal/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-10T02:30:56+00:00",
+      "short_snippet": "輝達（NVIDIA）執行長黃仁勳日前坦承婚外情，對象更遭美方指控為中國間諜，震撼全球科技圈。根據《WIRED》 […]",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-85442d2b7aabe5c29781",
+    "article": {
+      "title": "日本 2031 年前在大學設防衛技術研究中心，主攻 AI 與太空技術",
+      "url": "https://technews.tw/2026/11/10/japan-to-create-defense-research-hubs-at-universities-for-ai-space-tech/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-10T02:25:19+00:00",
+      "short_snippet": "隨著全球安全環境快速變化，日本政府正採取積極措施，試圖縮短基礎科學研究與國防裝備應用之間的距離。根據最新消息， […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-18404b789609ee2ca694",
+    "article": {
+      "title": "AirPods 老是莫名斷線，先檢查這幾個設定",
+      "url": "https://ccc.technews.tw/2026/11/10/why-your-airpods-keep-disconnecting-without-warning/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-10T02:21:50+00:00",
+      "short_snippet": "不少使用者抱怨 AirPods 會在沒有預警的情況下斷線，甚至在 iPhone、iPad 與 Mac 之間反覆 […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3375abf81cf2a0949287",
+    "article": {
+      "title": "馬斯克樂看 AI 創造極度豐饒，機器人生產力達人類 5 倍、現代貨幣將如貝殼般過時",
+      "url": "https://technews.tw/2026/11/10/elon-musk-optimistic-ai-extreme-abundance-robot-productivity-5x-human-modern-currency-obsolete-seashells/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-10T01:55:09+00:00",
+      "short_snippet": "在 11 月 9 日舉行的 Baron Capital 年度會議上，特斯拉（Tesla）與 SpaceX 執行 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3ff18c2e781739505027",
+    "article": {
+      "title": "台達電明年營收拚兆元，外資點名 HVDC 成長關鍵",
+      "url": "https://technews.tw/2026/11/10/delta-electronics-targets-nt1-trillion-revenue-next-year-foreign-investors-hvdc-key-growth-driver/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-10T01:54:01+00:00",
+      "short_snippet": "台達電 10 月營收達 746.66 億元，月增 14.2%、年增 30.1%，受惠 AI 電源供應器、高壓直 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-919c48413c87f755e30c",
+    "article": {
+      "title": "紐時：輝達疑介入商務部調查 Megaspeed 晶片輸中案",
+      "url": "https://technews.tw/2026/11/10/commerce-dept-chip-inquiry-was-halted-after-nvidia-intervention/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-10T01:50:48+00:00",
+      "short_snippet": "《紐約時報》今天報導，輝達法務長泰德曾向美國商務部調查晶片非法移轉中國案件的調查人員發出電郵，指次長凱斯勒同意 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5460626f312b98662119",
+    "article": {
+      "title": "97% AI 代理可存取敏感資料，調查：僅 21% 企業有信心控管風險",
+      "url": "https://finance.technews.tw/2026/11/10/ai-agent-manage-risks/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-10T01:41:29+00:00",
+      "short_snippet": "隨著企業加速導入 AI 代理（AI Agent），相關系統不再只是協助員工處理工作，也開始取得存取敏感資料、變 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f3571a1518a1d1e8d7ba",
+    "article": {
+      "title": "美股走高輝達逆勢收跌 4.27%，市場關注黃仁勳相關調查",
+      "url": "https://finance.technews.tw/2026/11/10/us-stocks-rise-nvidia-drops-4-27-jensen-huang-investigation-focus/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-10T01:40:51+00:00",
+      "short_snippet": "美國科技股今天走高，輝達股價逆勢收跌 4.27%，報 178.67 美元。執行長黃仁勳坦承婚外情，輝達董事會也 […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-2a0bf0c4936d7635211c",
+    "article": {
+      "title": "黃仁勳外遇掀國安疑雲，川普：某 AI 公司執行長遭警告準備坐牢",
+      "url": "https://infosecu.technews.tw/2026/11/10/jensen-huang-affair-national-security-concerns-trump-ai-ceo-warned-jail/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-10T01:30:58+00:00",
+      "short_snippet": "美國總統川普透露，他的政府曾因一家大型人工智慧（AI）公司執行長涉嫌 AI 相關不當行為，威脅要將這名主管關進 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-4bb7bc864bee04a634f9",
+    "article": {
+      "title": "黃仁勳無特殊投票權難自保 輝達憂接班＋人才流失",
+      "url": "https://finance.technews.tw/2026/11/10/jensen-huang-affair-puts-nvidias-future-at-risk/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-10T01:20:07+00:00",
+      "short_snippet": "輝達（Nvidia）執行長黃仁勳（Jensen Huang）捲入疑似中國情報滲透風波，董事會已啟動獨立調查，市 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-8df14300885eb38c955c",
+    "article": {
+      "title": "家登 10 月營收 8.17 億元年增 24%，前十個月營收年增達 34%",
+      "url": "https://finance.technews.tw/2026/11/10/gadens-october-revenue-increased-by-24-year-on-year/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-10T01:10:37+00:00",
+      "short_snippet": "半導體耗材廠商家登精密公布 2026 年 10 月營收報告，集團合併總營收約為新台幣 8.17 億元，月減 1 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
   }
 ]
