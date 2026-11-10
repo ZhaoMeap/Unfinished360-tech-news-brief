@@ -52341,5 +52341,781 @@
         "半導體"
       ]
     }
+  },
+  {
+    "event_id": "evt-fafff4292c09fd9370c5",
+    "article": {
+      "title": "Gemini Intelligence: New features, on more devices",
+      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+      "source": "官方：Google",
+      "published_at": "2026-11-10T19:00:00+00:00",
+      "short_snippet": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-fed0553263a8b330ef0b",
+    "article": {
+      "title": "Pixel 10 with Gemini Intelligence, custom widgets, and more in our November Pixel Drop",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/november-2026-pixel-drop/",
+      "source": "官方：Google",
+      "published_at": "2026-11-10T19:00:00+00:00",
+      "short_snippet": "Pixel Drop text with the Google G logo and irridescent squares",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-24c660f9177b41f4be90",
+    "article": {
+      "title": "Get step-by-step workout guidance on your Pixel Watch.",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/step-by-step-workouts-watch/",
+      "source": "官方：Google",
+      "published_at": "2026-11-10T19:00:00+00:00",
+      "short_snippet": "Get live workout guidance on your Pixel Watch with Google. Follow custom routines and track reps directly on your wrist. See how it works.",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-4f352acfe5e20c04b7f8",
+    "article": {
+      "title": "Introducing Google Fi’s new super network",
+      "url": "https://blog.google/products-and-platforms/products/google-fi-wireless/super-network/",
+      "source": "官方：Google",
+      "published_at": "2026-11-10T17:20:00+00:00",
+      "short_snippet": "A cityscape at sunset overlaid with light trails, featuring the text \"Don't bet on a single signal.\" and the Google Fi Wireless logo.",
+      "tags": [
+        "資料中心",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-2ffd7e8cb1f550c679e6",
+    "article": {
+      "title": "Introducing the Multimodal Knowledge Agent benchmark",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/",
+      "source": "官方：Google",
+      "published_at": "2026-11-10T16:00:00+00:00",
+      "short_snippet": "Text \"Visual Knowledge Work\" next to the Gemini 4 logo and an illustration of documents",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-1dd4b13848afc9e4f345",
+    "article": {
+      "title": "Introducing 3 new domains: .eat, .fly, and .here",
+      "url": "https://blog.google/products-and-platforms/products/registry/new-google-domains-eat-fly-here/",
+      "source": "官方：Google",
+      "published_at": "2026-11-10T16:00:00+00:00",
+      "short_snippet": "Illustration of a traveler with a laptop and suitcase under a flying airplane, a woman eating a chicken wing next to a plate of wings and chips, and a woman in a red apron tapping a location pin on a map.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e192e4f92a704298f96f",
+    "article": {
+      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+      "source": "官方：Google",
+      "published_at": "2026-11-10T14:00:00+00:00",
+      "short_snippet": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c979be8e72cc92b8a0fb",
+    "article": {
+      "title": "Google Cloud launches Gemini for healthcare.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+      "source": "官方：Google",
+      "published_at": "2026-11-10T13:00:00+00:00",
+      "short_snippet": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-8eec2e0e61665676840d",
+    "article": {
+      "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
+      "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+      "source": "官方：NVIDIA",
+      "published_at": "2026-11-10T16:00:03+00:00",
+      "short_snippet": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing. To help meet them, NVIDIA is deepening its commitment to open source at KubeCon + CloudNativeCon, the flagship conference for the Kubernetes and cloud-native communities. NVIDIA […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c5be86abb5c9b321def7",
+    "article": {
+      "title": "Apple TV introduces new Sign Language interpretation feature",
+      "url": "https://www.apple.com/newsroom/2026/11/apple-tv-introduces-new-sign-language-interpretation-feature/",
+      "source": "官方：Apple Newsroom",
+      "published_at": "2026-11-10T16:00:26+00:00",
+      "short_snippet": "Today, Apple announced a new accessibility feature on the Apple TV app offering sign language interpretation for supported titles.",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6928b5790c3112e72757",
+    "article": {
+      "title": "Football Manager and other hit franchises headline Apple Arcade’s holiday lineup",
+      "url": "https://www.apple.com/newsroom/2026/11/football-manager-and-other-hit-franchises-headline-apple-arcades-holiday-lineup/",
+      "source": "官方：Apple Newsroom",
+      "published_at": "2026-11-10T14:59:45+00:00",
+      "short_snippet": "Today Apple Arcade welcomes Football Manager 27 Touch, plus four new games for every kind of player on December 3.",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-1a36725fe9952c3c8d75",
+    "article": {
+      "title": "The PlayStation Plus PC app is shutting down next month",
+      "url": "https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down",
+      "source": "The Verge",
+      "published_at": "2026-11-10T19:40:52+00:00",
+      "short_snippet": "Sony is retiring the PlayStation Plus app for PC on December 10th. Sony says it will notify users directly about the shutdown. The app allowed PlayStation Plus Premium subscribers to stream certain games on PC, but according to Sony, there aren't many people using that perk: \"With a very small number of eligible PlayStation Plus […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-2cd727451747d4d6ca83",
+    "article": {
+      "title": "The US is winning the AI race. Jensen Huang could have blown it",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+      "source": "The Verge",
+      "published_at": "2026-11-10T19:04:05+00:00",
+      "short_snippet": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people. He also wears a cool leather jacket. Which makes […]",
+      "tags": [
+        "AI",
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-bca336dd1b86eaa95781",
+    "article": {
+      "title": "Google’s Pixel Tag tracker is now available",
+      "url": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding",
+      "source": "The Verge",
+      "published_at": "2026-11-10T19:00:00+00:00",
+      "short_snippet": "After years of third-party Android trackers from companies like Samsung, Motorola, and Pebblebee, Google's Pixel Tag is now available for purchase. First announced in August, the Pixel Tag is designed to work with Google's tracking network and app that was renamed the Find Hub last year. The Pixel Tag is priced similar to Apple's AirTag […]",
+      "tags": [
+        "資料中心",
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d444cf34e02b02a23b1a",
+    "article": {
+      "title": "Google is making Pixel HiLight slightly more useful",
+      "url": "https://www.theverge.com/tech/1031089/google-pixel-drop-november-2026-hilight",
+      "source": "The Verge",
+      "published_at": "2026-11-10T19:00:00+00:00",
+      "short_snippet": "Google is adding a new feature to its underwhelming HiLight light on the back of Pixel 11 Pro phones: as part of the November 2026 Pixel Drop, the light can light up when you get Google Messages texts from your favorite contacts. Sure, it's a small addition to the disappointing ways you could use HiLight […]",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-bfc3d7d94749ba346a96",
+    "article": {
+      "title": "ChatGPT is getting verified AI ‘Business Agents’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+      "source": "The Verge",
+      "published_at": "2026-11-10T18:00:00+00:00",
+      "short_snippet": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in ChatGPT being announced today in beta. You […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ead3c118b6b6e747950c",
+    "article": {
+      "title": "The indie game community is in disarray over AI and Big Walk",
+      "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+      "source": "The Verge",
+      "published_at": "2026-11-10T17:32:47+00:00",
+      "short_snippet": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit Big Walk has published a statement saying it \"sparingly\" used AI in the \"final stretch\" of the game's development to \"help work through difficult […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ecc6a8ab5ff909fd0dc4",
+    "article": {
+      "title": "Google Fi is bringing back multiple cell network support for better coverage",
+      "url": "https://www.theverge.com/tech/1030979/google-fi-automatic-network-switching-pixel",
+      "source": "The Verge",
+      "published_at": "2026-11-10T17:32:39+00:00",
+      "short_snippet": "Google Fi is launching a new \"super network\" that can automatically switch users between two different 5G networks depending on which one has better connectivity. The feature is rolling out starting today on Pixel 9 and newer phones that have Google Fi active on eSIM and have any non-Fi SIMs disabled. When Google Fi first […]",
+      "tags": [
+        "資料中心",
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a574ccec8ce4a704f91a",
+    "article": {
+      "title": "Spy probe highlights Nvidia's heavy reliance on CEO",
+      "url": "https://www.digitimes.com/news/a20261110VL217/nvidia-jensen-huang-management-probe-ceo.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-10T09:35:00+00:00",
+      "short_snippet": "Nvidia's management structure has become a topic of discussion after CEO Jensen Huang became embroiled in an espionage case following his affair with an alleged Chinese spy. With power within the company concentrated in Huang, Nvidia's lack of an obvious successor and Huang's influence on the board have raised questions about the company's future beyond its current leader.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-17b4d0c382eeb74561ed",
+    "article": {
+      "title": "UK space firms eye Taiwan's chip and hardware ecosystem, global satellite production scales up",
+      "url": "https://www.digitimes.com/news/a20261110PD253/taiwan-hardware-uk-production-manufacturing.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-10T08:59:00+00:00",
+      "short_snippet": "As the global satellite industry shifts toward standardization and high-volume production, demand is accelerating for satellite subsystems, communications hardware, and onboard computing systems. Leveraging its strengths in advanced semiconductor fabrication, electronic hardware, and high-precision manufacturing, Taiwan has emerged as an indispensable supply-chain partner for international space c",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-bc073a53907e1ff42460",
+    "article": {
+      "title": "Qisda ramps up AI investment, sees data-center slowdown as short-term",
+      "url": "https://www.digitimes.com/news/a20261110PD237/qisda-chairman-investment-development-taiwan.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-10T08:55:00+00:00",
+      "short_snippet": "Qisda is increasing its investment in AI, with chairman Peter Chen saying a short-term slowdown in data-center construction would not derail the long-term AI trend and could ease component shortages across the supply chain. Qisda expects fourth-quarter revenue to remain broadly in line with that of the third quarter while accelerating its AI initiatives.",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0659310da647bcd23740",
+    "article": {
+      "title": "Apple files China registration for Apple Intelligence on iPad, Mac",
+      "url": "https://www.digitimes.com/news/a20261110PD251/apple-genai-ipad-apple-intelligence-language.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-10T08:50:00+00:00",
+      "short_snippet": "Apple's generative AI (GenAI) service, Apple Intelligence, has completed regulatory filings for tablets and laptops in China after securing approval to launch on smartphones, advancing the company's AI strategy in the Chinese market.",
+      "tags": [
+        "AI",
+        "Big Tech",
+        "監管",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-163740b40e29d6d5430b",
+    "article": {
+      "title": "SoftBank Group, Grab, PETROS commit US$1.85 billion to Malaysian AI infrastructure",
+      "url": "https://www.digitimes.com/news/a20261110PR202/grab-infrastructure-asia-development-2030.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-10T08:35:16+00:00",
+      "short_snippet": "SoftBank Group, Grab, and Petroleum Sarawak Berhad (PETROS) have entered into joint development agreements to deploy US$1.85 billion in initial seed capital for large-scale artificial intelligence infrastructure across Malaysia.",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d61df19657b2304f7786",
+    "article": {
+      "title": "Anthropic's Fable 5.2 and Mythos 5.2 advance agentic AI",
+      "url": "https://www.digitimes.com/news/a20261110VL214/claude-anthropic-launch-passive.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-10T08:30:31+00:00",
+      "short_snippet": "The launch of Claude Fable 5.2 and Claude Mythos 5.2 marks a decisive shift in artificial intelligence, transitioning models from passive task completion to true autonomous collaboration. Built on a shared neural foundation, the twin models divide responsibilities to balance sheer technical capability with safety. Fable 5.2 functions as the safeguarded, general-purpose workhorse for enterprise app",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-274936e2577626530d15",
+    "article": {
+      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+      "url": "https://news.ycombinator.com/item?id=50443812",
+      "source": "Hacker News",
+      "published_at": "2026-11-10T18:01:15+00:00",
+      "short_snippet": "Browsers natively handle a lot of what used to take 50 lines of JS (or a dependency): `CSS.highlights` for text range highlighting without s everywhere, ` ` and showModal() give you backdrops and ideal focus management, `field-sizing` to auto-grow textareas as the user types.. (Something yesterday's ftrain post touched on [0]) Models know about some of these by name, but consistently won't default",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-edd3a22b168486624cf2",
+    "article": {
+      "title": "AMD's Zen 6 Family: Feeding the Beast",
+      "url": "https://news.ycombinator.com/item?id=50443090",
+      "source": "Hacker News",
+      "published_at": "2026-11-10T17:02:32+00:00",
+      "short_snippet": "Article URL: https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast Comments URL: https://news.ycombinator.com/item?id=50443090 Points: 107 # Comments: 34",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b4f44e55b282bd4099e0",
+    "article": {
+      "title": "What's new in the .NET 11 runtime",
+      "url": "https://news.ycombinator.com/item?id=50439284",
+      "source": "Hacker News",
+      "published_at": "2026-11-10T12:20:07+00:00",
+      "short_snippet": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/ Comments URL: https://news.ycombinator.com/item?id=50439284 Points: 181 # Comments: 130",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3f4a656f0e61be16a98f",
+    "article": {
+      "title": "AlphaProof Code",
+      "url": "https://news.ycombinator.com/item?id=50439193",
+      "source": "Hacker News",
+      "published_at": "2026-11-10T12:11:12+00:00",
+      "short_snippet": "Article URL: https://deepmind.google/blog/introducing-alphaproof-code/ Comments URL: https://news.ycombinator.com/item?id=50439193 Points: 513 # Comments: 164",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-69c48241fbd2b51b97ee",
+    "article": {
+      "title": "Nvidia and Jensen Huang sued by shareholders over affair with alleged Chinese spy",
+      "url": "https://www.reddit.com/r/technology/comments/1xsjbxl/nvidia_and_jensen_huang_sued_by_shareholders_over/",
+      "source": "Reddit",
+      "published_at": "2026-11-10T10:17:18+00:00",
+      "short_snippet": "submitted by /u/Puzzleheaded_irl [link] [comments]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-886ae496db68943eadd1",
+    "article": {
+      "title": "There Are Likely More Spies at AI Companies, Says Security Executive Lisa Thiergart",
+      "url": "https://www.reddit.com/r/technology/comments/1xsuc18/there_are_likely_more_spies_at_ai_companies_says/",
+      "source": "Reddit",
+      "published_at": "2026-11-10T18:18:37+00:00",
+      "short_snippet": "submitted by /u/Malor777 [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-23b853c4127c7dc4abb9",
+    "article": {
+      "title": "Nvidia stock drops 3%, extending decline on report alleged Chinese spy linked to Nvidia CEO aided $7.5 billion in China chip shipments",
+      "url": "https://www.reddit.com/r/technology/comments/1xsqesa/nvidia_stock_drops_3_extending_decline_on_report/",
+      "source": "Reddit",
+      "published_at": "2026-11-10T15:52:19+00:00",
+      "short_snippet": "submitted by /u/usefsaeed [link] [comments]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c8d210d31fc33e9f5cce",
+    "article": {
+      "title": "Nvidia CEO's affair with alleged spy aided $7.5 billion in China chip shipments, Information reports",
+      "url": "https://www.reddit.com/r/technology/comments/1xskyx9/nvidia_ceos_affair_with_alleged_spy_aided_75/",
+      "source": "Reddit",
+      "published_at": "2026-11-10T11:54:14+00:00",
+      "short_snippet": "submitted by /u/egalitarianphantom [link] [comments]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e02dee51264c9f3c97f7",
+    "article": {
+      "title": "‘I hate the way they are taking advantage of Texas’: Incoming Texas Governor warns AI firms that the data center free-for-all is over",
+      "url": "https://www.reddit.com/r/technology/comments/1xshrpn/i_hate_the_way_they_are_taking_advantage_of_texas/",
+      "source": "Reddit",
+      "published_at": "2026-11-10T08:36:34+00:00",
+      "short_snippet": "submitted by /u/DeepSignature4329 [link] [comments]",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-9aa5336e96fc4cffbcc1",
+    "article": {
+      "title": "Before news broke of his affair with a suspected Chinese spy, Nvidia’s Huang told Fortune his company “could be of great service” to China",
+      "url": "https://www.reddit.com/r/technology/comments/1xsoy3z/before_news_broke_of_his_affair_with_a_suspected/",
+      "source": "Reddit",
+      "published_at": "2026-11-10T14:55:38+00:00",
+      "short_snippet": "submitted by /u/Just-Grocery-2229 [link] [comments]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-edb2641d0f9553a65b6b",
+    "article": {
+      "title": "The EU wants to ban manipulative app designs. Have tech companies gone too far?",
+      "url": "https://www.reddit.com/r/technology/comments/1xssv19/the_eu_wants_to_ban_manipulative_app_designs_have/",
+      "source": "Reddit",
+      "published_at": "2026-11-10T17:23:40+00:00",
+      "short_snippet": "submitted by /u/rheme18 [link] [comments]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ec22738f7fd1ac9ba757",
+    "article": {
+      "title": "Nvidia and Jensen Huang face class-action lawsuit after affair with alleged Chinese spy wipes $190 billion off company",
+      "url": "https://www.reddit.com/r/technology/comments/1xslxqp/nvidia_and_jensen_huang_face_classaction_lawsuit/",
+      "source": "Reddit",
+      "published_at": "2026-11-10T12:43:06+00:00",
+      "short_snippet": "submitted by /u/AdSpecialist6598 [link] [comments]",
+      "tags": [
+        "半導體",
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-fa5713eadb43b727a319",
+    "article": {
+      "title": "JUST IN: Microsoft officially overtakes NVIDIA to become the world's second most valuable company by market cap.",
+      "url": "https://www.reddit.com/r/technology/comments/1xssii8/just_in_microsoft_officially_overtakes_nvidia_to/",
+      "source": "Reddit",
+      "published_at": "2026-11-10T17:10:35+00:00",
+      "short_snippet": "submitted by /u/HLumin [link] [comments]",
+      "tags": [
+        "半導體",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-776d16c7ec4b0b4430d9",
+    "article": {
+      "title": "Calif. hospital system loses nearly $3M in elaborate AI fraud scheme",
+      "url": "https://www.reddit.com/r/technology/comments/1xsta8l/calif_hospital_system_loses_nearly_3m_in/",
+      "source": "Reddit",
+      "published_at": "2026-11-10T17:39:53+00:00",
+      "short_snippet": "submitted by /u/Malor777 [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-780727dcdc8d63778957",
+    "article": {
+      "title": "Educational game dev program cancelled because students were submitting games made entirely with AI",
+      "url": "https://www.reddit.com/r/technology/comments/1xsw5si/educational_game_dev_program_cancelled_because/",
+      "source": "Reddit",
+      "published_at": "2026-11-10T19:27:26+00:00",
+      "short_snippet": "submitted by /u/Turbostrider27 [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-04d50b0f5b916d4f1a20",
+    "article": {
+      "title": "Microsoft patent describes paying you to train AI on your idle GPU",
+      "url": "https://www.reddit.com/r/technology/comments/1xsmpah/microsoft_patent_describes_paying_you_to_train_ai/",
+      "source": "Reddit",
+      "published_at": "2026-11-10T13:19:30+00:00",
+      "short_snippet": "submitted by /u/Miserable_Phase_2519 [link] [comments]",
+      "tags": [
+        "AI",
+        "半導體",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5f5ebdabff12a2484941",
+    "article": {
+      "title": "Anthropic sets modest $1 trillion IPO valuation target in test of Wall Street's AI fervor",
+      "url": "https://www.reddit.com/r/technology/comments/1xsle8v/anthropic_sets_modest_1_trillion_ipo_valuation/",
+      "source": "Reddit",
+      "published_at": "2026-11-10T12:15:45+00:00",
+      "short_snippet": "submitted by /u/talkingatoms [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a8c416e2c7748124802b",
+    "article": {
+      "title": "Agent Substrate: Advancing Kubernetes for Agents at Scale",
+      "url": "https://developer.nvidia.com/blog/agent-substrate-advancing-kubernetes-for-agents-at-scale/",
+      "source": "官方：NVIDIA Developer",
+      "published_at": "2026-11-10T15:00:00+00:00",
+      "short_snippet": "AI agents spend most of their time idle, waiting on a human prompt, a tool result or a model response. Kubernetes wasn’t built for that. Running one Pod per...",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-25d05ca668539a664912",
+    "article": {
+      "title": "Start and Restore GPU Workloads in Seconds with NVIDIA Snapshot",
+      "url": "https://developer.nvidia.com/blog/start-and-restore-gpu-workloads-in-seconds-with-nvidia-snapshot/",
+      "source": "官方：NVIDIA Developer",
+      "published_at": "2026-11-10T15:00:00+00:00",
+      "short_snippet": "NVIDIA Snapshot, a new open-source component of the NVIDIA DSX AI Factory Platform, makes initialized GPU workloads reusable across inference...",
+      "tags": [
+        "AI",
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5cd7ff8934485154fbfc",
+    "article": {
+      "title": "Manage Kubernetes Clusters for GPU Infrastructure with NVIDIA Kubernetes Engine",
+      "url": "https://developer.nvidia.com/blog/manage-kubernetes-clusters-for-gpu-infrastructure-with-nvidia-kubernetes-engine/",
+      "source": "官方：NVIDIA Developer",
+      "published_at": "2026-11-10T15:00:00+00:00",
+      "short_snippet": "NVIDIA is announcing two open source projects for building and operating managed Kubernetes services on GPU infrastructure—NVIDIA Kubernetes Engine (NVKE) and...",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-cb93d68b445c05b0e3dc",
+    "article": {
+      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+      "source": "官方：Hugging Face",
+      "published_at": "2026-11-10T00:00:00+00:00",
+      "short_snippet": "",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-24aefb850aa55b01f2bf",
+    "article": {
+      "title": "AMD EPYC 9006 Results Are Here and AMD Delivers a Knockout Part Deux",
+      "url": "https://www.servethehome.com/amd-epyc-9006-results-are-here-and-amd-delivers-a-knockout-part-deux/",
+      "source": "ServeTheHome",
+      "published_at": "2026-11-10T17:00:08+00:00",
+      "short_snippet": "The day is finally here for the launch of AMD's EPYC 9006 \"Venice\" platform and the Zen 6 CPU architecture. AMD has been hard at work over the past two years to build a better server CPU, and thanks to its performance, Venice is primed to deliver another knockout blow for AMD The post AMD EPYC 9006 Results Are Here and AMD Delivers a Knockout Part Deux appeared first on ServeTheHome .",
+      "tags": [
+        "半導體",
+        "資料中心",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-4667628eebc54ce9d430",
+    "article": {
+      "title": "台積電賺大錢，決議第三季股利調升到 9 元，另認購 Anthropic 與 OpenAI 股份",
+      "url": "https://finance.technews.tw/2026/11/10/tsmcs-third-quarter-cash-dividend-reached-nt9/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-10T12:15:15+00:00",
+      "short_snippet": "台積電召開董事會，會中通過多項重大決議，其中最受市場矚目的焦點為核准配發2026年第三季每股現金股利達9元，展 […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e76501ddbc3b09718efc",
+    "article": {
+      "title": "太陽能電子紙資訊看板串聯社區，元太出手投資 MIT 創新企業",
+      "url": "https://finance.technews.tw/2026/11/10/e-ink-announces-strategic-investment-in-soofa-to-advance-sustainable-community-signage/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-10T09:24:19+00:00",
+      "short_snippet": "電子紙大廠 E Ink 元太科技宣布，投資美國 Soofa 公司並建立策略合作夥伴關係，未公開具體投資數字。 […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ba8fa1e9327fab7a7725",
+    "article": {
+      "title": "強攻 AI 短影音商機！綠界科技今年前三季賺 1.73 元、上半年配息 0.8 元",
+      "url": "https://finance.technews.tw/2026/11/10/ai-short-videos/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-10T09:23:01+00:00",
+      "short_snippet": "綠界科技今日公告第三季合併營收 4.82 億元，年增 8.08%；累計前三季合併營收 14.17 億元，年增 […]",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-2442f2b438b2dab64130",
+    "article": {
+      "title": "高啟全：台積電不會跨入 DRAM 製造，中國 DRAM 擴廠驚人 2 年時間產能開出",
+      "url": "https://finance.technews.tw/2026/11/10/tsmc-will-not-enter-dram-manufacturing/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-10T09:15:14+00:00",
+      "short_snippet": "半導體記憶體產業迎來新一輪技術與地緣角力，兆捷科技董事長高啟全表示，外界傳言台積電擬跨足記憶體製造或開發 3D […]",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c05fa1b61e030cc7ed3f",
+    "article": {
+      "title": "強茂 10 月營收成長年增逾三成，SiC MOSFET 搶攻日本車用市場",
+      "url": "https://technews.tw/2026/11/10/panjit-october-revenue-surges-30-yoy-sic-mosfets-target-japan-automotive-market/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-10T09:11:10+00:00",
+      "short_snippet": "功率半導體廠強茂受惠客戶拉貨需求回升，10 月營收達 13.68 億元，年增 33.23%，累計前 10 月營 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-36be4380d24e2b20420f",
+    "article": {
+      "title": "美國資料中心虧損拖累，軟銀集團第二季淨損 70 億美元",
+      "url": "https://finance.technews.tw/2026/11/10/softbank-group-posts-7-billion-net-loss-in-q2/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-10T09:00:50+00:00",
+      "short_snippet": "科技投資公司軟銀集團（SoftBank Group）10 日表示，受到支援美國資料中心興建計畫而支付的高額預付 […]",
+      "tags": [
+        "資料中心",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3ca4d194e8c7fb38175a",
+    "article": {
+      "title": "中國使用輝達 AI 晶片，走私與租用東南亞資料中心算力成兩大途徑",
+      "url": "https://technews.tw/2026/11/10/china-nvidia-ai-chip-access-smuggling-renting-southeast-asia-data-center-compute-power-methods/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-10T08:50:22+00:00",
+      "short_snippet": "輝達執行長黃仁勳近日承認有婚外情，據報對象是一家新加坡公司的中國籍高層。美方懷疑，該公司將輝達人工智慧晶片走私 […]",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0e313504889b70a3735f",
+    "article": {
+      "title": "黃仁勳婚外情掀國安疑慮，中國學者：美對中 AI 晶片出口恐收緊",
+      "url": "https://technews.tw/2026/11/10/jensen-huang-extramarital-affair-national-security-concerns-china-us-ai-chip-exports-tighten/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-10T08:40:19+00:00",
+      "short_snippet": "輝達（Nvidia）執行長黃仁勳坦承與一名疑似中國女間諜有婚外情，引發美國國安疑慮。港媒星島日報引述中國學者分 […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-68984be010aad8f4c419",
+    "article": {
+      "title": "韓國用 AI 系統偵測數位性犯罪，24 小時監測網路內容",
+      "url": "https://infosecu.technews.tw/2026/11/10/south-korea-ai-detects-digital-sex-crimes-24-7-monitoring/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-10T08:40:04+00:00",
+      "short_snippet": "在 AI 發達時代，數位性犯罪也日漸增加，為即時支援被害者、刪除受害內容，韓國設立被害者支援中心，並導入 AI […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a718923e36521bbdb2e2",
+    "article": {
+      "title": "AI 僚機開始打團體戰，美軍兩架 FQ-44A 首度完成協同空戰測試",
+      "url": "https://technews.tw/2026/11/10/usaf-successfully-tested-2-yfq-44a-for-combat-flying-tests-in-team/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-10T08:39:11+00:00",
+      "short_snippet": "美國空軍協同作戰飛機（Collaborative Combat Aircraft，CCA）計畫再度取得進展，兩 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-66ecf4e9f9c74f524ae7",
+    "article": {
+      "title": "傳月之暗面今夏租用 32 台伺服器，搭載輝達 B300 GPU",
+      "url": "https://technews.tw/2026/11/10/rumors-suggest-moonshot-ai-leases-nvidia-b300-gpu-servers/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-10T08:30:56+00:00",
+      "short_snippet": "綜合港媒引用彭博社報導，據一份提交給北京監管機構的文件顯示，中國人工智慧公司月之暗面（Moonshot AI） […]",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心",
+        "監管"
+      ]
+    }
   }
 ]
