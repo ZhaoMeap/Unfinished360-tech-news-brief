@@ -57681,5 +57681,661 @@
         "AI"
       ]
     }
+  },
+  {
+    "event_id": "evt-488bd33946ebaebc31d5",
+    "article": {
+      "title": "Donald Trump really wants Tim Cook to run Nvidia",
+      "url": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang",
+      "source": "The Verge",
+      "published_at": "2026-11-13T00:46:07+00:00",
+      "short_snippet": "Jensen Huang resigned this morning as Nvidia's CEO following reports of affairs, including one with an alleged Chinese spy. Right now, the company is being led by its CFO on an interim basis. But President Donald Trump is already throwing around one person he thinks should take over the chipmaking giant: former Apple CEO Tim […]",
+      "tags": [
+        "半導體",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c02db5f680ca7eb711ed",
+    "article": {
+      "title": "Whoop launched a social network where every user has a ‘verified heartbeat’",
+      "url": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network",
+      "source": "The Verge",
+      "published_at": "2026-11-12T23:43:22+00:00",
+      "short_snippet": "Starting Thursday, Whoop members can share their data from its wearables on the app's new Whoop Humans social network. Users can make their metrics, activities, and achievements visible to other Whoop wearers, post Story-like \"Moments\" with photos and captions, and add comments and reactions on other members' posts. Whoop claims its platform is \"entirely human,\" […]",
+      "tags": [
+        "資料中心",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c82fdff595b80e45afe6",
+    "article": {
+      "title": "Humble Bundle redesign removes two-factor verification from settings",
+      "url": "https://www.theverge.com/games/1032659/humble-bundle-redesign-two-factor-verification-security-settings",
+      "source": "The Verge",
+      "published_at": "2026-11-12T23:30:52+00:00",
+      "short_snippet": "The Humble Bundle storefront for buying games and other software recently got a new look, but on the settings page, it no longer offers a way to add or update two-factor verification methods, as reported by Kotaku. PC Gamer also points out that there are Humble Bundle support pages discussing two-factor verification, and the writer […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6d62ab2183b17a0a15d6",
+    "article": {
+      "title": "Xbox owners are getting more customizations for backgrounds and the Guide menu",
+      "url": "https://www.theverge.com/news/1032396/xbox-dashboard-guide-menu-right-side-background-shuffle-feature",
+      "source": "The Verge",
+      "published_at": "2026-11-12T23:00:00+00:00",
+      "short_snippet": "Microsoft is starting to test new customization options for Xbox consoles today. Xbox Insiders will be able to start testing new rotating backgrounds, new library options for digital games, and the ability to move the Xbox Guide menu to the right-hand side. \"Xbox Insiders can now save favorite dynamic backgrounds and shuffle through them automatically,\" […]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-963b6a1992f174a99a3c",
+    "article": {
+      "title": "Google’s new Gemini model is better at understanding complicated questions",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+      "source": "The Verge",
+      "published_at": "2026-11-12T21:55:32+00:00",
+      "short_snippet": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It's available starting today in search, the Gemini app, all tiers of Google […]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b4977fadc4f8b1d8a195",
+    "article": {
+      "title": "‘It’s a mistake’: reactions from tech leaders on Jensen Huang’s resignation",
+      "url": "https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions",
+      "source": "The Verge",
+      "published_at": "2026-11-12T21:45:00+00:00",
+      "short_snippet": "Nvidia announced this morning that Jensen Huang has resigned as CEO following reports of two affairs, including one with an alleged Chinese spy and one with a direct report. The situation surrounding Huang has unfolded quickly, with The New York Times only reporting on Friday that Huang and the suspected spy were \"close\" before other […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-591ee2b1a0cf0e01b260",
+    "article": {
+      "title": "The Oura Ring 4 is almost as good as the newer model, but $150 cheaper",
+      "url": "https://www.theverge.com/gadgets/1032311/oura-ring-4-smart-ring-deal-sale",
+      "source": "The Verge",
+      "published_at": "2026-11-12T21:28:53+00:00",
+      "short_snippet": "The previous-generation Oura Ring 4 is on sale for as low as $249 at Amazon, Best Buy, and Target, $100 off the retail price, and the first big discount on the device since July. The price varies a bit by size and color, with most silver and black models in stock at the lowest price […]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-9fe8d9c572b311658133",
+    "article": {
+      "title": "Here are the 25 original Xbox games you can now play on PC",
+      "url": "https://www.theverge.com/games/1032321/microsoft-xbox-original-games-pc-backwards-compatibility",
+      "source": "The Verge",
+      "published_at": "2026-11-12T21:00:00+00:00",
+      "short_snippet": "For the 25th anniversary of Xbox, Microsoft is beginning to make good on its paid \"next-gen game preservation\" promise. Starting today, you can play 25 different original Xbox games on your Windows PC, as long as you have (or are willing to pay) for digital copies. In July, Microsoft originally launched the idea with just […]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c45c935a4df2485eb621",
+    "article": {
+      "title": "Nvidia's roadmap is set through 2028, but its tempo, talent bench were built around Huang",
+      "url": "https://www.digitimes.com/news/a20261113VL208/nvidia-ceo-roadmap-2028-jensen-huang.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-13T01:56:00+00:00",
+      "short_snippet": "Nvidia's product pipeline is locked in for the next two years, analysts say, but Jensen Huang's resignation calls into question the annual upgrade cadence he personally drove and exposes how thin the company's formal leadership bench is beneath a CEO who ran it with dozens of direct reports and no second-in-command.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-acc3ce6e158e993d23f6",
+    "article": {
+      "title": "Compal splits server R&D and sales into subsidiary",
+      "url": "https://www.digitimes.com/news/a20261113PD202/compal-sales-subsidiary-business-cloud.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-13T01:54:59+00:00",
+      "short_snippet": "Compal Electronics will transfer the research and development and sales operations of its server-related Infrastructure Solutions Business Group (ISBG) to its wholly owned subsidiary Fusionite Corporation, while retaining manufacturing, under a board-approved spin-off plan.",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-56fe3efa3e4f57464524",
+    "article": {
+      "title": "AMD, Broadcom, custom chips eye an opening as Nvidia loses its founder CEO",
+      "url": "https://www.digitimes.com/news/a20261113VL207/nvidia-amd-broadcom-jensen-huang-ceo.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-13T01:47:33+00:00",
+      "short_snippet": "Jensen Huang's departure from Nvidia has given AMD, Broadcom, and in-house chip programs at the largest cloud providers their clearest opening in years, analysts say. They expect existing orders to hold, with any meaningful shift in market share more likely from 2027 onward.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-575dab10e174f9ad505e",
+    "article": {
+      "title": "Huang's exit leaves Nvidia's role as the AI industry's financier without its dealmaker",
+      "url": "https://www.digitimes.com/news/a20261113VL206/nvidia-jensen-huang-ceo-chips-funding.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-13T01:26:14+00:00",
+      "short_snippet": "Jensen Huang's resignation removes the executive who turned Nvidia's balance sheet into a funding source for the AI buildout, raising questions about whether the company will keep writing the guarantees, investments, and capacity deals that helped its customers buy its chips, even as financial experts say the commitments already made pose limited systemic risk.",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-00669779d5a1e78daeab",
+    "article": {
+      "title": "Nvidia's interim CEO Colette Kress signals stability first as board weighs future after Huang",
+      "url": "https://www.digitimes.com/news/a20261113VL205/nvidia-ceo-jensen-huang-technology-president.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-13T01:13:58+00:00",
+      "short_snippet": "By handing the top job to its chief financial officer rather than an engineer, Nvidia's board has signaled that its priority after Jensen Huang's abrupt exit is to steady investors, customers, and operations, while the bigger strategic call on who will set the company's technology direction has been deferred to a search that analysts expect to take months.",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-22211f08f97635907698",
+    "article": {
+      "title": "Analysis: Nvidia's leadership change leaves Taiwan suppliers confident in near-term demand",
+      "url": "https://www.digitimes.com/news/a20261113PD213/nvidia-taiwan-jensen-huang-demand-rubin.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-13T00:30:26+00:00",
+      "short_snippet": "Jensen Huang's resignation is expected to have short-term effects on Taiwan's server suppliers, which are developing Nvidia's Vera Rubin and Feynman platforms. However, suppliers say the leadership change creates uncertainty over Nvidia's longer-term direction, including products after Feynman, and whether a successor will maintain ties with Taiwan's local supply chain.",
+      "tags": [
+        "半導體",
+        "資料中心",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-9a90b2d3a7ba83870c74",
+    "article": {
+      "title": "Inside Y Combinator's Taipei debut: lessons from the accelerator's first Startup School in Asia",
+      "url": "https://www.digitimes.com/news/a20261112VL215/taipei-asia-startup-software.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-12T21:46:29+00:00",
+      "short_snippet": "\"If you want a future, you have to build it yourself.\"",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-73bf9a14641767bc4e55",
+    "article": {
+      "title": "Qualcomm begins India job cuts as handset chip sales slide",
+      "url": "https://www.digitimes.com/news/a20261112VL200/qualcomm-revenue-workforce-salary-hyderabad.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-12T21:45:44+00:00",
+      "short_snippet": "Qualcomm has started laying off employees in India, its largest engineering base outside the US, as the chipmaker carries out a performance-focused global workforce reduction amid a fall in smartphone chip sales.",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-fc7547af35a580d63f4a",
+    "article": {
+      "title": "India unveils indigenous AI models under IndiaAI Mission",
+      "url": "https://www.digitimes.com/news/a20261112PR201/government-language.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-12T21:45:18+00:00",
+      "short_snippet": "India's release of the EKA-1, Dhīr 2B, and Dhīr 5B foundation models highlights a public-backed effort to develop multilingual AI for domestic and international use. The models range from those with large-scale reasoning and coding capabilities to lightweight, offline-capable assistants, with implications for data sovereignty, public services, enterprise deployment, and access in low-connectivity ",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e918dffa12599ce4423c",
+    "article": {
+      "title": "Pegatron 3Q26 operating profit jumps 150% on strong server, smartphone shipments",
+      "url": "https://www.digitimes.com/news/a20261112PD241/pegatron-revenue-operating-profit-shipments-electronics.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-12T21:45:00+00:00",
+      "short_snippet": "Pegatron's third-quarter operating profit jumped 149.7% from a year earlier to NT$8.04 billion (approx. US$244 million), as stronger server and smartphone shipments lifted revenue by more than 50%, the Taiwanese contract electronics manufacturer said on November 12.",
+      "tags": [
+        "資料中心",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-62ca91a240965719ee3a",
+    "article": {
+      "title": "Taiwan’s drone makers look beyond hardware to AI",
+      "url": "https://www.digitimes.com/news/a20261112PD233/digitimes-economy-development-manufacturing-commercial.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-12T21:44:29+00:00",
+      "short_snippet": "DIGITIMES hosted a Tech Forum on developments in unmanned vehicles and Taoyuan's low-altitude economy, with Taoyuan Mayor Simon Chang, Qisda Chairman Peter Chen and Auden Techno Chairman Yu-Pin Chang among those attending. DIGITIMES Intelligence said Taiwanese companies are working to become a \"reliable and trusted supply chain,\" while HY Tech CEO Yu-Tuan Chou expects the next phase of unmanned ve",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-9fda1aa92b44ea8bf0e1",
+    "article": {
+      "title": "Analysis: Relationships built on Jensen Huang's personal ties now face test",
+      "url": "https://www.digitimes.com/news/a20261113PD201/nvidia-jensen-huang-ceo-supply-chain-technology.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-12T21:43:53+00:00",
+      "short_snippet": "The controversy surrounding Nvidia CEO Jensen Huang has grown from a personal dispute into a broader question about corporate governance, succession planning, and the shifting power structure of the global AI supply chain. With Huang's formal resignation, the AI industry faces a new period of uncertainty, and Taiwan's supply chain must reassess its partnerships, order allocations, and industry int",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-1771a05d387d99048a02",
+    "article": {
+      "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
+      "url": "https://www.reddit.com/r/technology/comments/1xusd3p/massive_microsoft_365_outage_disrupts_outlook/",
+      "source": "Reddit",
+      "published_at": "2026-11-12T23:37:54+00:00",
+      "short_snippet": "submitted by /u/lurker_bee [link] [comments]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-849cade3857c6aaf48a5",
+    "article": {
+      "title": "Alice Huang tied to Nvidia’s biggest Chinese competitor, Huawei",
+      "url": "https://www.reddit.com/r/technology/comments/1xunkud/alice_huang_tied_to_nvidias_biggest_chinese/",
+      "source": "Reddit",
+      "published_at": "2026-11-12T20:21:02+00:00",
+      "short_snippet": "submitted by /u/Vegeta9001 [link] [comments]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a468ce9f1004d5be08f4",
+    "article": {
+      "title": "Nvidia live updates: Following Jensen Huang's resignation as CEO, allegations of a third affair emerge",
+      "url": "https://www.reddit.com/r/technology/comments/1xunrnf/nvidia_live_updates_following_jensen_huangs/",
+      "source": "Reddit",
+      "published_at": "2026-11-12T20:28:24+00:00",
+      "short_snippet": "submitted by /u/Vast-Big-7022 [link] [comments]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a399c55d3680fda0dfbc",
+    "article": {
+      "title": "NVIDIA H200 AI Chips Slipped Past US Bans Into Chinese Military University",
+      "url": "https://www.reddit.com/r/technology/comments/1xuqymo/nvidia_h200_ai_chips_slipped_past_us_bans_into/",
+      "source": "Reddit",
+      "published_at": "2026-11-12T22:36:42+00:00",
+      "short_snippet": "submitted by /u/Just-Grocery-2229 [link] [comments]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-136d61979b4efa9bef11",
+    "article": {
+      "title": "US Democratic senator wants assessment of whether Nvidia is 'too big to fail'",
+      "url": "https://www.reddit.com/r/technology/comments/1xurmrf/us_democratic_senator_wants_assessment_of_whether/",
+      "source": "Reddit",
+      "published_at": "2026-11-12T23:05:22+00:00",
+      "short_snippet": "submitted by /u/kiyomoris [link] [comments]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d57afc35870048c68481",
+    "article": {
+      "title": "Landmark Lawsuit Aims to Stop Big Tech’s Advanced, Unregulated, and ‘Insane’ AI Systems",
+      "url": "https://www.reddit.com/r/technology/comments/1xuquoq/landmark_lawsuit_aims_to_stop_big_techs_advanced/",
+      "source": "Reddit",
+      "published_at": "2026-11-12T22:31:57+00:00",
+      "short_snippet": "submitted by /u/SplashTarget [link] [comments]",
+      "tags": [
+        "AI",
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-58ab7437d915feac92c2",
+    "article": {
+      "title": "1/3 美國用戶曾辱罵 AI，Anthropic 祭新規保護 Claude 免受「言語霸凌」",
+      "url": "https://technews.tw/2026/11/13/anthropic-new-rules-ai-protection/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-13T02:00:48+00:00",
+      "short_snippet": "知名 AI 開發商 Anthropic 11 月 12 日正式啟用新版使用政策，特別針對旗下 AI 助理 Cl […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-aa630916399f5dfcbff0",
+    "article": {
+      "title": "黃仁勳事件台灣 AI 供應鏈非訂單消失，是規格升級放緩導致獲利增量縮水與遞延",
+      "url": "https://finance.technews.tw/2026/11/13/the-huang-renxun-incident-taiwans-ai-supply-chain-has-seen-the-disappearance-of-non-orders/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-13T02:00:35+00:00",
+      "short_snippet": "輝達（NVIDIA）執行長黃仁勳的離職風波引發市場高度關注，市場焦點專注在離任後對全球 AI 產業鏈的連鎖反應 […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5c42a6e2ce0cc958e9a5",
+    "article": {
+      "title": "台積電 ADR 收黑與輝達遭查利空夾擊，大盤緊盯散熱止穩與 MSCI 換股賣壓",
+      "url": "https://finance.technews.tw/2026/11/13/tsmc-adrs-fall-nvidia-investigation-market-watches-cooling-stabilization-msci-rebalancing-selling-pressure/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-13T02:00:16+00:00",
+      "short_snippet": "台股昨（12）日遭遇沉重賣壓洗禮，加權指數重挫 2.56%（大跌 1,165 點）收在 44,257 點，盤面 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0dc8f11ae8f71a636ffc",
+    "article": {
+      "title": "黃仁勳辭輝達執行長，科技界憂創新領導力流失",
+      "url": "https://technews.tw/2026/11/13/jensen-huang-nvidia-ceo-resignation-tech-fears-innovation-leadership-loss/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-13T01:55:26+00:00",
+      "short_snippet": "深陷婚外情風暴的黃仁勳辭去輝達總裁、執行長及董事。他 1993 年創建輝達，帶領公司挺過多次危機，從繪圖處理器 […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-7bfd06438551db3911d2",
+    "article": {
+      "title": "Google 推出全新 Gemini 4 Hydrogen：反應快 2.5 倍，稱霸全球 CP 值榜單",
+      "url": "https://technews.tw/2026/11/13/gemini-4-hydrogen/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-13T01:50:26+00:00",
+      "short_snippet": "Google 於 12 日正式對外發表全新 AI 模型「Gemini 4 Hydrogen」，這款被定位為應對 […]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0171d27e471601e780f5",
+    "article": {
+      "title": "黃仁勳去職，美國會續追輝達晶片流向、白宮是否知情",
+      "url": "https://technews.tw/2026/11/13/jensen-huang-steps-down-us-congress-continue-investigating-nvidia-chip-flow-white-house-awareness/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-13T01:45:00+00:00",
+      "short_snippet": "輝達創辦人黃仁勳去職後，多位美國國會議員持續要求輝達與黃仁勳交代輸出至新加坡的先進晶片流向，及可能事涉中國間諜 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-327283815a1e3332a848",
+    "article": {
+      "title": "華碩打造「代理人電腦」生態系，PC 變身全天候 AI 助理",
+      "url": "https://finance.technews.tw/2026/11/13/asus-agent-computer-ecosystem/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-13T01:43:26+00:00",
+      "short_snippet": "隨著 AI 應用逐漸從生成內容轉向自主執行任務，華碩也將 AI PC 布局延伸至代理式 AI（Agentic […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b60b63c68a21331d46de",
+    "article": {
+      "title": "黃仁勳如推銷員全球經營政商人脈，美媒：離任後輝達面臨考驗",
+      "url": "https://finance.technews.tw/2026/11/13/what-is-nvidia-without-jensen-huang/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-13T01:40:10+00:00",
+      "short_snippet": "輝達（NVIDIA）創辦人黃仁勳辭去執行長職務。彭博資深記者指出，黃仁勳過去憑藉「推銷員般的自信」，親自站上第 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-542ab615b0d46ac545ce",
+    "article": {
+      "title": "黃仁勳自輝達卸任代價曝光，1.08 億美元股票獎酬泡湯",
+      "url": "https://finance.technews.tw/2026/11/13/jensen-huang-forfeits-108-million-in-unvested-nvidia-equity/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-13T01:30:32+00:00",
+      "short_snippet": "彭博報導，黃仁勳在離開輝達公司（Nvidia）後，將失去約 1.08 億美元（約新台幣 35.57 億元）尚未 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f1981dfe459a7d531691",
+    "article": {
+      "title": "黃樂關聯企業投資 DeepSeek，承諾供應輝達晶片",
+      "url": "https://technews.tw/2026/11/13/alice-huangs-companies-invested-in-deepseek-promising-nvidia-chips/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-13T01:25:08+00:00",
+      "short_snippet": "科技媒體 The Information 引述 3 名直接知情人士報導，與黃樂（Alice Huang）有關聯 […]",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6ffb8af0c7ca193ee6e6",
+    "article": {
+      "title": "黃仁勳捲間諜風波，傳白宮討論撤換商務部長盧特尼克",
+      "url": "https://technews.tw/2026/11/13/white-house-weighs-commerce-secretary-lutnicks-ouster-amid-nvidia-export-concerns/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-13T01:20:24+00:00",
+      "short_snippet": "兩名知情人士今天表示，甫辭去輝達（Nvidia）執行長職務的黃仁勳捲入間諜醜聞後，白宮高層官員正在討論是否應撤 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-baeb64a197bad561818f",
+    "article": {
+      "title": "AI 時代的頂尖工程師特質？AWS 首席工程師點名：多疑與懶惰",
+      "url": "https://technews.tw/2026/11/13/ai-era-engineers-winning-qualities/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-13T01:15:18+00:00",
+      "short_snippet": "AWS 資深首席工程師 David Yanacek 近日受訪時指出，在 AI 時代，最頂尖的工程師除了需要具備 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-2f2abdb550edcf830993",
+    "article": {
+      "title": "Anthropic IPO 搶翻 傳超額認購 6 倍、舊股東優先",
+      "url": "https://finance.technews.tw/2026/11/13/anthropics-ipo-is-about-six-times-oversubscribed/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-13T01:05:56+00:00",
+      "short_snippet": "AI 新創 Anthropic 首次公開發行（IPO）需求持續升溫。最新消息傳出，Anthropic 的 IP […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-73fad101b1511fa0bb92",
+    "article": {
+      "title": "港媒：黃樂香港公司從印尼進口輝達晶片",
+      "url": "https://technews.tw/2026/11/13/vfo-international-indonesia-nvidia/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-13T00:50:28+00:00",
+      "short_snippet": "港媒 12 日報導，香港公司 VFO International 從新加坡資料中心 MegaSpeed 的印尼 […]",
+      "tags": [
+        "半導體",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-43a1fc727e5aa23fbeba",
+    "article": {
+      "title": "企業 AI 回報卡在最後一哩路，祭年薪百萬美元徵召「前線部署工程師」救援",
+      "url": "https://technews.tw/2026/11/13/why-enterprises-need-ai-engineers-now-to-unlock-the-last-mile-of-roi/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-13T00:45:16+00:00",
+      "short_snippet": "企業砸重金導入 AI 卻普遍難見回報，能把模型真正落地的「前線部署工程師」（Forward Deployed […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-1ac52412329dcd8c6af2",
+    "article": {
+      "title": "年齡驗證擋不住風險，專家籲該從平台端設計以保護兒少",
+      "url": "https://infosecu.technews.tw/2026/11/13/why-age-verification-alone-wont-make-social-media-safer-for-kids/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-13T00:30:04+00:00",
+      "short_snippet": "政府與監管機構加速推動社群媒體年齡限制，外界對「先驗證、再使用」是否真能保護兒童，出現愈來愈多質疑。最新分析指 […]",
+      "tags": [
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-42dee1732738b1902602",
+    "article": {
+      "title": "黃仁勳辭輝達執行長，川普喊話：庫克應接任",
+      "url": "https://technews.tw/2026/11/13/jensen-huang-resigns-nvidia-ceo-trump-calls-tim-cook-take-over/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-13T00:25:39+00:00",
+      "short_snippet": "AI 晶片巨擘輝達執行長黃仁勳繼日前坦言與中國女商人黃樂過從甚密後，再傳出與公司下屬有染，黃仁勳 12 日辭執 […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f3bdccfa925b39d4a715",
+    "article": {
+      "title": "黃仁勳辭輝達執行長，法人：牽動 2028 年後 AI 版圖",
+      "url": "https://technews.tw/2026/11/13/jensen-huang-resigns-nvidia-ceo-analysts-impact-ai-landscape-post-2028/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-13T00:15:39+00:00",
+      "short_snippet": "人工智慧（AI）晶片大廠輝達（NVIDIA）執行長黃仁勳捲入婚外情與國安風波後，12 日辭去執行長，由財務長克 […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-fcf240b58cedb54cf319",
+    "article": {
+      "title": "AI 幫你理財安全嗎？一文看懂 Claude 與 ChatGPT 的隱私防線差異",
+      "url": "https://finance.technews.tw/2026/11/13/ai-giants-personal-finance-features-comparison/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-13T00:10:15+00:00",
+      "short_snippet": "Anthropic 與 OpenAI 近期相繼將 AI 助理延伸至個人財務管理領域，讓使用者能透過 Plaid […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-8e6855f08323ce4840ec",
+    "article": {
+      "title": "AI 訂單沒取消，誰替延期付錢？",
+      "url": "https://finance.technews.tw/2026/11/13/ai-data-center-firm-iren-delays-microsoft-ai-deliveries/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-13T00:00:40+00:00",
+      "short_snippet": "美國資料中心建置受電力與許可瓶頸影響，部分計畫延後。瀚亞投信 11 月 6 日指出，目前觀察主要是需求遞延，而 […]",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-503647729aede4956ef3",
+    "article": {
+      "title": "AI 衝擊行銷人才市場：初階職缺兩年腰斬，企業搶整合型高手",
+      "url": "https://technews.tw/2026/11/13/demand-digital-marketing-talent-ai-era/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-12T23:20:44+00:00",
+      "short_snippet": "人工智慧（AI）正以前所未有的速度改變行銷產業的人才結構，使市場需求出現明顯的分化。企業在加速導入 AI 工具 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-1124865ecb5f72b6c4ee",
+    "article": {
+      "title": "輝達臨時執行長致信員工穩定軍心，坦承艱難期但對未來充滿信心",
+      "url": "https://technews.tw/2026/11/13/nvidias-interim-ceo-sends-letter-to-employees-to-reassure-staff/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-12T18:40:27+00:00",
+      "short_snippet": "就在執行長黃仁勳（Jensen Huang）突然離職後，繪圖晶片龍頭輝達（Nvidia）新任臨時執行長克瑞斯（ […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-410465fa1518e4bddcee",
+    "article": {
+      "title": "黃仁勳去職後，已答應美國會將於下週出席閉門聽證會",
+      "url": "https://technews.tw/2026/11/13/jensen-huang-has-agreed-to-attend-a-closed-door-hearing-before-the-u-s-congress-next-week/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-12T17:10:09+00:00",
+      "short_snippet": "輝達（Nvidia）執行長黃仁勳在確認去職之後，根據外媒報導，已同意前往美國國會作證。美國聯邦眾議院外交委員會 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
   }
 ]
