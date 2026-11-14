@@ -60542,5 +60542,45 @@
         "半導體"
       ]
     }
+  },
+  {
+    "event_id": "evt-92f89a68535bfbee2007",
+    "article": {
+      "title": "Nvidia 接班人傳鎖定 Arm 執行長，昔日收購對象如今成救兵？",
+      "url": "https://finance.technews.tw/2026/11/14/nvidia-arm-rene-haas/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-14T07:21:00+00:00",
+      "short_snippet": "Nvidia 創辦人黃仁勳因私人關係風波辭去執行長職務後，董事會正積極尋找接班人選，如今傳出已接觸 Arm 執 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-46c18bff5c8cf2b6b60d",
+    "article": {
+      "title": "馬斯克加入聲援黃仁勳行列，表態簽署請願書盼重返 Nvidia",
+      "url": "https://finance.technews.tw/2026/11/14/elon-musk-jensen-huang/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-14T07:10:31+00:00",
+      "short_snippet": "Nvidia 創辦人黃仁勳因私人關係風波辭去執行長職務後，科技圈持續出現支持他回任的聲音，如今連特斯拉執行長馬 […]",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e69d564a5fdb3f39da38",
+    "article": {
+      "title": "AI 加速長壽研究，科學家從血液與基因中找出延緩老化的線索",
+      "url": "https://technews.tw/2026/11/14/ai-could-help-us-live-much-longer/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-14T07:00:51+00:00",
+      "short_snippet": "人工智慧正將長壽研究推向全新階段。隨著 AI 與生物學的結合日益深入，科學家不僅能更精準地追蹤人體老化過程，也 […]",
+      "tags": [
+        "AI"
+      ]
+    }
   }
 ]
