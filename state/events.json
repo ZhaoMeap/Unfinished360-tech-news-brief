@@ -60582,5 +60582,179 @@
         "AI"
       ]
     }
+  },
+  {
+    "event_id": "evt-052ed6bb2022659a864a",
+    "article": {
+      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+      "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+      "source": "The Verge",
+      "published_at": "2026-11-14T12:00:00+00:00",
+      "short_snippet": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in blue glow, as he made his entrance in a black leather jacket that […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-4f3b87a1f6ee12c302f2",
+    "article": {
+      "title": "Neousys Technology posts record quarter as defense, AGV/AMR demand accelerates",
+      "url": "https://www.digitimes.com/news/a20261112PD220/demand-pc-shipments-market-revenue.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-14T13:01:26+00:00",
+      "short_snippet": "Industrial PC maker Neousys Technology posted record operating performance in 3Q26, driven by project customer shipments and peak shipments to the North American market. The company expects growth from defense, edge AI, and applications involving automated guided vehicles (AGVs) and autonomous mobile robots (AMRs), while adding humanoid robots and healthcare development in 2027.",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e2e4658307057581af37",
+    "article": {
+      "title": "Gemtek returns to profitability on direct-supply expansion, eyes AI infrastructure and optical module growth in 2027",
+      "url": "https://www.digitimes.com/news/a20261112PD222/gemtek-networking-ic-equipment-business-growth-2027.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-14T13:01:15+00:00",
+      "short_snippet": "Taiwan-based networking equipment maker Gemtek Technology is gaining momentum in its business recovery following a challenging business-model transition, returning to operating profitability in the third quarter of 2026 as margins improved and direct-supply sales expanded. The company expects fourth-quarter performance to remain at a similar level, supported by resilient demand for networking prod",
+      "tags": [
+        "AI",
+        "資料中心",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b0d0b8a9dee43f33da3b",
+    "article": {
+      "title": "Etron plans strategic stake in Powerchip Innovation Investment",
+      "url": "https://www.digitimes.com/news/a20261112PD224/etron-ic-2026-revenue-demand.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-14T13:00:53+00:00",
+      "short_snippet": "Memory IC designer Etron Technology reported strong Q3 2026 results on robust memory demand and rising product prices, with revenue reaching NT$6.792 billion (US$206.6 million), up 38.6% quarter-over-quarter and 535% year-over-year. Net income attributable to the parent company came to NT$2.493 billion, or earnings per share (EPS) of NT$7.59, reversing a loss of NT$1.74 per share in the same perio",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-237adfa3bba4f804b251",
+    "article": {
+      "title": "Pegatron sees networking recovery in 2027 as consumer electronics growth eases after peak",
+      "url": "https://www.digitimes.com/news/a20261112PD249/pegatron-electronics-growth-2027-recovery.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-14T12:58:53+00:00",
+      "short_snippet": "Pegatron held an online earnings call on November 12, providing updates and an outlook for its product lines beyond servers. The company said revenue from all three major product lines of information products, consumer electronics, and communications recorded double-digit sequential growth in the third quarter of 2026, benefiting from seasonal demand. Communications products posted particularly st",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-db447fca8cd7bc9778a5",
+    "article": {
+      "title": "A reporter's perspective: The Jensen Huang I have known for more than 20 years",
+      "url": "https://www.digitimes.com/news/a20261114VL201/jensen-huang-nvidia-technology-digitimes-taiwan.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-14T10:17:16+00:00",
+      "short_snippet": "Editor’s note: Monica Chen is a senior DIGITIMES journalist who has covered Nvidia, Jensen Huang, and the company’s Taiwan supply chain for more than two decades. She has interviewed Huang many times and followed Nvidia through major changes in the technology industry.",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e1372959e88547339f2e",
+    "article": {
+      "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+      "url": "https://news.ycombinator.com/item?id=50497155",
+      "source": "Hacker News",
+      "published_at": "2026-11-14T14:09:25+00:00",
+      "short_snippet": "Article URL: https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/ Comments URL: https://news.ycombinator.com/item?id=50497155 Points: 6 # Comments: 0 https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-da9276f5f801320dc1b5",
+    "article": {
+      "title": "Italy fines Meta $887M over Android users' data access",
+      "url": "https://news.ycombinator.com/item?id=50497009",
+      "source": "Hacker News",
+      "published_at": "2026-11-14T13:48:06+00:00",
+      "short_snippet": "Article URL: https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/ Comments URL: https://news.ycombinator.com/item?id=50497009 Points: 6 # Comments: 0",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a451faf8dd361f144e29",
+    "article": {
+      "title": "Advancing science and engineering with Antigravity's /teamwork",
+      "url": "https://news.ycombinator.com/item?id=50496811",
+      "source": "Hacker News",
+      "published_at": "2026-11-14T13:20:43+00:00",
+      "short_snippet": "Article URL: https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/ Comments URL: https://news.ycombinator.com/item?id=50496811 Points: 5 # Comments: 0",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-384bfe68fdc40cb260db",
+    "article": {
+      "title": "Will we ever get the truth for the Microsoft outage?",
+      "url": "https://www.reddit.com/r/technology/comments/1xvzktn/will_we_ever_get_the_truth_for_the_microsoft/",
+      "source": "Reddit",
+      "published_at": "2026-11-14T10:51:14+00:00",
+      "short_snippet": "submitted by /u/thinkonpaperpodcast [link] [comments]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-be7acada3266926e48e1",
+    "article": {
+      "title": "Outage at HR platform Workday locks millions of employees out of their account",
+      "url": "https://www.reddit.com/r/technology/comments/1xw0nu6/outage_at_hr_platform_workday_locks_millions_of/",
+      "source": "Reddit",
+      "published_at": "2026-11-14T11:56:36+00:00",
+      "short_snippet": "submitted by /u/Logical_Welder3467 [link] [comments]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-1e0b66ee69513ab85ddc",
+    "article": {
+      "title": "微軟全球當機，傳真機、電話、藍牙成企業救命三寶",
+      "url": "https://technews.tw/2026/11/14/microsoft-365-fax-machine-phone-call-bluetooth/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-14T08:36:14+00:00",
+      "short_snippet": "你有想過在全世界積極擁抱雲端、生成式 AI 的現代，關鍵時刻竟然還得仰賴傳統技術—傳真機、電話與藍牙來維持日常 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-1bfe265c529a5d362175",
+    "article": {
+      "title": "宛如 40 年前賈伯斯遭逼宮重演：黃仁勳深陷地緣政治風暴，輝達帝國面臨權力危機",
+      "url": "https://finance.technews.tw/2026/11/14/chinese-media-state-machinery-targets-jensen-huang-personal-conduct-political-persecution/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-14T08:30:56+00:00",
+      "short_snippet": "上次科技公司創辦人兼 CEO 遇上這等級的逼宮事件，還是 1985 年的蘋果，年僅 30 歲的賈伯斯在庫比蒂諾 […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
   }
 ]
