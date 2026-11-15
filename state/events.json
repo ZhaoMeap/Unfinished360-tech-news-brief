@@ -61226,5 +61226,309 @@
         "半導體"
       ]
     }
+  },
+  {
+    "event_id": "evt-80a42a0e4aa3711854a5",
+    "article": {
+      "title": "Fanttik’s S1 Pro electric screwdriver is $40 off in the run-up to Black Friday",
+      "url": "https://www.theverge.com/gadgets/1033620/fantikk-s1-pro-electric-screwdriver-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "published_at": "2026-11-15T17:00:00+00:00",
+      "short_snippet": "Amazon’s early Black Friday promos are already underway, and we’ll be highlighting some of our favorites over the next few days on our Shopping page. Among them is the Fanttik S1 Pro Cordless Electric Screwdriver, which is currently matching its all-time low of $39.99 ($40 off) at Amazon for a limited time. Fanttik’s rechargeable tool […]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-610d9140d161e89d3087",
+    "article": {
+      "title": "Apple’s first smart glasses are coming together",
+      "url": "https://www.theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together",
+      "source": "The Verge",
+      "published_at": "2026-11-15T16:59:16+00:00",
+      "short_snippet": "Apple's smart glasses are among the worst-kept secrets in the tech world. Bloomberg's Mark Gurman says the company's first model, which will lack augmented reality features, will be announced at June's WWDC next year. They likely won't ship right away, however, with Gurman saying only that \"glasses shipments would begin before the end of the […]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-aeb064fe70d711c4bfe1",
+    "article": {
+      "title": "An overview of Jensen Huang’s messy days",
+      "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+      "source": "The Verge",
+      "published_at": "2026-11-15T13:00:00+00:00",
+      "short_snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started On October […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-042e5d73dedf0aac3084",
+    "article": {
+      "title": "Interview: Nvidia backs UK quantum startup Riverlane to solve latency, computing bottlenecks",
+      "url": "https://www.digitimes.com/news/a20261110PD233/uk-nvidia-technology-startup-quantum-computing.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-15T12:57:00+00:00",
+      "short_snippet": "As technology giants pour billions of dollars and research resources into deep-tech fields such as quantum computing, UK startup Riverlane is drawing attention after receiving investment from Nvidia. In an interview with DIGITIMES at the 2026 UK National Quantum Technologies Showcase, Riverlane CEO Steve Brierley discussed how the company is working with Nvidia and other chip giants to overcome qu",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c9620b00932acae026a1",
+    "article": {
+      "title": "Hengs, Unitech launch 5.04MW/10.03MWh energy storage project",
+      "url": "https://www.digitimes.com/news/a20261112PD247/launch-plant-electricity-demand-management.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-14T17:59:00+00:00",
+      "short_snippet": "Sustainable energy company Hengs Technology has partnered with printed circuit board (PCB) maker Unitech Printed Circuit Board to launch a large behind-the-meter energy storage project at Unitech's Yilan plant in Taiwan, as demand for stable power and energy cost management rises among high-consumption industries driven by AI, high-performance computing (HPC), and electronics manufacturing expansi",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-fac96427e8b92d84e3aa",
+    "article": {
+      "title": "Lite-On targets LEO satellites and enterprise AI servers for edge computing growth",
+      "url": "https://www.digitimes.com/news/a20261112PD234/lite-on-leo-satellites--leo-ai-server-edge-computing-revenue-business.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-14T17:00:00+00:00",
+      "short_snippet": "As AI computing moves from the cloud to edge devices, Lite-On Technology has reorganized its IT business segments, launching its Edge Computing and Energy Solutions (ECES) division in the third quarter. Through this restructuring, the company is targeting opportunities in low-Earth-orbit (LEO) satellites, on-premises enterprise servers, and networking equipment that are expected to grow severalfol",
+      "tags": [
+        "AI",
+        "資料中心",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-9a9494a08535ca6693cb",
+    "article": {
+      "title": "What Picasso taught me about building AI Agents",
+      "url": "https://news.ycombinator.com/item?id=50508076",
+      "source": "Hacker News",
+      "published_at": "2026-11-15T16:16:26+00:00",
+      "short_snippet": "Article URL: https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50508076 Points: 8 # Comments: 3",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f6b22853190e492d1a35",
+    "article": {
+      "title": "Understanding Positional Embeddings in Modern LLMs",
+      "url": "https://news.ycombinator.com/item?id=50506376",
+      "source": "Hacker News",
+      "published_at": "2026-11-15T12:14:06+00:00",
+      "short_snippet": "Article URL: https://magazine.sebastianraschka.com/p/understanding-positional-embeddings Comments URL: https://news.ycombinator.com/item?id=50506376 Points: 123 # Comments: 3",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c226de1d1a2d60a80e49",
+    "article": {
+      "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
+      "url": "https://news.ycombinator.com/item?id=50506180",
+      "source": "Hacker News",
+      "published_at": "2026-11-15T11:40:51+00:00",
+      "short_snippet": "https://wallhop.io/https://www.nytimes.com/2026/11/15/us/pol... Comments URL: https://news.ycombinator.com/item?id=50506180 Points: 242 # Comments: 105",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-15feaa6e2cd1b950546d",
+    "article": {
+      "title": "The Telephone Changed the World",
+      "url": "https://news.ycombinator.com/item?id=50501887",
+      "source": "Hacker News",
+      "published_at": "2026-11-14T22:56:09+00:00",
+      "short_snippet": "Article URL: https://lithub.com/how-the-telephone-changed-the-world/ Comments URL: https://news.ycombinator.com/item?id=50501887 Points: 35 # Comments: 10",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-991d5b59c106bb07b67c",
+    "article": {
+      "title": "Nvidia board director cashed out $1 billion in stock before Jensen Huang scandal — Mark Stevens sold 4.2 million shares without a trading plan",
+      "url": "https://www.reddit.com/r/technology/comments/1xww9xh/nvidia_board_director_cashed_out_1_billion_in/",
+      "source": "Reddit",
+      "published_at": "2026-11-15T14:03:42+00:00",
+      "short_snippet": "submitted by /u/MarvelsGrantMan136 [link] [comments]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-4e3fbcd21a90e81e304b",
+    "article": {
+      "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests — email warning system fails, 40 first responders deployed for triage, four hospitalized",
+      "url": "https://www.reddit.com/r/technology/comments/1xwynlx/microsoft_365_outage_leads_to_chlorine_gas/",
+      "source": "Reddit",
+      "published_at": "2026-11-15T15:44:25+00:00",
+      "short_snippet": "submitted by /u/MarvelsGrantMan136 [link] [comments]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-15b5040162729a12ca7b",
+    "article": {
+      "title": "Microsoft Outage Shows The Risks Of Relying On A Single Technology Provider For Essential Services",
+      "url": "https://www.reddit.com/r/technology/comments/1xwx4ev/microsoft_outage_shows_the_risks_of_relying_on_a/",
+      "source": "Reddit",
+      "published_at": "2026-11-15T14:40:18+00:00",
+      "short_snippet": "submitted by /u/PerAsperaAdMars [link] [comments]",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e95b0f9ca71ed41dc494",
+    "article": {
+      "title": "How Jensen Huang Built the Backdoor Route That Keeps Beijing in the AI Race",
+      "url": "https://www.reddit.com/r/technology/comments/1xwu2r0/how_jensen_huang_built_the_backdoor_route_that/",
+      "source": "Reddit",
+      "published_at": "2026-11-15T12:16:43+00:00",
+      "short_snippet": "submitted by /u/ParticularVoice919 [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-4f3ae2ef60a99609558a",
+    "article": {
+      "title": "Italy fines Meta $887m for accessing Android users’ photos and videos",
+      "url": "https://www.reddit.com/r/technology/comments/1xwtmtg/italy_fines_meta_887m_for_accessing_android_users/",
+      "source": "Reddit",
+      "published_at": "2026-11-15T11:52:55+00:00",
+      "short_snippet": "submitted by /u/ArgentineBeauty [link] [comments]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-67d4dd19d022031e8e78",
+    "article": {
+      "title": "Judge denies motion to dismiss DRAM price-fixing lawsuit against Micron, Samsung, and SK hynix, finds evidence of DRAM collusion plausible after 500% price surge — says chipmakers acted like ‘hawks flying in formation'",
+      "url": "https://www.reddit.com/r/technology/comments/1xx0o28/judge_denies_motion_to_dismiss_dram_pricefixing/",
+      "source": "Reddit",
+      "published_at": "2026-11-15T17:03:59+00:00",
+      "short_snippet": "submitted by /u/HimelTy [link] [comments]",
+      "tags": [
+        "半導體",
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d34d021653ad2a697cc1",
+    "article": {
+      "title": "School Buses Are Using AI to Ticket Drivers, and Private Companies Are Making Millions",
+      "url": "https://www.reddit.com/r/technology/comments/1xwyf9l/school_buses_are_using_ai_to_ticket_drivers_and/",
+      "source": "Reddit",
+      "published_at": "2026-11-15T15:34:48+00:00",
+      "short_snippet": "submitted by /u/idkbruh653 [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-4f3ae2ef60a99609558a",
+    "article": {
+      "title": "Italy fines Meta $887m for accessing Android users’ photos and videos",
+      "url": "https://www.reddit.com/r/technology/comments/1xwxyed/italy_fines_meta_887m_for_accessing_android_users/",
+      "source": "Reddit",
+      "published_at": "2026-11-15T15:15:10+00:00",
+      "short_snippet": "submitted by /u/serene_sketch [link] [comments]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-63be37cfe03798c36cb4",
+    "article": {
+      "title": "Nvidia CEO’s affair exposes loophole Chinese firms use to access high-end chips",
+      "url": "https://www.reddit.com/r/technology/comments/1xwx4gs/nvidia_ceos_affair_exposes_loophole_chinese_firms/",
+      "source": "Reddit",
+      "published_at": "2026-11-15T14:40:22+00:00",
+      "short_snippet": "submitted by /u/Mountain_Till_5868 [link] [comments]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ca426b990003c83ef45a",
+    "article": {
+      "title": "The Microsoft 365 outage sent Japan back to fax machines and landlines",
+      "url": "https://www.reddit.com/r/technology/comments/1xwuycs/the_microsoft_365_outage_sent_japan_back_to_fax/",
+      "source": "Reddit",
+      "published_at": "2026-11-15T13:02:03+00:00",
+      "short_snippet": "submitted by /u/AdSpecialist6598 [link] [comments]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e39ef3a7a46f04da5285",
+    "article": {
+      "title": "Free speech nonprofit says US to end efforts to curb Facebook group and app reporting ICE activity",
+      "url": "https://www.reddit.com/r/technology/comments/1xwx6uo/free_speech_nonprofit_says_us_to_end_efforts_to/",
+      "source": "Reddit",
+      "published_at": "2026-11-15T14:43:17+00:00",
+      "short_snippet": "submitted by /u/Hrmbee [link] [comments]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-709f13582eb2695e3f67",
+    "article": {
+      "title": "從方芳到黃樂，FBI 揭密中國間諜案：日常私交如何淪為情報破口",
+      "url": "https://infosecu.technews.tw/2026/11/15/fbi-reveals-how-personal-relationships-become-espionage-risks/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-15T08:30:27+00:00",
+      "short_snippet": "11 月 8 日，有著「AI 教父」之稱的輝達（NVIDIA）執行長黃仁勳（Jensen Huang）透過電子 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-065c4171319fa74891cb",
+    "article": {
+      "title": "四成主管認 AI 無法取代專業、「AI 回歸」比例達 19%，逾五成勞工喊漲薪資",
+      "url": "https://technews.tw/2026/11/15/ai-re-hiring-trend-companies-acknowledge-ai-limits/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-15T08:00:33+00:00",
+      "short_snippet": "隨著人工智慧（AI）技術快速普及，許多企業試圖透過自動化來降低成本並提升效率，但現實情況卻往往事與願違。根據人 […]",
+      "tags": [
+        "AI"
+      ]
+    }
   }
 ]
