@@ -60756,5 +60756,409 @@
         "產品與平台"
       ]
     }
+  },
+  {
+    "event_id": "evt-174788111ac45b66487e",
+    "article": {
+      "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "source": "The Verge",
+      "published_at": "2026-11-14T15:00:00+00:00",
+      "short_snippet": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on […]",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-68acdd058a5d15cab808",
+    "article": {
+      "title": "Synopsys sees AI accelerating EDA as chip-specific models divide work",
+      "url": "https://www.digitimes.com/news/a20261112PD239/synopsys-eda-openai-development-design.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-14T18:59:00+00:00",
+      "short_snippet": "Synopsys chief product development officer Shankar Krishnamoorthy said AI will accelerate the electronic design automation (EDA) industry as the company works with OpenAI to develop semiconductor-specific models, while maintaining support for both frontier and open-weight models to preserve platform neutrality.",
+      "tags": [
+        "AI",
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e01ce1fd987d653dfe42",
+    "article": {
+      "title": "Foxconn targets automotive chiplets with 5μm fan-out RDL packaging",
+      "url": "https://www.digitimes.com/news/a20261112PD242/packaging-ai-applications-foxconn-automotive-training.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-14T17:59:00+00:00",
+      "short_snippet": "As AI applications expand from cloud model training to end devices, Foxconn is using fan-out redistribution layer (RDL) technology to enter the advanced packaging market. The company showcased approximately 5μm-class fine-line circuitry at Hon Hai Tech Day 2026, targeting automotive chiplets, edge AI, and consumer electronics by balancing interconnect density, package size, and manufacturing cost.",
+      "tags": [
+        "AI",
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c9620b00932acae026a1",
+    "article": {
+      "title": "Hengs, Unitech launch 5.04MW/10.03MWh energy storage project",
+      "url": "https://www.digitimes.com/news/a20261112PD247/launch-plant-electricity-demand-management.html?chid=10",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-14T17:59:00+00:00",
+      "short_snippet": "Sustainable energy company Hengs Technology has partnered with printed circuit board (PCB) maker Unitech Printed Circuit Board to launch a large behind-the-meter energy storage project at Unitech's Yilan plant in Taiwan, as demand for stable power and energy cost management rises among high-consumption industries driven by AI, high-performance computing (HPC), and electronics manufacturing expansi",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e50b4322134ad5783790",
+    "article": {
+      "title": "MetaX-UBTech robot chip venture Xilect raises CNY500 million to take on Nvidia Thor",
+      "url": "https://www.digitimes.com/news/a20261112VL205/robot-nvidia-metax-gpu-software.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-14T17:58:00+00:00",
+      "short_snippet": "Xilect, a robot-chip venture set up by Chinese GPU designer MetaX and humanoid robot maker UBTech Robotics, has completed a CNY500 million (US$74.76 million) angel round to build a domestic computing platform for embodied AI, with Nvidia's Thor as its benchmark.",
+      "tags": [
+        "半導體",
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-464ecf9dab88cbe58770",
+    "article": {
+      "title": "Hoya reportedly unable to meet Samsung's full 2027 EUV mask blank request",
+      "url": "https://www.digitimes.com/news/a20261112VL210/hoya-euv-photomask-samsung-2027.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-14T17:57:00+00:00",
+      "short_snippet": "Japan's Hoya has reportedly told Samsung Electronics it would struggle to meet the chipmaker's request for additional extreme ultraviolet (EUV) mask blanks in 2027.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3c9e6c68f8df87ecaa2d",
+    "article": {
+      "title": "Why a North Dakota town backed AI data center development",
+      "url": "https://www.digitimes.com/news/a20261112PD212/data-center-development-2026-data.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-14T17:01:00+00:00",
+      "short_snippet": "On November 3, 2026, US voters cast ballots in local referendums on a total of 47 measures regarding AI data centers alongside the midterm elections. Unofficial figures compiled by Redbud Consulting and updated through November 10 show that 45 measures had been counted, with 44 of them in favor of restrictions. Only Harwood, North Dakota, voted in favor of the data center industry.",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-fac96427e8b92d84e3aa",
+    "article": {
+      "title": "Lite-On targets LEO satellites and enterprise AI servers for edge computing growth",
+      "url": "https://www.digitimes.com/news/a20261112PD234/lite-on-leo-satellite-ai-server-edge-computing-revenue-business.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-14T17:00:00+00:00",
+      "short_snippet": "As AI computing moves from the cloud to edge devices, Lite-On Technology has reorganized its IT business segments, launching its Edge Computing and Energy Solutions (ECES) division in the third quarter. Through this restructuring, the company is targeting opportunities in low-Earth-orbit (LEO) satellites, on-premises enterprise servers, and networking equipment that are expected to grow severalfol",
+      "tags": [
+        "AI",
+        "資料中心",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d054ba78b14f40e2d6b3",
+    "article": {
+      "title": "Lite-On sees AI server orders through 2028 as 800V DC reshapes power market",
+      "url": "https://www.digitimes.com/news/a20261112PD231/lite-on-market-2028-ai-server-revenue.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-14T17:00:00+00:00",
+      "short_snippet": "Lite-On expects AI-related revenue to account for 40%–50% of total revenue by 2027, driven by strong growth in high-end AI power systems. As US cloud customers continue expanding AI infrastructure, the company's order visibility extends through 2028, while 800VDC specifications are undergoing major revisions that will delay volume production until late 2027.",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-96ee1e9bae2e277f9896",
+    "article": {
+      "title": "Show HN: A custom font based on the Jamaican flag alphabet",
+      "url": "https://news.ycombinator.com/item?id=50502839",
+      "source": "Hacker News",
+      "published_at": "2026-11-15T00:56:45+00:00",
+      "short_snippet": "Article URL: https://bobbiec.github.io/jamaican-font.html Comments URL: https://news.ycombinator.com/item?id=50502839 Points: 5 # Comments: 1",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-425beb86a655b7db1dc4",
+    "article": {
+      "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+      "url": "https://news.ycombinator.com/item?id=50501631",
+      "source": "Hacker News",
+      "published_at": "2026-11-14T22:26:30+00:00",
+      "short_snippet": "Article URL: https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html Comments URL: https://news.ycombinator.com/item?id=50501631 Points: 232 # Comments: 127",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0a89b6b7cf21c9b60d75",
+    "article": {
+      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+      "url": "https://news.ycombinator.com/item?id=50501594",
+      "source": "Hacker News",
+      "published_at": "2026-11-14T22:22:49+00:00",
+      "short_snippet": "Article URL: https://retrocomputing.stackexchange.com/questions/17957 Comments URL: https://news.ycombinator.com/item?id=50501594 Points: 119 # Comments: 38",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d778bb9f3b61ba24471e",
+    "article": {
+      "title": "A family tree of software job titles",
+      "url": "https://news.ycombinator.com/item?id=50499038",
+      "source": "Hacker News",
+      "published_at": "2026-11-14T17:45:19+00:00",
+      "short_snippet": "Article URL: https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/ Comments URL: https://news.ycombinator.com/item?id=50499038 Points: 225 # Comments: 110",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5f27ba9926c7e086de16",
+    "article": {
+      "title": "Demystifying phone unlocking tools: A technical overview",
+      "url": "https://news.ycombinator.com/item?id=50497416",
+      "source": "Hacker News",
+      "published_at": "2026-11-14T14:44:28+00:00",
+      "short_snippet": "Article URL: https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/ Comments URL: https://news.ycombinator.com/item?id=50497416 Points: 86 # Comments: 7",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e53f1a1f6a03e398ae9c",
+    "article": {
+      "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+      "url": "https://news.ycombinator.com/item?id=50497132",
+      "source": "Hacker News",
+      "published_at": "2026-11-14T14:05:54+00:00",
+      "short_snippet": "Hey HN readers! I'm snipedbywifi ( https://gitlab.com/snipedbywifi ), and i've been working on terminactory. Please try it out if you'd like to play a cozy factory game while waiting for long agent tasks to finish! The game is a factory game (overused niche, i know xD), but runs in your terminal. Reason i built it? glad you asked: So basically, it started off with me wanting a terminal-native fact",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-7701106e65b53d1435a6",
+    "article": {
+      "title": "Project Zero will disclose vulnerabilities 90 days after reporting",
+      "url": "https://news.ycombinator.com/item?id=50496051",
+      "source": "Hacker News",
+      "published_at": "2026-11-14T11:13:17+00:00",
+      "short_snippet": "Article URL: https://projectzero.google/2026/11/disclosure-policy.html Comments URL: https://news.ycombinator.com/item?id=50496051 Points: 177 # Comments: 48",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-9b58d0bcd605a0321be5",
+    "article": {
+      "title": "Nvidia deliberately kept GPU prices high through circular financing deals, report claims",
+      "url": "https://www.reddit.com/r/technology/comments/1xwaeah/nvidia_deliberately_kept_gpu_prices_high_through/",
+      "source": "Reddit",
+      "published_at": "2026-11-14T19:02:48+00:00",
+      "short_snippet": "submitted by /u/AdSpecialist6598 [link] [comments]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-78008d4dd933df597e29",
+    "article": {
+      "title": "Export-banned Nvidia chips are behind China's most powerful AI models — uh-oh, Jensen!",
+      "url": "https://www.reddit.com/r/technology/comments/1xwh2q4/exportbanned_nvidia_chips_are_behind_chinas_most/",
+      "source": "Reddit",
+      "published_at": "2026-11-14T23:58:11+00:00",
+      "short_snippet": "submitted by /u/goro-n [link] [comments]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-af06f2e8d41e6eed29d3",
+    "article": {
+      "title": "U.S. Treasury Secretary questions whether Nvidia knowingly sold AI GPUs to shell companies, says company itself is responsible — ‘I think it is important that anyone at the company there be held accountable for that’",
+      "url": "https://www.reddit.com/r/technology/comments/1xw5flq/us_treasury_secretary_questions_whether_nvidia/",
+      "source": "Reddit",
+      "published_at": "2026-11-14T15:42:02+00:00",
+      "short_snippet": "submitted by /u/Turbostrider27 [link] [comments]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-403e7bf736f1f46d699d",
+    "article": {
+      "title": "The Denny’s where Nvidia was born removed the sign honoring the company",
+      "url": "https://www.reddit.com/r/technology/comments/1xwg8kl/the_dennys_where_nvidia_was_born_removed_the_sign/",
+      "source": "Reddit",
+      "published_at": "2026-11-14T23:18:30+00:00",
+      "short_snippet": "submitted by /u/SnoozeDoggyDog [link] [comments]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-fff2c31ddda09f862683",
+    "article": {
+      "title": "Apple, Meta, SpaceXAI reportedly the target of congressional investigation",
+      "url": "https://www.reddit.com/r/technology/comments/1xw87c4/apple_meta_spacexai_reportedly_the_target_of/",
+      "source": "Reddit",
+      "published_at": "2026-11-14T17:34:43+00:00",
+      "short_snippet": "submitted by /u/DeepSignature4329 [link] [comments]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-8e2502bbe77922622edf",
+    "article": {
+      "title": "San Jose Denny's reinstalls plaque honoring former Nvidia CEO Jensen Huang",
+      "url": "https://www.reddit.com/r/technology/comments/1xwgk92/san_jose_dennys_reinstalls_plaque_honoring_former/",
+      "source": "Reddit",
+      "published_at": "2026-11-14T23:33:27+00:00",
+      "short_snippet": "submitted by /u/esporx [link] [comments]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0a1826280244c89f2fee",
+    "article": {
+      "title": "AMD Launches EPYC Embedded 9006: Venice Gets an Early Start in Embedded",
+      "url": "https://www.servethehome.com/amd-launches-epyc-embedded-9006-venice-gets-an-early-start-in-embedded/",
+      "source": "ServeTheHome",
+      "published_at": "2026-11-14T19:00:44+00:00",
+      "short_snippet": "With its new Zen 6 \"Venice\" silicon in hand, AMD has launched its next-generation EPYC Embedded 9006 platform for the embedded market, aiming to bring the performance benefits of the new platform to the long term stability-focused market segment The post AMD Launches EPYC Embedded 9006: Venice Gets an Early Start in Embedded appeared first on ServeTheHome .",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ab7eec4b81aac0186ac5",
+    "article": {
+      "title": "為向妻子證明自己沒打呼，英國創業家自學寫程式打造熱門睡眠 App",
+      "url": "https://technews.tw/2026/11/15/the-snoring-problem-that-launched-a-tech-company-how-one-entrepreneur-is-reinventing-sleep/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-15T02:30:36+00:00",
+      "short_snippet": "英國創業者 Jules Goldberg 為了解決自己的打呼問題自學程式，開發睡眠 App「SnoreLab」 […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-785246f669d975f71e7c",
+    "article": {
+      "title": "AI 加劇記憶體供需失衡！擷發科：短缺是長期結構性問題，AI 只是觸發點",
+      "url": "https://technews.tw/2026/11/15/microip-talk-about-memory/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-15T02:25:49+00:00",
+      "short_snippet": "近期 AI 浪潮帶動記憶體需求快速攀升，然而記憶體價格短期內仍未見緩解訊號。擷發科董事長楊健盟認為，記憶體短缺 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-80dc63083529b7bb5dc2",
+    "article": {
+      "title": "準確率再高也不夠，AI 財務應用的關鍵在「例外處理」",
+      "url": "https://finance.technews.tw/2026/11/15/why-exception-handling-is-the-new-finance-discipline/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-15T01:30:31+00:00",
+      "short_snippet": "隨著人工智慧更深入財務與金融作業，風險管理的重心正出現明顯變化。相關觀點指出，系統即使維持很高的整體準確率，仍 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-705a15f89f5706fdc099",
+    "article": {
+      "title": "搶攻歐美邊緣 AI 市場！擷發科鎖定無人機、車載等應用，美 IPO 最快估明年 Q1 底上市",
+      "url": "https://technews.tw/2026/11/15/microip-us-and-eu-edge-ai-and-us-ipo/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-15T01:08:43+00:00",
+      "short_snippet": "今年可說是邊緣 AI 實質落地的一年，目前已看到許多企業展出多種相關應用，擷發科近年積極布局車載、無人機、機器 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5601644bf103324bf6b4",
+    "article": {
+      "title": "光電整合進入「打群架」時代，聯發科侯上勇：CPO路線未定，良率才是關鍵",
+      "url": "https://technews.tw/2026/11/15/cpo-mediatek-hou-shang-yong-optoelectronic-integration-battleground-tech-choices-not-just-cost/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-15T01:00:35+00:00",
+      "short_snippet": "CPO（共同封裝光學）被視為 AI 突破資料傳輸與功耗瓶頸的重要技術，但未來是否由 CPO 主導，產業界仍有不 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e04d76595e74b0ec71e7",
+    "article": {
+      "title": "「雨露均霑」時代終結！AI 狂潮首現明確減速訊號，專家示警：未來投資心臟要夠大",
+      "url": "https://finance.technews.tw/2026/11/15/ai-sector-shows-first-signs-of-slowdown-in-three-years/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-15T00:00:56+00:00",
+      "short_snippet": "一場美國期中選舉，讓整個金融市場對 AI 前景的審美觀驟然改變。 贏得史詩級勝選的，是主張「嚴控AI資料中心建 […]",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6cf8bcf59c376966a9a3",
+    "article": {
+      "title": "AI 問診漸成主流但侵蝕大眾信任感，醫病關係仍是最重要核心",
+      "url": "https://technews.tw/2026/11/15/in-the-ai-era-can-we-preserve-humanity-in-healthcare/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-14T16:00:06+00:00",
+      "short_snippet": "民眾愈來愈常問 AI 聊天機器人健康資訊，但醫療現場的人性溫度仍難取代。埃默里大學（Emory Univers […]",
+      "tags": [
+        "AI"
+      ]
+    }
   }
 ]
