@@ -61160,5 +61160,71 @@
         "AI"
       ]
     }
+  },
+  {
+    "event_id": "evt-26c719bdba9da3f4ccb0",
+    "article": {
+      "title": "技嘉 AORUS C510 GLASS INFINITY 機殼榮獲 2027 CES 創新獎",
+      "url": "https://technews.tw/2026/11/15/gigabyte-aorus-c510-glass-infinity-case-wins-2027-ces-innovation-award/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-15T06:00:57+00:00",
+      "short_snippet": "全球科技領導品牌技嘉宣布，AORUS C510 GLASS INFINITY 機殼憑藉創新設計、完整且實用的功 […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-337bed0c5f11fddc924c",
+    "article": {
+      "title": "AI 重整組織打擊員工士氣，科技主管點出導致轉型失敗最常見錯誤",
+      "url": "https://finance.technews.tw/2026/11/15/what-tech-leaders-get-wrong-about-ai-restructuring-and-morale/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-15T06:00:46+00:00",
+      "short_snippet": "人工智慧（AI）正迫使科技企業重新調整團隊編制與工作分配。然而，即便 AI 驅動的組織重整商業面很合理，員工未 […]",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-df8a2bf18f3fc15366ae",
+    "article": {
+      "title": "黃仁勳去職後首場輝達財報說明會 法人看 AI 展望牽動台股",
+      "url": "https://finance.technews.tw/2026/11/15/nvidia-earnings-call-post-jensen-huang-departure-ai-outlook-impacts-taiwan-stocks/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-15T04:56:33+00:00",
+      "short_snippet": "台股上週強勁彈升 3973.48 點，收在 43675.12點。法人表示，輝達即將於美國時間 11 月 17 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-9acfbb2c5c4b3a829a56",
+    "article": {
+      "title": "歐盟領袖將舉行首次 AI 會談，輝達案未列正式議程",
+      "url": "https://technews.tw/2026/11/15/eu-leaders-first-ai-talks-nvidia-case-not-official-agenda/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-15T03:48:24+00:00",
+      "short_snippet": "歐盟領袖 13 日將在都柏林的會談中，首次齊聚一堂討論人工智慧（AI）議題。這場關鍵會談將為歐盟的 AI 政策 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-fb3a2c375bc09a87332b",
+    "article": {
+      "title": "台灣首顆 GPGPU 獲飛行履歷 捷揚太空代工轉攻研發拓商機",
+      "url": "https://technews.tw/2026/11/15/taiwan-first-gpgpu-flight-heritage-jasc-aerospace-shifts-oem-rd-business-expansion/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-15T03:22:29+00:00",
+      "short_snippet": "歷時3年，國家太空中心（TASA）與捷揚航電合作開發通用圖形處理器（GPGPU），完成在軌驗證，成為台灣首顆取 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
   }
 ]
