@@ -1,0 +1,1541 @@
+{
+  "version": 2,
+  "collected_at": "2026-11-16T03:05:34.952175+00:00",
+  "scheduled_slot_id": "daily-2026-11-16-0917",
+  "report_file": "reports/daily/2026-11-16_0917_editor.md",
+  "articles": [
+    {
+      "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
+      "url": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
+      "source": "官方：NVIDIA",
+      "published_at": "2026-11-16T00:00:28+00:00",
+      "short_snippet": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical AI and AI agents. At the plenary sessions, Deepu Talla, vice president of robotics and edge AI at NVIDIA, said Korea is “punching above its weight,” with Doosan Robotics, Hyundai […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    },
+    {
+      "title": "Apple launches research study to explore the use of AI for health",
+      "url": "https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/",
+      "source": "官方：Apple Newsroom",
+      "published_at": "2026-11-16T01:18:33+00:00",
+      "short_snippet": "Apple today announced the launch of the Apple Health AI Usage Study in the United States, which includes a virtual research study and associated app.",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    },
+    {
+      "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+      "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+      "source": "The Verge",
+      "published_at": "2026-11-16T01:26:56+00:00",
+      "short_snippet": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by healthcare professionals that generates answers based on medical […]",
+      "tags": [
+        "AI",
+        "Big Tech",
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
+      "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+      "source": "The Verge",
+      "published_at": "2026-11-15T21:05:02+00:00",
+      "short_snippet": "United Launch Alliance (ULA) suffered what is reportedly its first mission failure in its 20-year history, failing to deliver 40 Amazon Leo satellites to orbit. Leo is Amazon's competitor to SpaceX's Starlink, but it has struggled to get off the ground so far, putting only a small portion of the necessary satellites to challenge Starlink […]",
+      "tags": [
+        "Big Tech"
+      ]
+    },
+    {
+      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+      "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+      "source": "The Verge",
+      "published_at": "2026-11-15T20:43:49+00:00",
+      "short_snippet": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That includes rumors that Jensen Huang might be trying to find a path back to CEO, […]",
+      "tags": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "source": "The Verge",
+      "published_at": "2026-11-15T19:15:43+00:00",
+      "short_snippet": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded that Huang and other Nvidia leaders testify before Congress. Senate Minority […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    },
+    {
+      "title": "Fanttik’s S1 Pro electric screwdriver is $40 off in the run-up to Black Friday",
+      "url": "https://www.theverge.com/gadgets/1033620/fantikk-s1-pro-electric-screwdriver-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "published_at": "2026-11-15T17:00:00+00:00",
+      "short_snippet": "Amazon’s early Black Friday promos are already underway, and we’ll be highlighting some of our favorites over the next few days on our Shopping page. Among them is the Fanttik S1 Pro Cordless Electric Screwdriver, which is currently matching its all-time low of $39.99 ($40 off) at Amazon for a limited time. Fanttik’s rechargeable tool […]",
+      "tags": [
+        "Big Tech"
+      ]
+    },
+    {
+      "title": "Apple’s first smart glasses are coming together",
+      "url": "https://www.theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together",
+      "source": "The Verge",
+      "published_at": "2026-11-15T16:59:16+00:00",
+      "short_snippet": "Apple's smart glasses are among the worst-kept secrets in the tech world. Bloomberg's Mark Gurman says the company's first model, which will lack augmented reality features, will be announced at June's WWDC next year. They likely won't ship right away, however, with Gurman saying only that \"glasses shipments would begin before the end of the […]",
+      "tags": [
+        "Big Tech"
+      ]
+    },
+    {
+      "title": "AI giants spend big on power equipment to secure an entry into the compute race",
+      "url": "https://www.digitimes.com/news/a20261113PD253/anthropic-equipment-2026-infrastructure-supplier.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-16T02:55:01+00:00",
+      "short_snippet": "In late September 2026, Anthropic struck a rare megadeal in the AI infrastructure space, committing US$3.4 billion to take over orders for 1.7GW of heavy-duty gas-fired power generation equipment from supplier OnePWR Solutions, according to multiple international media reports.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Weekly news roundup: Memory giants forge rare alliance; race to secure equipment capacity",
+      "url": "https://www.digitimes.com/news/a20261116VL202/weekly-news-roundup-dram-investment-micron-samsung-sk-hynix-2026.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-16T02:52:41+00:00",
+      "short_snippet": "This week's coverage (November 9 to November 15) focused on intensifying investment, supply constraints, and strategic repositioning across the semiconductor industry. Samsung, SK Hynix and Micron reportedly pursued shared robotics standards, while Samsung and SK Hynix competed for scarce ASML EUV tools. CXMT expanded into server, mobile and automotive memory. Qualcomm named Samsung and Micron mem",
+      "tags": [
+        "半導體",
+        "資料中心"
+      ]
+    },
+    {
+      "title": "European industry says Jensen Huang's resignation unlikely to shake AI's long-term course",
+      "url": "https://www.digitimes.com/news/a20261116PD212/jensen-huang-nvidia-ceo-europe-development.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-16T02:48:02+00:00",
+      "short_snippet": "Former Nvidia CEO Jensen Huang's resignation has raised concerns about the company's development and its relationships with supply-chain partners. European industry representatives said the single event could create short-term volatility, but would not derail AI's long-term development or collaboration. Meanwhile, geopolitical tensions continue to accelerate Europe's drive for supply-chain autonom",
+      "tags": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "Empyrean's US$75 million-backed HyperS2C merger targets China's critical digital EDA gap",
+      "url": "https://www.digitimes.com/news/a20261116VL211/eda-design-merger-automation-2026.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-16T02:43:37+00:00",
+      "short_snippet": "On November 13, 2026, Chinese electronic design automation (EDA) developer Empyrean and the Greater Bay Area Fund announced the formation of HyperS2C, which merges HyperSilicon and S2C to strengthen China's digital front-end chip design and verification capabilities.",
+      "tags": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "US election clouds AI buildout, but Taiwan network firms still see broadband rigid demand",
+      "url": "https://www.digitimes.com/news/a20261116PD209/demand-ai-applications-broadband-taiwan-data.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-16T02:41:37+00:00",
+      "short_snippet": "AI applications continue to drive data traffic and accelerate network infrastructure upgrades, lifting the third-quarter 2026 performance of Taiwan's networking companies. Accton Technology, Sercomm, and Arcadyan all posted record quarterly revenue, while Gemtek Technology returned to profitability. Despite risks including rising memory prices and weak European demand, the companies remain cautiou",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心",
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "Post-Jensen Nvidia sparks South Korean chip, battery rethink",
+      "url": "https://www.digitimes.com/news/a20261116PD211/nvidia-technology-samsung-roadmap-ceo.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-16T02:22:05+00:00",
+      "short_snippet": "With Nvidia entering the post-Jensen Huang era, changes to its existing strategy and roadmap could force South Korea's semiconductor and battery industries to reassess their plans. Potential impacts include bottlenecks in negotiations over sixth-generation high-bandwidth memory (HBM4), tighter US controls on China, and new opportunities for Samsung Electronics' foundry business as major technology",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "Exclusive: Britain has the AI ideas. Can it finally learn how to scale them?",
+      "url": "https://www.digitimes.com/news/a20261116VL200/uk-technology.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-16T02:19:54+00:00",
+      "short_snippet": "Britain's next challenge in artificial intelligence may have less to do with producing another breakthrough than ensuring the breakthroughs it already creates survive the journey from laboratory demonstrations to products customers can actually deploy.",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "TCL CSOT unveils glass-core substrate prototypes as Chinese panel makers push into chip packaging",
+      "url": "https://www.digitimes.com/news/a20261116VL205/tcl-csot-glass-substrate-panel-packaging.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-16T02:17:13+00:00",
+      "short_snippet": "TCL CSOT displayed three glass-core substrate prototypes for semiconductor packaging at its annual DTC 2026 event in Wuhan on November 13, joining BOE and other Chinese panel makers testing whether their glass-processing know-how can be turned into a chip-packaging business.",
+      "tags": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "Exclusive: A semiconductor nation without a semiconductor identity? Britain's talent dilemma runs deeper than a shortage of graduates",
+      "url": "https://www.digitimes.com/news/a20261115VL201/talent-manufacturing-taiwan-industrial-design.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-16T02:14:12+00:00",
+      "short_snippet": "Britain wants to strengthen its position in the global semiconductor industry, but one of its biggest obstacles begins long before companies attempt to recruit engineers: many young people barely recognize the industry as a career opportunity.",
+      "tags": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "The institutions behind South Wales' semiconductor strength face a changing industrial reality",
+      "url": "https://www.digitimes.com/news/a20261113VL235/industrial-investment-region-manufacturing-development.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-16T02:07:36+00:00",
+      "short_snippet": "South Wales' semiconductor industry was built over decades of manufacturing investment, materials expertise, and university research. But preserving that industrial legacy now demands more than technological breakthroughs.",
+      "tags": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "Silergy expects AI data center, automotive revenue to grow at least 50% in 2027",
+      "url": "https://www.digitimes.com/news/a20261115PD201/revenue-2027-silergy-automotive-data-center.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-16T01:54:55+00:00",
+      "short_snippet": "Power management integrated circuit (PMIC) manufacturer Silergy is optimistic that revenue from both its artificial intelligence data center (AIDC) and automotive businesses will grow by at least 50% in 2027, helping revenue growth in 2027 move toward the upper end of its annual growth target range of 20% to 30%.",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    },
+    {
+      "title": "Chip equipment suppliers ramp up as VAT order windows stretch to nine months",
+      "url": "https://www.digitimes.com/news/a20261113VL237/equipment-capacity-manufacturing-inventory-demand.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-16T01:42:37+00:00",
+      "short_snippet": "Semiconductor equipment suppliers are taking orders further in advance and expanding production as chipmakers prepare for another year of heavy investment in advanced logic and memory capacity. At Swiss vacuum valve maker VAT Group, customer ordering windows have extended to nine months or longer, compared with about three months at the end of 2025.",
+      "tags": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "Huang's resignation casts doubt on Nvidia orders; Taiwan suppliers eye mid-2027 pivot",
+      "url": "https://www.digitimes.com/news/a20261116PD206/taiwan-nvidia-jensen-huang-investigation.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-16T01:36:00+00:00",
+      "short_snippet": "Former Nvidia CEO Jensen Huang, who recently stepped down, is under investigation over the alleged transshipment of AI chips to China via a third country. As Washington weighs tighter AI chip export controls, Taiwan's tech sector and financial markets are closely watching whether orders across the island's upstream and downstream supply chains will be disrupted.",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    },
+    {
+      "title": "TSMC's new US$500 million arm could invest in chip suppliers",
+      "url": "https://www.digitimes.com/news/a20261113VL236/tsmc-investment-manufacturing-openai-development.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-16T01:31:30+00:00",
+      "short_snippet": "TSMC could utilize a new US$500 million investment company to buy stakes in semiconductor suppliers, expanding beyond the chip-design startups it has traditionally backed and marking a possible shift from the position its chief executive outlined five months ago.",
+      "tags": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "xFusion clears Shenzhen review for planned US$1.2 billion IPO",
+      "url": "https://www.digitimes.com/news/a20261116VL204/shenzhen-ipo-ai-server-infrastructure-2025.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-16T01:16:40+00:00",
+      "short_snippet": "Chinese AI server maker xFusion Digital Technologies has cleared a Shenzhen Stock Exchange review for a planned CNY8 billion (US$1.2 billion) initial public offering, advancing a deal that would bring a major supplier of AI computing infrastructure to China's public markets.",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    },
+    {
+      "title": "Megaspeed says former executive Alice Huang left in 2025",
+      "url": "https://www.digitimes.com/news/a20261116VL203/2025-nvidia-ap-partnership-chips.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-16T01:11:29+00:00",
+      "short_snippet": "Megaspeed International's claim that Alice Huang left in August 2025 has renewed attention on the Singapore cloud-computing company's origins, Nvidia partnership, and rapid expansion, as it faces scrutiny over alleged diversions of advanced chips to China. No regulator or court has publicly established that the company violated export controls, and the US government has not concluded that Alice Hu",
+      "tags": [
+        "半導體",
+        "監管"
+      ]
+    },
+    {
+      "title": "Allies rally for Jensen Huang’s return as Nvidia faces compliance and succession questions",
+      "url": "https://www.digitimes.com/news/a20261116VL201/nvidia-governance-jensen-huang.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-16T00:41:04+00:00",
+      "short_snippet": "Allies of Jensen Huang are pressing for his return as Nvidia chief executive, but reinstating the founder alone would not address the governance weaknesses exposed by his sudden departure: concerns about unusually close ties to a subordinate and customer, and the company's dependence on a single leader.",
+      "tags": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "Nvidia lobbies Taiwan officials over employee charged in AI server diversion case",
+      "url": "https://www.digitimes.com/news/a20261116VL206/nvidia-taiwan-investigation-bloomberg-manufacturing.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-16T00:38:58+00:00",
+      "short_snippet": "Nvidia's effort to challenge the investigation of one of its Taiwan employees has intensified questions over how the chipmaker handles suspected diversion of its AI servers to China, a politically sensitive issue for an island central to its manufacturing network. Prosecutors have charged the employee, while Nvidia says its internal review found no sign he knew of the alleged scheme.",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心"
+      ]
+    },
+    {
+      "title": "Bessent urges Nvidia to hire outside CEO, demands answers on China chip sales within 10 days",
+      "url": "https://www.digitimes.com/news/a20261116VL208/nvidia-ceo-sales-revenue-earnings.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-16T00:36:54+00:00",
+      "short_snippet": "US Treasury Secretary Scott Bessent on Sunday, November 15, called for a \"dramatic shakeup\" at Nvidia and said the chipmaker's board should look outside the company for its next chief executive, three days after Jensen Huang resigned. Speaking on Fox News ' \"Sunday Morning Futures,\" Bessent also said Nvidia's board and external legal counsel must answer questions about its compliance with US expor",
+      "tags": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "Applied Materials targets double output by 2028 as chip equipment demand outpaces supply",
+      "url": "https://www.digitimes.com/news/a20261113VL238/applied-materials-equipment-demand-2028-capacity.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-15T23:21:43+00:00",
+      "short_snippet": "Backed by surging demand for chipmaking equipment, Applied Materials plans to double output by 2028 and capacity by 2030, according to company executives during its earnings call for the fourth quarter of fiscal year 2026. It said customers are pushing for capacity ramps as demand still surpasses supply, and that the equipment maker is working with suppliers to overcome component supply bottleneck",
+      "tags": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "India roundup: India's tech ambitions accelerate as semiconductor bottlenecks and supply-chain risks mount",
+      "url": "https://www.digitimes.com/news/a20261113VL215/india-roundup-capacity-electronics-plant-production-testing.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-15T23:21:09+00:00",
+      "short_snippet": "India is accelerating semiconductor, electronics, and AI investments, but testing bottlenecks, rising costs, workforce cuts, factory safety concerns, and project delays expose growing challenges to its manufacturing ambitions.",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    },
+    {
+      "title": "Analysis: South Wales built a semiconductor powerhouse—but the rules of manufacturing are changing",
+      "url": "https://www.digitimes.com/news/a20261113VL213/manufacturing-industrial-materials-production-region.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-15T23:20:51+00:00",
+      "short_snippet": "South Wales has spent decades building one of Britain's most distinctive semiconductor manufacturing ecosystems. Rooted in a long history of metals processing and industrial production, the region now supplies specialist technologies supporting global electronics, electric vehicles and communications.",
+      "tags": [
+        "半導體",
+        "Big Tech"
+      ]
+    },
+    {
+      "title": "OLED smartphone panel shipments forecast to decline in 2026, says Counterpoint",
+      "url": "https://www.digitimes.com/news/a20261113PR201/panel-2026-shipments-forecast-revenue.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-15T23:20:35+00:00",
+      "short_snippet": "Global OLED smartphone panel shipments are forecast to fall nearly 3% year-on-year in 2026, as memory constraints, higher production costs, and weaker demand weigh on the market. The downturn could put pressure on suppliers' revenue, while foldable displays, adoption of low-temperature polycrystalline oxide (LTPO), and power-efficiency advances point to longer-term opportunities for manufacturers.",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "ASE opens phase one of Luzhu plant, expands advanced packaging",
+      "url": "https://www.digitimes.com/news/a20261113PD254/ase-packaging-plant-taiwan-kaohsiung.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-15T23:20:13+00:00",
+      "short_snippet": "ASE Technology Holding on November 13 opened phase one of its Luzhu plant in Kaohsiung and broke ground for phase two at the Kaohsiung part of the Southern Taiwan Science Park, marking the company's first entry into Taiwan's science park system to build a large advanced packaging facility. The two phases represent an estimated investment of NT$100 billion (US$3.04 billion) at full capacity, genera",
+      "tags": [
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "Power supply maker Phihong targets breakeven in 2027 with networking, high-power products",
+      "url": "https://www.digitimes.com/news/a20261113PD250/2027-phihong-high-power-2026-revenue.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-15T23:19:38+00:00",
+      "short_snippet": "Power supply maker Phihong Technology is targeting breakeven in 2027 and profitability in 2028 as it transforms its business, shifting away from mobile power products toward high-power, networking, and telecom products while moving more production to Vietnam.",
+      "tags": [
+        "資料中心",
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "TECO eyes power equipment demand as US data center approvals tighten",
+      "url": "https://www.digitimes.com/news/a20261113PD251/teco-equipment-demand-2026-revenue.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-15T23:19:16+00:00",
+      "short_snippet": "TECO Electric and Machinery said on November 12 that large-motor orders will support its 2027 operations, while data center engineering orders are expected to exceed NT$10 billion (approximately US$304 million) in 2026. The company has also secured Japan's first modular data center (MDC) project and expects commercial air-conditioning to account for 60% of its air-conditioning business.",
+      "tags": [
+        "資料中心"
+      ]
+    },
+    {
+      "title": "800V DC architecture poised to drive GaN power device demand, with SiC competition a potential variable",
+      "url": "https://www.digitimes.com/news/a20261113PD249/gan-sic-power-solutions-competition-demand.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-15T23:18:44+00:00",
+      "short_snippet": "As power consumption in AI data centers continues to surge, the adoption of an 800V DC power distribution architecture to boost energy efficiency has emerged as a market consensus. Gallium Nitride (GaN) power devices are expected to play a vital role within this new power topology. By 2030, GaN epitaxial wafers consumed by 800V DC power systems are projected to account for 6% of the total, making ",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    },
+    {
+      "title": "Advantest brings forward AI SoC tester expansion target",
+      "url": "https://www.digitimes.com/news/a20261113PD246/advantest-soc-expansion-equipment-market.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-15T23:18:20+00:00",
+      "short_snippet": "Advantest is bringing forward its expansion of system-on-chip (SoC) test equipment capacity as demand continues to drive the high-end semiconductor test equipment market. The company aims to raise annual production of its AI SoC testers from more than 5,000 units to approximately 10,000 units by the end of 2027, about one year earlier than its original target of the end of 2028.",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    },
+    {
+      "title": "MicroIP pivots to turnkey drones as customers reject self-assembly, eyeing 2027 revenue",
+      "url": "https://www.digitimes.com/news/a20261113PD241/revenue-software-chips-hardware.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-15T23:18:07+00:00",
+      "short_snippet": "MicroIP Technology is pivoting its drone strategy from supplying AI software platforms and standalone modules to delivering complete, turnkey aircraft, responding to customers who want to avoid the burden of system integration. The company expects its self-developed six-rotor drones—powered by in-house AI, flight control, and communications chips—to begin contributing revenue as early as 2027.",
+      "tags": [
+        "AI",
+        "半導體",
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "Report: Huang-linked firms join DeepSeek round, supply banned Nvidia chips",
+      "url": "https://www.digitimes.com/news/a20261113PD242/nvidia-chips-deepseek-funding-hardware.html?chid=10",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-15T23:17:48+00:00",
+      "short_snippet": "Chinese companies linked to alleged spy Alice Huang, who was accused of having an affair with former Nvidia CEO Jensen Huang, reportedly invested in DeepSeek's second funding round through a special-purpose vehicle (SPV) to secure supplies of Nvidia chips banned by the US. The transactions have exposed a supply chain involving black-market Nvidia hardware entering China.",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
+      "url": "https://news.ycombinator.com/item?id=50512950",
+      "source": "Hacker News",
+      "published_at": "2026-11-16T01:31:30+00:00",
+      "short_snippet": "Article URL: https://www.hntrends.com/2026/november.html Comments URL: https://news.ycombinator.com/item?id=50512950 Points: 63 # Comments: 31",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "What's Next for Nvidia?",
+      "url": "https://news.ycombinator.com/item?id=50512235",
+      "source": "Hacker News",
+      "published_at": "2026-11-15T23:55:55+00:00",
+      "short_snippet": "Article URL: https://steveblank.com/2026/11/15/whats-next-for-nvidia/ Comments URL: https://news.ycombinator.com/item?id=50512235 Points: 87 # Comments: 92",
+      "tags": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost",
+      "url": "https://news.ycombinator.com/item?id=50510442",
+      "source": "Hacker News",
+      "published_at": "2026-11-15T20:37:28+00:00",
+      "short_snippet": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch Comments URL: https://news.ycombinator.com/item?id=50510442 Points: 124 # Comments: 75",
+      "tags": [
+        "Big Tech"
+      ]
+    },
+    {
+      "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+      "url": "https://news.ycombinator.com/item?id=50509411",
+      "source": "Hacker News",
+      "published_at": "2026-11-15T18:36:10+00:00",
+      "short_snippet": "Article URL: https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html Comments URL: https://news.ycombinator.com/item?id=50509411 Points: 421 # Comments: 189",
+      "tags": [
+        "Big Tech"
+      ]
+    },
+    {
+      "title": "Reddit's traffic is down 13%, partly thanks to AI Overviews",
+      "url": "https://www.reddit.com/r/technology/comments/1xx4f37/reddits_traffic_is_down_13_partly_thanks_to_ai/",
+      "source": "Reddit",
+      "published_at": "2026-11-15T19:31:00+00:00",
+      "short_snippet": "submitted by /u/AdSpecialist6598 [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
+      "url": "https://www.reddit.com/r/technology/comments/1xx7xlz/vulcan_rocket_fails_destroying_40_amazon_leo/",
+      "source": "Reddit",
+      "published_at": "2026-11-15T21:55:38+00:00",
+      "short_snippet": "submitted by /u/collogue [link] [comments]",
+      "tags": [
+        "Big Tech"
+      ]
+    },
+    {
+      "title": "Nvidia board director cashed out $1 billion in stock before Jensen Huang scandal — Mark Stevens sold 4.2 million shares without a trading plan",
+      "url": "https://www.reddit.com/r/technology/comments/1xww9xh/nvidia_board_director_cashed_out_1_billion_in/",
+      "source": "Reddit",
+      "published_at": "2026-11-15T14:03:42+00:00",
+      "short_snippet": "submitted by /u/MarvelsGrantMan136 [link] [comments]",
+      "tags": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "Jensen Huang discusses comeback as Nvidia CEO with allies / Tech supporters lobby chipmaker’s board to reinstate former CEO after he resigned following affair with alleged Chinese spy",
+      "url": "https://www.reddit.com/r/technology/comments/1xx4ou6/jensen_huang_discusses_comeback_as_nvidia_ceo/",
+      "source": "Reddit",
+      "published_at": "2026-11-15T19:42:01+00:00",
+      "short_snippet": "submitted by /u/MarvelsGrantMan136 [link] [comments]",
+      "tags": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests — email warning system fails, 40 first responders deployed for triage, four hospitalized",
+      "url": "https://www.reddit.com/r/technology/comments/1xwynlx/microsoft_365_outage_leads_to_chlorine_gas/",
+      "source": "Reddit",
+      "published_at": "2026-11-15T15:44:25+00:00",
+      "short_snippet": "submitted by /u/MarvelsGrantMan136 [link] [comments]",
+      "tags": [
+        "Big Tech"
+      ]
+    },
+    {
+      "title": "Judge denies motion to dismiss DRAM price-fixing lawsuit against Micron, Samsung, and SK hynix, finds evidence of DRAM collusion plausible after 500% price surge — says chipmakers acted like ‘hawks flying in formation'",
+      "url": "https://www.reddit.com/r/technology/comments/1xx0o28/judge_denies_motion_to_dismiss_dram_pricefixing/",
+      "source": "Reddit",
+      "published_at": "2026-11-15T17:03:59+00:00",
+      "short_snippet": "submitted by /u/HimelTy [link] [comments]",
+      "tags": [
+        "半導體",
+        "監管"
+      ]
+    },
+    {
+      "title": "Microsoft Outage Shows The Risks Of Relying On A Single Technology Provider For Essential Services",
+      "url": "https://www.reddit.com/r/technology/comments/1xwx4ev/microsoft_outage_shows_the_risks_of_relying_on_a/",
+      "source": "Reddit",
+      "published_at": "2026-11-15T14:40:18+00:00",
+      "short_snippet": "submitted by /u/PerAsperaAdMars [link] [comments]",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "How Jensen Huang Built the Backdoor Route That Keeps Beijing in the AI Race",
+      "url": "https://www.reddit.com/r/technology/comments/1xwu2r0/how_jensen_huang_built_the_backdoor_route_that/",
+      "source": "Reddit",
+      "published_at": "2026-11-15T12:16:43+00:00",
+      "short_snippet": "submitted by /u/ParticularVoice919 [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Italy fines Meta $887m for accessing Android users’ photos and videos",
+      "url": "https://www.reddit.com/r/technology/comments/1xwtmtg/italy_fines_meta_887m_for_accessing_android_users/",
+      "source": "Reddit",
+      "published_at": "2026-11-15T11:52:55+00:00",
+      "short_snippet": "submitted by /u/ArgentineBeauty [link] [comments]",
+      "tags": [
+        "Big Tech"
+      ]
+    },
+    {
+      "title": "Nvidia RTX 5090 stock returns to Newegg with 21 models — but scarcity pricing keeps the cheapest air-cooled cards at least three times MSRP",
+      "url": "https://www.reddit.com/r/technology/comments/1xxb1uh/nvidia_rtx_5090_stock_returns_to_newegg_with_21/",
+      "source": "Reddit",
+      "published_at": "2026-11-16T00:13:23+00:00",
+      "short_snippet": "submitted by /u/Mountain_Till_5868 [link] [comments]",
+      "tags": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "Reports of AI-related child sexual abuse material rise 8,400% in two years, data shows | AI (artificial intelligence)",
+      "url": "https://www.reddit.com/r/technology/comments/1xxddvt/reports_of_airelated_child_sexual_abuse_material/",
+      "source": "Reddit",
+      "published_at": "2026-11-16T02:06:44+00:00",
+      "short_snippet": "submitted by /u/crates-of-bigfoots [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "School Buses Are Using AI to Ticket Drivers, and Private Companies Are Making Millions",
+      "url": "https://www.reddit.com/r/technology/comments/1xwyf9l/school_buses_are_using_ai_to_ticket_drivers_and/",
+      "source": "Reddit",
+      "published_at": "2026-11-15T15:34:48+00:00",
+      "short_snippet": "submitted by /u/idkbruh653 [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Windows now runs on the iPhone Duo without a jailbreak",
+      "url": "https://www.reddit.com/r/technology/comments/1xx4epg/windows_now_runs_on_the_iphone_duo_without_a/",
+      "source": "Reddit",
+      "published_at": "2026-11-15T19:30:36+00:00",
+      "short_snippet": "submitted by /u/ArgentineBeauty [link] [comments]",
+      "tags": [
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "Jensen Huang Discusses Comeback as Nvidia CEO",
+      "url": "https://www.reddit.com/r/technology/comments/1xx5up2/jensen_huang_discusses_comeback_as_nvidia_ceo/",
+      "source": "Reddit",
+      "published_at": "2026-11-15T20:28:26+00:00",
+      "short_snippet": "submitted by /u/IntellectuallyDriven [link] [comments]",
+      "tags": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "Nvidia deliberately kept GPU prices high through circular financing deals, report claims",
+      "url": "https://www.reddit.com/r/technology/comments/1xwaeah/nvidia_deliberately_kept_gpu_prices_high_through/",
+      "source": "Reddit",
+      "published_at": "2026-11-14T19:02:48+00:00",
+      "short_snippet": "submitted by /u/AdSpecialist6598 [link] [comments]",
+      "tags": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "AMD Launches EPYC Embedded 9006: Venice Gets an Early Start in Embedded",
+      "url": "https://www.servethehome.com/amd-launches-epyc-embedded-9006-venice-gets-an-early-start-in-embedded/",
+      "source": "ServeTheHome",
+      "published_at": "2026-11-14T19:00:44+00:00",
+      "short_snippet": "With its new Zen 6 \"Venice\" silicon in hand, AMD has launched its next-generation EPYC Embedded 9006 platform for the embedded market, aiming to bring the performance benefits of the new platform to the long term stability-focused market segment The post AMD Launches EPYC Embedded 9006: Venice Gets an Early Start in Embedded appeared first on ServeTheHome .",
+      "tags": [
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "防 AI 晶片轉運，馬來西亞擬要求資料中心申報 GPU 進口與用電量",
+      "url": "https://technews.tw/2026/11/16/malaysia-plans-new-law-using-data-center-power-consumption-to-catch-ai-gpu-smugglers/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-16T02:55:49+00:00",
+      "short_snippet": "馬來西亞正研擬新法，要求資料中心業者揭露 AI 加速器進口數量、用電情況、設施位置，以及營運商與大型雲端客戶身 […]",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心"
+      ]
+    },
+    {
+      "title": "OpenAI 推出 ChatGPT Wallet，AI 代理可代為下單付款",
+      "url": "https://technews.tw/2026/11/16/you-can-now-tempt-fate-and-give-your-banking-information-to-chatgpt/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-16T02:50:25+00:00",
+      "short_snippet": "OpenAI 11 月 13 日宣布推出 ChatGPT Wallet，讓旗下名為 dots 的人工智慧代理能 […]",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "不用再跳去 Google 比價，亞馬遜擬建立全網商品資料庫",
+      "url": "https://technews.tw/2026/11/16/amazon-wants-to-own-the-worlds-product-data/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-16T02:45:55+00:00",
+      "short_snippet": "根據路透社（Reuters）引述內部文件與知情人士的報導，亞馬遜（Amazon）正推動一項名為「World P […]",
+      "tags": [
+        "Big Tech"
+      ]
+    },
+    {
+      "title": "Meta 開啟員工測試預測市場 App「Takes」，以虛擬點數取代真錢下注",
+      "url": "https://technews.tw/2026/11/16/meta-testing-new-prediction-market-app-with-employees/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-16T02:40:44+00:00",
+      "short_snippet": "Meta 員工開放測試名為「Takes」的預測市場應用程式。《華爾街日報》13 日引述知情人士報導，這款開發中 […]",
+      "tags": [
+        "Big Tech"
+      ]
+    },
+    {
+      "title": "安集太陽能電廠突破 120 MW，售電收入占比逾 7 成",
+      "url": "https://technews.tw/2026/11/16/anji-solar-plant-exceeds-120mw-power-sales-revenue-over-70/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-16T02:36:48+00:00",
+      "short_snippet": "太陽能模組及電廠業者安集科技於法說會表示，公司持續擴大太陽能電廠布局，截至今年 10 月底，全台已建置 742 […]",
+      "tags": [
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "iPhone Duo 2 傳導入 Face ID，原型機已完成、但能否量產仍有變數",
+      "url": "https://technews.tw/2026/11/16/iphone-duo-2-face-id/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-16T02:36:14+00:00",
+      "short_snippet": "蘋果首款摺疊手機 iPhone Duo 捨棄使用多年的 Face ID，改採整合於側邊電源鍵的 Touch I […]",
+      "tags": [
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "OpenAI 解散獨立機器人團隊，轉向「通用模型」加速研發進程",
+      "url": "https://technews.tw/2026/11/16/openai-disbands-its-stand-alone-robotics-team-as-its-general-models-start-running-robots/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-16T02:30:22+00:00",
+      "short_snippet": "OpenAI 已解散旗下獨立機器人團隊，並將相關研究人員重新分配至公司其他部門。公司表示，這項調整的目的在於加 […]",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "研究找到 DeepSeek、Kimi 等六款中國 AI 模型以受管制輝達 Blackwell 晶片訓練痕跡",
+      "url": "https://technews.tw/2026/11/16/top-chinese-frontier-ai-models-carry-the-fingerprint-of-export-controlled-nvidia-blackwell-gpus/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-16T02:20:52+00:00",
+      "short_snippet": "OpenAI 前工程師杜普（Will DePue）創辦的 AI 顧問公司 Unemployment Labs […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    },
+    {
+      "title": "首屆 AI 音樂獎揭曉，虛擬歌手 Xania Monet 奪多項大獎",
+      "url": "https://technews.tw/2026/11/16/new-awards-show-celebrates-ai-music-and-its-creators/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-16T02:10:54+00:00",
+      "short_snippet": "首屆人工智慧音樂獎（AI Music Awards）頒獎典禮 13 日在美國洛杉磯舉行，表彰以 AI 製作歌曲 […]",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "輝達重挫引爆 AI 洗牌、台股力守 43,500，ASIC 與散熱接棒",
+      "url": "https://finance.technews.tw/2026/11/16/nvidia-controversy-hits-semi-index-institutional-investors-buy-45b-capital-shifts-to-asic-edge-ai/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-16T02:00:05+00:00",
+      "short_snippet": "台股 13 日展現極為強勢的籌碼換手格局，加權指數上漲 1.35% 收在 43,675.12 點。籌碼面迎來近 […]",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "SpaceX 首度完成太空船捕捉回收，星艦返回發射台",
+      "url": "https://technews.tw/2026/11/16/spacex-pulls-off-first-ever-spaceship-catch/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-16T01:55:48+00:00",
+      "short_snippet": "馬斯克（Elon Musk）旗下太空探索科技公司（SpaceX）15 日成功完成史上首次太空船捕捉回收作業，星 […]",
+      "tags": [
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "美財長 10 天最後通牒，促輝達說明是否縱容最先進晶片走私中國",
+      "url": "https://technews.tw/2026/11/16/us-treasury-chief-wants-answers-soon-from-nvidia/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-16T01:50:14+00:00",
+      "short_snippet": "美國財政部長貝森特今天呼籲輝達於 10 天內說明，是否在知情的情況下，允許其最先進人工智慧晶片流入中國，強調這 […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    },
+    {
+      "title": "ASIC、GPU 雙引擎帶動成長，高盛重申緯穎買進、目標價 4,000 元",
+      "url": "https://finance.technews.tw/2026/11/16/wiwynn-4000-target-price/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-16T01:48:33+00:00",
+      "short_snippet": "高盛最新報告持續看好緯穎後市，指出隨著主要客戶新一代 ASIC AI 伺服器進入量產，加上液冷產品及 GPU […]",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心"
+      ]
+    },
+    {
+      "title": "美國及盟友簽署舊金山宣言，聯手強化 AI 供應鏈防堵中國",
+      "url": "https://technews.tw/2026/11/16/us-and-allies-sign-accord-to-protect-ai-supply-chains-from-china/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-16T01:45:25+00:00",
+      "short_snippet": "美國及包括日本、澳洲、以色列與英國在內的盟友，已同意制定一份清單，列出支撐 AI 發展的關鍵技術與供應鏈，並加 […]",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "彭博：輝達曾就員工涉嫌對中國走私晶片案求助台灣官員",
+      "url": "https://technews.tw/2026/11/16/bloomberg-nvidia-sought-assistance-taiwanese-officials-employee-suspected-chip-smuggling-china/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-16T01:40:09+00:00",
+      "short_snippet": "彭博報導，輝達公司一名員工被台灣檢方指控協助向中國走私人工智慧晶片後，該公司向台灣官員尋求協助，再次引發外界對 […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    },
+    {
+      "title": "4 千萬張照片訓練 AI 工具 ，研究：外貌顯老恐是健康警訊",
+      "url": "https://technews.tw/2026/11/16/ai-tool-trained-on-40-million-photos-study-suggests-an-older-looking-appearance-may-be-a-warning-sign-for-health-issues/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-16T01:33:37+00:00",
+      "short_snippet": "人的臉孔不只反映年齡，還可能透露身體健康與疾病風險。美國醫療研究團隊開發出新型 AI 系統，只需分析一張臉部照 […]",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "金融時報：黃仁勳考慮回鍋，矽谷盟友施壓輝達董事會要求讓他復職",
+      "url": "https://finance.technews.tw/2026/11/16/financial-times-jensen-huang-reportedly-considers-rejoining-nvidia-silicon-valley-allies-pressure-board-reinstatement/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-16T01:30:44+00:00",
+      "short_snippet": "英國《金融時報》報導，矽谷盟友向輝達董事會施壓，要求讓黃仁勳復職之際，他正在考慮回任該公司的執行長。這位科技業 […]",
+      "tags": [
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "黃仁勳出事讓北士科房市有事？房市專家李同榮：三大關鍵牽動房價",
+      "url": "https://finance.technews.tw/2026/11/16/beishike-housing-market/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-16T01:28:52+00:00",
+      "short_snippet": "輝達（NVIDIA）創辦人黃仁勳突然辭去執行長職務，震撼全球 AI 產業與資本市場，並讓台北市北投士林科技園區 […]",
+      "tags": [
+        "AI",
+        "半導體",
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "黃仁勳辭輝達執行長，專家：AI 發展趨健康、台灣產業鏈「非紅」優勢不受影響",
+      "url": "https://technews.tw/2026/11/16/jensen-huang-resigns-nvidia-ceo-experts-ai-healthy-taiwan-non-red-advantage-unaffected/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-16T01:10:06+00:00",
+      "short_snippet": "黃仁勳辭去輝達（NVIDIA）執行長等職務震撼全球科技產業界，長期研究地緣政治的科技專家表示，美國勢必會加強對 […]",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "美台高科技論壇矽谷登場，輝達副總裁強調台灣為關鍵供應鏈",
+      "url": "https://technews.tw/2026/11/16/us-taiwan-high-tech-forum-silicon-valley-nvidia-vp-highlights-taiwan-critical-supply-chain/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-16T01:00:39+00:00",
+      "short_snippet": "國科會攜手科技社團 NATEA-SV 舉辦的美台高科技論壇 15 日在矽谷舉行，輝達副總裁塔拉（Deepu T […]",
+      "tags": [
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "AI Agent 很聰明，為什麼還是不夠懂你的顧客？",
+      "url": "https://technews.tw/2026/11/16/why-smart-ai-agents-dont-understand-customers/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-16T01:00:28+00:00",
+      "short_snippet": "2026 年，客服中心成了企業導入 AI 最積極的戰場。Gartner 於 2026 年 8 月發布的調查顯示 […]",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "黃仁勳風波後美恐緊縮晶片出口，中國官媒憂衝擊尖端算力",
+      "url": "https://technews.tw/2026/11/16/jensen-huang-controversy-us-tightens-chip-exports-china-state-media-fears-advanced-computing-impact/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-16T00:55:22+00:00",
+      "short_snippet": "輝達（Nvidia）前執行長黃仁勳被爆婚外情並引發美國國安疑慮。中國官媒發文表示，黃仁勳離職可能是美國對中國晶 […]",
+      "tags": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "蘋果前 CPU 大將創業，Nuvacore 瞄準 AI 資料中心處理器",
+      "url": "https://technews.tw/2026/11/16/former-apple-chip-architect-says-ai-cuts-months-from-early-cpu-design/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-16T00:45:00+00:00",
+      "short_snippet": "蘋果（Apple）前首席 CPU 架構師 Gerard Williams III 近日受訪時表示，他創辦的新創 […]",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心",
+        "Big Tech"
+      ]
+    },
+    {
+      "title": "用 AI 代理看管 AI 代理，資安新創 WhiteMatter 完成 2,000 萬美元 A 輪融資",
+      "url": "https://infosecu.technews.tw/2026/11/16/whitematter-raises-20m-series-a-to-close-the-growing-gap-between-ai-autonomy-and-enterprise-governance/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-16T00:30:15+00:00",
+      "short_snippet": "資安新創 WhiteMatter 宣布完成 2,000 萬美元 A 輪融資，將持續擴大其以 AI 代理管理 A […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  ],
+  "evidence": {
+    "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-d16c86f834412880e1d6"
+    },
+    "https://apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health": {
+      "level": "A",
+      "label": "Confirmed",
+      "reason": "官方公開摘要有主體、動作與事件細節；只確認來源主張，不表示獨立實測",
+      "quality_hint": "public summary",
+      "event_id": "evt-c7ad18a5d1bcae75f06f"
+    },
+    "https://theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-15ae373731f31efe6471"
+    },
+    "https://theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-9e453c762a15ce2e21fa"
+    },
+    "https://theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "內容是預告／傳聞或預期，尚不是已發生且可核對的產品事件",
+      "quality_hint": "public summary",
+      "event_id": "evt-88f566b7b87591ffa148"
+    },
+    "https://theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-186cb298764eae1489a9"
+    },
+    "https://theverge.com/gadgets/1033620/fantikk-s1-pro-electric-screwdriver-black-friday-2026-deal-sale": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-80a42a0e4aa3711854a5"
+    },
+    "https://theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-610d9140d161e89d3087"
+    },
+    "https://digitimes.com/news/a20261113PD253/anthropic-equipment-2026-infrastructure-supplier.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-3a65ff6a1a98ddd37966"
+    },
+    "https://digitimes.com/news/a20261116VL202/weekly-news-roundup-dram-investment-micron-samsung-sk-hynix-2026.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-81346c37472a03063717"
+    },
+    "https://digitimes.com/news/a20261116PD212/jensen-huang-nvidia-ceo-europe-development.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-00be3e8284d3905e2155"
+    },
+    "https://digitimes.com/news/a20261116VL211/eda-design-merger-automation-2026.html": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-0914ebf251346da255e0"
+    },
+    "https://digitimes.com/news/a20261116PD209/demand-ai-applications-broadband-taiwan-data.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-061eef5428dc2f38e3a4"
+    },
+    "https://digitimes.com/news/a20261116PD211/nvidia-technology-samsung-roadmap-ceo.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-de26799d785df2233b95"
+    },
+    "https://digitimes.com/news/a20261116VL200/uk-technology.html": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-c1896d4198dd71b1c246"
+    },
+    "https://digitimes.com/news/a20261116VL205/tcl-csot-glass-substrate-panel-packaging.html": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-faf7de2e1c230aa64c75"
+    },
+    "https://digitimes.com/news/a20261115VL201/talent-manufacturing-taiwan-industrial-design.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-4910f7e61c9724a458c5"
+    },
+    "https://digitimes.com/news/a20261113VL235/industrial-investment-region-manufacturing-development.html": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-721f72496796d0cf13b5"
+    },
+    "https://digitimes.com/news/a20261115PD201/revenue-2027-silergy-automotive-data-center.html": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-b0ae5801adfea17e76a6"
+    },
+    "https://digitimes.com/news/a20261113VL237/equipment-capacity-manufacturing-inventory-demand.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-5f4f2ba8db5d2aed58d1"
+    },
+    "https://digitimes.com/news/a20261116PD206/taiwan-nvidia-jensen-huang-investigation.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-7808c69d497fee467d43"
+    },
+    "https://digitimes.com/news/a20261113VL236/tsmc-investment-manufacturing-openai-development.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-74978d0f7b54f19ce10b"
+    },
+    "https://digitimes.com/news/a20261116VL204/shenzhen-ipo-ai-server-infrastructure-2025.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-5ac48606c3dce65b754a"
+    },
+    "https://digitimes.com/news/a20261116VL203/2025-nvidia-ap-partnership-chips.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-8436e96bb514e592e813"
+    },
+    "https://digitimes.com/news/a20261116VL201/nvidia-governance-jensen-huang.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-bd39ace613fa47858bcb"
+    },
+    "https://digitimes.com/news/a20261116VL206/nvidia-taiwan-investigation-bloomberg-manufacturing.html": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-753558dc4d870bcb4ef9"
+    },
+    "https://digitimes.com/news/a20261116VL208/nvidia-ceo-sales-revenue-earnings.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-5ecaa419521342bff1ce"
+    },
+    "https://digitimes.com/news/a20261113VL238/applied-materials-equipment-demand-2028-capacity.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-a1d41e9740a0a14f0a17"
+    },
+    "https://digitimes.com/news/a20261113VL215/india-roundup-capacity-electronics-plant-production-testing.html": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-4124e73d782db62a5470"
+    },
+    "https://digitimes.com/news/a20261113VL213/manufacturing-industrial-materials-production-region.html": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-589a5fff9757d7c86262"
+    },
+    "https://digitimes.com/news/a20261113PR201/panel-2026-shipments-forecast-revenue.html": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-e2775e883f425e00dc4f"
+    },
+    "https://digitimes.com/news/a20261113PD254/ase-packaging-plant-taiwan-kaohsiung.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-af8fda505109befd11a9"
+    },
+    "https://digitimes.com/news/a20261113PD250/2027-phihong-high-power-2026-revenue.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-47f004af21d1753d773c"
+    },
+    "https://digitimes.com/news/a20261113PD251/teco-equipment-demand-2026-revenue.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-16b23113ba0b5589aaf7"
+    },
+    "https://digitimes.com/news/a20261113PD249/gan-sic-power-solutions-competition-demand.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-dfd80d553bf55596a008"
+    },
+    "https://digitimes.com/news/a20261113PD246/advantest-soc-expansion-equipment-market.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-5b0a0d57580d4c8fae3c"
+    },
+    "https://digitimes.com/news/a20261113PD241/revenue-software-chips-hardware.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-7e7c35df6f88e35cf5e0"
+    },
+    "https://digitimes.com/news/a20261113PD242/nvidia-chips-deepseek-funding-hardware.html?chid=10": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-e1ca22e43bb4880b7b31"
+    },
+    "https://news.ycombinator.com/item?id=50512950": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-063a562390c8d96bcc9a"
+    },
+    "https://news.ycombinator.com/item?id=50512235": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-bee0a4c010b5bca36beb"
+    },
+    "https://news.ycombinator.com/item?id=50510442": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-c6e81f262743dbffa8dc"
+    },
+    "https://news.ycombinator.com/item?id=50509411": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-bf14c3bedcdcf99629e8"
+    },
+    "https://reddit.com/r/technology/comments/1xx4f37/reddits_traffic_is_down_13_partly_thanks_to_ai": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-49cb52ba182d0898e128"
+    },
+    "https://reddit.com/r/technology/comments/1xx7xlz/vulcan_rocket_fails_destroying_40_amazon_leo": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-9e453c762a15ce2e21fa"
+    },
+    "https://reddit.com/r/technology/comments/1xww9xh/nvidia_board_director_cashed_out_1_billion_in": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-991d5b59c106bb07b67c"
+    },
+    "https://reddit.com/r/technology/comments/1xx4ou6/jensen_huang_discusses_comeback_as_nvidia_ceo": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-efa3e91970475799b52b"
+    },
+    "https://reddit.com/r/technology/comments/1xwynlx/microsoft_365_outage_leads_to_chlorine_gas": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-4e3fbcd21a90e81e304b"
+    },
+    "https://reddit.com/r/technology/comments/1xx0o28/judge_denies_motion_to_dismiss_dram_pricefixing": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-67d4dd19d022031e8e78"
+    },
+    "https://reddit.com/r/technology/comments/1xwx4ev/microsoft_outage_shows_the_risks_of_relying_on_a": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-15b5040162729a12ca7b"
+    },
+    "https://reddit.com/r/technology/comments/1xwu2r0/how_jensen_huang_built_the_backdoor_route_that": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-e95b0f9ca71ed41dc494"
+    },
+    "https://reddit.com/r/technology/comments/1xwtmtg/italy_fines_meta_887m_for_accessing_android_users": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-4f3ae2ef60a99609558a"
+    },
+    "https://reddit.com/r/technology/comments/1xxb1uh/nvidia_rtx_5090_stock_returns_to_newegg_with_21": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-d3b3c1d5284b06536093"
+    },
+    "https://reddit.com/r/technology/comments/1xxddvt/reports_of_airelated_child_sexual_abuse_material": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-36fbaf3dce9864ed9c85"
+    },
+    "https://reddit.com/r/technology/comments/1xwyf9l/school_buses_are_using_ai_to_ticket_drivers_and": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-d34d021653ad2a697cc1"
+    },
+    "https://reddit.com/r/technology/comments/1xx4epg/windows_now_runs_on_the_iphone_duo_without_a": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-ced5affaac583bc50343"
+    },
+    "https://reddit.com/r/technology/comments/1xx5up2/jensen_huang_discusses_comeback_as_nvidia_ceo": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-c096adba1583ca0c71a9"
+    },
+    "https://reddit.com/r/technology/comments/1xwaeah/nvidia_deliberately_kept_gpu_prices_high_through": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-9b58d0bcd605a0321be5"
+    },
+    "https://servethehome.com/amd-launches-epyc-embedded-9006-venice-gets-an-early-start-in-embedded": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-0a1826280244c89f2fee"
+    },
+    "https://technews.tw/2026/11/16/malaysia-plans-new-law-using-data-center-power-consumption-to-catch-ai-gpu-smugglers": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-587ec36ef3ca92fa433d"
+    },
+    "https://technews.tw/2026/11/16/you-can-now-tempt-fate-and-give-your-banking-information-to-chatgpt": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-9b699bce949c768ca5e5"
+    },
+    "https://technews.tw/2026/11/16/amazon-wants-to-own-the-worlds-product-data": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-c9dcca84ce5202870143"
+    },
+    "https://technews.tw/2026/11/16/meta-testing-new-prediction-market-app-with-employees": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "內容是預告／傳聞或預期，尚不是已發生且可核對的產品事件",
+      "quality_hint": "public summary",
+      "event_id": "evt-c19cad852d4dbb2c4c54"
+    },
+    "https://technews.tw/2026/11/16/anji-solar-plant-exceeds-120mw-power-sales-revenue-over-70": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-e534f4f428bd366b6347"
+    },
+    "https://technews.tw/2026/11/16/iphone-duo-2-face-id": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-a59dd3b970c31e17ea32"
+    },
+    "https://technews.tw/2026/11/16/openai-disbands-its-stand-alone-robotics-team-as-its-general-models-start-running-robots": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-eea7b0a212341ca2fa4d"
+    },
+    "https://technews.tw/2026/11/16/top-chinese-frontier-ai-models-carry-the-fingerprint-of-export-controlled-nvidia-blackwell-gpus": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-8833ac0e8350825768ff"
+    },
+    "https://technews.tw/2026/11/16/new-awards-show-celebrates-ai-music-and-its-creators": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-3ccd164195c6fca73c8a"
+    },
+    "https://finance.technews.tw/2026/11/16/nvidia-controversy-hits-semi-index-institutional-investors-buy-45b-capital-shifts-to-asic-edge-ai": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-291b64d622e98e37acb0"
+    },
+    "https://technews.tw/2026/11/16/spacex-pulls-off-first-ever-spaceship-catch": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-6df904f270833d0ebd09"
+    },
+    "https://technews.tw/2026/11/16/us-treasury-chief-wants-answers-soon-from-nvidia": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-e897e6a65f832db1cc5d"
+    },
+    "https://finance.technews.tw/2026/11/16/wiwynn-4000-target-price": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-11411dc4cd398dd9a4e0"
+    },
+    "https://technews.tw/2026/11/16/us-and-allies-sign-accord-to-protect-ai-supply-chains-from-china": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-cb22bb20d5095949c81b"
+    },
+    "https://technews.tw/2026/11/16/bloomberg-nvidia-sought-assistance-taiwanese-officials-employee-suspected-chip-smuggling-china": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-3c105310055ac99adfc5"
+    },
+    "https://technews.tw/2026/11/16/ai-tool-trained-on-40-million-photos-study-suggests-an-older-looking-appearance-may-be-a-warning-sign-for-health-issues": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-727af90f9b895f84fb53"
+    },
+    "https://finance.technews.tw/2026/11/16/financial-times-jensen-huang-reportedly-considers-rejoining-nvidia-silicon-valley-allies-pressure-board-reinstatement": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-4d0fa868b67dd42d729c"
+    },
+    "https://finance.technews.tw/2026/11/16/beishike-housing-market": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-ee3b6ef1dd696ee61f79"
+    },
+    "https://technews.tw/2026/11/16/jensen-huang-resigns-nvidia-ceo-experts-ai-healthy-taiwan-non-red-advantage-unaffected": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-cad38e42f50e2a3417bf"
+    },
+    "https://technews.tw/2026/11/16/us-taiwan-high-tech-forum-silicon-valley-nvidia-vp-highlights-taiwan-critical-supply-chain": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-04e00160ef589688df20"
+    },
+    "https://technews.tw/2026/11/16/why-smart-ai-agents-dont-understand-customers": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-3ae49fe07390ec61dd3c"
+    },
+    "https://technews.tw/2026/11/16/jensen-huang-controversy-us-tightens-chip-exports-china-state-media-fears-advanced-computing-impact": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-c653cb44194606e5b805"
+    },
+    "https://technews.tw/2026/11/16/former-apple-chip-architect-says-ai-cuts-months-from-early-cpu-design": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-ec7ed85f73aa27879347"
+    },
+    "https://infosecu.technews.tw/2026/11/16/whitematter-raises-20m-series-a-to-close-the-growing-gap-between-ai-autonomy-and-enterprise-governance": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-5be7a2a96d73c1a61a12"
+    }
+  },
+  "source_diagnostics": [
+    {
+      "source": "Reuters",
+      "status": "目前無法取得（HTTP 401；不繞過存取限制）",
+      "count": 0
+    },
+    {
+      "source": "官方：Google",
+      "status": "目前無法取得（近 48 小時沒有符合主題且有日期的項目）",
+      "count": 0
+    },
+    {
+      "source": "官方：Microsoft",
+      "status": "目前無法取得（近 48 小時沒有符合主題且有日期的項目）",
+      "count": 0
+    },
+    {
+      "source": "官方：NVIDIA",
+      "status": "已取得 1 則近 48 小時科技項目",
+      "count": 1
+    },
+    {
+      "source": "官方：Apple Newsroom",
+      "status": "已取得 1 則近 48 小時科技項目",
+      "count": 1
+    },
+    {
+      "source": "官方：FTC",
+      "status": "目前無法取得（HTTP 404）",
+      "count": 0
+    },
+    {
+      "source": "The Verge",
+      "status": "已取得 6 則近 48 小時科技項目",
+      "count": 6
+    },
+    {
+      "source": "DIGITIMES",
+      "status": "已取得 30 則近 48 小時科技項目",
+      "count": 30
+    },
+    {
+      "source": "Hacker News",
+      "status": "已取得 4 則近 48 小時科技項目",
+      "count": 4
+    },
+    {
+      "source": "Reddit",
+      "status": "已取得 15 則近 48 小時科技項目",
+      "count": 15
+    },
+    {
+      "source": "官方：NVIDIA Developer",
+      "status": "目前無法取得（近 48 小時沒有符合主題且有日期的項目）",
+      "count": 0
+    },
+    {
+      "source": "官方：Ollama releases",
+      "status": "目前無法取得（近 48 小時沒有符合主題且有日期的項目）",
+      "count": 0
+    },
+    {
+      "source": "官方：ROCm releases",
+      "status": "目前無法取得（近 48 小時沒有符合主題且有日期的項目）",
+      "count": 0
+    },
+    {
+      "source": "官方：OpenBMC releases",
+      "status": "目前無法取得（近 48 小時沒有符合主題且有日期的項目）",
+      "count": 0
+    },
+    {
+      "source": "官方：Hugging Face",
+      "status": "目前無法取得（近 48 小時沒有符合主題且有日期的項目）",
+      "count": 0
+    },
+    {
+      "source": "研究：arXiv AI",
+      "status": "目前無法取得（沒有可解析的 RSS/Atom 項目）",
+      "count": 0
+    },
+    {
+      "source": "ServeTheHome",
+      "status": "已取得 1 則近 48 小時科技項目",
+      "count": 1
+    },
+    {
+      "source": "TechNews 台灣",
+      "status": "已取得 24 則近 48 小時科技項目",
+      "count": 24
+    },
+    {
+      "source": "X",
+      "status": "目前無法取得（介面保留，尚未接入 API）",
+      "count": 0
+    }
+  ]
+}
