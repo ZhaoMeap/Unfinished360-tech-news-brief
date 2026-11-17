@@ -65253,5 +65253,516 @@
         "半導體"
       ]
     }
+  },
+  {
+    "event_id": "evt-2a1aa95e2d8c8b735a81",
+    "article": {
+      "title": "AI server tracker: TSMC, Alchip post big October gains powered by 2nm and ASIC orders",
+      "url": "https://www.digitimes.com/news/a20261117VL216/revenue-growth-taiwan-semiconductor-supply-chain-tsmc-2nm.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-17T08:27:15+00:00",
+      "short_snippet": "Taiwan's semiconductor supply chain generally saw strong growth in October, driven mainly by AI and advanced-process demand. TSMC's revenue for that month rose nearly 60% year-over-year, while chip designers are buoyed by large orders from overseas customers.",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-63955ff51ce689e079c7",
+    "article": {
+      "title": "AI agents emerge as a new cybersecurity threat, ahead of quantum computing risks",
+      "url": "https://www.digitimes.com/news/a20261117PD237/cybersecurity-quantum-computing-taiwan-moda-software.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-17T08:20:00+00:00",
+      "short_snippet": "Rapid advances in agentic AI have created new cybersecurity risks well before quantum computing manages to break encryption, warned Taiwan's National Science and Technology Council (NSTC) at its 24th committee meeting on November 16. During the meeting, Ministry of Digital Affairs (MODA) deputy minister Chia-lin Yang reported on the outlook for industrial digital transformation and AI ecosystems.",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-2385b24827d1adf142ab",
+    "article": {
+      "title": "US says it began probing Nvidia's Singapore customer in 2024, months before Singapore's own case",
+      "url": "https://www.digitimes.com/news/a20261117VL215/nvidia-2024-2025-investigation-2026.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-17T07:42:14+00:00",
+      "short_snippet": "The US Department of Commerce and Department of Justice issued a joint statement on November 16 on their investigation into Megaspeed, a Singapore company.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-2b48acb83a9a9efdcd06",
+    "article": {
+      "title": "Okgo targets storage microgrids and European e-bike market",
+      "url": "https://www.digitimes.com/news/a20261117PD215/electric-scooter-electricity-solar-business.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-17T07:03:26+00:00",
+      "short_snippet": "Okgo Techno is expanding beyond its core solar engineering business into energy storage microgrids and smart e-bike services, with subsidiary Okgo Integrated Systems' platform integrating electric-assist bicycle, battery, and fleet-management data to enter international markets.",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d3feeb41b537c09ef960",
+    "article": {
+      "title": "IEI Integration targets medical edge AI at MEDICA 2026",
+      "url": "https://www.digitimes.com/news/a20261117PD236/medical-iei-integration-pc-ipc-2026.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-17T06:56:28+00:00",
+      "short_snippet": "Industrial PC (IPC) provider IEI Integration and its medical subsidiary BriteMED are showcasing medical edge AI computing and smart healthcare solutions at MEDICA 2026 in Düsseldorf, Germany. Under the theme \"Smart Healthcare,\" the companies are presenting medical information and mobile workstations, medical imaging displays, physiological measurement and diagnostics, and ODM, JDM, OEM, and CMS cu",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d7f5ba93e626a3395678",
+    "article": {
+      "title": "SK Hynix links partner park, Trinity Fab to accelerate supplier commercialization",
+      "url": "https://www.digitimes.com/news/a20261117PD232/sk-hynix-trinity-supplier-equipment-technology.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-17T06:55:00+00:00",
+      "short_snippet": "Centered on its Yongin semiconductor cluster, SK Hynix is combining a supplier partner park adjacent to its mass-production fabs, the Trinity Fab verification facility, and R&D and financial backing to help vendors bridge the gap from technology development to commercial deployment. Specialty gas supplier TEMC plans to introduce neon gas recycling technology at the Yongin cluster in 2027, while se",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-8e360382b87842fc5cc2",
+    "article": {
+      "title": "Taiwan urged to pursue affordable AI, as Jensen Huang's Nvidia exit adds uncertainty to AI hardware standards",
+      "url": "https://www.digitimes.com/news/a20261116PD238/taiwan-nvidia-jensen-huang-affordable-edge-ai-hardware.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-17T06:51:09+00:00",
+      "short_snippet": "Taiwan's Minister of the National Science and Technology Council Cheng-wen Wu pointed out at a recent press conference on November 16 that the technology rivalry between the US and China is highly complex, with many US strategies contradicting one another. He added that while it remains unclear whether Nvidia founder Jensen Huang will return to his role as CEO, the future of common standards for A",
+      "tags": [
+        "AI",
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-bd3c7a7857c2f5c2f5ba",
+    "article": {
+      "title": "HBMs beyond Nvidia: Why Samsung has the most to gain from Jensen's exit",
+      "url": "https://www.digitimes.com/news/a20261117PD239/nvidia-samsung-hbm-market-amd.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-17T06:46:13+00:00",
+      "short_snippet": "With Nvidia CEO Jensen Huang stepping down, market observers expect the AI chip landscape to gradually move away from Nvidia's near-monopoly, with HBM demand shifting toward non-Nvidia buyers such as Google and AMD. Analysts suggest that in this so-called \"post-Huang era,\" Samsung Electronics stands to emerge as the biggest beneficiary.",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-2de9b5893b57761ae88b",
+    "article": {
+      "title": "SK Hynix accelerates Yongin Y1 cleanroom opening as AI memory demand surges",
+      "url": "https://www.digitimes.com/news/a20261117PD231/sk-hynix-cleanroom-memory-equipment-demand.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-17T05:53:11+00:00",
+      "short_snippet": "SK Hynix is accelerating construction of its new semiconductor fabrication facility in Yongin, South Korea, amid rapidly growing demand for artificial intelligence (AI) memory.",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-2098544f14e365a8efbc",
+    "article": {
+      "title": "APEC Shenzhen summit puts China's tech giants in the spotlight for global cooperation",
+      "url": "https://www.digitimes.com/news/a20261117PD233/apec-shenzhen-business-digital-economy-2026.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-17T05:43:29+00:00",
+      "short_snippet": "The 2026 Asia-Pacific Economic Cooperation (APEC) Business Leaders' Summit opened in Shenzhen, China, on November 17, bringing together more than 2,000 government and business representatives and executives from 115 Fortune Global 500 companies. With AI, the digital economy, and green transformation high on the agenda, the gathering highlights Chinese technology and manufacturing companies' effort",
+      "tags": [
+        "監管",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-310f4abcd3499a2a14f7",
+    "article": {
+      "title": "Kolon Industries' CPI film lines run full for Apple's foldable iPhone Duo",
+      "url": "https://www.digitimes.com/news/a20261117PD226/polyimide-film-apple-foldable-iphone-chemical-materials-capacity.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-17T04:48:33+00:00",
+      "short_snippet": "South Korean chemical materials specialist Kolon Industries has begun supplying transparent polyimide (CPI) film for Apple's first foldable iPhone, with its production lines operating at full capacity and potential expansion increasingly in focus.",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-110375c9ddb2caa25e18",
+    "article": {
+      "title": "SK Hynix's US revenue tops 60%, exposing Nvidia's growing weight in AI memory sales",
+      "url": "https://www.digitimes.com/news/a20261117VL211/sk-hynix-memory-nvidia-revenue-sales-2026.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-17T04:41:25+00:00",
+      "short_snippet": "SK Hynix generated more than 60% of its revenue from the US in the first nine months of 2026, with sales to its presumed largest customer, Nvidia, doubling from a year earlier. Strong demand for high-bandwidth memory (HBM) and conventional memory chips has sharply increased the South Korean chipmaker's exposure to American technology companies.",
+      "tags": [
+        "AI",
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0f51652bd13bb9e3460b",
+    "article": {
+      "title": "I'm sure it's a coincidence that Howard Lutnick's sons have $362 million in Nvidia",
+      "url": "https://www.reddit.com/r/technology/comments/1xyddcx/im_sure_its_a_coincidence_that_howard_lutnicks/",
+      "source": "Reddit",
+      "published_at": "2026-11-17T06:36:46+00:00",
+      "short_snippet": "submitted by /u/Just-Grocery-2229 [link] [comments]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-4036ea98cc4dc36fe86c",
+    "article": {
+      "title": "Taipei 101 lights up in support of Jensen Huang after Nvidia exit",
+      "url": "https://www.reddit.com/r/technology/comments/1xycn1e/taipei_101_lights_up_in_support_of_jensen_huang/",
+      "source": "Reddit",
+      "published_at": "2026-11-17T05:54:48+00:00",
+      "short_snippet": "submitted by /u/Logical_Welder3467 [link] [comments]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c380405a05018ad8d879",
+    "article": {
+      "title": "Anthropic says Claude Mythos slashed software work to onboard AMD GPUs from up to 12 months to around three days —writing almost 100% of kernels autonomously chips away at Nvidia's CUDA moat",
+      "url": "https://www.reddit.com/r/technology/comments/1xy4a4f/anthropic_says_claude_mythos_slashed_software/",
+      "source": "Reddit",
+      "published_at": "2026-11-16T23:08:06+00:00",
+      "short_snippet": "submitted by /u/Logical_Welder3467 [link] [comments]",
+      "tags": [
+        "AI",
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-2cafe34cbc0c56701cec",
+    "article": {
+      "title": "晶片散熱迎來新解方：科學家將玻璃拉至「單原子寬」，意外解鎖極限熱傳導",
+      "url": "https://technews.tw/2026/11/17/single-atom-glass-revolutionizes-chip-cooling/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-17T08:50:33+00:00",
+      "short_snippet": "我們通常直覺認為玻璃是優異的絕緣與隔熱材料，但一項刊登於《Nature Nanotechnology》的最新研 […]",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-4717a864326f43b6dfdd",
+    "article": {
+      "title": "從 CAD 跨足高階 CAE！實威憑 SIMULIA 切入 AI 與網通供應鏈商機",
+      "url": "https://finance.technews.tw/2026/11/17/simulia/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-17T08:42:34+00:00",
+      "short_snippet": "隨著全球 AI、半導體及高效能運算產業持續擴大投資，帶動企業對產品研發設計、工程模擬分析及智慧製造的需求升溫， […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-477c810dae5e5e78578b",
+    "article": {
+      "title": "55 吋 E Ink Marquee 彩色資訊看板進駐國資圖，結合生成式 AI 互動",
+      "url": "https://technews.tw/2026/11/17/55-inch-color-epaper-signage-rolled-out-at-nlpi/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-17T08:39:34+00:00",
+      "short_snippet": "元太科技的 55 吋 E Ink Marquee 彩色電子紙看板首度應用落地，導入位於台中的國立公共資訊圖書館 […]",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6cac1789d745cc344d61",
+    "article": {
+      "title": "黃仁勳去職牽動 AI 建設布局，輝達融資平台恐趨保守",
+      "url": "https://finance.technews.tw/2026/11/17/nvidia-financing-platform-may-turn-more-cautious/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-17T08:30:51+00:00",
+      "short_snippet": "輝達在黃仁勳辭去執行長後，規模達 5,000 億美元（約 16.5 兆元新台幣）的 AI 融資平台雖不太可能就 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-83c9c017f573c033eb15",
+    "article": {
+      "title": "醜聞風暴前夕布局？黃仁勳 3 月就將逾 105 億美元輝達股票轉入家族信託",
+      "url": "https://finance.technews.tw/2026/11/17/jensen-huang-and-wife-transferred-more-than-10-5-billion-to-family-trust-in-march-2026/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-17T08:25:23+00:00",
+      "short_snippet": "輝達（NVIDIA）前執行長黃仁勳辭去執行長約八個月前，已與妻子洛莉·黃（Lori Huang）將約 5,89 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f54b517dd062a6ef455a",
+    "article": {
+      "title": "OpenAI 奧特曼談黃仁勳：英雄並不完美，強勁市場需求將支撐 AI 產業發展",
+      "url": "https://technews.tw/2026/11/17/sam-altman-speaks-at-silicon-valley-and-the-world-2/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-17T08:14:47+00:00",
+      "short_snippet": "NVIDIA 上週宣布黃仁勳（Jensen Huang）辭去執行長職位，由財務長柯蕾絲（Colette Kre […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ddddd775571a0efeabaa",
+    "article": {
+      "title": "SpaceX 採高通 5G 晶片方案，有望降低數萬座基地台部署成本",
+      "url": "https://technews.tw/2026/11/17/spacex-qualcomm-5g-chip-tens-thousands-base-station-deployment-cost-reduction/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-17T08:11:50+00:00",
+      "short_snippet": "近日 SpaceX 與高通宣布簽訂多年期供應合約，未來 SpaceX 基地台將大量搭載高通 Dragonwin […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-2f9d0f52b516e69ba604",
+    "article": {
+      "title": "蘋果 AI 進入付費時代？Siri 複雜指令與圖片生成將受「每台裝置」額度管控",
+      "url": "https://technews.tw/2026/11/17/apple-siri-ai-usage-limit/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-17T08:10:16+00:00",
+      "short_snippet": "蘋果（Apple）近期正針對 Siri AI 與部分 Apple Intelligence 功能，測試全新的「 […]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-cb0d27bc12d5fa8cabb8",
+    "article": {
+      "title": "微軟公布 Microsoft 365 大當機原因：潛伏四個月的程式缺陷加上兩個意外，八成伺服器停擺",
+      "url": "https://technews.tw/2026/11/17/microsoft-reveals-hidden-bug-behind-global-outlook-and-microsoft-365-outage/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-17T08:00:38+00:00",
+      "short_snippet": "微軟（Microsoft）執行副總裁 Charles Lamanna 在 X 發文說明 11 月 12 日 M […]",
+      "tags": [
+        "資料中心",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-46a6968b73a1359c6bb9",
+    "article": {
+      "title": "美晶片禁令下另闢蹊徑，中企藉美 AI 模型訓練自家系統",
+      "url": "https://technews.tw/2026/11/17/chinese-firms-use-us-ai-models-to-train-their-own-systems/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-17T07:50:12+00:00",
+      "short_snippet": "文件顯示，在美國對中國取得晶片一事收緊限制之際，中國實體正採取日益複雜的手法，利用美國頂尖 AI 模型的輸出結 […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-827d512ca52d0572bf1b",
+    "article": {
+      "title": "美商務部公布晶片出口管制新規，封殺中國繞道海外晶圓代工與封測通路",
+      "url": "https://technews.tw/2026/11/17/the-us-is-blocking-chinas-access-to-overseas-manufacturing-and-packagingtesting-services/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-17T07:10:33+00:00",
+      "short_snippet": "美國商務部於 17 日正式公布新一輪先進計算與半導體出口管制暫行最終規則（IFR），市場輿論多聚焦於防堵中國企 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e174d78cb4590ba8521a",
+    "article": {
+      "title": "美國超大規模資料中心耗能與碳排驚人，一年排放量直逼丹麥全國",
+      "url": "https://technews.tw/2026/11/17/hyperscale-data-centers-energy-consumption-carbon-emissions-newly-estimated-by-researchers/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-17T07:00:40+00:00",
+      "short_snippet": "哈佛大學最新研究指出，美國超大規模資料中心的耗電與碳排放，已達令人震驚的程度。團隊估算 403 座超大規模資料 […]",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-8021918f38a46fac8636",
+    "article": {
+      "title": "美嚴控先進 AI 晶片出口，供應鏈：製造流向有既定機制監管",
+      "url": "https://technews.tw/2026/11/17/us-strict-controls-advanced-ai-chip-exports-supply-chain-manufacturing-flows-established-mechanisms-regulate/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-17T06:50:38+00:00",
+      "short_snippet": "美國政府發布新規進一步限制晶片出口至海外資料中心，4 位產業人士今天接受記者詢問表示，對半導體上游供應鏈影響有 […]",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心",
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-83c969882a548c41b5ca",
+    "article": {
+      "title": "AI 抓漏速度遠超以往，Anthropic 宣布重大資安漏洞揭露期限縮短至 30 天",
+      "url": "https://infosecu.technews.tw/2026/11/17/anthropic-shortens-security-vulnerability-disclosure-period/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-17T06:30:52+00:00",
+      "short_snippet": "Anthropic 旗下的 Frontier Red Team 宣布，自 2027 年 1 月 1 日起通報的 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-1185fb4d03ee81bbd05c",
+    "article": {
+      "title": "防堵 AI 遭濫用於兒少性剝削，OpenAI 推出偵測工具並升級 ChatGPT 防護",
+      "url": "https://technews.tw/2026/11/17/openai-launches-tool-for-finding-child-sexual-abuse-material/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-17T06:20:48+00:00",
+      "short_snippet": "OpenAI 11 月 16 日宣布，將進一步強化防堵人工智慧遭濫用於兒少性剝削的措施，內容涵蓋新的影像分類器 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-9356c2d17f844e5def0a",
+    "article": {
+      "title": "輝達董事會成員賺翻，持股與賣股收益累積逾 150 億美元",
+      "url": "https://finance.technews.tw/2026/11/17/how-nvidias-board-made-billions-while-overseeing-the-company/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-17T06:10:19+00:00",
+      "short_snippet": "輝達（NVIDIA）董事會成員近二十年來從董事酬勞與持股中累積的財富，成為市場關注焦點。根據相關資料，這些董事 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-650449f3153a55f222e6",
+    "article": {
+      "title": "SpaceX 星艦完成創舉、股價仍軟 星鏈面臨調查",
+      "url": "https://finance.technews.tw/2026/11/17/spacex-starship-completes-milestone-stock-remains-soft-starlink-faces-investigation/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-17T06:00:37+00:00",
+      "short_snippet": "馬斯克旗下太空科技公司 SpaceX 完成首次接回星艦飛船的創舉，股價仍走低，旗下衛星通訊服務星鏈（Starl […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-8be7b3fbe265e30b2baa",
+    "article": {
+      "title": "神雲科技於 SC26 展出全棧基礎設施，擴展代理式 AI 應用",
+      "url": "https://technews.tw/2026/11/17/mitac-sc26/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-17T06:00:31+00:00",
+      "short_snippet": "全球高效能伺服器解決方案領導者神達控股股份有限公司子公司神雲科技（MiTAC Computing Techno […]",
+      "tags": [
+        "AI",
+        "資料中心",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-343af526725239796afe",
+    "article": {
+      "title": "臺美韓能源三強聯手！搶攻 AI 電力基礎建設商機，GE Vernova、SK On、熙特爾簽署戰略合作 MOU",
+      "url": "https://technews.tw/2026/11/17/gevernova-seetel-skon-mou/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-17T05:15:52+00:00",
+      "short_snippet": "隨著全球 AI 資料中心建置加速，電力供應與能源基礎建設需求持續攀升，國際能源產業迎來新一波合作契機。美國能源 […]",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f47b50544447747f350d",
+    "article": {
+      "title": "全台基層技術員大缺工！日月光砸千億元擴產祭年薪 80 萬仍難求",
+      "url": "https://finance.technews.tw/2026/11/17/technician/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-17T05:02:24+00:00",
+      "short_snippet": "經濟部投資台灣事務所日前通過日月光等三家企業投資案，其中半導體封測大廠日月光規劃投入 1,237 億元，擴充高 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-758bbc0c7189c2853db7",
+    "article": {
+      "title": "IMF 警告全球經濟過度依賴 AI 產業，恐危及金融穩定",
+      "url": "https://finance.technews.tw/2026/11/17/imf-warns-global-economy-over-reliance-ai-industry-financial-stability-risk/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-17T05:00:07+00:00",
+      "short_snippet": "國際貨幣基金（IMF）總裁喬治艾娃（Kristalina Georgieva）今天警告，全球經濟過度依賴人工智 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-36b412b4e09a9d222c2f",
+    "article": {
+      "title": "iOS 27.3 測試版釋出，iPhone Duo 喜迎「臉部解鎖」與「闔上即上鎖」兩大升級",
+      "url": "https://technews.tw/2026/11/17/ios-27-3-new-features/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-17T04:50:36+00:00",
+      "short_snippet": "蘋果（Apple）在最新的 iOS 27.3 測試版中，特別針對旗下摺疊手機 iPhone Duo 推出了兩項 […]",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
   }
 ]
