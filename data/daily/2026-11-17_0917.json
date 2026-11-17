@@ -1,0 +1,2458 @@
+{
+  "version": 2,
+  "collected_at": "2026-11-17T04:46:34.847079+00:00",
+  "scheduled_slot_id": "daily-2026-11-17-0917",
+  "report_file": "reports/daily/2026-11-17_0917_editor.md",
+  "articles": [
+    {
+      "title": "Regional voices are rolling out in the Gemini app.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/regional-voices/",
+      "source": "官方：Google",
+      "published_at": "2026-11-16T18:45:00+00:00",
+      "short_snippet": "Gemini now offers 66 regional voices on Android and iOS. Choose a natural, local dialect for your app interactions. Pick your favorite voice today.",
+      "tags": [
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "The era of autonomous attacks has arrived.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gtig-ai-threat-tracker-q4-2026/",
+      "source": "官方：Google",
+      "published_at": "2026-11-16T18:30:00+00:00",
+      "short_snippet": "See how bad actors are shifting to autonomous attacks and how Google AI Threat Defense uses Gemini to defend against them.",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    },
+    {
+      "title": "New Google AdMob AI tools help app creators build, fix, and grow faster",
+      "url": "https://blog.google/products/publisher-connections/new-google-admob-tools/",
+      "source": "官方：Google",
+      "published_at": "2026-11-16T17:00:00+00:00",
+      "short_snippet": "Introducing Ask AdMob, with various example prompts",
+      "tags": [
+        "AI",
+        "Big Tech",
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "New AI training performance benchmarks for Google TPUs",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/training-performance-benchmarks-tpus/",
+      "source": "官方：Google",
+      "published_at": "2026-11-16T16:00:00+00:00",
+      "short_snippet": "In the latest MLPerf Training v6.1 benchmark round, Google Cloud published 10 results across seventh-generation Ironwood TPUs and NVIDIA Grace Blackwell GPUs, spanning f…",
+      "tags": [
+        "AI",
+        "半導體",
+        "Big Tech"
+      ]
+    },
+    {
+      "title": "Transform notes, research, and sources into interactive sites with Gemini Notebook.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites/",
+      "source": "官方：Google",
+      "published_at": "2026-11-16T16:00:00+00:00",
+      "short_snippet": "Gemini Notebook now turns your research into interactive sites. Build project trackers and visual dashboards with Google. Create your site today.",
+      "tags": [
+        "Big Tech"
+      ]
+    },
+    {
+      "title": "Navigate holiday traffic and crowds with Google Maps trends",
+      "url": "https://blog.google/products-and-platforms/products/maps/holiday-thanksgiving-travel-trends-2026/",
+      "source": "官方：Google",
+      "published_at": "2026-11-16T14:00:00+00:00",
+      "short_snippet": "The illustration shows a woman using a Google Maps on a phone.",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "What teenagers really think about online safety and AI",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/what-teenagers-really-think-about-online-safety-and-ai/",
+      "source": "官方：Google",
+      "published_at": "2026-11-16T08:00:00+00:00",
+      "short_snippet": "ParentZone logo with purple background",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
+      "url": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
+      "source": "官方：NVIDIA",
+      "published_at": "2026-11-16T23:00:05+00:00",
+      "short_snippet": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and developers. The kit is a four-node cluster of NVIDIA DGX Spark systems, each connected directly to its two neighbors in a ring, with an NVIDIA HPC SDK installation playbook coming […]",
+      "tags": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
+      "url": "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain/",
+      "source": "官方：NVIDIA",
+      "published_at": "2026-11-16T20:00:37+00:00",
+      "short_snippet": "Deb Shoquist leads operations at NVIDIA, overseeing the supply chain and manufacturing behind its AI platforms. That description sums up the job, but it doesn’t begin to encompass what Shoquist has made possible over decades. Shoquist, her team and their global network of manufacturing partners enable NVIDIA to introduce world-leading technologies year-round. Much of the […]",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心",
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
+      "url": "https://blogs.nvidia.com/blog/lambda-photonics/",
+      "source": "官方：NVIDIA",
+      "published_at": "2026-11-16T16:00:51+00:00",
+      "short_snippet": "To train an AI model, thousands of GPUs have to work together, requiring a network that’s fast, efficient and resilient. Lambda is tackling the network piece of the puzzle with NVIDIA Photonics co-packaged optics (CPO) switches. The cloud provider is using the switches to connect NVIDIA GB300 NVL72 racks with more than 10,000 GPUs, delivering […]",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心"
+      ]
+    },
+    {
+      "title": "NVIDIA Expands Slurm to Bring Quantum Computing Into Supercomputing",
+      "url": "https://blogs.nvidia.com/blog/slurm-quantum-computing-supercomputing/",
+      "source": "官方：NVIDIA",
+      "published_at": "2026-11-16T16:00:47+00:00",
+      "short_snippet": "Quantum processor deployments at supercomputing centers have grown nearly sevenfold over the past five years, with nearly 30 supercomputing centers around the world now in the process of deploying over 50 quantum processors. Many of these centers use Slurm to run scientific supercomputing workloads, so expanding its support for quantum processors builds on familiar workflows […]",
+      "tags": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance",
+      "url": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/",
+      "source": "官方：NVIDIA",
+      "published_at": "2026-11-16T16:00:25+00:00",
+      "short_snippet": "In its MLPerf benchmarks debut, with results released today, the NVIDIA Vera Rubin platform delivers leading performance across training, post-training and agentic inference. NVIDIA swept every MLPerf Training v6.1 benchmark and, in its first MLPerf Endpoints submission, delivered more than 10x generational gains in throughput per watt for agentic AI — measuring how much agentic […]",
+      "tags": [
+        "AI",
+        "半導體",
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery",
+      "url": "https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/",
+      "source": "官方：NVIDIA",
+      "published_at": "2026-11-16T16:00:16+00:00",
+      "short_snippet": "With expanded NVIDIA CUDA-X libraries, including cuPhoton, cuPotential and cuSpa, researchers can sift through vast amounts of data to accelerate research, from astrophysics and materials science to single-cell biology. The speedups are helping scientists analyze larger datasets and model more complex systems. The new libraries give AI agents the tools to help researchers make discoveries […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    },
+    {
+      "title": "CUDA at 20: How the Platform Transformed Scientific Computing",
+      "url": "https://blogs.nvidia.com/blog/20-years-cuda/",
+      "source": "官方：NVIDIA",
+      "published_at": "2026-11-16T16:00:11+00:00",
+      "short_snippet": "This week at SC26, NVIDIA is marking two decades of CUDA by honoring the researchers, developers and engineers who helped make GPU computing a foundation for modern science and AI. CUDA’s 20th anniversary presents an occasion to reflect across computing eras, from the people who wrote the very first CUDA programs to the AI developers […]",
+      "tags": [
+        "AI",
+        "半導體",
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics",
+      "url": "https://blogs.nvidia.com/blog/rubin-hpc/",
+      "source": "官方：NVIDIA",
+      "published_at": "2026-11-16T16:00:01+00:00",
+      "short_snippet": "Announced today at SC26, NVIDIA Rubin HPC is a new GPU in the NVIDIA Vera Rubin platform designed to accelerate simulation and data processing for science, engineering and analytics workflows. As agents help scientists and engineers explore more candidate materials, molecules and designs, they rely on simulations to test those ideas and guide their next […]",
+      "tags": [
+        "AI",
+        "半導體",
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
+      "url": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
+      "source": "官方：NVIDIA",
+      "published_at": "2026-11-16T00:00:28+00:00",
+      "short_snippet": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical AI and AI agents. At the plenary sessions, Deepu Talla, vice president of robotics and edge AI at NVIDIA, said Korea is “punching above its weight,” with Doosan Robotics, Hyundai […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    },
+    {
+      "title": "Apple launches research study to explore the use of AI for health",
+      "url": "https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/",
+      "source": "官方：Apple Newsroom",
+      "published_at": "2026-11-16T01:18:33+00:00",
+      "short_snippet": "Apple today announced the launch of the Apple Health AI Usage Study in the United States, which includes a virtual research study and associated app.",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    },
+    {
+      "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+      "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+      "source": "The Verge",
+      "published_at": "2026-11-16T23:17:34+00:00",
+      "short_snippet": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the result of a plot against the former CEO. At the […]",
+      "tags": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "United Airlines system outage disrupts departures just days after the big ground stop",
+      "url": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures",
+      "source": "The Verge",
+      "published_at": "2026-11-16T22:54:59+00:00",
+      "short_snippet": "Less than a week after an issue with air traffic control communications and radar caused the FAA to halt takeoffs nationwide, United Airlines departing flights are being disrupted by an outage. At 6:13PM ET, United said the problem has been fixed: Earlier today we experienced a technology-related issue that impacted some departing flights. The issue […]",
+      "tags": [
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "California sues OpenAI over rogue AI hacking incidents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+      "source": "The Verge",
+      "published_at": "2026-11-16T20:46:01+00:00",
+      "short_snippet": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\" as reported earlier by Reuters. The lawsuit claims the […]",
+      "tags": [
+        "AI",
+        "監管"
+      ]
+    },
+    {
+      "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+      "source": "The Verge",
+      "published_at": "2026-11-16T20:41:28+00:00",
+      "short_snippet": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think the home tinkering is great.\" […]",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
+      "url": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
+      "source": "The Verge",
+      "published_at": "2026-11-16T20:29:37+00:00",
+      "short_snippet": "Constellation Energy - America's largest operator of nuclear power plants - does not share Wall Street's concerns that the Democrats will slow down data center development. On the company's third-quarter earnings call last week, CEO Joe Dominguez was, for lack of a better word, unbothered as he addressed the blue wave. \"I do think we've […]",
+      "tags": [
+        "資料中心"
+      ]
+    },
+    {
+      "title": "US data centers now burn more electricity than a midsized country",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
+      "source": "The Verge",
+      "published_at": "2026-11-16T20:27:58+00:00",
+      "short_snippet": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively than many countries do, resulting in a serious amount of greenhouse gas emissions. The study homes in on hyperscale facilities - the […]",
+      "tags": [
+        "資料中心"
+      ]
+    },
+    {
+      "title": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
+      "url": "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale",
+      "source": "The Verge",
+      "published_at": "2026-11-16T19:50:47+00:00",
+      "short_snippet": "If you’re still sporting an Apple Watch that launched five or so years ago, now is a good time to upgrade. Apple’s latest smartwatch, the 42mm Apple Watch Series 12 with Wi-Fi and GPS connectivity, has dropped to a new all-time low of $329 at Amazon, Best Buy, and Walmart, beating the October Prime Day […]",
+      "tags": [
+        "Big Tech"
+      ]
+    },
+    {
+      "title": "AI infrastructure demand sustains Taiwan suppliers as Vera Rubin ramp stays on track",
+      "url": "https://www.digitimes.com/news/a20261117PD229/market-infrastructure-rubin-nvidia-investment.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-17T04:29:01+00:00",
+      "short_snippet": "Despite market concerns over massive capital spending by cloud service providers (CSPs), weaker-than-expected investment returns, shifts in the US Congress after the midterm elections, and changes among Nvidia's senior executives, AI infrastructure investment is expected to continue. Supply chain sources said Nvidia's Vera Rubin remains scheduled to enter volume shipments in the first quarter of 2",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    },
+    {
+      "title": "Daxin aims for semiconductor materials to exceed half of revenue by 2030",
+      "url": "https://www.digitimes.com/news/a20261117PD213/materials-revenue-daxin-demand-2026.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-17T04:28:47+00:00",
+      "short_snippet": "AI demand for advanced-process and advanced-packaging materials is accelerating Daxin Materials' shift from display materials to broader materials solutions. The Taiwan-based supplier aims for semiconductor materials to account for more than half of its revenue by 2030.",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    },
+    {
+      "title": "Samsung Foundry targets defense, robotics markets through South Korea's homegrown AI chip initiative",
+      "url": "https://www.digitimes.com/news/a20261117PD220/samsung-foundry-ai-chip-samsung-chips-manufacturing.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-17T04:21:33+00:00",
+      "short_snippet": "South Korea's push to develop domestically designed artificial intelligence (AI) chips is opening new opportunities for Samsung Electronics' foundry business, which is looking to expand into defense and robotics markets it had previously been reluctant to enter.",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    },
+    {
+      "title": "Europe and Japan deepen semiconductor ties as imec expands in Hokkaido and JASMINE mobilizes",
+      "url": "https://www.digitimes.com/news/a20261117VL212/europe-japan-semiconductors-equipment-materials-industrial-imec.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-17T04:15:29+00:00",
+      "short_snippet": "Europe and Japan are accelerating bilateral semiconductor integration, combining complementary strengths across fundamental research, materials, fabrication equipment, and engineering talent.",
+      "tags": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "Memory price rally dents Wi-Fi router shipments in peak third quarter",
+      "url": "https://www.digitimes.com/news/a20261117PD209/shipments-wi-fi-router-price-wi-fi-7.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-17T04:02:51+00:00",
+      "short_snippet": "Global Wi-Fi router shipments slipped in the third quarter of 2026, a period traditionally seen as the industry's peak season, as a memory price rally that has run for more than a year with no sign of easing disrupted networking vendors' shipment schedules, according to the latest DIGITIMES report.",
+      "tags": [
+        "半導體",
+        "資料中心"
+      ]
+    },
+    {
+      "title": "Huawei targets robotics' next frontier with Ascend-powered world model and CloudRobo push",
+      "url": "https://www.digitimes.com/news/a20261117VL208/huawei-cloud-ascend-robot-development.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-17T03:55:00+00:00",
+      "short_snippet": "Huawei Cloud is extending its artificial intelligence ambitions into physical AI, launching an open-source robot world model trained on its Ascend computing platform while advancing commercial deployment through partnerships with robotics manufacturers.",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "Samsung develops custom HBM for Meta, adopts 2nm process",
+      "url": "https://www.digitimes.com/news/a20261117PD225/samsung-hbm-meta-2nm-nvidia.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-17T03:45:00+00:00",
+      "short_snippet": "Samsung Electronics is reportedly developing custom high-bandwidth memory (HBM) for Meta's self-designed AI chips, with plans to use Samsung Foundry's 2nm process for the base die. The company is also preparing custom HBM base dies using TSMC processes for Nvidia, according to South Korean media.",
+      "tags": [
+        "AI",
+        "半導體",
+        "Big Tech"
+      ]
+    },
+    {
+      "title": "Xintec, TSMC sign 7-year capacity outsourcing agreement to build on-substrate production line",
+      "url": "https://www.digitimes.com/news/a20261116PD237/xintec-substrate-production-capacity-outsourcing-tsmc.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-17T03:44:38+00:00",
+      "short_snippet": "In response to strong capacity demand for high-performance computing (HPC) chips, Xintec has signed a seven-year capacity outsourcing agreement with its parent company TSMC to collaborate on backend advanced packaging processes and deepen their long-term strategic partnership.",
+      "tags": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "TSMC leads company mentions in petition seeking Jensen Huang's return",
+      "url": "https://www.digitimes.com/news/a20261117VL210/tsmc-jensen-huang-nvidia-technology-taiwan.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-17T03:35:01+00:00",
+      "short_snippet": "TSMC stands out among the public signatures supporting Jensen Huang's return to Nvidia: 485 entries name the chipmaker, more than four times the number naming any other Taiwanese technology company, based on an analysis of the campaign's records.",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "Foxconn sees AI driving double-digit growth in 2027",
+      "url": "https://www.digitimes.com/news/a20261117PD211/foxconn-2027-growth-demand-expansion.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-17T03:27:58+00:00",
+      "short_snippet": "Foxconn expects its AI-driven expansion to support double-digit growth in 2027, as demand for computing power and infrastructure outpaces broader industry trends. The outlook points to continued investment by cloud providers worldwide, while shortages of chips, memory, and other components, alongside economic and geopolitical risks, could constrain supply and profitability.",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    },
+    {
+      "title": "Shinko Electric to lease JDI Mobara plant to Ebara for 12 years",
+      "url": "https://www.digitimes.com/news/a20261117PD227/shinko-electric-jdi-plant-equipment-capacity.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-17T03:23:45+00:00",
+      "short_snippet": "Shinko Electric Industries will lease part of the JDI Mobara plant, which it plans to acquire, to semiconductor equipment maker Ebara for 12 years starting in April 2027, allowing Ebara to use existing cleanrooms to accelerate capacity expansion.",
+      "tags": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "Analysis: TSMC's venture capital strategy targets both ends of AI ecosystem to secure demand and strengthen supply",
+      "url": "https://www.digitimes.com/news/a20261117PD223/tsmc-venture-capital-investment-development.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-17T03:16:14+00:00",
+      "short_snippet": "TSMC Senior Vice President Kevin Zhang recently revealed in an interview with Nikkei that the company plans to establish a US$500 million venture capital fund to identify and support semiconductor startups with the potential to become the \"next Nvidia.\"",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    },
+    {
+      "title": "Samsung's AI glasses take on Meta with December launch",
+      "url": "https://www.digitimes.com/news/a20261117PD207/samsung-launch-meta-google-market.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-17T03:13:56+00:00",
+      "short_snippet": "Samsung Electronics will launch its first AI glasses after announcing a partnership with Google to enter the AI glasses market, challenging Meta's current dominance and potentially spurring new applications. Counterpoint Research expects the glasses to go on sale on December 10, 2026.",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    },
+    {
+      "title": "Taiwan unveils 2027–2030 tech blueprint to strengthen chip leadership, advance sovereign AI",
+      "url": "https://www.digitimes.com/news/a20261117PD222/taiwan-technology-2027-government-policy.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-17T03:01:39+00:00",
+      "short_snippet": "Taiwan is seeking to move from a technology follower to a proactive global technology strategist, with semiconductor leadership, sovereign artificial intelligence (AI), and cross-industry innovation at the center of its science and technology agenda for 2027–2030.",
+      "tags": [
+        "AI",
+        "半導體",
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "Baidu third-quarter revenue slips 1% as AI cloud nearly doubles and search ads shrink",
+      "url": "https://www.digitimes.com/news/a20261117VL203/baidu-revenue-advertising-cloud-2026.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-17T02:54:31+00:00",
+      "short_snippet": "Baidu's third quarter of 2026 showed a company whose center of gravity is moving from search advertising to selling computing power. Revenue for the three months ended September 30 fell 1% year-over-year to CNY30.8 billion (approx. US$4.61 billion), according to the company's unaudited results released on November 16. Still, the mix underneath that flat headline changed sharply: AI Cloud Infra rev",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Claude’s Office usage trails Copilot by a wide margin, Microsoft data reportedly shows",
+      "url": "https://www.digitimes.com/news/a20261117VL206/microsoft-copilot-claude-anthropic-data.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-17T02:48:26+00:00",
+      "short_snippet": "Microsoft's grip on its own software is proving a strong defense against Anthropic's push into workplace productivity, at least for now. Weekly users of Claude for Microsoft 365, the Anthropic features that let people work with Claude inside Office apps, amount to less than one-tenth of the weekly users of the paid version of Microsoft's Copilot in Office, The Information reported, citing an emplo",
+      "tags": [
+        "AI",
+        "Big Tech",
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "How Washington is pushing US AI abroad while locking out China",
+      "url": "https://www.digitimes.com/news/a20261117VL209/donald-trump-xi-jinping-apec-shenzhen-commercial.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-17T02:47:46+00:00",
+      "short_snippet": "As President Donald Trump prepares for talks with Chinese President Xi Jinping on the sidelines of the APEC summit in Shenzhen, the US administration is pairing aggressive commercial promotion with strict export enforcement to secure American leadership in artificial intelligence. Rather than relying solely on technology bans, Washington's evolving approach combines incentives to anchor foreign ma",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "Pegatron sees ASIC demand visibility extending to 2028",
+      "url": "https://www.digitimes.com/news/a20261117PD214/pegatron-demand-asic-2028-2027.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-17T02:42:53+00:00",
+      "short_snippet": "Pegatron expects its server business to grow severalfold again in 2027, with demand for some products, including ASICs, visible as far out as 2028, management told a recent investor conference.",
+      "tags": [
+        "資料中心"
+      ]
+    },
+    {
+      "title": "TCL CSOT tackles OLED's last major efficiency hurdle with blue phosphorescent displays",
+      "url": "https://www.digitimes.com/news/a20261117VL205/tcl-csot-oled-panel-display-efficiency.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-17T02:42:04+00:00",
+      "short_snippet": "TCL CSOT has showcased three blue phosphorescence-sensitised fluorescence (PSF) OLED displays spanning smartphones, tablets and compact cameras, marking progress in tackling one of OLED technology's longstanding efficiency challenges.",
+      "tags": [
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "TSMC 3nm enters HBM as NVHBM reshapes base-die competition",
+      "url": "https://www.digitimes.com/news/a20261117PD221/tsmc-3nm-hbm-competition-nvidia.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-17T02:33:53+00:00",
+      "short_snippet": "Demand for high-bandwidth memory (HBM) in AI chips is driving continued technological advances. According to analysis by SemiWiki, Nvidia's development of the Nvidia HBM (NVHBM) architecture could reshape not only HBM performance but also the division of labor across the HBM supply chain, extending competition beyond memory makers to base-die manufacturing.",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    },
+    {
+      "title": "Nvidia Vera Rubin rollout remains on track for 1Q27, ODMs say",
+      "url": "https://www.digitimes.com/news/a20261117PD219/quanta-inventec-ai-server-asic-nvidia-rubin-2027.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-17T02:23:18+00:00",
+      "short_snippet": "Despite uncertainty surrounding Nvidia CEO Jensen Huang's resignation, the US midterm elections and Democratic-led states' attitudes toward data center construction, Taiwanese ODMs remain optimistic about AI development in 2027. Their third-quarter earnings briefings indicate that both GPU and ASIC servers will continue growing, supporting further operating growth.",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心"
+      ]
+    },
+    {
+      "title": "Japan's Fugaku supercomputer hacked, raising corporate data concerns",
+      "url": "https://www.digitimes.com/news/a20261117PD200/supercomputer-data-operating-system-2026-culture.html?chid=10",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-17T02:22:18+00:00",
+      "short_snippet": "Japan's RIKEN research institute confirmed that the operating system of the national supercomputer Fugaku was accessed without authorization on November 12, 2026. RIKEN has notified Japan's Ministry of Education, Culture, Sports, Science and Technology and registered users, while concerns grow over the potential exposure of corporate R&D secrets and research security.",
+      "tags": [
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "Singapore engages with Washington on new US chip licence rule",
+      "url": "https://www.digitimes.com/news/a20261117VL207/data-center-nvidia-business.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-17T02:19:38+00:00",
+      "short_snippet": "Singapore said on November 17 that it is studying a new US export control rule that requires a licence for shipments of advanced semiconductors to the city-state, and that it has been in talks with US authorities on how the measure will be applied.",
+      "tags": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "Bharat Semi raises US$24 million to develop AI-enabled image sensors",
+      "url": "https://www.digitimes.com/news/a20261117PR200/startup-funding-surveillance-edge-design.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-17T02:15:46+00:00",
+      "short_snippet": "Indian semiconductor startup Bharat Semi has raised US$24 million in seed funding led by Info Edge Group, South Park Commons, and Indus Bridge Ventures. The investment will support developing AI-enabled image sensors, expanding engineering, and international growth, as the company targets 2027 production for smart home, industrial automation, surveillance, drone, and aerospace applications worldwi",
+      "tags": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "Analysis: A perfect tech match on paper? The disconnect holding back UK–Taiwan cooperation",
+      "url": "https://www.digitimes.com/news/a20261116VL219/taiwan-uk-manufacturing-production-commercial.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-17T02:15:30+00:00",
+      "short_snippet": "Britain has world-class semiconductor research and chip-design expertise. Taiwan commands one of the world's most sophisticated electronics manufacturing ecosystems. Yet bringing these complementary strengths together remains more complicated than the familiar formula of British innovation meeting Taiwanese production suggests.",
+      "tags": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "SK Hynix readies back-end equipment orders to add HBM4 capacity at Cheongju P&T6",
+      "url": "https://www.digitimes.com/news/a20261117VL200/sk-hynix-equipment-hbm4-capacity-hbm.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-17T02:12:27+00:00",
+      "short_snippet": "SK Hynix is preparing a further expansion of its HBM4 production capacity, centered on packaging and test equipment, with the new lines targeted to be fully operational in the first half of 2027. South Korea's ETNews reported the plan on November 15, citing multiple semiconductor equipment industry sources.",
+      "tags": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "Samsung's reported 8-inch foundry exit sharpens focus on DB HiTek's expansion and pricing power",
+      "url": "https://www.digitimes.com/news/a20261117VL202/samsung-db-hitek-8-inch-wafer-foundry-expansion-capacity.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-17T02:00:57+00:00",
+      "short_snippet": "South Korea's 8-inch wafer foundries are expanding capacity and raising prices to capitalize on stronger power semiconductor demand, with DB HiTek reporting near-full utilization and outlining further investment on November 12. The expansion comes as Samsung Electronics prepares to withdraw from the segment, potentially creating new opportunities for domestic rivals.",
+      "tags": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "Nvidia board reportedly rules out Huang return as campaign for his reinstatement grows",
+      "url": "https://www.digitimes.com/news/a20261117VL204/nvidia-ceo-jensen-huang-2026.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-17T01:52:46+00:00",
+      "short_snippet": "Nvidia's board is not weighing a return for Jensen Huang as chief executive, according to sources cited by Reuters , CNBC , The Wall Street Journal , and the Associated Press , setting the directors against a campaign backed by Elon Musk, Silicon Valley investors and President Donald Trump. The standoff has turned a succession process into a test of whether the AI chipmaker can separate itself fro",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    },
+    {
+      "title": "L3Harris showcases combat capabilities in Taiwan, guides local firms into US defense networks",
+      "url": "https://www.digitimes.com/news/a20261117PD205/taiwan-communications-technology-equipment-data.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-17T01:43:59+00:00",
+      "short_snippet": "L3Harris, a major American aerospace and defense technology companies, recently held its \"EVEREST: Pacific Vigilance\" multidomain operations demonstration in Miaoli. The event brought the Joint All-Domain Operations (JADO) framework to Taiwan and showed how AI, tactical communications, drones, and counter-drone systems can be integrated into a cross-domain battlefield information network with US c",
+      "tags": [
+        "資料中心",
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "MediaTek shifts internal resources as ASIC unit gains decision-making power",
+      "url": "https://www.digitimes.com/news/a20261117PD218/mediatek-asic-revenue-google-tpu.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-17T01:43:26+00:00",
+      "short_snippet": "As revenue from MediaTek's Google TPU project ramps up in the fourth quarter of 2026, the influence and strategic weight of its cloud application-specific integrated circuit (ASIC) business group are rising across the company. This has fueled repeated market reports of a shift in MediaTek's operational center of gravity, including changes to its personnel structure and decision-making core.",
+      "tags": [
+        "Big Tech"
+      ]
+    },
+    {
+      "title": "If an App Asks for Full Disk Access or System and App Protection Override",
+      "url": "https://news.ycombinator.com/item?id=50526560",
+      "source": "Hacker News",
+      "published_at": "2026-11-17T02:17:04+00:00",
+      "short_snippet": "Article URL: https://support.apple.com/en-us/149699 Comments URL: https://news.ycombinator.com/item?id=50526560 Points: 44 # Comments: 18 https://support.apple.com/en-us/149699",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "Running coding agents without handing them my credentials",
+      "url": "https://news.ycombinator.com/item?id=50526152",
+      "source": "Hacker News",
+      "published_at": "2026-11-17T01:18:56+00:00",
+      "short_snippet": "Article URL: https://blog.antonio.cx/running-agents-with-lend Comments URL: https://news.ycombinator.com/item?id=50526152 Points: 61 # Comments: 25",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Show HN: Sutra-OS – A self-hosted ontology platform",
+      "url": "https://news.ycombinator.com/item?id=50525052",
+      "source": "Hacker News",
+      "published_at": "2026-11-16T23:25:41+00:00",
+      "short_snippet": "Article URL: https://github.com/0nelight/sutra-os Comments URL: https://news.ycombinator.com/item?id=50525052 Points: 44 # Comments: 20",
+      "tags": [
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+      "url": "https://news.ycombinator.com/item?id=50524736",
+      "source": "Hacker News",
+      "published_at": "2026-11-16T22:58:20+00:00",
+      "short_snippet": "Article URL: https://xusheng.dev/posts/windows-coding-agent-telemetry/ Comments URL: https://news.ycombinator.com/item?id=50524736 Points: 365 # Comments: 227",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case",
+      "url": "https://news.ycombinator.com/item?id=50523025",
+      "source": "Hacker News",
+      "published_at": "2026-11-16T20:48:08+00:00",
+      "short_snippet": "Article URL: https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/ Comments URL: https://news.ycombinator.com/item?id=50523025 Points: 87 # Comments: 69",
+      "tags": [
+        "監管"
+      ]
+    },
+    {
+      "title": "Jensen Huang Passed Billions in Nvidia Stock to His Heirs Months Before His Downfall",
+      "url": "https://www.reddit.com/r/technology/comments/1xy0zz2/jensen_huang_passed_billions_in_nvidia_stock_to/",
+      "source": "Reddit",
+      "published_at": "2026-11-16T20:56:03+00:00",
+      "short_snippet": "submitted by /u/Unusual-State1827 [link] [comments]",
+      "tags": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "Users, admins report new Microsoft 365 outage with Exchange, Outlook, Excel, hit",
+      "url": "https://www.reddit.com/r/technology/comments/1xy3aqe/users_admins_report_new_microsoft_365_outage_with/",
+      "source": "Reddit",
+      "published_at": "2026-11-16T22:26:53+00:00",
+      "short_snippet": "submitted by /u/lurker_bee [link] [comments]",
+      "tags": [
+        "Big Tech"
+      ]
+    },
+    {
+      "title": "Microsoft Reveals How a Hidden Windows Bug Took Down Microsoft 365 Services Worldwide",
+      "url": "https://www.reddit.com/r/technology/comments/1xxnmnr/microsoft_reveals_how_a_hidden_windows_bug_took/",
+      "source": "Reddit",
+      "published_at": "2026-11-16T12:02:31+00:00",
+      "short_snippet": "submitted by /u/TeamAlphaBOLD [link] [comments]",
+      "tags": [
+        "Big Tech"
+      ]
+    },
+    {
+      "title": "Nvidia ordered to explain $12bn supply of AI chips to China",
+      "url": "https://www.reddit.com/r/technology/comments/1xy2eyu/nvidia_ordered_to_explain_12bn_supply_of_ai_chips/",
+      "source": "Reddit",
+      "published_at": "2026-11-16T21:51:00+00:00",
+      "short_snippet": "submitted by /u/Just-Grocery-2229 [link] [comments]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    },
+    {
+      "title": "California Sues OpenAI After AI Agents Repeatedly Went Rogue",
+      "url": "https://www.reddit.com/r/technology/comments/1xy214k/california_sues_openai_after_ai_agents_repeatedly/",
+      "source": "Reddit",
+      "published_at": "2026-11-16T21:35:48+00:00",
+      "short_snippet": "submitted by /u/tylerthe-theatre [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "US data centers are burning through as much electricity as entire states",
+      "url": "https://www.reddit.com/r/technology/comments/1xxxfoy/us_data_centers_are_burning_through_as_much/",
+      "source": "Reddit",
+      "published_at": "2026-11-16T18:42:14+00:00",
+      "short_snippet": "submitted by /u/Wagamaga [link] [comments]",
+      "tags": [
+        "資料中心"
+      ]
+    },
+    {
+      "title": "Nvidia board is not considering bringing Jensen Huang back as CEO, source tells CNBC",
+      "url": "https://www.reddit.com/r/technology/comments/1xxxj3n/nvidia_board_is_not_considering_bringing_jensen/",
+      "source": "Reddit",
+      "published_at": "2026-11-16T18:45:42+00:00",
+      "short_snippet": "submitted by /u/MarvelsGrantMan136 [link] [comments]",
+      "tags": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "Lutnick Pushed to Weaken Chip Rules That Overlap With His Family Business",
+      "url": "https://www.reddit.com/r/technology/comments/1xxpoml/lutnick_pushed_to_weaken_chip_rules_that_overlap/",
+      "source": "Reddit",
+      "published_at": "2026-11-16T13:43:56+00:00",
+      "short_snippet": "submitted by /u/Just-Grocery-2229 [link] [comments]",
+      "tags": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "Deal or Decoy? Amazon’s Deceptive Discounts | Nearly 1 in 3 of more than 350 products Amazon advertised as deals during recent Black Friday and Cyber Monday sales provided no savings at all",
+      "url": "https://www.reddit.com/r/technology/comments/1xxw9lu/deal_or_decoy_amazons_deceptive_discounts_nearly/",
+      "source": "Reddit",
+      "published_at": "2026-11-16T17:59:23+00:00",
+      "short_snippet": "submitted by /u/Hrmbee [link] [comments]",
+      "tags": [
+        "Big Tech"
+      ]
+    },
+    {
+      "title": "Markets ‘Standing on one leg’: IMF chief warns about global economy as AI circular financing hits $1 trillion",
+      "url": "https://www.reddit.com/r/technology/comments/1xxof0m/markets_standing_on_one_leg_imf_chief_warns_about/",
+      "source": "Reddit",
+      "published_at": "2026-11-16T12:43:31+00:00",
+      "short_snippet": "submitted by /u/Logical_Welder3467 [link] [comments]",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "US data centers emit more greenhouse gases than Denmark, Harvard study finds",
+      "url": "https://www.reddit.com/r/technology/comments/1xy3cq7/us_data_centers_emit_more_greenhouse_gases_than/",
+      "source": "Reddit",
+      "published_at": "2026-11-16T22:29:14+00:00",
+      "short_snippet": "submitted by /u/spherocytes [link] [comments]",
+      "tags": [
+        "資料中心"
+      ]
+    },
+    {
+      "title": "Accelerate Molecular Dynamics Simulations with Accurate, Flexible Primitives Using NVIDIA cuPotential",
+      "url": "https://developer.nvidia.com/blog/accelerate-molecular-dynamics-simulations-with-accurate-flexible-primitives-using-nvidia-cupotential/",
+      "source": "官方：NVIDIA Developer",
+      "published_at": "2026-11-16T22:30:00+00:00",
+      "short_snippet": "Molecular dynamics (MD) is an indispensable tool across physics, chemistry, biology, and materials science. Owing to its arithmetic structure, particularly the...",
+      "tags": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "Post-Training NVIDIA Nemotron to Increase Accuracy in Your Scientific Domain",
+      "url": "https://developer.nvidia.com/blog/post-training-nvidia-nemotron-to-increase-accuracy-in-your-scientific-domain/",
+      "source": "官方：NVIDIA Developer",
+      "published_at": "2026-11-16T16:00:00+00:00",
+      "short_snippet": "Agentic AI is reshaping scientific research and innovation. Researchers communicate complex scientific hypotheses in natural language and let autonomous agents...",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    },
+    {
+      "title": "NVIDIA Vera Rubin NVL72 Leads Agentic Inference Performance on MLPerf Endpoints v1.0",
+      "url": "https://developer.nvidia.com/blog/nvidia-vera-rubin-nvl72-leads-agentic-inference-performance-on-mlperf-endpoints-v1-0/",
+      "source": "官方：NVIDIA Developer",
+      "published_at": "2026-11-16T16:00:00+00:00",
+      "short_snippet": "Agentic workloads are demanding more from inference systems. AI agents carry growing conversation histories across turns and generate a mix of reasoning, tool...",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    },
+    {
+      "title": "NVIDIA Vera Rubin NVL72 Achieves up to 2x Blackwell Ultra Performance in MLPerf Training v6.1",
+      "url": "https://developer.nvidia.com/blog/nvidia-vera-rubin-nvl72-achieves-up-to-2x-blackwell-ultra-performance-in-mlperf-training-v6-1/",
+      "source": "官方：NVIDIA Developer",
+      "published_at": "2026-11-16T16:00:00+00:00",
+      "short_snippet": "As AI agents tackle increasingly complex workflows, reducing time-to-train is critical for rapidly iterating on both models and the agents they power. MLPerf...",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    },
+    {
+      "title": "v0.40.17",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.17-rc1",
+      "source": "官方：Ollama releases",
+      "published_at": "2026-11-16T19:02:48+00:00",
+      "short_snippet": "What's Changed Improve ChatGPT CLI restore and graceful restart by @hoyyeva in #19583 cmd/launch: use thinking metadata for OpenCode settings by @hoyyeva in #19409 llm: use mmap for Vulkan integrated GPUs by @dhiltgen in #19640 rpreslar4765/Ollama by @rpreslar4765 in #17163 mlx: support concurrent generation by @dhiltgen in #19197 llama.cpp: version bump https://github.com/ollama/ollama/pull/19583",
+      "tags": [
+        "AI",
+        "半導體",
+        "Big Tech"
+      ]
+    },
+    {
+      "title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
+      "url": "https://arxiv.org/abs/2611.17338",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-16T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.17338v1 Announce Type: new Abstract: LLM memory systems often delete facts classified as stale. We show that this hard-filtering step can reduce downstream accuracy when resolver errors delete query-critical facts. Across three models, a controlled sensitivity intervention moves hard-drop from gains of +0.186 to +0.230 at perfect resolution to losses of -0.176 to -0.181 at the lowest te",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    },
+    {
+      "title": "Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs",
+      "url": "https://arxiv.org/abs/2611.17339",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-16T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.17339v1 Announce Type: new Abstract: Hallucination detection for large language models is dominated by methods evaluated on 7B-70B research models with abundant sampling budgets and exact-match or ROUGE correctness labels. The small models practitioners actually ship on-device, Phi-3-mini, Llama-3.2-3B-Instruct, Qwen2.5-3B-Instruct, and Gemma-2-2B-Instruct, typically at 4-bit precision,",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Tabular Population Priors as Structured Retrieval for EHR Medication Set Prediction",
+      "url": "https://arxiv.org/abs/2611.17341",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-16T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.17341v1 Announce Type: new Abstract: Medication prediction from electronic health records is a fixed vocabulary structured prediction problem, yet recent clinical RAG systems often treat it like open ended case based reasoning: retrieve similar patient admissions and ask an LLM to infer a medication set. This retrieval object is indirect the model receives retrieved patient records whil",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "An Operationalization of Opaque Serial Depth",
+      "url": "https://arxiv.org/abs/2611.17495",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-16T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.17495v1 Announce Type: new Abstract: Chain-of-thought (CoT) is currently a valuable tool for overseeing AI models, but some architectural shifts could significantly reduce CoT monitorability. We operationalize a measure that serves as a proxy for the amount of unverbalized serial cognition a model can perform, as a specific instantiation of the notion of opaque serial depth: roughly, th",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Advancing Quantization for R&R Models with Microscaling Formats",
+      "url": "https://arxiv.org/abs/2611.17501",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-16T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.17501v1 Announce Type: new Abstract: Recommendation and Ranking (R&R) models, particularly in digital advertising, require massive inference throughput but exhibit extreme sensitivity to precision loss. Unlike Large Language Models (LLMs) that frequently tolerate quantization-induced accuracy drops of 1% or more, production-grade R&R models enforce a stringent launch bar: model quality ",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "A Push Down the Mountain: Framing Effects and Internal State Interventions on Collusive Behavior in a Long-Horizon LLM Agent",
+      "url": "https://arxiv.org/abs/2611.17515",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-16T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.17515v1 Announce Type: new Abstract: Can sustained gain-loss (valence) framing sway an LLM agent toward market manipulation? We place Gemma 3 12B into the seat of a defendant in the London silver-fixing litigation, in a market simulation built from real case transcripts. Across 260 simulations, the agent is asked to collude on the price of silver by a counterparty. We draw from behavior",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Model Annealing: Data-Efficient Learning through Review and Consolidation",
+      "url": "https://arxiv.org/abs/2611.17524",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-16T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.17524v1 Announce Type: new Abstract: A small labelled dataset is memorized long before the training budget runs out, and the one-hot labels that remain to be fitted then mostly sharpen confidence. Model annealing spends the rest of the budget on review and consolidation, relearning from the network's own knowledge. Training is divided into episodes whose learning rate is raised again an",
+      "tags": [
+        "資料中心"
+      ]
+    },
+    {
+      "title": "Astrocyte Biocomputing: Astrocytic Contributions to Neural Network Computation",
+      "url": "https://arxiv.org/abs/2611.17532",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-16T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.17532v1 Announce Type: new Abstract: Conductors are critical for the performance of an orchestra even though they do not emit sound. Basic research and clinical studies in the last decade are revealing that astrocytes may be the \"conductors\" of the \"orchestra\" that is the brain network: astrocytes make up approximately $50\\%$ of all brain cells but do not emit electrical signals. Nevert",
+      "tags": [
+        "資料中心"
+      ]
+    },
+    {
+      "title": "Verifiable pXRD: Hill-climbing pXRD structure determination with LLM agents",
+      "url": "https://arxiv.org/abs/2611.17539",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-16T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.17539v1 Announce Type: new Abstract: Autonomous crystal-structure determination from powder X-ray diffraction (pXRD) remains a key bottleneck for self-driving materials laboratories. We formulate the task of pXRD structure determination as a verifiable agentic search problem: candidate structures can be assessed during inference through forward-simulated profile agreement and during eva",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI-Voyager: A Public-Interest System for Human-AI Civic Reasoning to Contest and Shape the Rules That Govern AI",
+      "url": "https://arxiv.org/abs/2611.17564",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-16T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.17564v1 Announce Type: new Abstract: Governments are writing rules for artificial intelligence that decide what counts as an automated decision or a harm, often before the people they affect have a chance to question them. We introduce AI-Voyager, a public-interest system for human-AI civic reasoning, in which people and AI work together to understand, contest and shape the rules that g",
+      "tags": [
+        "AI",
+        "監管"
+      ]
+    },
+    {
+      "title": "More Agents, More Samples, or More Thinking? Untangling Coordination, Ensembling, and Test-Time Compute in Multi-Agent LLMs",
+      "url": "https://arxiv.org/abs/2611.17610",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-16T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.17610v1 Announce Type: new Abstract: Evaluations of multi-agent language models often compare communicating architectures against a single greedy pass. This practice confounds coordination with sample multiplicity and inference compute. We synthesize nine primary empirical evaluations comprising 516 unique multi-agent configurations organized along a resource vector R with six dimension",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "LLM-Guided Cluster Lifecycle Management: Deciding When and How to Evolve Behavioral Clusters",
+      "url": "https://arxiv.org/abs/2611.17616",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-16T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.17616v1 Announce Type: new Abstract: Behavioral clusters learned over user or item interactions drift as behavior evolves: some fragment into sub-behaviors, some converge, some disappear, and new patterns emerge. Two paradigms dominate the maintenance of evolving clusterings. Threshold triggers fire a pre-specified action when a hardcoded statistic crosses a cutoff; refit-and-track (MON",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AscendGYM: A Cost-Aware Kernel Optimization Benchmark for Real-World Workloads on Ascend NPUs",
+      "url": "https://arxiv.org/abs/2611.17621",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-16T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.17621v1 Announce Type: new Abstract: Kernel optimization is essential for efficient large language model (LLM) training and inference on Ascend NPUs. Existing Ascend kernel benchmarks primarily focus on kernel generation, with less emphasis on the ability of agents to optimize existing implementations under input configurations drawn from real workloads. To address this requirement, we ",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Generated Evaluation Suites as Diversity-Driven Search for Real Agent Regressions",
+      "url": "https://arxiv.org/abs/2611.17632",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-16T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.17632v1 Announce Type: new Abstract: Generating an evaluation suite from an agent's specification is diversity-driven search: a generator fills a descriptor space (requirements $\\times$ personas $\\times$ scenario kinds), and the suite it emits is an archive, then scored like a benchmark by its mean pass rate, which throws away the search's product. We inject 7 controlled defects into a ",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "What LLM Agents See and What Users Say",
+      "url": "https://arxiv.org/abs/2611.17639",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-16T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.17639v1 Announce Type: new Abstract: Before an LLM agent cancels a reservation or deletes a folder for a user, what stops it from acting on a false assumption: what its tools show, or what the user says? In this work, we study this gap with presupposition theory from linguistics: an agent may act only if each claim behind the act (e.g., one reservation fits the name) is seen to hold, an",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Learn then Bet: Learning Interpretable Rules for Reliable Agent Intervention",
+      "url": "https://arxiv.org/abs/2611.17662",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-16T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.17662v1 Announce Type: new Abstract: Autonomous agents now run for hundreds of steps with little or no human supervision. In practice, practitioners use runtime monitors such as turn limits and keyword filters to decide when a run should be stopped, upgraded, or assisted. However, these heuristics may stop runs that would otherwise succeed or allow failing runs to continue. To address t",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Aligned, Conflicting, or Unspecified? A Diagnostic Benchmark for Multimodal Time Series Forecasting",
+      "url": "https://arxiv.org/abs/2611.17680",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-16T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.17680v1 Announce Type: new Abstract: Artificial Intelligence of Things (AIoT) systems increasingly combine sensed time series with external text such as expert reports and news, yet how reliably models use text that agrees or conflicts with the sensed history remains unclear. We introduce the first real-world diagnostic benchmark organized by text-history relationship: 1,762 text-window",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "OCTAVE: A Capability-Resolved Benchmark for End-to-End HTML5 Game Generation",
+      "url": "https://arxiv.org/abs/2611.17681",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-16T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.17681v1 Announce Type: new Abstract: Complete game generation requires agents to coordinate rules, interactions, states, and presentation over a long development process. A single aggregate score obscures which capabilities are implemented and which requirements remain unmet. We present OCTAVE, a benchmark for complete HTML5 game generation organized around eight Capability Dimensions, ",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Co-Sight Harness: Externalized Control Assets and Deterministic Enforcement for Long-Horizon Business Agents",
+      "url": "https://arxiv.org/abs/2611.17696",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-16T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.17696v1 Announce Type: new Abstract: Long-horizon business workflows fail in two ways: errors accumulate as a chain of activities lengthens, and the knowledge an activity needs is written in a different vocabulary from the user's request. We study whether such workflows can be made reliable without changing the language model. Our method keeps the backbone fixed and moves the workflow d",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Federated Soft Poly-Level Learning Over a Distributed Network with Guaranteed Convergence",
+      "url": "https://arxiv.org/abs/2611.17722",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-16T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.17722v1 Announce Type: new Abstract: Multi-level learning/optimization, e.g., bilevel optimization, has been recognized for its versatile applicability across a broad array of domains, spanning from signal processing to machine learning. However, most existing works focus on bilevel and trilevel optimization. In contrast, multi-level optimization problems involving four or more hierarch",
+      "tags": [
+        "資料中心"
+      ]
+    },
+    {
+      "title": "Certified Improvements to Best-Known Thomson-Problem Configurations with a Search Pipeline Built with Large Language Model Agents",
+      "url": "https://arxiv.org/abs/2611.17776",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-16T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.17776v1 Announce Type: new Abstract: The Thomson problem asks for N unit charges on a sphere with minimum Coulomb energy; for large N the best configurations known are curated in the Cambridge Cluster Database, whose largest-N entries were set in October 2026. We report configurations for N = 912, 1382 and 2502 with energies 0.0036186, 0.0109730 and 0.0614033 below the database values, ",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AutoRL: A Multi-Agent System towards Autonomous Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2611.17790",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-16T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.17790v1 Announce Type: new Abstract: Recursive self-improvement (RSI) is one of the most promising paths toward an AI singularity for superintelligence. Achieving this vision requires AI systems to undertake the full training pipeline for iterative improvement. Reinforcement learning (RL) plays an essential role in this cycle to improve model capabilities and generalization, yet automat",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "MASTARS: Multi-Agent Sequential Trajectory Augmentation with Return-Conditioned Subgoals",
+      "url": "https://arxiv.org/abs/2611.17793",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-16T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.17793v1 Announce Type: new Abstract: The performance of offline Multi-Agent Reinforcement Learning (MARL) is limited by the quality of the fixed offline dataset, motivating trajectory augmentation. However, augmenting multi-agent trajectories presents a fundamental challenge of the diversity-coordination trade-off: independent generation improves diversity but lacks coordination, while ",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Robustness Evaluation of GPU Cloud Pricing Benchmarks under Incomplete Observations: A Controlled Missingness Study",
+      "url": "https://arxiv.org/abs/2611.17796",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-16T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.17796v1 Announce Type: new Abstract: Daily GPU rental-price benchmarks can fail when marketplace quotes are missing. This article stress-tests a fixed equal-weight median rule under four imposed masking mechanisms and four benchmark-level recovery methods. Across 5,800 Monte Carlo realisations in 27 scenarios on 190 held-out days, whole-source outages reduce publication coverage to 0.77",
+      "tags": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "Vision-as-a-Tool: Visual Harness for Multimodal Agentic Coding",
+      "url": "https://arxiv.org/abs/2611.17797",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-16T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.17797v1 Announce Type: new Abstract: Multimodal agentic coding requires robust visual reasoning to analyze observations and evaluate generated artifacts. Current frameworks largely rely on a Thinking-with-Images paradigm, where agents depend on their intrinsic vision to execute visually grounded tasks. However, this architectural coupling introduces a fundamental bottleneck. Agent perfo",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Can Agents Keep Up with Time? An Empirical Analysis of Temporal Adaptation After a Conversational Hiatus",
+      "url": "https://arxiv.org/abs/2611.17806",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-16T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.17806v1 Announce Type: new Abstract: Long-horizon agents increasingly serve as persistent personal assistants across modern web platforms, managing schedules, applications, and multi-step plans over weeks or months. Users often return to an ongoing conversation after a long conversational hiatus, while earlier bookings and preparation notes stay on record. During this hiatus, scheduled ",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "G-CAST: Governed Continual Self-Training for E-Commerce Agents under Evolving Demands",
+      "url": "https://arxiv.org/abs/2611.17814",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-16T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.17814v1 Announce Type: new Abstract: With the rapid advancement of Large Language Models (LLMs), an increasing number of users are turning to LLM-powered agents for conversational shopping in e-commerce. However, the user needs continue to change as new product categories, procurement scenarios, and feature requests emerge. At the same time, the product's execution harness-including its",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Aligning AI Teams",
+      "url": "https://arxiv.org/abs/2611.17820",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-16T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.17820v1 Announce Type: new Abstract: Previous work has shown that alignment training on individual LLM agents can fail to transfer to multi-agent settings. We investigate the underlying mechanisms for this failure, and explore interventions to preserve alignment transfer to multi-agent LLM teams. We focus on two software-engineering tasks (sepsis triage, a news recommender) and ten cons",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "Is Abliteration Getting Harder? Not Uniformly: Refusal Removal by Direction-Based Ablation and ARA in Heretic on the Qwen3.8, Gemma 4, Olmo 3.1 and Mistral Small 3.2 LLMs Versus Their Predecessors",
+      "url": "https://arxiv.org/abs/2611.17846",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-16T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.17846v1 Announce Type: new Abstract: Abliteration, a fine-tuning-free weight edit, removes refusal from open-weight large language models (LLMs). The developer of Arbitrary-Rank Ablation (ARA), an optimisation-based variant, reports that direction-based abliteration, which ablates a refusal direction, increasingly fails on newer models. On five release pairs, refusal removal did not bec",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "DECODE: Diagnosing Interpretability Failures in Automated Interpretation Process",
+      "url": "https://arxiv.org/abs/2611.17856",
+      "source": "研究：arXiv AI",
+      "published_at": "2026-11-16T05:00:00+00:00",
+      "short_snippet": "arXiv:2611.17856v1 Announce Type: new Abstract: Tools for interpreting the internal representations of Large Language Models (LLMs) increasingly rely on LLMs themselves to both generate and evaluate explanations, creating a self-referential automated interpretation process with minimal human oversight. This automation raises significant reliability concerns, which are exacerbated by the absence of",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "NVIDIA and Lambda Disclose First Production Co-Packaged Optics Cluster… It is FINALLY real",
+      "url": "https://www.servethehome.com/nvidia-and-lambda-disclose-first-production-co-packaged-optics-cluster-it-is-finally-real/",
+      "source": "ServeTheHome",
+      "published_at": "2026-11-16T21:24:47+00:00",
+      "short_snippet": "Lambda is the first to disclose it has co-packaged optics deployed in a production cluster with over 10,000 GPUs The post NVIDIA and Lambda Disclose First Production Co-Packaged Optics Cluster… It is FINALLY real appeared first on ServeTheHome .",
+      "tags": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "美收緊中國遠端使用算力 花旗：有利中國晶片產業鏈",
+      "url": "https://technews.tw/2026/11/17/us-tightens-china-remote-computing-access-citi-benefits-chip-industry-chain/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-17T04:40:15+00:00",
+      "short_snippet": "綜合港媒報導，花旗發布報告表示，美國擬收緊中國透過租賃海外資料中心獲取先進人工智慧（AI）算力的管道，將迫使更 […]",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心"
+      ]
+    },
+    {
+      "title": "氣候責任正式升級「法律責任」！台積電揭「三大永續承諾」，強化企業營運韌性",
+      "url": "https://technews.tw/2026/11/17/tsmc-2026-esg-supply-chain/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-17T04:27:10+00:00",
+      "short_snippet": "AI 帶動半導體產業進入新一輪成長週期，受先進製程、先進封裝需求推升，對晶圓製程的淨零排放、資源、供應鏈要求更 […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    },
+    {
+      "title": "「iPhone 毀了一切！」Anduril 創辦人開砲：科技太好上手反成扼殺專業的元兇",
+      "url": "https://technews.tw/2026/11/17/oculus-founder-blasts-iphone-ruined-everything-easy-tech-stifles-expertise/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-17T04:10:06+00:00",
+      "short_snippet": "虛擬實境品牌 Oculus 與國防科技公司 Anduril 的共同創辦人帕爾默·拉奇（Palmer Lucke […]",
+      "tags": [
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "美擴大先進半導體出口管制，新加坡：持續與美溝通、協助企業因應",
+      "url": "https://technews.tw/2026/11/17/us-expands-advanced-semiconductor-export-controls-singapore-us-communication-company-adaptation/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-17T04:05:22+00:00",
+      "short_snippet": "美國擴大先進半導體出口管制，將新加坡等國納入須取得許可規範。新加坡當局指出，正持續與美國相關主管機關溝通，了解 […]",
+      "tags": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "從 GTC 大會到 APEC 都不見人影，黃仁勳去職後公開行程全面大縮水",
+      "url": "https://technews.tw/2026/11/17/jensen-huang-resignation-schedule-canceled/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-17T04:00:20+00:00",
+      "short_snippet": "輝達（Nvidia）前執行長黃仁勳在經歷辭職風波後，公開露面行程正大幅縮減。原訂於 11 月 30 日至 12 […]",
+      "tags": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "AI 作弊案震撼韓國！大考前夕緊急升級防弊，眼鏡也要查",
+      "url": "https://technews.tw/2026/11/17/ai-cheating-scandal-south-korea-national-exams/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-17T03:50:48+00:00",
+      "short_snippet": "韓國國家級稅務師考試近日爆出震驚社會的 AI 作弊案。今年的全國榜首透過律師發布影片，坦承自己以「微型攝影機搭 […]",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "AI 加速器投資預測遭大砍 SanDisk 股價摔 8.6%",
+      "url": "https://finance.technews.tw/2026/11/17/sandisk-shares-tumbling/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-17T03:40:32+00:00",
+      "short_snippet": "半導體研究機構 SemiAnalysis 大幅下修未來 AI 加速器投資預測，引發市場對 AI 晶片及記憶體需 […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    },
+    {
+      "title": "以色列經濟成長一半靠輝達，科技強國也憂黃仁勳風暴",
+      "url": "https://technews.tw/2026/11/17/half-of-israels-economic-growth-is-driven-by-nvidia-even-this-tech-powerhouse-worries-about-the-jensen-huang-effect/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-17T03:35:16+00:00",
+      "short_snippet": "不只台灣經濟仰賴輝達，以色列更是沒有輝達就跛腳。以色列最新經濟數據顯示，今年第三季 GDP 年化成長率高達 8 […]",
+      "tags": [
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "AI 自主攻擊引發資安疑慮，加州檢察長起訴 OpenAI",
+      "url": "https://infosecu.technews.tw/2026/11/17/ai-autonomous-attacks-spark-cybersecurity-concerns-california-attorney-general-sues-openai/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-17T03:30:43+00:00",
+      "short_snippet": "美國民主黨籍加州檢察長邦塔（Rob Bonta）今天在舊金山州法院對 OpenAI 提起訴訟，指控這家公司在缺 […]",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "慧榮展示新一代企業級儲存解決方案，加速代理式 AI 基礎設施發展",
+      "url": "https://technews.tw/2026/11/17/silicon-motion-showcases-its-next-generation-enterprise-class-storage-solutions/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-17T03:30:22+00:00",
+      "short_snippet": "NAND 快閃記憶體控制晶片廠商慧榮科技（SIMO）宣布，將於 11 月 16 日至 19 日在美國芝加哥舉行 […]",
+      "tags": [
+        "AI",
+        "半導體",
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "王文洋父女登胡潤百富榜第 61 名！黃世聰：宏和、宏昌搭上 AI 浪潮",
+      "url": "https://finance.technews.tw/2026/11/17/2026-hurun-rich-list/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-17T03:28:35+00:00",
+      "short_snippet": "AI 浪潮席捲全球，帶動半導體與伺服器產業，並讓長期深耕電子材料的企業迎來爆發性成長。胡潤研究院 10 月底公 […]",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心"
+      ]
+    },
+    {
+      "title": "COP31 AI 減碳承諾遇冷！僅九國簽署，美中未加入",
+      "url": "https://technews.tw/2026/11/17/cop31-ai-decarbonization-pledge-cold-reception-9-nations-signed-us-china-absent/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-17T03:25:40+00:00",
+      "short_snippet": "隨著 AI 資料中心用電需求持續攀升，能源消耗與碳排放問題受到國際關注。第 31 屆聯合國氣候變遷大會（COP […]",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    },
+    {
+      "title": "AI 踩煞車？調查機構下修支出預估、輝達承壓",
+      "url": "https://finance.technews.tw/2026/11/17/ai-slowdown-research-firms-downgrade-spending-forecasts-nvidia-under-pressure/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-17T03:25:08+00:00",
+      "short_snippet": "半導體研究機構 SemiAnalysis 大幅下修全球 AI 晶片相關資本支出預估，2030 年預估值下修幅度 […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    },
+    {
+      "title": "黃仁勳閃辭後首場輝達財報，代理執行長釋疑走私中國與監管調查",
+      "url": "https://finance.technews.tw/2026/11/17/nvidias-first-earnings-report-after-jensen-huangs-sudden-resignation/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-17T03:15:18+00:00",
+      "short_snippet": "在創辦人黃仁勳閃電辭去掌舵 33 年的執行長一職後，半導體大廠輝達（Nvidia）定於美東時間 17 日盤後公 […]",
+      "tags": [
+        "半導體",
+        "監管"
+      ]
+    },
+    {
+      "title": "Google 示警：AI 代理已能「零人工」將修補程式轉為漏洞攻擊",
+      "url": "https://infosecu.technews.tw/2026/11/17/google-warning-ai-fully-automated-vulnerability-attacks/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-17T03:10:52+00:00",
+      "short_snippet": "Google 威脅情報團隊（GTIG）最新分析報告示警，駭客已將 AI 代理（AI Agent）技術應用於完整 […]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    },
+    {
+      "title": "OpenAI 奧特曼改口希望大家有充足記憶體，澄清遭誤解",
+      "url": "https://technews.tw/2026/11/17/sam-altman-speaks-at-silicon-valley-and-the-world-1/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-17T03:09:14+00:00",
+      "short_snippet": "OpenAI 執行長奧特曼（Sam Altman）出席公開活動，再次就自己關於 PC 記憶體的爭議性言論加以回 […]",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "偷金鑰付算力成本，亞馬遜揪出 AI 代理發動「自我延續」攻擊循環",
+      "url": "https://infosecu.technews.tw/2026/11/17/amazon-captured-records-of-ai-agents-trying-to-steal-ai-provider-keys/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-17T02:55:36+00:00",
+      "short_snippet": "亞馬遜（Amazon）11 月 13 日披露，旗下威脅情報團隊在誘捕網路中捕捉到一波疑似由 AI 代理程式發動 […]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    },
+    {
+      "title": "從鐵路、電力到網路，專家警告：AI 難逃泡沫破裂宿命",
+      "url": "https://technews.tw/2026/11/17/from-railways-and-electricity-to-the-internet-experts-warn-ai-is-destined-to-face-a-bubble-burst/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-17T02:55:27+00:00",
+      "short_snippet": "AI 投資熱潮持續延燒，但市場對科技泡沫的擔憂也愈來愈深。美國證券交易委員會 (SEC) 前主席 Gary G […]",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "韓國 Melon 榜單首見 AI 冠軍曲，霸榜三天寫下樂壇新紀錄",
+      "url": "https://technews.tw/2026/11/17/ai-assisted-song-tops-k-pop-idols-to-reach-no-1-on-south-korean-chart/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-17T02:45:03+00:00",
+      "short_snippet": "韓國音樂平台 Melon 的 Top 100 榜單近日出現罕見變化，由 AI 音樂企劃 MEOMURU 推出的 […]",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "防範 AI 武器化，中國科技巨頭主動削弱新模型「網攻能力」",
+      "url": "https://infosecu.technews.tw/2026/11/17/chinese-ai-companies-voluntarily-limit-cyberattack-capabilities/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-17T02:40:59+00:00",
+      "short_snippet": "為降低人工智慧（AI）被惡意用於網路攻擊的風險，中國多家領先的 AI 企業近期在最新發布的模型中，開始主動削弱 […]",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    },
+    {
+      "title": "主打原生 FP64 雙精度，英特爾 D270 GPU 鎖定 HPC 與 AI 推論市場",
+      "url": "https://technews.tw/2026/11/17/the-case-for-intel-gpu-d270-in-high-performance-computing/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-17T02:35:24+00:00",
+      "short_snippet": "英特爾（Intel）11 月 16 日首度公開次世代 Crescent Island「D270」GPU 的初步 […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    },
+    {
+      "title": "港警啟用監視器 AI 臉部辨識，人權團體憂政治打壓升級",
+      "url": "https://infosecu.technews.tw/2026/11/17/hk-police-ai-facial-recognition-surveillance-rights-groups-fear-political-suppression-upgrade/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-17T02:20:44+00:00",
+      "short_snippet": "香港從今天起，在全港「銳眼計畫」閉路電視監控網絡中啟用人工智慧（AI）人臉辨識功能。有人權組織警告，這可能讓當 […]",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "COP31 聚焦 AI 能耗，環境部推綠電、儲能與智慧電網布局",
+      "url": "https://technews.tw/2026/11/17/cop31-ai-energy-consumption-ministry-of-environment-green-power-energy-storage-smart-grid/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-17T02:17:08+00:00",
+      "short_snippet": "隨著 AI 資料中心快速發展，電力需求與碳排放問題受到關注。環境部 16 日舉辦「COP31 氣候脈動‧臺灣同 […]",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    },
+    {
+      "title": "Google 擴大尖端 AI 模型早期存取，日本政府與關鍵基礎設施優先使用",
+      "url": "https://infosecu.technews.tw/2026/11/17/google-to-give-japan-early-access-to-frontier-ai-for-cybersecurity/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-17T02:15:13+00:00",
+      "short_snippet": "Google Cloud 執行長湯瑪斯·庫里安（Thomas Kurian）16 日表示，將擴大尖端 AI 模 […]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    },
+    {
+      "title": "黃仁勳醜聞早有跡象，紐時去年揭黃樂關係企業疑助晶片轉運中國",
+      "url": "https://finance.technews.tw/2026/11/17/jensen-huang-scandal-early-signs-nyt-revealed-affiliated-companies-chip-transshipment-china/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-17T02:10:44+00:00",
+      "short_snippet": "輝達前執行長黃仁勳的婚外情牽扯美國國安及公司治理問題，而《紐約時報》早於去年就曾報導，新加坡資料中心公司 Me […]",
+      "tags": [
+        "半導體",
+        "資料中心"
+      ]
+    },
+    {
+      "title": "黃仁勳請辭風暴逢川普送暖，台股大盤力守 43,500 防線，軟體與 ASIC 族群成資金避風港",
+      "url": "https://finance.technews.tw/2026/11/17/jensen-huang-resignation-storm-trump-warmth-taiwan-stock-market-defends-43500-software-asic-capital-havens/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-17T02:00:27+00:00",
+      "short_snippet": "台股昨（16）日經歷劇烈震盪，因輝達（NVIDIA）執行長黃仁勳震撼宣布辭職消息，大盤一度重挫逾 1,500 […]",
+      "tags": [
+        "半導體"
+      ]
+    },
+    {
+      "title": "AI 資料中心往哪蓋？電力正成為選址關鍵",
+      "url": "https://technews.tw/2026/11/17/ai-data-center-power-location/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-17T02:00:20+00:00",
+      "short_snippet": "資料中心建置規畫持續擴大。本月五家業者的待建容量規模均成長，主要原因是新納入 Tracker 的資料中心容量， […]",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    },
+    {
+      "title": "逾 17 萬人連署，籲恢復黃仁勳輝達執行長職務",
+      "url": "https://finance.technews.tw/2026/11/17/170k-sign-petition-restore-jensen-huang-nvidia-ceo/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-17T01:50:19+00:00",
+      "short_snippet": "一份呼籲恢復黃仁勳（Jensen Huang）輝達（Nvidia）執行長職務的公開信，已獲得多位矽谷知名人士連 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  ],
+  "evidence": {
+    "https://blog.google/innovation-and-ai/products/gemini-app/regional-voices": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-025d8baefe51f5051ea2"
+    },
+    "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gtig-ai-threat-tracker-q4-2026": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-e064cdc0ef6bfc1ede43"
+    },
+    "https://blog.google/products/publisher-connections/new-google-admob-tools": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-d544aca72f274648c916"
+    },
+    "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/training-performance-benchmarks-tpus": {
+      "level": "A",
+      "label": "Confirmed",
+      "reason": "官方公開摘要有主體、動作與事件細節；只確認來源主張，不表示獨立實測",
+      "quality_hint": "public summary",
+      "event_id": "evt-e8b857e8ee7e26563438"
+    },
+    "https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-674d89a4a76fb1d82d6d"
+    },
+    "https://blog.google/products-and-platforms/products/maps/holiday-thanksgiving-travel-trends-2026": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-adfd75f0580dfa8f36fc"
+    },
+    "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/what-teenagers-really-think-about-online-safety-and-ai": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-de2fdfd7d21bebae8a89"
+    },
+    "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26": {
+      "level": "A",
+      "label": "Confirmed",
+      "reason": "官方公開摘要有主體、動作與事件細節；只確認來源主張，不表示獨立實測",
+      "quality_hint": "public summary",
+      "event_id": "evt-9634b5e75ef12012977b"
+    },
+    "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain": {
+      "level": "A",
+      "label": "Confirmed",
+      "reason": "官方公開摘要有主體、動作與事件細節；只確認來源主張，不表示獨立實測",
+      "quality_hint": "public summary",
+      "event_id": "evt-a9995c40a3422c0483b7"
+    },
+    "https://blogs.nvidia.com/blog/lambda-photonics": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-742a0adaef2e254494df"
+    },
+    "https://blogs.nvidia.com/blog/slurm-quantum-computing-supercomputing": {
+      "level": "A",
+      "label": "Confirmed",
+      "reason": "官方公開摘要有主體、動作與事件細節；只確認來源主張，不表示獨立實測",
+      "quality_hint": "public summary",
+      "event_id": "evt-0dc8b1c6d09938c16b10"
+    },
+    "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin": {
+      "level": "A",
+      "label": "Confirmed",
+      "reason": "官方公開摘要有主體、動作與事件細節；只確認來源主張，不表示獨立實測",
+      "quality_hint": "public summary",
+      "event_id": "evt-891aa0f995d12bb58740"
+    },
+    "https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-4e397e27d38f36eaba2a"
+    },
+    "https://blogs.nvidia.com/blog/20-years-cuda": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-bcc40eb1eee4216ca06d"
+    },
+    "https://blogs.nvidia.com/blog/rubin-hpc": {
+      "level": "A",
+      "label": "Confirmed",
+      "reason": "官方公開摘要有主體、動作與事件細節；只確認來源主張，不表示獨立實測",
+      "quality_hint": "public summary",
+      "event_id": "evt-8f02058f4a02dc51d60c"
+    },
+    "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-d16c86f834412880e1d6"
+    },
+    "https://apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health": {
+      "level": "A",
+      "label": "Confirmed",
+      "reason": "官方公開摘要有主體、動作與事件細節；只確認來源主張，不表示獨立實測",
+      "quality_hint": "public summary",
+      "event_id": "evt-c7ad18a5d1bcae75f06f"
+    },
+    "https://theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-3f4dd01efc52bc21ee02"
+    },
+    "https://theverge.com/transportation/1035025/united-airlines-outage-down-departures": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-6d1372d618d798235f21"
+    },
+    "https://theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-67c8a56e712af0de1f7f"
+    },
+    "https://theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-dccb6be474d17a986fc7"
+    },
+    "https://theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-078517eb6404d69baae4"
+    },
+    "https://theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-82c6683089b62142f5b1"
+    },
+    "https://theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-fb1ebeec8d2a732bce9e"
+    },
+    "https://digitimes.com/news/a20261117PD229/market-infrastructure-rubin-nvidia-investment.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-6678de965e368536b41b"
+    },
+    "https://digitimes.com/news/a20261117PD213/materials-revenue-daxin-demand-2026.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-a27e91846fcdd536dee4"
+    },
+    "https://digitimes.com/news/a20261117PD220/samsung-foundry-ai-chip-samsung-chips-manufacturing.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-2c528360bfcc5cb82d05"
+    },
+    "https://digitimes.com/news/a20261117VL212/europe-japan-semiconductors-equipment-materials-industrial-imec.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-06f4687c5da67dca2c6a"
+    },
+    "https://digitimes.com/news/a20261117PD209/shipments-wi-fi-router-price-wi-fi-7.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-39ce259b72c2558a4546"
+    },
+    "https://digitimes.com/news/a20261117VL208/huawei-cloud-ascend-robot-development.html": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-8f5df4d09ceffcd044af"
+    },
+    "https://digitimes.com/news/a20261117PD225/samsung-hbm-meta-2nm-nvidia.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-10a2a511e7788e5fb0ee"
+    },
+    "https://digitimes.com/news/a20261116PD237/xintec-substrate-production-capacity-outsourcing-tsmc.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-18171855a9482cc751a9"
+    },
+    "https://digitimes.com/news/a20261117VL210/tsmc-jensen-huang-nvidia-technology-taiwan.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-5dda178a6daa43fc9982"
+    },
+    "https://digitimes.com/news/a20261117PD211/foxconn-2027-growth-demand-expansion.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-55419a5ccd8efe8d6f19"
+    },
+    "https://digitimes.com/news/a20261117PD227/shinko-electric-jdi-plant-equipment-capacity.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-7f311190267ed03556d3"
+    },
+    "https://digitimes.com/news/a20261117PD223/tsmc-venture-capital-investment-development.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-bf1b1d30aa940305ab55"
+    },
+    "https://digitimes.com/news/a20261117PD207/samsung-launch-meta-google-market.html": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-6cf3ad23efbe88bb15aa"
+    },
+    "https://digitimes.com/news/a20261117PD222/taiwan-technology-2027-government-policy.html": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-ea1f1fc62cfa154c1757"
+    },
+    "https://digitimes.com/news/a20261117VL203/baidu-revenue-advertising-cloud-2026.html": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-5613f8400c1cab6cb608"
+    },
+    "https://digitimes.com/news/a20261117VL206/microsoft-copilot-claude-anthropic-data.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-d05d3b1d98fadab868cd"
+    },
+    "https://digitimes.com/news/a20261117VL209/donald-trump-xi-jinping-apec-shenzhen-commercial.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-fe08ea6a00087f34cef3"
+    },
+    "https://digitimes.com/news/a20261117PD214/pegatron-demand-asic-2028-2027.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-08d87b3975ce915350ea"
+    },
+    "https://digitimes.com/news/a20261117VL205/tcl-csot-oled-panel-display-efficiency.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-ae012e53b71cdffbb2f7"
+    },
+    "https://digitimes.com/news/a20261117PD221/tsmc-3nm-hbm-competition-nvidia.html": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-cd4b95b73074c0481180"
+    },
+    "https://digitimes.com/news/a20261117PD219/quanta-inventec-ai-server-asic-nvidia-rubin-2027.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-144c5a9a1952e2f286ef"
+    },
+    "https://digitimes.com/news/a20261117PD200/supercomputer-data-operating-system-2026-culture.html?chid=10": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-7283e3109d73c6f3f2d8"
+    },
+    "https://digitimes.com/news/a20261117VL207/data-center-nvidia-business.html": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-bb27480b517a60c3b5b4"
+    },
+    "https://digitimes.com/news/a20261117PR200/startup-funding-surveillance-edge-design.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-060c3bd514d5e669570c"
+    },
+    "https://digitimes.com/news/a20261116VL219/taiwan-uk-manufacturing-production-commercial.html": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-e631d484e62ba3f0ac79"
+    },
+    "https://digitimes.com/news/a20261117VL200/sk-hynix-equipment-hbm4-capacity-hbm.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-728e672f21b1de393fa6"
+    },
+    "https://digitimes.com/news/a20261117VL202/samsung-db-hitek-8-inch-wafer-foundry-expansion-capacity.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-bbfefc8cc4ac23b6904f"
+    },
+    "https://digitimes.com/news/a20261117VL204/nvidia-ceo-jensen-huang-2026.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-6181066d393db203f914"
+    },
+    "https://digitimes.com/news/a20261117PD205/taiwan-communications-technology-equipment-data.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-11fc135422729ed0a15a"
+    },
+    "https://digitimes.com/news/a20261117PD218/mediatek-asic-revenue-google-tpu.html": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-cfa368a4f30dede57c51"
+    },
+    "https://news.ycombinator.com/item?id=50526560": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-6da222fafb7326ad4eae"
+    },
+    "https://news.ycombinator.com/item?id=50526152": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-7642fff8f3bbf31d7652"
+    },
+    "https://news.ycombinator.com/item?id=50525052": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-fe56492766d3326f6e23"
+    },
+    "https://news.ycombinator.com/item?id=50524736": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-0ce5abe49658b2c48ba6"
+    },
+    "https://news.ycombinator.com/item?id=50523025": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-aa6b26f6280b0f7a3638"
+    },
+    "https://reddit.com/r/technology/comments/1xy0zz2/jensen_huang_passed_billions_in_nvidia_stock_to": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-0141505445f61483d3d4"
+    },
+    "https://reddit.com/r/technology/comments/1xy3aqe/users_admins_report_new_microsoft_365_outage_with": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-4b1f847f5dea48e5cf1e"
+    },
+    "https://reddit.com/r/technology/comments/1xxnmnr/microsoft_reveals_how_a_hidden_windows_bug_took": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-16d7a95f8bd5fb457e37"
+    },
+    "https://reddit.com/r/technology/comments/1xy2eyu/nvidia_ordered_to_explain_12bn_supply_of_ai_chips": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-56a7c2461f8e88af9811"
+    },
+    "https://reddit.com/r/technology/comments/1xy214k/california_sues_openai_after_ai_agents_repeatedly": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-ea997f8125b1a36c4642"
+    },
+    "https://reddit.com/r/technology/comments/1xxxfoy/us_data_centers_are_burning_through_as_much": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-cdc71ad133d6218f9150"
+    },
+    "https://reddit.com/r/technology/comments/1xxxj3n/nvidia_board_is_not_considering_bringing_jensen": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-91475abcc5c664901ffc"
+    },
+    "https://reddit.com/r/technology/comments/1xxpoml/lutnick_pushed_to_weaken_chip_rules_that_overlap": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-c226de1d1a2d60a80e49"
+    },
+    "https://reddit.com/r/technology/comments/1xxw9lu/deal_or_decoy_amazons_deceptive_discounts_nearly": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-19cd4c408462fb807867"
+    },
+    "https://reddit.com/r/technology/comments/1xxof0m/markets_standing_on_one_leg_imf_chief_warns_about": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-612e79d3ac63946d090d"
+    },
+    "https://reddit.com/r/technology/comments/1xy3cq7/us_data_centers_emit_more_greenhouse_gases_than": {
+      "level": "C",
+      "label": "Rumor",
+      "reason": "社群是討論樣本，不是新聞事實",
+      "quality_hint": "public summary",
+      "event_id": "evt-d26b80d9b2c807fc13e0"
+    },
+    "https://developer.nvidia.com/blog/accelerate-molecular-dynamics-simulations-with-accurate-flexible-primitives-using-nvidia-cupotential": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-2be1284eeb479683b14e"
+    },
+    "https://developer.nvidia.com/blog/post-training-nvidia-nemotron-to-increase-accuracy-in-your-scientific-domain": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-e5e272e7744c80be5ffb"
+    },
+    "https://developer.nvidia.com/blog/nvidia-vera-rubin-nvl72-leads-agentic-inference-performance-on-mlperf-endpoints-v1-0": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-bd4930e0839976d3ed7a"
+    },
+    "https://developer.nvidia.com/blog/nvidia-vera-rubin-nvl72-achieves-up-to-2x-blackwell-ultra-performance-in-mlperf-training-v6-1": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-7ec90737528b7237217e"
+    },
+    "https://github.com/ollama/ollama/releases/tag/v0.40.17-rc1": {
+      "level": "A",
+      "label": "Confirmed",
+      "reason": "官方公開摘要有主體、動作與事件細節；只確認來源主張，不表示獨立實測",
+      "quality_hint": "public summary",
+      "event_id": "evt-60786b016c122ab8631c"
+    },
+    "https://arxiv.org/abs/2611.17338": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-f5dc4cd120b45659518f"
+    },
+    "https://arxiv.org/abs/2611.17339": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "只有標題／metadata；未取得足以支持事件解說的公開摘要",
+      "quality_hint": "",
+      "event_id": "evt-5b66b471dda6a3066631"
+    },
+    "https://arxiv.org/abs/2611.17341": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "只有標題／metadata；未取得足以支持事件解說的公開摘要",
+      "quality_hint": "",
+      "event_id": "evt-5cc536aed4b9c9336147"
+    },
+    "https://arxiv.org/abs/2611.17495": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "只有標題／metadata；未取得足以支持事件解說的公開摘要",
+      "quality_hint": "",
+      "event_id": "evt-5da9a95de14e592d935b"
+    },
+    "https://arxiv.org/abs/2611.17501": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "只有標題／metadata；未取得足以支持事件解說的公開摘要",
+      "quality_hint": "",
+      "event_id": "evt-c0fb3abdbf393ee063b3"
+    },
+    "https://arxiv.org/abs/2611.17515": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "只有標題／metadata；未取得足以支持事件解說的公開摘要",
+      "quality_hint": "",
+      "event_id": "evt-963bbe19ff67ab4441c4"
+    },
+    "https://arxiv.org/abs/2611.17524": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "只有標題／metadata；未取得足以支持事件解說的公開摘要",
+      "quality_hint": "",
+      "event_id": "evt-f50e63d8425077c4b471"
+    },
+    "https://arxiv.org/abs/2611.17532": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "只有標題／metadata；未取得足以支持事件解說的公開摘要",
+      "quality_hint": "",
+      "event_id": "evt-b5369aae9868552237b7"
+    },
+    "https://arxiv.org/abs/2611.17539": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "只有標題／metadata；未取得足以支持事件解說的公開摘要",
+      "quality_hint": "",
+      "event_id": "evt-d6f2a3136b4179e3604c"
+    },
+    "https://arxiv.org/abs/2611.17564": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "只有標題／metadata；未取得足以支持事件解說的公開摘要",
+      "quality_hint": "",
+      "event_id": "evt-199bb42cf667d7c742b5"
+    },
+    "https://arxiv.org/abs/2611.17610": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "只有標題／metadata；未取得足以支持事件解說的公開摘要",
+      "quality_hint": "",
+      "event_id": "evt-b715b2affb8796e9f221"
+    },
+    "https://arxiv.org/abs/2611.17616": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "只有標題／metadata；未取得足以支持事件解說的公開摘要",
+      "quality_hint": "",
+      "event_id": "evt-04234be9f8573efb0afc"
+    },
+    "https://arxiv.org/abs/2611.17621": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "只有標題／metadata；未取得足以支持事件解說的公開摘要",
+      "quality_hint": "",
+      "event_id": "evt-db119966b06bc1071275"
+    },
+    "https://arxiv.org/abs/2611.17632": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "只有標題／metadata；未取得足以支持事件解說的公開摘要",
+      "quality_hint": "",
+      "event_id": "evt-7f91f504d57986c16b77"
+    },
+    "https://arxiv.org/abs/2611.17639": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "只有標題／metadata；未取得足以支持事件解說的公開摘要",
+      "quality_hint": "",
+      "event_id": "evt-2058b8ffe8f15f120054"
+    },
+    "https://arxiv.org/abs/2611.17662": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "只有標題／metadata；未取得足以支持事件解說的公開摘要",
+      "quality_hint": "",
+      "event_id": "evt-8a5c1a78f21f4e4953ba"
+    },
+    "https://arxiv.org/abs/2611.17680": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "只有標題／metadata；未取得足以支持事件解說的公開摘要",
+      "quality_hint": "",
+      "event_id": "evt-bb14b9e7844b57ec97c9"
+    },
+    "https://arxiv.org/abs/2611.17681": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "只有標題／metadata；未取得足以支持事件解說的公開摘要",
+      "quality_hint": "",
+      "event_id": "evt-5ac702919025cdc28443"
+    },
+    "https://arxiv.org/abs/2611.17696": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "只有標題／metadata；未取得足以支持事件解說的公開摘要",
+      "quality_hint": "",
+      "event_id": "evt-eec451ca8d6e6997bed8"
+    },
+    "https://arxiv.org/abs/2611.17722": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "只有標題／metadata；未取得足以支持事件解說的公開摘要",
+      "quality_hint": "",
+      "event_id": "evt-eb4235b75bfce8df2107"
+    },
+    "https://arxiv.org/abs/2611.17776": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "只有標題／metadata；未取得足以支持事件解說的公開摘要",
+      "quality_hint": "",
+      "event_id": "evt-402a0286b8bd0b9d4e8d"
+    },
+    "https://arxiv.org/abs/2611.17790": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "只有標題／metadata；未取得足以支持事件解說的公開摘要",
+      "quality_hint": "",
+      "event_id": "evt-64e4b1f0e4ac35b1d1b2"
+    },
+    "https://arxiv.org/abs/2611.17793": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-0581304bba9d0ff26015"
+    },
+    "https://arxiv.org/abs/2611.17796": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-210d06b357721023f055"
+    },
+    "https://arxiv.org/abs/2611.17797": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "只有標題／metadata；未取得足以支持事件解說的公開摘要",
+      "quality_hint": "",
+      "event_id": "evt-523089d0f48248f2aa33"
+    },
+    "https://arxiv.org/abs/2611.17806": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "只有標題／metadata；未取得足以支持事件解說的公開摘要",
+      "quality_hint": "",
+      "event_id": "evt-52c627e404d969773650"
+    },
+    "https://arxiv.org/abs/2611.17814": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "只有標題／metadata；未取得足以支持事件解說的公開摘要",
+      "quality_hint": "",
+      "event_id": "evt-aa474b1d44419ef306f2"
+    },
+    "https://arxiv.org/abs/2611.17820": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "只有標題／metadata；未取得足以支持事件解說的公開摘要",
+      "quality_hint": "",
+      "event_id": "evt-1a4c2af9452115ba8864"
+    },
+    "https://arxiv.org/abs/2611.17846": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "只有標題／metadata；未取得足以支持事件解說的公開摘要",
+      "quality_hint": "",
+      "event_id": "evt-7211a5e895b1221c6221"
+    },
+    "https://arxiv.org/abs/2611.17856": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "只有標題／metadata；未取得足以支持事件解說的公開摘要",
+      "quality_hint": "",
+      "event_id": "evt-ac9a3fb69143c5ff4dfe"
+    },
+    "https://servethehome.com/nvidia-and-lambda-disclose-first-production-co-packaged-optics-cluster-it-is-finally-real": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-0093c9259c01aa12d229"
+    },
+    "https://technews.tw/2026/11/17/us-tightens-china-remote-computing-access-citi-benefits-chip-industry-chain": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-15ea04bb6c39de5249bb"
+    },
+    "https://technews.tw/2026/11/17/tsmc-2026-esg-supply-chain": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-762771432a275b1fd67e"
+    },
+    "https://technews.tw/2026/11/17/oculus-founder-blasts-iphone-ruined-everything-easy-tech-stifles-expertise": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-50d33a65001b9fd5ca5c"
+    },
+    "https://technews.tw/2026/11/17/us-expands-advanced-semiconductor-export-controls-singapore-us-communication-company-adaptation": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-e4be137c4d9d62307a97"
+    },
+    "https://technews.tw/2026/11/17/jensen-huang-resignation-schedule-canceled": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-6a53875470de481a40dc"
+    },
+    "https://technews.tw/2026/11/17/ai-cheating-scandal-south-korea-national-exams": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-d214a55d26fe9a88e4e4"
+    },
+    "https://finance.technews.tw/2026/11/17/sandisk-shares-tumbling": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "內容是預告／傳聞或預期，尚不是已發生且可核對的產品事件",
+      "quality_hint": "public summary",
+      "event_id": "evt-22af487ed194dc10f043"
+    },
+    "https://technews.tw/2026/11/17/half-of-israels-economic-growth-is-driven-by-nvidia-even-this-tech-powerhouse-worries-about-the-jensen-huang-effect": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-64908402f7d1d7f4d0b8"
+    },
+    "https://infosecu.technews.tw/2026/11/17/ai-autonomous-attacks-spark-cybersecurity-concerns-california-attorney-general-sues-openai": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-3a7d6eb655b18e8c9be8"
+    },
+    "https://technews.tw/2026/11/17/silicon-motion-showcases-its-next-generation-enterprise-class-storage-solutions": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-46bee1244af580e7402f"
+    },
+    "https://finance.technews.tw/2026/11/17/2026-hurun-rich-list": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-26caa37997c5e9a786ad"
+    },
+    "https://technews.tw/2026/11/17/cop31-ai-decarbonization-pledge-cold-reception-9-nations-signed-us-china-absent": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-50e68113dc0b06b14c46"
+    },
+    "https://finance.technews.tw/2026/11/17/ai-slowdown-research-firms-downgrade-spending-forecasts-nvidia-under-pressure": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-816a26c82d40638a3603"
+    },
+    "https://finance.technews.tw/2026/11/17/nvidias-first-earnings-report-after-jensen-huangs-sudden-resignation": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-8facee7ba88eb1b5eb2a"
+    },
+    "https://infosecu.technews.tw/2026/11/17/google-warning-ai-fully-automated-vulnerability-attacks": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-42d7e9a006f0638846c9"
+    },
+    "https://technews.tw/2026/11/17/sam-altman-speaks-at-silicon-valley-and-the-world-1": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-24ef7fd608d13dfb024f"
+    },
+    "https://infosecu.technews.tw/2026/11/17/amazon-captured-records-of-ai-agents-trying-to-steal-ai-provider-keys": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-6b77ef0b3951999e4bb0"
+    },
+    "https://technews.tw/2026/11/17/from-railways-and-electricity-to-the-internet-experts-warn-ai-is-destined-to-face-a-bubble-burst": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-0a65352d7e0e49b45027"
+    },
+    "https://technews.tw/2026/11/17/ai-assisted-song-tops-k-pop-idols-to-reach-no-1-on-south-korean-chart": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-d0c91988f9ed3b5a6f1e"
+    },
+    "https://infosecu.technews.tw/2026/11/17/chinese-ai-companies-voluntarily-limit-cyberattack-capabilities": {
+      "level": "B",
+      "label": "Reported",
+      "reason": "公開摘要有可辨識事件細節，尚未核對一手文件",
+      "quality_hint": "public summary",
+      "event_id": "evt-c008b6f95ba8a6a0088a"
+    },
+    "https://technews.tw/2026/11/17/the-case-for-intel-gpu-d270-in-high-performance-computing": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-4b8eeb0f8501a8d3622e"
+    },
+    "https://infosecu.technews.tw/2026/11/17/hk-police-ai-facial-recognition-surveillance-rights-groups-fear-political-suppression-upgrade": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-214993c4d40936fbf406"
+    },
+    "https://technews.tw/2026/11/17/cop31-ai-energy-consumption-ministry-of-environment-green-power-energy-storage-smart-grid": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-c53177892a407c7f21f1"
+    },
+    "https://infosecu.technews.tw/2026/11/17/google-to-give-japan-early-access-to-frontier-ai-for-cybersecurity": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-eb9762e4cfac4017223f"
+    },
+    "https://finance.technews.tw/2026/11/17/jensen-huang-scandal-early-signs-nyt-revealed-affiliated-companies-chip-transshipment-china": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-f36f7219140a624c9ab2"
+    },
+    "https://finance.technews.tw/2026/11/17/jensen-huang-resignation-storm-trump-warmth-taiwan-stock-market-defends-43500-software-asic-capital-havens": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-198ea924168d99cdd36a"
+    },
+    "https://technews.tw/2026/11/17/ai-data-center-power-location": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-95f7867e0a273c904606"
+    },
+    "https://finance.technews.tw/2026/11/17/170k-sign-petition-restore-jensen-huang-nvidia-ceo": {
+      "level": "C",
+      "label": "Reported",
+      "reason": "公開線索仍缺少可辨識主體、動作或事件細節",
+      "quality_hint": "public summary",
+      "event_id": "evt-f01f20243ff64b51a4b4"
+    }
+  },
+  "source_diagnostics": [
+    {
+      "source": "Reuters",
+      "status": "目前無法取得（HTTP 401；不繞過存取限制）",
+      "count": 0
+    },
+    {
+      "source": "官方：Google",
+      "status": "已取得 7 則近 48 小時科技項目",
+      "count": 7
+    },
+    {
+      "source": "官方：Microsoft",
+      "status": "目前無法取得（近 48 小時沒有符合主題且有日期的項目）",
+      "count": 0
+    },
+    {
+      "source": "官方：NVIDIA",
+      "status": "已取得 9 則近 48 小時科技項目",
+      "count": 9
+    },
+    {
+      "source": "官方：Apple Newsroom",
+      "status": "已取得 1 則近 48 小時科技項目",
+      "count": 1
+    },
+    {
+      "source": "官方：FTC",
+      "status": "目前無法取得（HTTP 404）",
+      "count": 0
+    },
+    {
+      "source": "The Verge",
+      "status": "已取得 7 則近 48 小時科技項目",
+      "count": 7
+    },
+    {
+      "source": "DIGITIMES",
+      "status": "已取得 30 則近 48 小時科技項目",
+      "count": 30
+    },
+    {
+      "source": "Hacker News",
+      "status": "已取得 5 則近 48 小時科技項目",
+      "count": 5
+    },
+    {
+      "source": "Reddit",
+      "status": "已取得 11 則近 48 小時科技項目",
+      "count": 11
+    },
+    {
+      "source": "官方：NVIDIA Developer",
+      "status": "已取得 4 則近 48 小時科技項目",
+      "count": 4
+    },
+    {
+      "source": "官方：Ollama releases",
+      "status": "已取得 1 則近 48 小時科技項目",
+      "count": 1
+    },
+    {
+      "source": "官方：ROCm releases",
+      "status": "目前無法取得（近 48 小時沒有符合主題且有日期的項目）",
+      "count": 0
+    },
+    {
+      "source": "官方：OpenBMC releases",
+      "status": "目前無法取得（近 48 小時沒有符合主題且有日期的項目）",
+      "count": 0
+    },
+    {
+      "source": "官方：Hugging Face",
+      "status": "目前無法取得（近 48 小時沒有符合主題且有日期的項目）",
+      "count": 0
+    },
+    {
+      "source": "研究：arXiv AI",
+      "status": "已取得 30 則近 48 小時科技項目",
+      "count": 30
+    },
+    {
+      "source": "ServeTheHome",
+      "status": "已取得 1 則近 48 小時科技項目",
+      "count": 1
+    },
+    {
+      "source": "TechNews 台灣",
+      "status": "已取得 28 則近 48 小時科技項目",
+      "count": 28
+    },
+    {
+      "source": "X",
+      "status": "目前無法取得（介面保留，尚未接入 API）",
+      "count": 0
+    }
+  ]
+}
