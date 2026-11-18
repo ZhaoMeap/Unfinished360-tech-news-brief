@@ -68219,5 +68219,231 @@
         "半導體"
       ]
     }
+  },
+  {
+    "event_id": "evt-4a9056bf3a1c082f2007",
+    "article": {
+      "title": "Nvidia isn’t selling any more AI chips to China",
+      "url": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
+      "source": "The Verge",
+      "published_at": "2026-11-18T13:01:05+00:00",
+      "short_snippet": "Nvidia has stopped sending its advanced AI chips to China, despite the approval it received from the White House to do so in December last year. The announcement was made by interim Nvidia CEO Colette Kress during an earnings call on Tuesday, marking a notable shift for the company that, under former CEO Jensen Huang, […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e74df469201d53abf4c8",
+    "article": {
+      "title": "Suno now lets you make AI videos for your AI music",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
+      "source": "The Verge",
+      "published_at": "2026-11-18T11:16:53+00:00",
+      "short_snippet": "Suno has introduced image and video generation in its latest effort to expand beyond being an AI music platform. The new feature, called \"Visuals,\" allows users to turn Suno songs into AI-generated video clips that automatically lipsync to lyrics, or make images via prompt descriptions that can be used as thumbnails and album artwork. Visuals […]",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c8fd74a6c299989ab594",
+    "article": {
+      "title": "Nvidia's fiscal 2028 supply commitments more than double to US$203 billion",
+      "url": "https://www.digitimes.com/news/a20261118VL226/nvidia-hbm-memory-2028.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-18T10:10:42+00:00",
+      "short_snippet": "Nvidia's supply and capacity commitments for fiscal 2028 more than doubled to US$203 billion over the past quarter, as multi-year memory procurement agreements drove a sharp increase in the AI chipmaker's future purchasing obligations.",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a9a56a364413898513e0",
+    "article": {
+      "title": "GlobalFoundries' US-Japan fabs target chips that AI investment risks leaving behind",
+      "url": "https://www.digitimes.com/news/a20261118VL221/globalfoundries-usa-japan-fab-investment-chips-manufacturing.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-18T09:16:27+00:00",
+      "short_snippet": "The US semiconductor landscape is being reshaped by mounting AI investment, as infrastructure-scale projects continue to pull capital and manufacturing attention toward advanced compute at unprecedented scale.",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-926b0aacfdd0e9df93b3",
+    "article": {
+      "title": "Taiwan completes Asia's largest single offshore wind project off central coast, connecting 1 GW of capacity to supply TSMC in 2027",
+      "url": "https://www.digitimes.com/news/a20261118PD227/taiwan-offshore-wind-capacity-tsmc-2027.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-18T09:07:26+00:00",
+      "short_snippet": "Taiwan's Hai Long Offshore Wind Project has completed construction and connected all 73 turbines to the power grid, marking a major milestone for the island's offshore wind industry. With total installed capacity exceeding 1 gigawatt (GW), the project is expected to enter full commercial operation in 2027, supplying all of its green electricity to TSMC.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b85c35641df85cec8ab8",
+    "article": {
+      "title": "Nvidia leadership change could open doors for rival AI chipmakers",
+      "url": "https://www.digitimes.com/news/a20261118VL225/nvidia-amd-chips-ceo-google.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-18T08:58:00+00:00",
+      "short_snippet": "Nvidia's leadership shakeup could provide an opening for its chip rivals, according to several reports. The shakeup could allow competitors, including AMD and Google, to gain a greater share of the AI chip market, but Nvidia's dominance will be difficult to dislodge.",
+      "tags": [
+        "AI",
+        "半導體",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-937ebd3bfdc96c6c557a",
+    "article": {
+      "title": "Foxconn deepens Nvidia ties across next-gen GPU, networking platforms",
+      "url": "https://www.digitimes.com/news/a20261118PD249/foxconn-nvidia-gpu-manufacturing-shipments.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-18T08:58:00+00:00",
+      "short_snippet": "To support the continued build-out of AI infrastructure, Nvidia announced on November 17 that it is expanding cooperation with supply-chain partners including Foxconn, TSMC, Kinsus, Samsung Electro-Mechanics, Amkor, and Siliconware. The collaboration covers package substrates, advanced packaging, wafer manufacturing, and system manufacturing, with Foxconn expanding its role in next-generation GPU ",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-cf99d5e80ef6219b8124",
+    "article": {
+      "title": "AI to lead 2027 smartphone upgrades as market slows",
+      "url": "https://www.digitimes.com/news/a20261118PD204/2027-hardware-2026-price-market.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-18T08:55:00+00:00",
+      "short_snippet": "Rising memory prices and resulting smartphone price increases are slowing overall shipments in 2026, with industry observers expecting an annual decline of around 17%. As the mature smartphone market faces greater product homogeneity and higher average selling prices in 2027, vendors will increasingly rely on AI, camera improvements, battery advances, and processor upgrades to differentiate their ",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f65baf841cf34ccd6aeb",
+    "article": {
+      "title": "DIGITIMES Insight: AI servers adopt TLVR and VPD, raising capacitor demands",
+      "url": "https://www.digitimes.com/news/a20261118PD225/ai-server-tlvr-gpu-capacitor.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-18T08:49:24+00:00",
+      "short_snippet": "The upgrade of AI server power-delivery architectures is driving simultaneous changes in capacitor requirements, product structures, and technology strategies. In addition to higher supply voltages, internal power-conversion architectures in AI servers continue to evolve.",
+      "tags": [
+        "AI",
+        "資料中心",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-85fa0c041f58396cdbbd",
+    "article": {
+      "title": "Samsung chip unit accounts for 93% of capex as R&D hits record",
+      "url": "https://www.digitimes.com/news/a20261118VL223/samsung-capex-2026-2025-revenue.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-18T08:24:17+00:00",
+      "short_snippet": "Samsung Electronics' semiconductor division accounted for nearly 93% of the company's capital spending in the first nine months of 2026, as both capex and research and development spending surpassed their full-year 2025 totals.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f238ab6fb6947f51b32a",
+    "article": {
+      "title": "EU Cyber Resilience Act forces chip buyers to look past the price tag",
+      "url": "https://www.digitimes.com/news/a20261118PD224/security-eu-price-silicon-labs-chips.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-18T08:15:20+00:00",
+      "short_snippet": "The European Union's Cyber Resilience Act (CRA) is changing how manufacturers select chips. Its vulnerability reporting requirements took effect in September 2026, ahead of full implementation in December 2027. Silicon Labs said customer inquiries about the law had risen sharply over the past six months, and that security had gone from a low priority to the second or third most important factor in",
+      "tags": [
+        "半導體",
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d20db5477a7b6ca32eb1",
+    "article": {
+      "title": "The world's supercomputer ranking is losing sight of the world's biggest machines",
+      "url": "https://www.digitimes.com/news/a20261117VL214/supercomputer-performance-2026.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-18T08:13:55+00:00",
+      "short_snippet": "The world's best-known supercomputer ranking is capturing a smaller slice of the computing it was built to measure. An analysis of all 20 TOP500 lists from June 2017 to November 2026 shows China has all but stopped submitting systems, hyperscale AI clusters largely stay away, and the machines that do compete at the top are increasingly sold as complete processor, accelerator, and network platforms",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d5b6e59b519701f3c1fb",
+    "article": {
+      "title": "雙鴻看好明年營收成長高於今年，ASIC 業務超越 GPU",
+      "url": "https://finance.technews.tw/2026/11/18/auras-earnings-call-26q3/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-18T10:10:48+00:00",
+      "short_snippet": "散熱大廠雙鴻今天舉行法人說明會，董事長林育申（見首圖）表示，ASIC（特殊應用積體電路）客戶產品大量出貨，雙鴻 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-92b8769bdeb4ff748ad7",
+    "article": {
+      "title": "無密碼登入更安全，LINE「通行金鑰」設定快速上手",
+      "url": "https://infosecu.technews.tw/2026/11/18/how-to-register-a-passkey-in-the-line-app/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-18T10:09:12+00:00",
+      "short_snippet": "「通行金鑰」（Passkey）是用來取代傳統密碼的無密碼登入技術，這種做法在 Google、微軟等服務越來越普 […]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b88b8112de13b3b5f860",
+    "article": {
+      "title": "希格諾、茂綸展示 Physical AI，機器手臂精準揮桿打高爾夫",
+      "url": "https://technews.tw/2026/11/18/epson-physical-ai-nvidia/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-18T09:45:26+00:00",
+      "short_snippet": "希格諾科技股份有限公司（SignalPro Technology）於 11 月 18 日與茂綸股份有限公司共同 […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-56e6524d95084426feaa",
+    "article": {
+      "title": "波士頓動力跨界半導體，人型機器人 Atlas 2027 年進駐格羅方德晶圓廠",
+      "url": "https://technews.tw/2026/11/18/boston-dynamics-enters-semiconductor-industry/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-18T09:20:13+00:00",
+      "short_snippet": "現代汽車集團旗下的機器人製造商波士頓動力（Boston Dynamics）於美國時間 11 月 17 日宣布， […]",
+      "tags": [
+        "半導體"
+      ]
+    }
   }
 ]
