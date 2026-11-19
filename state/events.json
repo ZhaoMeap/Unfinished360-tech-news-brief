@@ -70599,5 +70599,570 @@
         "產品與平台"
       ]
     }
+  },
+  {
+    "event_id": "evt-a89c20fefc5a11322a22",
+    "article": {
+      "title": "ICYMI: Transfer your history from other AI apps into Gemini.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/switch-ai-assistants-transfer-history/",
+      "source": "官方：Google",
+      "published_at": "2026-11-19T20:30:00+00:00",
+      "short_snippet": "Transfer your chat history into Gemini. Import your ZIP files and AI summaries to continue conversations seamlessly. Get the details.",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-2f5da7a01f727a3319a2",
+    "article": {
+      "title": "How we’re putting one of quantum mechanics’ deepest features to the test at scale.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/putting-one-of-quantum-mechanics-deepest-features-to-test-at-scale/",
+      "source": "官方：Google",
+      "published_at": "2026-11-19T19:00:00+00:00",
+      "short_snippet": "Google Quantum AI research proves contextuality powers quantum algorithms at scale. See how our processor beat classical limits. Get the details.",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-63610b904de29506452a",
+    "article": {
+      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+      "source": "官方：Google",
+      "published_at": "2026-11-19T17:00:00+00:00",
+      "short_snippet": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-88a0684d6bab0437cb9c",
+    "article": {
+      "title": "A smarter way to track and buy clean energy",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/granular-certificates-clean-energy-2026/",
+      "source": "官方：Google",
+      "published_at": "2026-11-19T17:00:00+00:00",
+      "short_snippet": "Video discussion featuring Carolyne Murff (CEO, ClearLight Energy) and Devin Hardman (CCO, esVolta) explaining how Google scales Granular Certificates to track clean energy hour by hour, guide grid planning, and unlock revenue for energy storage.",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-9d9675420d9516dbe7fe",
+    "article": {
+      "title": "Small businesses, big results: How teams scale with AI",
+      "url": "https://blog.google/products-and-platforms/products/workspace/google-workspace-gemini-small-business-stories/",
+      "source": "官方：Google",
+      "published_at": "2026-11-19T17:00:00+00:00",
+      "short_snippet": "A montage of four U.S. small business owners using Google Workspace with Gemini on their phones and laptops to run their businesses.",
+      "tags": [
+        "AI",
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-68f478bc125468f384e4",
+    "article": {
+      "title": "Build strategic A/B tests to grow your ad performance.",
+      "url": "https://blog.google/products/ads-commerce/ads-decoded-ab-testing/",
+      "source": "官方：Google",
+      "published_at": "2026-11-19T17:00:00+00:00",
+      "short_snippet": "Improve your Google Ads performance with expert A/B testing strategies. Master AI Max experiments and Smart Bidding with our latest guide. Listen now.",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-dc88cc571d8c777142e5",
+    "article": {
+      "title": "Genie 4 is now available on the Gemini API.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/",
+      "source": "官方：Google",
+      "published_at": "2026-11-19T17:00:00+00:00",
+      "short_snippet": "Build interactive 720p worlds with Genie 4 on the Google Gemini API. Generate coherent environments with native audio and real-time controls. Get started.",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5021ba6085ca6193f056",
+    "article": {
+      "title": "See some of the work from Google Flow and Flow Music Sessions artists",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/flow-and-flow-music-session-artists/",
+      "source": "官方：Google",
+      "published_at": "2026-11-19T16:00:00+00:00",
+      "short_snippet": "A man and a seagull",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e5ce7f7c8c7deb12d1d5",
+    "article": {
+      "title": "We’re partnering with Blue Origin on our first heavy-lift Project Suncatcher launch.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/blue-origin-project-suncatcher-partnership/",
+      "source": "官方：Google",
+      "published_at": "2026-11-19T13:00:00+00:00",
+      "short_snippet": "We’re partnering with Blue Origin on the first heavy-lift launch for Project Suncatcher, our long-term moonshot to scale AI infrastructure in space by tapping into the a…",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-283aad6ddd3998675d06",
+    "article": {
+      "title": "Google’s water stewardship commitments for local communities",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/new-water-stewardship-commitments/",
+      "source": "官方：Google",
+      "published_at": "2026-11-19T10:00:00+00:00",
+      "short_snippet": "Sunrise at Brenton Slough, showing a body of water surrounded by green land and trees",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-88461657b387a0e65112",
+    "article": {
+      "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
+      "url": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
+      "source": "官方：NVIDIA",
+      "published_at": "2026-11-19T20:00:15+00:00",
+      "short_snippet": "NVIDIA and Microsoft are extending their full-stack collaboration to help organizations build, customize and deploy intelligent applications — from next-generation infrastructure on Azure to industrial systems and Windows PCs. At Microsoft Ignite, the companies are expanding access to Azure virtual machines powered by NVIDIA Vera Rubin NVL72 systems, as well as adding customer availability to […]",
+      "tags": [
+        "半導體",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-abd04dc00b8ba51eba71",
+    "article": {
+      "title": "Season’s Streamings and Savings: Black Friday Deals Come to GeForce NOW",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026/",
+      "source": "官方：NVIDIA",
+      "published_at": "2026-11-19T14:00:12+00:00",
+      "short_snippet": "GeForce NOW is kicking off Black Friday with more reasons to make time for gaming. Six-month memberships are back for a limited time. Save 30% on the first six-month term of a Performance or Ultimate membership. Big gaming plans, smaller price tag. Keep the holiday savings going: Check out more NVIDIA holiday deals for gamers, […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d4ab4374f4eace214a45",
+    "article": {
+      "title": "Apple TV becomes the new U.S. home of F1 ACADEMY™, the all-female racing series",
+      "url": "https://www.apple.com/newsroom/2026/11/apple-tv-becomes-the-new-us-home-of-f1-academy-the-all-female-racing-series/",
+      "source": "官方：Apple Newsroom",
+      "published_at": "2026-11-19T15:59:07+00:00",
+      "short_snippet": "Apple and F1 ACADEMY™ today announced that the all-female racing series will stream on Apple TV in the United States beginning in 2027.",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5c9b5a39f3060bcb38d1",
+    "article": {
+      "title": "Meta’s Muse Charm might cost $300",
+      "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+      "source": "The Verge",
+      "published_at": "2026-11-19T20:22:17+00:00",
+      "short_snippet": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the holidays in December,\" but […]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-df74302ad3cd8458e2ff",
+    "article": {
+      "title": "Google is putting AI chats right on the homepage",
+      "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+      "source": "The Verge",
+      "published_at": "2026-11-19T20:05:06+00:00",
+      "short_snippet": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you can open the sidebar by clicking the […]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3c8d56101ac767525c09",
+    "article": {
+      "title": "FCC greenlights rule allowing prisons to jam cellphone signals",
+      "url": "https://www.theverge.com/policy/1037987/fcc-prison-cellphone-signal-jamming",
+      "source": "The Verge",
+      "published_at": "2026-11-19T19:40:28+00:00",
+      "short_snippet": "The Federal Communications Commission voted unanimously to allow state and local prisons to jam cellphones. In an announcement on Thursday, the FCC argues the rule will help combat an \"influx of contraband cellphones\" used to carry out crimes from prison. Jammers are generally banned under Section 333 of the Communications Act of 1934, though they're […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c1c14a8db16c72ea2ea1",
+    "article": {
+      "title": "Sony’s WH-1000XM5 are cheaper than ever for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1037790/sony-wh-1000xm5-black-friday-deal-sale",
+      "source": "The Verge",
+      "published_at": "2026-11-19T19:35:52+00:00",
+      "short_snippet": "Back in my day, the only “Doorbuster” sales were at physical retail stores. But now, you can get ultra-low prices before Black Friday whether you want to shop in-store or online. One that stands out is the previous-generation Sony WH-1000XM5 noise-canceling headphones, which are marked down to their lowest price ever, just $169.99 at Best […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-9abe5ac348fe9d7e8979",
+    "article": {
+      "title": "Some creators are skeptical of Instagram’s new affiliate program",
+      "url": "https://www.theverge.com/news/1037951/instagram-amazon-affiliate-links-influencers-ads",
+      "source": "The Verge",
+      "published_at": "2026-11-19T19:12:30+00:00",
+      "short_snippet": "For years, influencers have come up with workarounds on social media to figure out how to share affiliate links with followers. A new integration between Instagram and Amazon was announced earlier this month as a way to make it easier for influencers to make money from affiliate links - but some content creators are suspicious […]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-79d3ad8d450cadec04ee",
+    "article": {
+      "title": "Sonos is taking up to 30 percent off speakers and soundbars right now",
+      "url": "https://www.theverge.com/gadgets/1037042/sonos-black-friday-2026-speaker-soundbar-deals-sale",
+      "source": "The Verge",
+      "published_at": "2026-11-19T18:33:08+00:00",
+      "short_snippet": "Sonos speakers and soundbars aren’t exactly cheap, but thankfully the company’s Black Friday sale has already begun, making everything a little easier to afford through November 30th. Most notably, you can pick up the Arc Ultra soundbar for a new low of $849 ($250 off) from Sonos, Amazon, and Best Buy, or the newfangled Sonos […]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6dcd42cda0a583b3326c",
+    "article": {
+      "title": "Gemini on Mac can now use your computer",
+      "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+      "source": "The Verge",
+      "published_at": "2026-11-19T18:21:13+00:00",
+      "short_snippet": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms, making presentations, and listing items for sale. Users will […]",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-af63674abc3ae2e8f557",
+    "article": {
+      "title": "Leaked images reveal Motorola’s wide foldable",
+      "url": "https://www.theverge.com/tech/1037848/motorola-razr-flex-wide-foldable-folding-smartphone-android-leak",
+      "source": "The Verge",
+      "published_at": "2026-11-19T18:19:03+00:00",
+      "short_snippet": "New leaked images of Motorola's next folding smartphone shared by SammyGuru add more credence to the theory that widescreen could be the default design for foldables moving forward. Following a single leaked shot shared to Reddit yesterday, this new crop of images reveal the Motorola Razr Flex from several angles in two finishes with its […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-7398e42becafb8321a06",
+    "article": {
+      "title": "China expands 6G pilot program to eight provinces and cities",
+      "url": "https://www.digitimes.com/news/a20261119PD232/6g-industrial-communications-shanghai-miit.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-19T09:35:10+00:00",
+      "short_snippet": "China is accelerating its 6G industrial rollout, moving from communications equipment prototypes and experimental spectrum access to field trials, as the domestic supply chain advances into system-level validation. On November 17, China's Ministry of Industry and Information Technology (MIIT) approved 6G innovation and development pilots across Beijing, Hebei, Shanghai, Jiangsu, Zhejiang, Anhui, H",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f68dbc2f2d51e12e979c",
+    "article": {
+      "title": "Nvidia doubles down on Taiwan supply chain as AI squeezes substrate and OSAT capacity",
+      "url": "https://www.digitimes.com/news/a20261119PD229/nvidia-capacity-substrate-osat-taiwan.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-19T08:45:00+00:00",
+      "short_snippet": "Nvidia is deepening its ties with Taiwan's artificial intelligence supply chain by issuing capacity prepayments to fund expansion across IC substrates, advanced packaging, and testing—locking in production capacity for the next three to five years despite ongoing uncertainty over its CEO succession. The push comes as accelerating custom ASIC projects from cloud service providers and rival chipmake",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-fd465861adf7594c574f",
+    "article": {
+      "title": "Nvidia maintains product roadmap as AI chip supply chain impact stays limited",
+      "url": "https://www.digitimes.com/news/a20261119PD224/nvidia-ai-chip-roadmap-earnings-development.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-19T08:29:44+00:00",
+      "short_snippet": "Following Nvidia's latest earnings conference, the company's operating performance, outlook, and product development timeline showed no apparent impact from the departure of former CEO Jensen Huang. AI chip demand remains strong, although the company's financing policies are expected to become stricter than in the past.",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c435c3a1e8e2f463bf6a",
+    "article": {
+      "title": "ASE invests NT$248.9B in Renwu K52 plant for AI testing",
+      "url": "https://www.digitimes.com/news/a20261119PD228/testing-taiwan-ase-plant-subsidiary.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-19T08:20:00+00:00",
+      "short_snippet": "Taiwan Fore Electronics, a subsidiary of ASE Technology Holding, will invest NT$248.9 billion (US$7.54 billion) in a new K52 plant at the J block of Kaohsiung's Renwu industrial park, with construction scheduled for phased completion in 2028 and 2029. Together, the K and J sites are expected to generate annual revenue of approximately NT$117.3 billion and create 3,300 jobs, expanding the area's ad",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-9192c5378ac76cbf2603",
+    "article": {
+      "title": "Tighter US chip rules set to favor Qualcomm and MediaTek",
+      "url": "https://www.digitimes.com/news/a20261119PD222/mediatek-qualcomm-chips-automotive-technology.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-19T08:20:00+00:00",
+      "short_snippet": "The US Department of Commerce has introduced stricter chip technology controls affecting China and several Southeast Asian and Latin American countries, requiring case-by-case approval for shipments of products built on processes below 16/14nm. The rules are expected to hurt Chinese chip designers while benefiting Qualcomm and MediaTek as alternative suppliers.",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-422a41a02ec456602f31",
+    "article": {
+      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+      "url": "https://news.ycombinator.com/item?id=50564366",
+      "source": "Hacker News",
+      "published_at": "2026-11-19T18:47:16+00:00",
+      "short_snippet": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 27 # Comments: 36",
+      "tags": [
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c900da28c4b03b663c23",
+    "article": {
+      "title": "Claude solves two open problems in the physics of black holes",
+      "url": "https://news.ycombinator.com/item?id=50563148",
+      "source": "Hacker News",
+      "published_at": "2026-11-19T17:30:44+00:00",
+      "short_snippet": "Article URL: https://www.anthropic.com/research/claude-black-hole-physics Comments URL: https://news.ycombinator.com/item?id=50563148 Points: 254 # Comments: 98",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-9c21cef04a40e1536cb8",
+    "article": {
+      "title": "Anthropic hits $2T in Nasdaq debut",
+      "url": "https://news.ycombinator.com/item?id=50562754",
+      "source": "Hacker News",
+      "published_at": "2026-11-19T17:02:40+00:00",
+      "short_snippet": "Article URL: https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/ Comments URL: https://news.ycombinator.com/item?id=50562754 Points: 574 # Comments: 918",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-48c75582431fbb4f8db4",
+    "article": {
+      "title": "Chrome AI features wasting much bandwidth",
+      "url": "https://news.ycombinator.com/item?id=50562636",
+      "source": "Hacker News",
+      "published_at": "2026-11-19T16:54:25+00:00",
+      "short_snippet": "Article URL: https://perishablepress.com/chrome-ai-wasting-much-bandwidth/ Comments URL: https://news.ycombinator.com/item?id=50562636 Points: 94 # Comments: 37",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-1f24c723aca4453a2cda",
+    "article": {
+      "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+      "url": "https://news.ycombinator.com/item?id=50562320",
+      "source": "Hacker News",
+      "published_at": "2026-11-19T16:34:04+00:00",
+      "short_snippet": "Hey HN, I'm Daniel, founder of Onlook ( https://github.com/onlook-dev/onlook and onlook.com). Onlook is a desktop app that puts a canvas on top of your real codebase, letting you design directly in code with the agent you already use. Over 25,000 designers and developers have supported the project, 100+ have contributed, and it's been the #1 trending repo in the world twice. We just rebuilt the en",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ff1e1fb2a23a137921d9",
+    "article": {
+      "title": "Fuck Your AI Safeguards",
+      "url": "https://news.ycombinator.com/item?id=50562262",
+      "source": "Hacker News",
+      "published_at": "2026-11-19T16:30:18+00:00",
+      "short_snippet": "Article URL: https://ounapuu.ee/posts/2026/11/19/unsafeguards/ Comments URL: https://news.ycombinator.com/item?id=50562262 Points: 310 # Comments: 112",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-666ed6104560f784f59b",
+    "article": {
+      "title": "UK government forced to admit it issued Apple a secret encryption order",
+      "url": "https://news.ycombinator.com/item?id=50562113",
+      "source": "Hacker News",
+      "published_at": "2026-11-19T16:21:03+00:00",
+      "short_snippet": "Article URL: https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/ Comments URL: https://news.ycombinator.com/item?id=50562113 Points: 323 # Comments: 155",
+      "tags": [
+        "Big Tech",
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-9cdeacc855c0caeb4b57",
+    "article": {
+      "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+      "url": "https://news.ycombinator.com/item?id=50561508",
+      "source": "Hacker News",
+      "published_at": "2026-11-19T15:38:12+00:00",
+      "short_snippet": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 178 # Comments: 159",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-510e996e13d4ce111b2f",
+    "article": {
+      "title": "Cooling buildings is overtaking heating them as an energy need, IEA says",
+      "url": "https://news.ycombinator.com/item?id=50560955",
+      "source": "Hacker News",
+      "published_at": "2026-11-19T14:57:14+00:00",
+      "short_snippet": "Article URL: https://maccus.fr/en/cooling-overtaking-heating/ Comments URL: https://news.ycombinator.com/item?id=50560955 Points: 128 # Comments: 88",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-fdf247289ced7fca8c81",
+    "article": {
+      "title": "Reducing Rollout Bottlenecks in Reinforcement Learning with NVIDIA Dynamo",
+      "url": "https://developer.nvidia.com/blog/reducing-rollout-bottlenecks-in-reinforcement-learning-with-nvidia-dynamo/",
+      "source": "官方：NVIDIA Developer",
+      "published_at": "2026-11-19T20:28:13+00:00",
+      "short_snippet": "Reinforcement learning (RL) uses rewards to train models to solve problems and complete tasks more successfully. Inference drives this process. Workers generate...",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a165ab416a9d4037a704",
+    "article": {
+      "title": "Enabling Real-Time AI for Scientific Instruments with GPU-Native Data Acquisition",
+      "url": "https://developer.nvidia.com/blog/enabling-real-time-ai-for-scientific-instruments-with-gpu-native-data-acquisition/",
+      "source": "官方：NVIDIA Developer",
+      "published_at": "2026-11-19T17:00:00+00:00",
+      "short_snippet": "In science and industry, analyzing sensor measurements in real time can enable AI to adjust processes, guide experiments, and search for better operating...",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-2d01b6350c2d3fb2cb0f",
+    "article": {
+      "title": "Build Tool-Calling Parsers in Rust with AI Agents",
+      "url": "https://developer.nvidia.com/blog/build-tool-calling-parsers-in-rust-with-ai-agents/",
+      "source": "官方：NVIDIA Developer",
+      "published_at": "2026-11-19T16:30:46+00:00",
+      "short_snippet": "A tool call can arrive in pieces, an argument can be cut short, or model-specific markup can leak into the answer. A frontend parser turns that output, received...",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-37c8063fff2e2e073a8b",
+    "article": {
+      "title": "美光新加坡 HBM 先進封裝廠首部機台進駐，預計 2027 年初進行產出",
+      "url": "https://finance.technews.tw/2026/11/19/micron-singapore-hbm-advanced-packaging-plant-installs-first-machine/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-19T10:00:35+00:00",
+      "short_snippet": "美商記憶體大廠美光科技（Micron Technology, Inc.）19日於新加坡的高頻寬記憶體（HBM） […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-85c950719ad36558f850",
+    "article": {
+      "title": "美擴大封殺中國海外算力！傳三星嚴查代工來源，中國 AI 業者壓力山大",
+      "url": "https://technews.tw/2026/11/19/us-china-ai-chip-export/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-19T09:45:55+00:00",
+      "short_snippet": "美國近期大幅收緊先進 AI 晶片與半導體出口管制，同步封殺中國繞道海外晶圓代工與封測通路，外界預期將對中國 A […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-934499c9e20fde025b5b",
+    "article": {
+      "title": "群聯發表 AI Data Platform，提供企業運用自有資料打造智慧分析應用",
+      "url": "https://finance.technews.tw/2026/11/19/phison-releases-ai-data-platform/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-19T09:30:00+00:00",
+      "short_snippet": "群聯電子（Phison Electronics Corp.）宣布推出搭載生成式商業智慧（Generative […]",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0c2c760f22b5324cdeb4",
+    "article": {
+      "title": "AI 熱潮背後的現實：哈佛研究揭訂閱價格、用戶留存與獲利三大挑戰",
+      "url": "https://technews.tw/2026/11/19/ai-spending-spree-payback-harvard-study-2-9-paid-rate/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-19T09:09:37+00:00",
+      "short_snippet": "隨著生成式 AI 逐漸融入日常生活，全球科技大廠掀起龐大投資熱潮，市場對 AI 產業的成長前景充滿期待。然而， […]",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
   }
 ]
