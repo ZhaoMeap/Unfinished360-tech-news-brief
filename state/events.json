@@ -71164,5 +71164,634 @@
         "產品與平台"
       ]
     }
+  },
+  {
+    "event_id": "evt-77c3b2b531beb704a4ec",
+    "article": {
+      "title": "Apple is hiring engineers to build its own AI agent",
+      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "source": "The Verge",
+      "published_at": "2026-11-19T22:31:41+00:00",
+      "short_snippet": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. […]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-aa5e9e17fc60f9649862",
+    "article": {
+      "title": "A brief history of Nvidia’s recent stock fluctuations",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+      "source": "The Verge",
+      "published_at": "2026-11-19T21:59:35+00:00",
+      "short_snippet": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wiping out a brief post-earnings […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-679128bfc03dabf564ae",
+    "article": {
+      "title": "Meta now sells 3D movies on Quest VR headsets",
+      "url": "https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app",
+      "source": "The Verge",
+      "published_at": "2026-11-19T21:12:06+00:00",
+      "short_snippet": "Meta now offers more than 150 3D movies that you can buy or rent to watch in VR on its Quest 3 and 3S headsets, the company announced today. The movies are available in Meta's TV app and include titles like Avatar, Spider-Man: Far From Home, Jurassic World Rebirth, Wicked: For Good, and a Billie […]",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a28d25b653d2ba2fdef6",
+    "article": {
+      "title": "Global server market, 3Q 2026: US hyperscalers' Arm-based systems gain traction, driving global server shipments up 5.5% QoQ in 4Q26.",
+      "url": "https://www.digitimes.com/news/a20261119RS400/server-shipments-growth-2026.html?chid=2",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-20T01:51:31+00:00",
+      "short_snippet": "Explore how AI infrastructure investment, Arm-based server adoption, and evolving hyperscaler procurement strategies are reshaping the global server market. This DIGITIMES report examines key shipment trends, supply chain challenges, and competitive devel",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-07c94701559df0e6417b",
+    "article": {
+      "title": "Commentary: US crackdown on overseas AI compute threatens to expose China's capacity gap",
+      "url": "https://www.digitimes.com/news/a20261120PD218/nvidia-ai-chip-exports-regulation-china-performance.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-20T01:47:22+00:00",
+      "short_snippet": "US restrictions on China's AI industry are extending beyond chip exports to computing services, placing overseas data centres that provide remote AI capacity under tighter scrutiny. Chinese technology companies previously unable to obtain Nvidia's high-end GPUs could still lease computing power from facilities in Singapore, Malaysia and elsewhere to train large AI models and support AI services. W",
+      "tags": [
+        "AI",
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-4f20771c9788cfb772d5",
+    "article": {
+      "title": "Analysis: After Jensen's exit, three turning points loom for AI data center boom",
+      "url": "https://www.digitimes.com/news/a20261120PD203/data-center-investment-jensen-huang-ceo-supply-chain.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-20T01:44:49+00:00",
+      "short_snippet": "The repercussions of Nvidia founder Jensen Huang's resignation as CEO continue to ripple across the technology industry. Semiconductor supply chain sources say that although Nvidia remains under scrutiny from the US Congress and regulatory authorities, the fundamentals supporting AI data center (AIDC) orders already placed for 2027 remain largely intact.",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心",
+        "監管",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-4d69a9a3d3935b3c0cdd",
+    "article": {
+      "title": "CPO mass production faces hybrid bonding yield challenges, potentially delaying large-scale shipments until late 2027",
+      "url": "https://www.digitimes.com/news/a20261120PD216/cpo-production-shipments-2027-optics.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-20T01:42:15+00:00",
+      "short_snippet": "Co-packaged optics (CPO) is emerging as an important optical interconnect technology for AI data centers, but the industry may still be some distance from achieving large-scale mass production.",
+      "tags": [
+        "AI",
+        "資料中心",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-967a8acfcd537436a817",
+    "article": {
+      "title": "Micron moves first equipment into Singapore high-bandwidth memory plant, eyes 2027 production start",
+      "url": "https://www.digitimes.com/news/a20261120PD200/micron-equipment-production-hbm-2027.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-20T01:41:35+00:00",
+      "short_snippet": "Micron Technology has moved the first piece of equipment into its high-bandwidth memory (HBM) advanced packaging facility in Singapore, marking an important step toward initial production scheduled to begin in early 2027. The new facility had previously completed the critical infrastructure required for equipment installation, with this being the first process equipment entering the plant's cleanr",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ce87f2ae8e318562ae83",
+    "article": {
+      "title": "GSEO partners with 3M to target AI data centers, EBO capacity to ramp up in 4Q26",
+      "url": "https://www.digitimes.com/news/a20261119PD233/gseo-3m-capacity-data-technology.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-20T01:34:45+00:00",
+      "short_snippet": "Optical lens manufacturer Genius Electronic Optical (GSEO) is partnering with 3M to develop and manufacture expanded beam optical (EBO) technology, with 3M also participating in a private placement. EBO capacity is expected to ramp up rapidly from the fourth quarter of 2026, depending on customer demand, with related benefits expected to gradually materialize starting in 2027.",
+      "tags": [
+        "AI",
+        "資料中心",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5b39cc265d4518b93a22",
+    "article": {
+      "title": "Phison CEO says AI giants won't slow despite Nvidia turmoil, scraps Taoyuan plans over Micron labor dispute",
+      "url": "https://www.digitimes.com/news/a20261120PD201/phison-ceo-nvidia-micron-investment.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-20T01:21:53+00:00",
+      "short_snippet": "Phison CEO K.S. Pua said Nvidia founder Jensen Huang's sudden departure and concerns over excessive AI investment should not deter major cloud service providers (CSPs) from expanding. With computing capacity still insufficient to meet demand, he argued that leading CSPs should use the disruption to extend their competitive advantage, though it remains too early to assess the impact of Nvidia's lea",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-05f7903470be51af3ea0",
+    "article": {
+      "title": "Seoul-backed Rebellions turns to rival Nvidia for data center technology",
+      "url": "https://www.digitimes.com/news/a20261119VL224/nvidia-technology-startup-infrastructure-ai-chip.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-20T01:15:29+00:00",
+      "short_snippet": "South Korean AI chip startup Rebellions is adopting Nvidia's data center technology for its next-generation processors, a shift for the government-backed company that previously sought to challenge the US chipmaker's dominance.",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心",
+        "監管",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3269020bacde51ff2d8a",
+    "article": {
+      "title": "Nvidia builds physical AI ecosystem with Taiwan partners",
+      "url": "https://www.digitimes.com/news/a20261119PD206/physical-ai-nvidia-taiwan-galaxy-epson.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-19T23:46:59+00:00",
+      "short_snippet": "The AI wave is moving beyond virtual cloud conversations into the era of physical AI, which interacts with the real world. Nvidia, Macnica Galaxy, and SignalPro have joined forces with Epson hardware to showcase an end-to-end ecosystem spanning sensing, edge computing, and AI agent decision-making, accelerating adoption in smart manufacturing, warehouse logistics, and everyday retail.",
+      "tags": [
+        "AI",
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-15613a62160922e23892",
+    "article": {
+      "title": "US AI chip curbs hit Southeast Asian data centers",
+      "url": "https://www.digitimes.com/news/a20261118PD219/data-nvidia-chips-licensing.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-19T23:45:01+00:00",
+      "short_snippet": "Following controversy over Nvidia chip flows, the US Department of Commerce's Bureau of Industry and Security (BIS) has tightened export controls, requiring companies to obtain prior approval before exporting, reexporting, or transferring advanced AI chips subject to controls to Singapore, Malaysia, Thailand, Indonesia, and Brazil. However, the licensing requirement is waived when the ultimate rec",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f9dc4683d67fa2a772fe",
+    "article": {
+      "title": "Chairman of CSIA Shaojun Wei projects China's 2026 chip sales to rop CNY1.5 trillion on AI boom",
+      "url": "https://www.digitimes.com/news/a20261119PD231/sales-2026-demand-development-chipmakers.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-19T23:44:30+00:00",
+      "short_snippet": "China's semiconductor sales are projected to surpass CNY1.5 trillion (US$225 billion) in 2026, a sharp 89% jump from a year earlier, as surging artificial intelligence demand fuels rapid expansion across the domestic chip sector, according to Shaojun Wei, chairman of the China Semiconductor Industry Association (CSIA) IC Design Branch.",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-4fa5a977d5fdf7fff517",
+    "article": {
+      "title": "Samsung retools Austin chip plant to target SpaceX business",
+      "url": "https://www.digitimes.com/news/a20261119VL223/samsung-austin-plant-spacex-business.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-19T23:44:02+00:00",
+      "short_snippet": "Samsung Electronics has sold KRW286.4 billion (approx. US$215 million) in chipmaking equipment to its US subsidiary as it retools its Austin, Texas, plant for specialty semiconductors, including chips it reportedly plans to supply to SpaceX.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c08b8559250e3678360e",
+    "article": {
+      "title": "Samsung says neocloud debt poses limited risk to AI industry growth",
+      "url": "https://www.digitimes.com/news/a20261119PD226/samsung-investment-growth-demand-expansion.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-19T23:43:25+00:00",
+      "short_snippet": "Samsung Electronics rejected concerns that debt-financed expansion by neocloud providers could trigger a broader slowdown in artificial intelligence investment, saying these companies account for only about 8% of the overall AI market. The comments, made at a Morgan Stanley seminar in Singapore, came as investors assessed whether heavy borrowing by cloud infrastructure providers could expose the s",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3264dcf471dd544623a4",
+    "article": {
+      "title": "ByteDance's Azure deal exposes a new fault line in US-China AI controls",
+      "url": "https://www.digitimes.com/news/a20261119VL215/nvidia-bytedance-ceo-azure-jensen-huang.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-19T23:43:02+00:00",
+      "short_snippet": "The recent upheaval surrounding Nvidia and former CEO Jensen Huang has sharpened an already intensifying debate in Washington over how far US restrictions on frontier AI should extend.",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a5677d5a7760715f9d84",
+    "article": {
+      "title": "China audits 17 automakers over supplier payment delays",
+      "url": "https://www.digitimes.com/news/a20261118PD211/automakers-supplier-miit-automobile-it.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-19T23:42:32+00:00",
+      "short_snippet": "China's Ministry of Industry and Information Technology (MIIT) has commissioned the China Association of Automobile Manufacturers to launch a new audit of supplier payments at 17 major automakers, intensifying a nationwide crackdown on chronic payment delays across the automotive industry.",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-22877248d64b2685add1",
+    "article": {
+      "title": "US tightens advanced chip foundry rules, restricting Chinese firms' use of third-country intermediaries",
+      "url": "https://www.digitimes.com/news/a20261118PD243/manufacturing-ic-osat-semiconductors-ic-design.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-19T23:42:13+00:00",
+      "short_snippet": "The United States is further tightening export controls on advanced semiconductors, extending restrictions beyond Chinese companies' access to AI computing power through overseas data centers to include advanced chip manufacturing and packaging.",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-fd6406cfe7c03ceca73d",
+    "article": {
+      "title": "Physical AI robots open global path for Taiwan's precision suppliers",
+      "url": "https://www.digitimes.com/news/a20261119PD205/ai-applications-taiwan-physical-ai-robot-data.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-19T23:41:29+00:00",
+      "short_snippet": "As AI applications move from cloud-based virtual conversations into the physical world, SignalPro Chairman Tien Sheng-yu has outlined the commercialization logic of Physical AI and the key advantages Taiwan's supply chain can leverage. He said AI agents can enhance vehicles' perception and decision-making capabilities, creating new opportunities for Taiwan's precision-machining SMEs to enter the g",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-22b0fde6a3ff33e50c18",
+    "article": {
+      "title": "Democrats win as Trump backs geothermal for low-carbon baseload",
+      "url": "https://www.digitimes.com/news/a20261118PD210/geothermal-demand-aidc-data-google.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-19T23:40:59+00:00",
+      "short_snippet": "The energy-structure revolution driven by the enormous power demand of AI data centers (AIDCs) is accelerating. Alphabet's Google recently signed the world's largest enhanced geothermal system (EGS) procurement deal to date with geothermal developer Fervo Energy, signaling that AIDC infrastructure is moving beyond securing electricity to competing for green baseload power.",
+      "tags": [
+        "AI",
+        "資料中心",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-4a730ae591a5a2b79eb8",
+    "article": {
+      "title": "Walsin Lihwa targets AI, nuclear power and seven other growth industries",
+      "url": "https://www.digitimes.com/news/a20261119PD225/walsin-lihwa-nuclear-growth-manufacturing-business.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-19T23:40:17+00:00",
+      "short_snippet": "Walsin Lihwa Corporation said it would accelerate a strategic transformation as it approaches its 60th anniversary in 2026, shifting its focus toward nine emerging industries. The Taiwanese industrial group will target AI data centers, robotic automation, aerospace, semiconductors, nuclear power and small modular reactors (SMRs), oil and gas, new energy, automotive, and healthcare through five str",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-eccd85be4af1775f30e4",
+    "article": {
+      "title": "Samsung memory procurement costs surge 263% as phone prices rise 13%",
+      "url": "https://www.digitimes.com/news/a20261119PD207/samsung-2026-business-mobile-price.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-19T23:39:42+00:00",
+      "short_snippet": "Samsung Electronics' smartphone business is facing mounting cost pressure as AI server memory demand squeezes supply for mobile memory. The average purchase price of memory used in Samsung phones rose 263% in the first three quarters of 2026 from the 2025 full-year average, while average selling prices increased only 13%.",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-60786b016c122ab8631c",
+    "article": {
+      "title": "v0.40.17",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.17-rc2",
+      "source": "官方：Ollama releases",
+      "published_at": "2026-11-20T00:25:30+00:00",
+      "short_snippet": "What's Changed Improve ChatGPT CLI restore and graceful restart by @hoyyeva in #19583 cmd/launch: use thinking metadata for OpenCode settings by @hoyyeva in #19409 llm: use mmap for Vulkan integrated GPUs by @dhiltgen in #19640 rpreslar4765/Ollama by @rpreslar4765 in #17163 mlx: support concurrent generation by @dhiltgen in #19197 llama.cpp: version bump https://github.com/ollama/ollama/pull/19583",
+      "tags": [
+        "AI",
+        "半導體",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-9f9428ea1632a9c1bb70",
+    "article": {
+      "title": "Ubisoft 裁員潮未歇：加拿大工作室再砍 166 人，同步重金押注生成式 AI",
+      "url": "https://technews.tw/2026/11/20/gaming-industry-layoffs-ai-wave/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-20T02:30:50+00:00",
+      "short_snippet": "Ubisoft 於 19 日證實，為配合當前的業務需求與專案優先順序，將針對加拿大蒙特婁與魁北克市的工作室進行 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-fd729fa0d89ca788045f",
+    "article": {
+      "title": "蘋果高層異動，掌管 iPhone 相機與照片軟體的副總裁離職",
+      "url": "https://technews.tw/2026/11/20/apples-executive-in-charge-of-the-iphones-camera-app-has-left/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-20T02:00:22+00:00",
+      "short_snippet": "據彭博（Bloomberg）報導，蘋果（Apple）負責 iPhone 相機與照片軟體的副總裁 Jon McC […]",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-2be9dfac20f3f39afcbf",
+    "article": {
+      "title": "路透：台積電暫停中國 16 奈米以下訂單，替代輝達晶片研發受阻",
+      "url": "https://technews.tw/2026/11/20/tsmc-suspends-china-sub-16nm-orders-alternative-nvidia-chip-rd-stalled/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-20T01:50:51+00:00",
+      "short_snippet": "美國商務部先進晶片出口管制新規今天生效。路透社今天引述知情人士消息指出，根據台積電指引，受影響中國客戶原則上只 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-27ddcaa0b5c83b7ad77b",
+    "article": {
+      "title": "美光桃園勞資爭議影響企業全球產能布局，台廠亦重新思考當地設點決策",
+      "url": "https://finance.technews.tw/2026/11/20/labor-dispute-at-microns-taoyuan-facility-impacts-companys-global-production-footprint/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-20T01:45:06+00:00",
+      "short_snippet": "美商記憶體大廠美光科技（Micron）在台灣桃園廠的勞資爭議持續延燒，在內部協商不確定性提高之後，後續在台灣的 […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c9e5783df8bbf2486101",
+    "article": {
+      "title": "大摩指京元電 AI 測試需求持續強勁，目標價維持 348 元",
+      "url": "https://finance.technews.tw/2026/11/20/morgan-stanley-ai-testing-demand-for-kyec-remains-strong/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-20T01:30:54+00:00",
+      "short_snippet": "在外資摩根士丹利（Morgan Stanley，大摩）主辦的第 25 屆亞太峰會（Asia Pacific S […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-633068bb376a89ed456f",
+    "article": {
+      "title": "將算力轉化成應用力！叡揚攜手企業迎接 AI 代理創造商業價值",
+      "url": "https://finance.technews.tw/2026/11/20/gss-ai-value-erp/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-20T01:19:01+00:00",
+      "short_snippet": "就在全世界剛從生成式人工智慧（GenAI）跨入代理式人工智慧（Agentic AI），並同步漸進延伸至實體人工 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d0e002ebca84f4683177",
+    "article": {
+      "title": "Cyanogen 共同創辦人再出擊，推出 AI 原生作業系統 KORA 挑戰 Windows",
+      "url": "https://technews.tw/2026/11/20/cyanogen-co-founder-returns-launches-ai-native-os-kora-challenge-windows/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-20T01:15:42+00:00",
+      "short_snippet": "曾帶領 Cyanogen 挑戰 Android 生態系的共同創辦人 Kirt McMaster，如今將目標轉向 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f658cd349eda62de3d82",
+    "article": {
+      "title": "AI ASIC 與 TPU 動能強勁，大摩喊聯發科目標價 6,188 元",
+      "url": "https://finance.technews.tw/2026/11/20/morgan-stanley-sets-mediatek-price-target-at-nt6188/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-20T01:10:36+00:00",
+      "short_snippet": "外資摩根士丹利（Morgan Stanley，大摩）最新研發報告指出，亞太高峰會（Asia Pacific S […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-55fecfa716015c9e0c91",
+    "article": {
+      "title": "AI 硬體撐腰，大摩上修台灣 2027 年 GDP 成長至 8.7%",
+      "url": "https://technews.tw/2026/11/20/morgan-stanley-raises-taiwan-2027-gdp-growth-forecast-8-7-ai-hardware-support/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-20T00:50:58+00:00",
+      "short_snippet": "根據摩根士丹利（Morgan Stanley）最新發布的 2027 年經濟展望報告，台灣與韓國在全球半導體供應 […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-92dcc134755c8a529121",
+    "article": {
+      "title": "AI 幫用戶量身打造所有造訪網站，創投大老柯斯拉加碼押注 Coframe",
+      "url": "https://technews.tw/2026/11/20/vinod-khosla-is-betting-ai-will-kill-the-static-website/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-20T00:45:28+00:00",
+      "short_snippet": "億萬富豪創投家維諾德‧柯斯拉（Vinod Khosla）近日大舉押注，千篇一律的網站可望走入歷史。他最新投資的 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-9d2d47d17b9afae37f3f",
+    "article": {
+      "title": "空頭狙擊引爆監管風暴！AMD 盤中重挫近 9% 深度剖析四大做空核心指控",
+      "url": "https://finance.technews.tw/2026/11/20/amd-plunges-nearly-9-during-trading-an-in-depth-analysis-of-four-key-allegations-from-short-sellers/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-20T00:45:07+00:00",
+      "short_snippet": "美商半導體大廠超微半導體（AMD）在美股市場遭遇沉重賣壓，盤中股價一度重挫近 9%。市場震盪的核心導火索，源自 […]",
+      "tags": [
+        "半導體",
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-157be1a7e25466d0b387",
+    "article": {
+      "title": "AI 科學家自動完成上萬步驟實驗，設計、分析都能自己來",
+      "url": "https://technews.tw/2026/11/20/autodna-system-uses-ai-to-autonomously-perform-thousands-of-experimental-steps/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-20T00:20:31+00:00",
+      "short_snippet": "人工智慧（AI）已可協助科學家搜尋文獻、分析數據，甚至提出研究假說，但要真正完成一項實驗，仍需要研究人員親自操 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-4efb6d1d6911da11cfcb",
+    "article": {
+      "title": "傳美出口管制新規衝擊，台積電、三星暫停部分對中晶片出貨",
+      "url": "https://technews.tw/2026/11/20/tsmc-and-samsung-suspend-some-chip-shipments-to-chinese-customers/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-20T00:15:10+00:00",
+      "short_snippet": "英國《金融時報》引述知情人士報導，美國商務部推出一項出口管制新規定後，台積電與三星電子已暫停部分對中國客戶的晶 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ffe34366cf064f753916",
+    "article": {
+      "title": "別傻了，輝達不能沒有黃仁勳",
+      "url": "https://finance.technews.tw/2026/11/20/nvidia-jensen-huang-indispensable/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-20T00:00:00+00:00",
+      "short_snippet": "如果說 30 多年來，全球科技產業有哪位執行長最難取代，NVIDIA 創辦人黃仁勳絕對榜上有名。然而，黃仁勳近 […]",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5f14e7aabd34b7c9d643",
+    "article": {
+      "title": "台積電罕見入股 OpenAI、Anthropic，揭密護國神山「固樁兼獵獨角獸」兩手策略",
+      "url": "https://finance.technews.tw/2026/11/20/tsmc-invests-anthropic-openai-forms-investment-subsidiary/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-19T23:50:49+00:00",
+      "short_snippet": "台積電董事會近期公告，將入股美國兩大 AI 公司，並成立新的投資子公司。 在最後一刻宣布入股，台積電要以此穩住 […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c0d24ea1a1c9556f7f32",
+    "article": {
+      "title": "以色列學者提出記憶化學理論，人類意識恐非 AI 算力可複製",
+      "url": "https://technews.tw/2026/11/20/scientists-reveal-why-human-consciousness-may-be-beyond-the-reach-of-ai/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-19T23:40:44+00:00",
+      "short_snippet": "熟悉的老歌往往能瞬間把人拉回數十年前，連帶喚起早已淡忘的情緒。以色列學者最新研究回顧指出，這種記憶與情感交織的 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-8f6363f9ceab8ee416b7",
+    "article": {
+      "title": "Anthropic 上市估值衝 2 兆美元，AI 泡沫疑慮未散",
+      "url": "https://finance.technews.tw/2026/11/20/anthropic-ipo-valuation-2-trillion-ai-bubble-concerns/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-19T23:31:25+00:00",
+      "short_snippet": "Anthropic 於 11 月 19 日正式在美國那斯達克掛牌上市，首日完全稀釋後估值一度達到約 2 兆美元 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-2811c380259647f73327",
+    "article": {
+      "title": "路透：黃仁勳辭職後可提名二董事，仍可左右輝達董事會",
+      "url": "https://finance.technews.tw/2026/11/20/jensen-can-still-nominate-two-directors-after-stepping-down/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-19T23:30:19+00:00",
+      "short_snippet": "輝達（Nvidia）共同創辦人黃仁勳雖已辭去執行長職務，但路透社報導，黃仁勳依法符合提名董事候選人的資格，可在 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f0c96f45ac6aa8e3e124",
+    "article": {
+      "title": "美國擴大東南亞 AI 晶片出口管制，AI 伺服器出貨結構將依終端客戶重新調整",
+      "url": "https://finance.technews.tw/2026/11/20/us-expands-ai-chip-export-controls-southeast-asia-ai-server-shipment-structure-realigned-end-customers/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-19T23:00:44+00:00",
+      "short_snippet": "美國商務部工業暨安全局（BIS）16日公布新先進 AI 晶片出口管制，將新加坡、馬來西亞、泰國、印尼及巴西納入 […]",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-7087280e51bbd7d768e1",
+    "article": {
+      "title": "美國商務部揭露已批准向中國出售 87.9 萬顆 AI 晶片，兩黨議員氣炸要嚴查",
+      "url": "https://technews.tw/2026/11/20/the-u-s-department-of-commerce-has-revealed-that-it-has-approved-the-sale-of-879000-ai-chips-to-china/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-19T22:30:44+00:00",
+      "short_snippet": "美國聯邦眾議院外交委員會於週四公布官方文件，揭露美國商務部轄下機構已批准向中國企業銷售超過 87.9 萬顆高階 […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-fbe0fe937f925b1b572d",
+    "article": {
+      "title": "AMD 遭空頭機構指控與多家列實體清單中國企業往來，股價一度重挫 9%",
+      "url": "https://finance.technews.tw/2026/11/20/amd-accused-by-short-selling-firms-of-dealings-with-several-chinese-companies-listed-on-the-entity-list/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-19T22:00:38+00:00",
+      "short_snippet": "美商半導體大廠超微半導體（AMD）股價遭遇沉重賣壓，盤中重挫近 9%。主因為空頭機構 Hunterbrook […]",
+      "tags": [
+        "半導體"
+      ]
+    }
   }
 ]
