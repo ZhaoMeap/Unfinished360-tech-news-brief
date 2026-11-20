@@ -72949,5 +72949,328 @@
         "Big Tech"
       ]
     }
+  },
+  {
+    "event_id": "evt-e75dee93f69f4b7eaa0f",
+    "article": {
+      "title": "Get your year-end tasks done with new Connected Apps.",
+      "url": "https://blog.google/products-and-platforms/products/search/connected-apps-holiday-errands/",
+      "source": "官方：Google",
+      "published_at": "2026-11-20T18:00:00+00:00",
+      "short_snippet": "Google Connected Apps simplify your year-end tasks. Manage groceries, credit scores, and home services directly in Search. Get the details for November 2026.",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-4dabcf06fd3f935d02eb",
+    "article": {
+      "title": "Google says it’s going to shut off Google Assistant on smart speakers next year",
+      "url": "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down",
+      "source": "The Verge",
+      "published_at": "2026-11-20T18:00:00+00:00",
+      "short_snippet": "Google is announcing some significant changes to its smart home software. Starting next year, the company will shut down the Nest app in favor of the Google Home app and retire Google Assistant on its smart home devices. The Nest app shutdown takes place on January 25th, 2027, meaning you'll have to manage your Nest […]",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f79891bd2372fcf48db3",
+    "article": {
+      "title": "Here are the Apple deals actually worth picking up ahead of Black Friday",
+      "url": "https://www.theverge.com/gadgets/1035460/best-early-black-friday-apple-deals-2026",
+      "source": "The Verge",
+      "published_at": "2026-11-20T17:33:59+00:00",
+      "short_snippet": "A new pair of AirPods or the latest Apple Watch can make a great holiday gift, but they can also take a pretty big dent out of your budget. That’s especially true this year, as rising hardware prices have made MacBooks and other Apple devices even more expensive. Fortunately, Black Friday offers a chance to […]",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-918b3c43b1948c429aab",
+    "article": {
+      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "source": "The Verge",
+      "published_at": "2026-11-20T16:34:13+00:00",
+      "short_snippet": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic achievement for AI in mathematics and add to the upheaval […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-dcc955e423a5edec0114",
+    "article": {
+      "title": "Taiwan market plunges 6.23% as AI suppliers report steady orders after Huang's exit",
+      "url": "https://www.digitimes.com/news/a20261120VL220/taiwan-nvidia-tsmc-design-ai-server.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-20T09:18:25+00:00",
+      "short_snippet": "Taiwan's benchmark Taiex plunged 2,393.60 points, or 6.23%, on Friday to close at 36,033.29, its third-largest single-day point drop on record. Shares of Taiwan Semiconductor Manufacturing Co. (TSMC) fell as low as NT$1,970(US$59.73) before closing at NT$2,000, down 4.76%. MediaTek and Delta Electronics closed at their daily downside limits.",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3a3bb71a8ac5d691c296",
+    "article": {
+      "title": "TSMC says it will comply with new US rule that strips Chinese chip designers of a key exemption",
+      "url": "https://www.digitimes.com/news/a20261120VL218/tsmc-taiwan-chips-communications-samsung.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-20T09:00:04+00:00",
+      "short_snippet": "Taiwan Semiconductor Manufacturing Co. (TSMC) said it will comply with new US export rules that remove a route Chinese chip designers had used to get advanced chips made at overseas foundries without a license. The rule reaches beyond AI processors.",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-26b26e73bb7ed89a5b37",
+    "article": {
+      "title": "South Korea surpasses US$1 trillion in annual exports, powered by AI",
+      "url": "https://www.digitimes.com/news/a20261120VL219/exports-demand-performance-germany-semiconductors.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-20T08:57:58+00:00",
+      "short_snippet": "On November 19, South Korea officially surpassed US$1 trillion in annual exports. With this achievement, South Korea becomes only the fourth nation in history to join the US$1 trillion export club, following Germany, the United States, and China.",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-52cd3c799fa15078906f",
+    "article": {
+      "title": "Huang's exit tests Nvidia's annual chip cadence and Taiwan suppliers' customer mix",
+      "url": "https://www.digitimes.com/news/a20261120PD225/nvidia-ai-chip-taiwan-jensen-huang-rubin.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-20T08:20:00+00:00",
+      "short_snippet": "Nvidia's decision not to reinstate Jensen Huang as chief executive has raised concerns about a potential slowdown in AI hardware upgrades, putting Taiwanese suppliers' capacity allocation and order mix across major customers under scrutiny.",
+      "tags": [
+        "AI",
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-211c9b47b8420793a6c3",
+    "article": {
+      "title": "AI data center construction demand holds firm despite labor shortages as Acter's order backlog reaches NT$84 billion",
+      "url": "https://www.digitimes.com/news/a20261120PD219/acter-data-center-construction-equipment-labor-demand.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-20T08:18:07+00:00",
+      "short_snippet": "Recent reports suggesting a slowdown in AI data center construction, alongside adjustments to investment and project schedules by some companies, have raised concerns that demand for AI infrastructure may be cooling.",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0c16121c67ddecd6370a",
+    "article": {
+      "title": "Blacklisted Chinese server maker reportedly kept using AMD firmware",
+      "url": "https://www.digitimes.com/news/a20261120VL203.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-20T04:21:32+00:00",
+      "short_snippet": "A Chinese server maker continued using updated AMD firmware after being placed on a US export blacklist, according to an investigation published November 19 that the chipmaker has disputed.",
+      "tags": [
+        "半導體",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-14f57f27385eaeaf1cad",
+    "article": {
+      "title": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+      "url": "https://news.ycombinator.com/item?id=50578794",
+      "source": "Hacker News",
+      "published_at": "2026-11-20T17:44:01+00:00",
+      "short_snippet": "Article URL: https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394 Comments URL: https://news.ycombinator.com/item?id=50578794 Points: 49 # Comments: 21",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-03242a2d798beaf37541",
+    "article": {
+      "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+      "url": "https://news.ycombinator.com/item?id=50577901",
+      "source": "Hacker News",
+      "published_at": "2026-11-20T16:59:27+00:00",
+      "short_snippet": "Article URL: https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/ Comments URL: https://news.ycombinator.com/item?id=50577901 Points: 64 # Comments: 14",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-315191a0c64eee2dc0d6",
+    "article": {
+      "title": "I'll never buy Framework hardware again",
+      "url": "https://news.ycombinator.com/item?id=50576855",
+      "source": "Hacker News",
+      "published_at": "2026-11-20T16:06:30+00:00",
+      "short_snippet": "Article URL: https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/ Comments URL: https://news.ycombinator.com/item?id=50576855 Points: 579 # Comments: 375",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-1143e4dbea9f9033bbc1",
+    "article": {
+      "title": "Why there are still no non-WebKit browsers on iOS",
+      "url": "https://news.ycombinator.com/item?id=50575644",
+      "source": "Hacker News",
+      "published_at": "2026-11-20T15:03:31+00:00",
+      "short_snippet": "Article URL: https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/ Comments URL: https://news.ycombinator.com/item?id=50575644 Points: 211 # Comments: 104",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0543ecd77e37d3123e05",
+    "article": {
+      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "url": "https://news.ycombinator.com/item?id=50572503",
+      "source": "Hacker News",
+      "published_at": "2026-11-20T10:01:41+00:00",
+      "short_snippet": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 499 # Comments: 276",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3fb23d97899c54e5f379",
+    "article": {
+      "title": "AI 前景疑慮罩頂族群重挫，法人：籌碼沉澱是止跌關鍵",
+      "url": "https://finance.technews.tw/2026/11/20/ai-prospects-doubts-sectors-plunge-institutional-investors-chip-consolidation-key-stop-decline/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-20T10:30:09+00:00",
+      "short_snippet": "AI 大廠 Anthropic 掛牌首日股價勁揚逾 17%，不過，並未消除市場對 AI 前景的疑慮，台股今天多 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-00317997f850f94ff84e",
+    "article": {
+      "title": "台灣九合一選舉前夕，通報 Meta 近 2,700 個疑中國介選帳號",
+      "url": "https://infosecu.technews.tw/2026/11/20/taiwan-local-elections-2700-suspected-chinese-influence-accounts-reported-meta/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-20T10:00:01+00:00",
+      "short_snippet": "台灣下週將舉行縣市長選舉，三名政府官員與內部報告指出，台灣已向社群媒體巨擘 Meta 通報近 2,700 個帳 […]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-53264978ef9c68e5bb19",
+    "article": {
+      "title": "韓國 AI 作弊爭議，李在明：改革考試制度嚴懲違規",
+      "url": "https://technews.tw/2026/11/20/south-korea-ai-cheating-controversy-lee-jae-myung-urges-exam-system-reform-severe-punishment-violations/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-20T09:50:24+00:00",
+      "short_snippet": "韓國稅務師資格考試爆發作弊事件，加上一年一度的大學修學能力試驗，讓 AI 作弊議題浮上檯面。韓國總統李在明今天 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-fa0f52e28a2e49d598ab",
+    "article": {
+      "title": "中華電：沒放棄 AWS 低軌衛星合作，盼協調 28GHz 頻譜",
+      "url": "https://technews.tw/2026/11/20/cht-aws-28ghz/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-20T09:40:48+00:00",
+      "short_snippet": "亞馬遜旗下低軌衛星服務 Amazon Leo 因頻譜合適性已與遠傳合作，中華電信董事長簡志誠今天表示，「還沒有 […]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-7437ef4a9c7e2b46b5a0",
+    "article": {
+      "title": "IEA：資料中心用電 2030 年恐倍增，十年內須新建至少 2,500 萬公里電網",
+      "url": "https://technews.tw/2026/11/20/iea-warned-data-center-power-use-could-double-by-2030-straining-grids/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-20T09:10:16+00:00",
+      "short_snippet": "國際能源總署警告，資料中心用電可能在 2030 年翻倍至約 1,000TWh，十年內須新建與升級數千萬公里輸電 […]",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ace4319f7169fcca4bd7",
+    "article": {
+      "title": "英飛凌攜手麥格米特布局 800 VDC，SiC 元件導入 AI 三相電源系統",
+      "url": "https://technews.tw/2026/11/20/infineon-megmeet-800-vdc-deployment-sic-components-ai-three-phase-power-systems/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-20T09:03:46+00:00",
+      "short_snippet": "英飛凌宣布與中國電源設備大廠麥格米特合作，推進 AI 資料中心 800 VDC 供電架構。麥格米特將採用英飛凌 […]",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-14e110859324fe8d6f41",
+    "article": {
+      "title": "攜手 Lonestar 推進低地球軌道資料中心建置，群聯推出太空專用 SSD 解決方案",
+      "url": "https://finance.technews.tw/2026/11/20/phison-launches-ssd-solution-designed-for-space/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-20T09:00:13+00:00",
+      "short_snippet": "群聯電子 20 日宣布，正式推出全新「Pascari Space」太空專用 SSD 解決方案，全面進軍商業太空 […]",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-074d95b2c419d0ab8424",
+    "article": {
+      "title": "10 月外銷訂單 1,238 億美元續創高，年增 78.3% 連 21 紅",
+      "url": "https://finance.technews.tw/2026/11/20/october-export-orders-new-record-123-8-billion-usd-up-78-3-percent-21-consecutive-months/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-20T08:50:21+00:00",
+      "short_snippet": "人工智慧（AI）需求續強，經濟部今天公布 10 月外銷訂單為 1,238.2 億美元，創歷年單月新高，年增 7 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f78115edef51a4c4a4f4",
+    "article": {
+      "title": "Anthropic 上市難救行情，日股暴跌逾 3,000 點",
+      "url": "https://finance.technews.tw/2026/11/20/nikkei-plunges-more-than-3000-points/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-20T08:40:14+00:00",
+      "short_snippet": "日本東京股市今天重挫，日經平均指數終場大跌 3,007.56 點，收在 56,436.65 點。儘管備受全球投 […]",
+      "tags": [
+        "AI"
+      ]
+    }
   }
 ]
