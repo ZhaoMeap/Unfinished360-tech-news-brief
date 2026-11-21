@@ -11316,6 +11316,30 @@
           "status": "目前無法取得（介面保留，尚未接入 API）"
         }
       ]
+    },
+    "daily-2026-11-21-0917": {
+      "scheduled_slot_id": "daily-2026-11-21-0917",
+      "scheduled_at_utc": "2026-11-21T01:17:00+00:00",
+      "actual_started_at_utc": "2026-11-21T08:16:00.533840+00:00",
+      "completed_at_utc": null,
+      "status": "running",
+      "catch_up": true,
+      "run_id": "44884048206",
+      "output_file": null,
+      "attempts": 1,
+      "previous_attempts": []
+    },
+    "daily-2026-11-21-1517": {
+      "scheduled_slot_id": "daily-2026-11-21-1517",
+      "scheduled_at_utc": "2026-11-21T07:17:00+00:00",
+      "actual_started_at_utc": "2026-11-21T08:16:00.533840+00:00",
+      "completed_at_utc": null,
+      "status": "running",
+      "catch_up": true,
+      "run_id": "44884048206",
+      "output_file": null,
+      "attempts": 1,
+      "previous_attempts": []
     }
   }
 }
