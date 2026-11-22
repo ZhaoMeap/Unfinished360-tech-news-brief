@@ -73829,5 +73829,83 @@
         "產品與平台"
       ]
     }
+  },
+  {
+    "event_id": "evt-e4cd294231264a2f803f",
+    "article": {
+      "title": "AI Supply Chain Security: What Canary Tokens Found",
+      "url": "https://news.ycombinator.com/item?id=50596511",
+      "source": "Hacker News",
+      "published_at": "2026-11-22T05:11:43+00:00",
+      "short_snippet": "Article URL: https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens Comments URL: https://news.ycombinator.com/item?id=50596511 Points: 47 # Comments: 4",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-66908d191493f637452b",
+    "article": {
+      "title": "The Mythology of Conscious AI",
+      "url": "https://news.ycombinator.com/item?id=50595537",
+      "source": "Hacker News",
+      "published_at": "2026-11-22T02:10:02+00:00",
+      "short_snippet": "Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/ Comments URL: https://news.ycombinator.com/item?id=50595537 Points: 46 # Comments: 79",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-1330422c45a651398701",
+    "article": {
+      "title": "AI 文字偵測器學會邊用邊調整，識破偽裝文字準確率逾九成",
+      "url": "https://technews.tw/2026/11/22/helping-ai-text-detectors-keep-up-with-changing-conditions/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-22T07:30:52+00:00",
+      "short_snippet": "麻省理工學院（MIT）與康乃爾大學用「測試時調適」（test-time adaptation，TTA）技術，讓 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-2757d59dcac16b7a22de",
+    "article": {
+      "title": "KAIST 讀唇 AI 先抓最清楚的嘴型，無聲辨識詞錯誤率降至 19.4%",
+      "url": "https://technews.tw/2026/11/22/scientists-taught-ai-to-read-lips-in-total-silence-and-the-results-are-pretty-impressive/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-22T06:30:55+00:00",
+      "short_snippet": "韓國科學技術院（KAIST）教授 Yong Man Ro 團隊開發讀唇人工智慧系統 DLLM-VSR，不需要任 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f9067cc240dbf4ac2f04",
+    "article": {
+      "title": "玩美移動為何告別美股？訊連揭 4 大原因：市值太小、AI 衝擊 SaaS 估值",
+      "url": "https://finance.technews.tw/2026/11/22/perfect-corp-delists-us-stocks-cyberlink-reveals-4-reasons-small-market-cap-ai-saas-valuation-impact/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-22T03:00:23+00:00",
+      "short_snippet": "訊連旗下美妝 AI 公司玩美移動（Perfect Corp.）10 月 23 日完成私有化，正式從紐約證券交易 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-67307970a67b3d863917",
+    "article": {
+      "title": "Anthropic 史上最大 IPO 難救市！美股 AI 蒸發 4 兆美元背後投資人恐慌",
+      "url": "https://finance.technews.tw/2026/11/22/can-ai-deliver-returns/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-22T02:56:53+00:00",
+      "short_snippet": "自 2022 年 ChatGPT 問世，並開啟新一輪改變全球技術與資本市場的新週期以來，投資者首次展現出強烈的 […]",
+      "tags": [
+        "AI"
+      ]
+    }
   }
 ]
