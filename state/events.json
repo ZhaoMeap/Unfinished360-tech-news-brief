@@ -73907,5 +73907,177 @@
         "AI"
       ]
     }
+  },
+  {
+    "event_id": "evt-ad35b984f703a858d2a7",
+    "article": {
+      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "source": "The Verge",
+      "published_at": "2026-11-22T17:25:20+00:00",
+      "short_snippet": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files with Suno metadata that pointed back to […]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-bb8feab2400d76e37659",
+    "article": {
+      "title": "Protesters storm Meta offices in India",
+      "url": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
+      "source": "The Verge",
+      "published_at": "2026-11-22T15:15:07+00:00",
+      "short_snippet": "Members of the opposition Congress party protested outside Meta's offices in Delhi on Friday and appear to have entered the building in a video shared by CNN. Members of the party's youth wing are demanding the company restore accounts of party leaders and warned of more protests to come. The Congress party has criticized Meta […]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-fe727e05ccc3b2187956",
+    "article": {
+      "title": "‘The show is starting soon. Please turn on your headphones.’",
+      "url": "https://www.theverge.com/tech/1038879/off-broadway-love-me-auracast",
+      "source": "The Verge",
+      "published_at": "2026-11-22T14:00:00+00:00",
+      "short_snippet": "Up a few concrete steps and through the front door of a 200-year-old row house in New York City, I follow a crowd of people into the 178-seat SoHo Playhouse. As we filter to our seats, ushers hand each person a black drawstring bag with a pair of wired headphones connected to a small Auracast […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6deff105de9172b3e3ee",
+    "article": {
+      "title": "Your questions about Apple HomeView’s audio, answered",
+      "url": "https://www.theverge.com/tech/1038713/apple-homeview-audio-smart-speaker-spotify-airplay",
+      "source": "The Verge",
+      "published_at": "2026-11-22T13:00:00+00:00",
+      "short_snippet": "After I published my review of the HomeView, Apple's first smart display, y'all still had a ton of questions about how it works as a smart speaker. So, I spent a bunch more time testing its audio capabilities and support for third-party music apps - and found a few more frustrations along the way. Here […]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5192bb4f3d5472c1e1f9",
+    "article": {
+      "title": "Perplexity and Intelligence",
+      "url": "https://news.ycombinator.com/item?id=50601525",
+      "source": "Hacker News",
+      "published_at": "2026-11-22T17:06:27+00:00",
+      "short_snippet": "Article URL: https://openai.com/index/perplexity-and-intelligence/ Comments URL: https://news.ycombinator.com/item?id=50601525 Points: 44 # Comments: 18 https://openai.com/index/perplexity-and-intelligence/",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a462595df204c07d4752",
+    "article": {
+      "title": "Ask HN: Are the trades a safe career transition?",
+      "url": "https://news.ycombinator.com/item?id=50600771",
+      "source": "Hacker News",
+      "published_at": "2026-11-22T15:52:33+00:00",
+      "short_snippet": "I am a software guy. Engineering degree but not PEng. Im thinking of jumping ship because i dont see much of a future in the career. Ai has me a little discouraged I need a few decades of at least mild security to get to retirement... Are the trades safe? Im worried about homeowners and companies ending up with robots that do all those tasks. Not next year obviously, but it could happen before the",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-fc754db4cc11d7250cbc",
+    "article": {
+      "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
+      "url": "https://news.ycombinator.com/item?id=50600677",
+      "source": "Hacker News",
+      "published_at": "2026-11-22T15:42:40+00:00",
+      "short_snippet": "Article URL: https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html Comments URL: https://news.ycombinator.com/item?id=50600677 Points: 75 # Comments: 50",
+      "tags": [
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-92e4f5865f0df2f96a67",
+    "article": {
+      "title": "Show HN: I built a game where you are an LLM's subagent",
+      "url": "https://news.ycombinator.com/item?id=50599762",
+      "source": "Hacker News",
+      "published_at": "2026-11-22T13:56:58+00:00",
+      "short_snippet": "Article URL: https://github.com/gulivan/worker755 Comments URL: https://news.ycombinator.com/item?id=50599762 Points: 144 # Comments: 36",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-4dcef943e6bd604e93eb",
+    "article": {
+      "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+      "url": "https://news.ycombinator.com/item?id=50597959",
+      "source": "Hacker News",
+      "published_at": "2026-11-22T09:57:01+00:00",
+      "short_snippet": "Article URL: https://simonwillison.net/2026/Nov/21/muru/ Comments URL: https://news.ycombinator.com/item?id=50597959 Points: 50 # Comments: 8",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-127bc957bcd42469b2fa",
+    "article": {
+      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+      "url": "https://news.ycombinator.com/item?id=50597612",
+      "source": "Hacker News",
+      "published_at": "2026-11-22T08:57:34+00:00",
+      "short_snippet": "Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/ Comments URL: https://news.ycombinator.com/item?id=50597612 Points: 544 # Comments: 615",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d7fd448cf788f43435f1",
+    "article": {
+      "title": "Centec ZX530S-24S2CQ Review The Cheap 10G and 100G Switch Option with a Centec Switch Chip",
+      "url": "https://www.servethehome.com/centec-zx530s-24s2cq-review/",
+      "source": "ServeTheHome",
+      "published_at": "2026-11-22T18:00:14+00:00",
+      "short_snippet": "We test the ZX530S-24S2CQ switch, a 24-port SFP+ 10G switch with two 100G SFP28 ports, but with a surprise Chinese Centec switch chip inside The post Centec ZX530S-24S2CQ Review The Cheap 10G and 100G Switch Option with a Centec Switch Chip appeared first on ServeTheHome .",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-759ef703acea88dc746f",
+    "article": {
+      "title": "輝達遭勒索組織暗網威脅十天後洩漏資料，但官方稱系統未遭入侵",
+      "url": "https://infosecu.technews.tw/2026/11/22/nvidia-ransom-demand-by-the-gentlemen-leak-timer-under-10-days/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-22T09:00:16+00:00",
+      "short_snippet": "勒索軟體組織 The Gentlemen 18 日將輝達（NVIDIA）列入暗網資料外洩網站，聲稱取得公司資料 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d77a2c43971da502e1b0",
+    "article": {
+      "title": "AI 顛覆航空收益管理，「訂票後最佳化」啟動營收與滿意度三贏革命",
+      "url": "https://technews.tw/2026/11/22/ai-boosts-post-booking-optimization-aviation-industry/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-22T08:30:47+00:00",
+      "short_snippet": "人工智慧（AI）正為航空業的收益管理帶來顛覆性的動態變革！最新產業分析指出，航空公司的營運焦點已不再侷限於「訂 […]",
+      "tags": [
+        "AI"
+      ]
+    }
   }
 ]
