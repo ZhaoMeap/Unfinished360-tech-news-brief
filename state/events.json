@@ -75279,5 +75279,492 @@
         "產品與平台"
       ]
     }
+  },
+  {
+    "event_id": "evt-930259be17ccb09d7c21",
+    "article": {
+      "title": "Here are 4 things you didn’t know you could do with Gemini Canvas.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-canvas-tasks/",
+      "source": "官方：Google",
+      "published_at": "2026-11-23T18:00:00+00:00",
+      "short_snippet": "Boost productivity with Google Gemini Canvas. Build web apps, create custom study tools, and refine writing side-by-side. Try it in your next chat.",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-4f5fe20de68e9dfdec37",
+    "article": {
+      "title": "A more tailored Google Search that’s uniquely yours",
+      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+      "source": "官方：Google",
+      "published_at": "2026-11-23T17:00:00+00:00",
+      "short_snippet": "Google Search bar with the text \"Personal Intelligence\" surrounded by the Google Wallet, Google Drive, GMail, Google Photos, Google Calendar, and Google G logo icons",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-606cad8e85b3c4fe0abb",
+    "article": {
+      "title": "Organize and share your holiday memories with these five updates in Google Photos.",
+      "url": "https://blog.google/products-and-platforms/products/photos/google-photo-tools-holiday-season-2026/",
+      "source": "官方：Google",
+      "published_at": "2026-11-23T17:00:00+00:00",
+      "short_snippet": "Organize holiday memories with five new Google Photos updates. Use Gemini for video tasks and filter shared albums by people. Try these features today.",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-8d32fcc88c2d50882cbe",
+    "article": {
+      "title": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season",
+      "url": "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/",
+      "source": "官方：NVIDIA",
+      "published_at": "2026-11-23T17:00:08+00:00",
+      "short_snippet": "The elves don’t have to be the only ones busy in the workshop this holiday season. With the lights twinkling and the gift wrap out, it’s the perfect time to give someone — or yourself — a spark to take a hobby to the next level. For some, that means diving into a new game. […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a71658de30259413c7cb",
+    "article": {
+      "title": "Claude AI can review pull requests and ship fixes on its own now",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+      "source": "The Verge",
+      "published_at": "2026-11-23T20:00:00+00:00",
+      "short_snippet": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have already been able to take advantage of Claude's code review capabilities thanks to the Code Review feature, which was […]",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-592dd9cffd0504b9fef5",
+    "article": {
+      "title": "Jensen Huang says he’ll be a ‘better CEO’ as staff applauds his return",
+      "url": "https://www.theverge.com/tech/1040487/nvidia-ceo-jensen-huang-staff-applauds-return",
+      "source": "The Verge",
+      "published_at": "2026-11-23T19:58:27+00:00",
+      "short_snippet": "Jensen Huang returned to Nvidia's office as CEO today to a crowd of applauding employees who stood and filmed the co-founder's first moments back. \"Thank you all for the second chances. I'm gonna be a better CEO the second time around,\" Huang said, as shown in a video of his return. Huang resigned as CEO […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6e5ae9b0b9f5f2a3d6b0",
+    "article": {
+      "title": "How Jensen Huang ended up as Nvidia CEO again",
+      "url": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+      "source": "The Verge",
+      "published_at": "2026-11-23T19:57:18+00:00",
+      "short_snippet": "The Jensen Huang era of Nvidia nearly came to an end this month. Huang, who three decades ago co-founded what's come to be considered one of the most important companies in AI, resigned from his role on November 12th over mounting scrutiny around his alleged affairs. Huang admitted he had been \"unfaithful\" to his wife […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-539be0d76eb4ff4d1989",
+    "article": {
+      "title": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
+      "url": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
+      "source": "The Verge",
+      "published_at": "2026-11-23T19:04:52+00:00",
+      "short_snippet": "Nothing's new AI device is the Ear Note, a set of earbuds and their microphone-equipped charging case that can record and transcribe conversations, with a connected app to manage the recordings, transcriptions and AI-generated summaries, similar to Apple's new Watch feature and devices like Amazon's Bee wearable. Nothing CEO Carl Pei demonstrated the new device […]",
+      "tags": [
+        "AI",
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5908444634460dcc424b",
+    "article": {
+      "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
+      "source": "The Verge",
+      "published_at": "2026-11-23T18:26:47+00:00",
+      "short_snippet": "In separate but similar lawsuits filed on Monday, Oregon Attorney General Dan Rayfield and Virginia Attorney General Jay Jones accused SpaceX of violating state consumer protection laws by ignoring industry-standard safeguards and falsely promoting the safety of its X social media platform and Grok AI features. The complaint filed in Virginia accuses Musk of willfully […]",
+      "tags": [
+        "AI",
+        "監管",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-1a328d4fe3c6dbc776fa",
+    "article": {
+      "title": "TSMC says advanced semiconductor capacity remains in short supply amid booming AI demand",
+      "url": "https://www.digitimes.com/news/a20261123PD239/market-taiwan-demand-tsmc-capacity.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-23T14:24:01+00:00",
+      "short_snippet": "Amid growing market concerns over artificial intelligence (AI), Taiwan's premier of the Executive Yuan Jung-tai Cho invited representatives from the financial and industrial sectors to a meeting on November 23 to bolster confidence in Taiwan's economic development. Cliff Hou, chairman of the Taiwan Semiconductor Industry Association (TSIA) and senior vice president and deputy co-chief operating of",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ea79cad34a6ea72cbc01",
+    "article": {
+      "title": "Nvidia reinstates Jensen Huang; Trump, Musk hail decision",
+      "url": "https://www.digitimes.com/news/a20261123VL216/nvidia-ceo-jensen-huang-president-security.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-23T14:22:07+00:00",
+      "short_snippet": "Nvidia's board has reinstated Jensen Huang as president, CEO and board member, effective immediately. The reversal comes six days after directors said they had no intention of bringing him back.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c26e98fc41600c23f22a",
+    "article": {
+      "title": "Chinese LED giant San'an loses its GM to embezzlement probe",
+      "url": "https://www.digitimes.com/news/a20261123PD237/chairman-chongqing.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-23T09:57:47+00:00",
+      "short_snippet": "Lin Kechuang, vice chairman and general manager of China's LED leader San'an Optoelectronics, has resigned from all his posts at the company and its subsidiaries, citing personal health reasons. The move comes days after provincial lawmakers approved criminal measures against him.",
+      "tags": [
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-03a8bf174e9c9d4f39e5",
+    "article": {
+      "title": "Chip prices set to rise through 2027, driving semiconductor growth",
+      "url": "https://www.digitimes.com/news/a20261123PD231/2027-growth-demand-revenue-chips.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-23T08:59:00+00:00",
+      "short_snippet": "Chip prices are set to continue rising through 2027, with foundries confirmed to be raising prices and OSAT providers expected to follow, according to recent observations from IC design firms. As a result, chip designers are preparing to pass higher costs on to customers across most chip categories, except for a few cost-sensitive products facing weak demand.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e746a4176372a2e38005",
+    "article": {
+      "title": "NSK and NTN finalize 2027 merger plans under dual-HQ structure",
+      "url": "https://www.digitimes.com/news/a20261123PD229/2027-merger-business-europe.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-23T08:55:00+00:00",
+      "short_snippet": "Japanese bearing manufacturers NSK and NTN have formally signed a business integration agreement to merge under a new parent company, NTN NSK, which will wholly own both firms, effective October 1, 2027. The transaction, to be executed via a joint share transfer, remains subject to shareholder approval and regulatory clearances in Japan and overseas.",
+      "tags": [
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-be5946fe5a19963bc384",
+    "article": {
+      "title": "Ford takes key step toward US-made LFP batteries",
+      "url": "https://www.digitimes.com/news/a20261123PD227/ford-production-lithium-catl-automakers.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-23T08:45:00+00:00",
+      "short_snippet": "Ford has begun producing lithium iron phosphate (LFP) batteries for electric pickup trucks, marking a key step toward US-made LFP batteries. The move makes Ford one of the few mainstream automakers based in Europe, the US, Japan, or South Korea to achieve in-house LFP battery production, although questions remain over its reliance on China-based CATL for turnkey technology transfer.",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-74fafbceacf3e3a8b56d",
+    "article": {
+      "title": "BYD claims first mass-produced foldable steering wheel, opening doors for smart cockpit suppliers",
+      "url": "https://www.digitimes.com/news/a20261123PD225/byd-foldable-vehicle-smart-cockpit-technology.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-23T08:30:35+00:00",
+      "short_snippet": "Chinese electric vehicle giant BYD has unveiled another innovation in automotive cockpit technology, introducing a foldable smart cockpit through its Fangchengbao brand on November 19.",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-278d1656eebec785c23a",
+    "article": {
+      "title": "Nvidia secures substrate capacity as South Korean chip startups face supply squeeze",
+      "url": "https://www.digitimes.com/news/a20261123VL210/nvidia-capacity-substrate-ai-chip-data-center.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-23T08:22:52+00:00",
+      "short_snippet": "Nvidia is securing more advanced chip substrate capacity through long-term supply agreements as South Korea's AI chip startups struggle to obtain key components, while Seoul seeks closer cooperation between domestic suppliers and chip developers.",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-caddba8267fccb3f76f5",
+    "article": {
+      "title": "Nvidia server partners reportedly suspend shipments to Southeast Asia following new US export rules",
+      "url": "https://www.digitimes.com/news/a20261123VL212/nvidia-southeast-asia-ai-server-shipments.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-23T08:08:39+00:00",
+      "short_snippet": "Some suppliers of Nvidia servers are reportedly suspending shipments to Southeast Asia. The chipmaker's stricter end-customer scrutiny is also making it more difficult to ship AI chips to the region. The disruptions follow the release of new US export rules aimed at limiting the ability of Chinese companies to access Nvidia's advanced computing technology.",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f058b96305e3d60d1494",
+    "article": {
+      "title": "Apple removed my open-source app from EU App Stores after 9 years",
+      "url": "https://news.ycombinator.com/item?id=50616933",
+      "source": "Hacker News",
+      "published_at": "2026-11-23T18:48:10+00:00",
+      "short_snippet": "Article URL: https://github.com/glushchenko/fsnotes/discussions/2056 Comments URL: https://news.ycombinator.com/item?id=50616933 Points: 234 # Comments: 48",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-34fe53695981d43a79c8",
+    "article": {
+      "title": "How should an LLM see a computer?",
+      "url": "https://news.ycombinator.com/item?id=50615520",
+      "source": "Hacker News",
+      "published_at": "2026-11-23T17:19:25+00:00",
+      "short_snippet": "Article URL: https://www.greptile.com/blog/trex-computer-use Comments URL: https://news.ycombinator.com/item?id=50615520 Points: 20 # Comments: 15",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ee02c73400906f716652",
+    "article": {
+      "title": "Building a wireless network adapter for the Super Nintendo",
+      "url": "https://news.ycombinator.com/item?id=50611861",
+      "source": "Hacker News",
+      "published_at": "2026-11-23T14:16:37+00:00",
+      "short_snippet": "Article URL: https://boland.dev/snet/ Comments URL: https://news.ycombinator.com/item?id=50611861 Points: 57 # Comments: 16",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-41134eb9af3e760b1df4",
+    "article": {
+      "title": "Nvidia Reinstates Jensen Huang as CEO",
+      "url": "https://news.ycombinator.com/item?id=50611576",
+      "source": "Hacker News",
+      "published_at": "2026-11-23T14:00:18+00:00",
+      "short_snippet": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-j... Comments URL: https://news.ycombinator.com/item?id=50611576 Points: 1465 # Comments: 2599 https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-21908a70d050f480e642",
+    "article": {
+      "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+      "url": "https://news.ycombinator.com/item?id=50611402",
+      "source": "Hacker News",
+      "published_at": "2026-11-23T13:42:38+00:00",
+      "short_snippet": "We built NariQ: 3-bit-or-lower quantizations of Qwen3.8-27B that retain near-BF16 quality across agentic tasks, math, multilingual reasoning, and image understanding. To our knowledge, this is the first 3-bit-or-lower quantization that retains BF16 lvl performance on long-horizon agentic tasks. Benchmarks (BF16 / 3-bit / 2.5-bit / 2-bit): - DeepSWE: 39.8 / 41.0 / 41.9 / 28.6 - Terminal-Bench 2.1: ",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b8312c649fd1660540af",
+    "article": {
+      "title": "Accelerating Direct Sparse Solvers for Computational Engineering with NVIDIA cuDSS 1.0",
+      "url": "https://developer.nvidia.com/blog/accelerating-direct-sparse-solvers-for-computational-engineering-with-nvidia-cudss-1-0/",
+      "source": "官方：NVIDIA Developer",
+      "published_at": "2026-11-23T19:59:40+00:00",
+      "short_snippet": "Sparse linear systems are at the core of nearly every engineering and scientific simulation, from structural mechanics and computational fluid dynamics to...",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-8be96404238dc665f51c",
+    "article": {
+      "title": "Get Started with GPU-Accelerated DuckDB Analytics Using the Sirius Core Extension",
+      "url": "https://developer.nvidia.com/blog/get-started-with-gpu-accelerated-duckdb-analytics-using-the-sirius-core-extension/",
+      "source": "官方：NVIDIA Developer",
+      "published_at": "2026-11-23T17:09:28+00:00",
+      "short_snippet": "As datasets grow, analytical queries can take longer to run, slowing down data exploration, pipelines, and applications. For developers using DuckDB, reducing...",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-00d52199bef25f9eda98",
+    "article": {
+      "title": "How to build and maintain an agentic evaluation",
+      "url": "https://huggingface.co/blog/agentic-evals",
+      "source": "官方：Hugging Face",
+      "published_at": "2026-11-23T00:00:00+00:00",
+      "short_snippet": "",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0c88ab287665d4ac2007",
+    "article": {
+      "title": "Jensen is BACK at NVIDIA",
+      "url": "https://www.servethehome.com/jensen-is-back-at-nvidia/",
+      "source": "ServeTheHome",
+      "published_at": "2026-11-23T19:06:15+00:00",
+      "short_snippet": "Jensen Huang has been reinstated as CEO of NVIDIA after positive assertions from the US government and a short process The post Jensen is BACK at NVIDIA appeared first on ServeTheHome .",
+      "tags": [
+        "半導體",
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-836ed02885e0f27af253",
+    "article": {
+      "title": "快訊》董事會宣布立即恢復黃仁勳職位，輝達股價暴漲逾 25%",
+      "url": "https://finance.technews.tw/2026/11/23/the-board-of-directors-announces-the-immediate-reinstatement-of-jensen-huang/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-23T14:20:28+00:00",
+      "short_snippet": "人工智慧（AI）晶片大廠輝達（Nvidia）出現戲劇性大翻盤，輝達董事會正式宣布恢復創辦人黃仁勳的職務，人事令 […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-59f0e3cd282aa09d97f8",
+    "article": {
+      "title": "Google 打造「鏡像維度」模擬網路，為 Chrome Agent 建立安全訓練沙盒",
+      "url": "https://infosecu.technews.tw/2026/11/23/google-chrome-introduces-mirror-dimension-to-safely-test-ai-agents/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-23T13:04:16+00:00",
+      "short_snippet": "Google 日前公開一套名為「鏡像維度」（Mirror Dimension）的隔離式合成網路，作為 Chro […]",
+      "tags": [
+        "AI",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d3ca9bfdcd1509c0ef8e",
+    "article": {
+      "title": "美國規劃新建 1 GW 核電，結合地下 HVDC 跨區供電",
+      "url": "https://technews.tw/2026/11/23/us-plans-new-1-gw-nuclear-power-underground-hvdc-inter-regional-supply/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-23T09:14:05+00:00",
+      "short_snippet": "隨著 AI 資料中心及製造業用電需求持續攀升，美國核能開發商 ONE Nuclear Energy 近日宣布， […]",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-33fcb2ce31650f0f1810",
+    "article": {
+      "title": "歐洲推動主權雲端漸具成效，美國超大規模雲端服務商仍主導市場",
+      "url": "https://infosecu.technews.tw/2026/11/23/europe-push-for-digital-sovereignty-in-cloud-computing-gains-momentum/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-23T09:00:32+00:00",
+      "short_snippet": "歐洲致力推動確保關鍵數位服務能在自身掌控下運作的努力正逐漸浮現成效，各國政府及受監管產業在採購雲端服務時，已將 […]",
+      "tags": [
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d28f886fa8af16140a6d",
+    "article": {
+      "title": "台積電注入強心針，AI 長期看好先進製程持續供不應求",
+      "url": "https://technews.tw/2026/11/23/tsmc-boosts-ai-long-term-outlook-advanced-process-supply-shortages/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-23T08:50:42+00:00",
+      "short_snippet": "AI 市場前景疑慮升高，重創全球股市。晶片代工廠台積電今天表示，全球 AI 需求與日俱增，長期展望持續看好，市 […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-271f2f217bb7c7eab37e",
+    "article": {
+      "title": "零時差攻擊鎖定 vCenter，中國駭客利用 VMware 漏洞竊取企業機密資料",
+      "url": "https://infosecu.technews.tw/2026/11/23/vmware-vulnerability-exploited-hackers-advance/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-23T08:40:10+00:00",
+      "short_snippet": "Google 威脅情報團隊與 Mandiant 近期發布報告指出，VMware vCenter 於 11 月 […]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-79b797aa64bf2b63653b",
+    "article": {
+      "title": "戳破科技業過度樂觀神話，諾華執行長：AI 難在 10 年內治癒癌症",
+      "url": "https://technews.tw/2026/11/23/novartis-rejects-ai-industry-hopes-to-cure-cancer-in-five-to-10-years/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-23T08:20:50+00:00",
+      "short_snippet": "諾華（Novartis）執行長萬思瀚（Vas Narasimhan）11 月 23 日表示，外界對人工智慧在醫 […]",
+      "tags": [
+        "AI",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-00f205df157c42339adb",
+    "article": {
+      "title": "科林研發攜手 LEGO Education，提升兒童 STEM 教育學習機會",
+      "url": "https://technews.tw/2026/11/23/lam-research-lego-education-stem/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-23T08:20:16+00:00",
+      "short_snippet": "科林研發（Lam Research）宣布與 LEGO Education 合作，擴大兒童及青少年參與科學、科技 […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-7230b171d029d55cb7d0",
+    "article": {
+      "title": "鈉離子電池也能助攻 AI？LG 結合 SST 打造新一代供電架構",
+      "url": "https://technews.tw/2026/11/23/sodium-ion-batteries-power-ai-lg-combines-sst-create-new-generation-power-architecture/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-23T08:15:21+00:00",
+      "short_snippet": "AI 資料中心除了面臨電力供應不足的挑戰，GPU 運算所帶來的瞬間負載變化，也對供電系統提出更高要求。韓國電池 […]",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心"
+      ]
+    }
   }
 ]
