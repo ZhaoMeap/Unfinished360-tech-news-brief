@@ -77267,5 +77267,96 @@
         "半導體"
       ]
     }
+  },
+  {
+    "event_id": "evt-a7a0adf7d6c734e350c9",
+    "article": {
+      "title": "How Gemini is changing the game for Golden State's organization and fans.",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+      "source": "官方：Google",
+      "published_at": "2026-11-24T16:00:00+00:00",
+      "short_snippet": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3cf0a5f34d4c9c13da84",
+    "article": {
+      "title": "Independent filmmakers in India bring big-screen stories to life with Google Flow.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/women-in-film-india-google-flow/",
+      "source": "官方：Google",
+      "published_at": "2026-11-24T14:00:00+00:00",
+      "short_snippet": "Indian filmmakers use Google Flow to create original short films. Watch five winning stories from the WIF India Filmathon. See the films now.",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e0db27b644559ae6fb0f",
+    "article": {
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "source": "The Verge",
+      "published_at": "2026-11-24T16:09:23+00:00",
+      "short_snippet": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users.\" In an email seen by The Verge and posted on Threads, two of the Times' photography leaders, Meaghan Looram and Josh […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f885ab4b774a274aaeee",
+    "article": {
+      "title": "LLM agents work for their parent companies, not for you",
+      "url": "https://news.ycombinator.com/item?id=50627340",
+      "source": "Hacker News",
+      "published_at": "2026-11-24T12:40:15+00:00",
+      "short_snippet": "Article URL: https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/ Comments URL: https://news.ycombinator.com/item?id=50627340 Points: 502 # Comments: 213",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-51d91696e8e356a8f746",
+    "article": {
+      "title": "Who in Washington owns and trades Nvidia stock",
+      "url": "https://news.ycombinator.com/item?id=50626861",
+      "source": "Hacker News",
+      "published_at": "2026-11-24T11:51:05+00:00",
+      "short_snippet": "Article URL: https://www.kadoa.com/congress/insights/trump-nvidia Comments URL: https://news.ycombinator.com/item?id=50626861 Points: 236 # Comments: 117",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-4a60cf75ab435f1bbee6",
+    "article": {
+      "title": "Q&A: How Everstone Brings Where Winds Meet to Life with NVIDIA DLSS 5",
+      "url": "https://developer.nvidia.com/blog/qa-how-everstone-brings-where-winds-meet-to-life-with-nvidia-dlss-5/",
+      "source": "官方：NVIDIA Developer",
+      "published_at": "2026-11-24T14:00:00+00:00",
+      "short_snippet": "Where Winds Meet moves between distant mountain landscapes, bustling streets, and quiet moments with its characters. For Everstone Studio, bringing more...",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c3313cb989c424a28918",
+    "article": {
+      "title": "ASUS Turbo Radeon AI PRO R9700 Review",
+      "url": "https://www.servethehome.com/asus-turbo-radeon-pro-ai-r9700-review/",
+      "source": "ServeTheHome",
+      "published_at": "2026-11-24T16:00:27+00:00",
+      "short_snippet": "Today we are taking a look at ASUS's high-end Radeon AI inference card for workstations, the Turbo Radeon AI Pro R9700. With 32GB of RAM and a $2000 price tag, the card is a highly affordable way to fill out a workstation for local AI inference The post ASUS Turbo Radeon AI PRO R9700 Review appeared first on ServeTheHome .",
+      "tags": [
+        "AI"
+      ]
+    }
   }
 ]
