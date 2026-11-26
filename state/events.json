@@ -80538,5 +80538,262 @@
         "產品與平台"
       ]
     }
+  },
+  {
+    "event_id": "evt-e2b642c99181b12ce91a",
+    "article": {
+      "title": "15 years of investing in Colombia’s talent and future",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/15-years-investing-colombia-talent-future/",
+      "source": "官方：Google",
+      "published_at": "2026-11-26T18:00:00+00:00",
+      "short_snippet": "An illustration of Colombia with 'Google' written in front of it",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-066fcfd0e035dad3f387",
+    "article": {
+      "title": "Netflix’s coziest show has made a very quiet return",
+      "url": "https://www.theverge.com/entertainment/1043489/midnight-diner-season3",
+      "source": "The Verge",
+      "published_at": "2026-11-26T21:00:00+00:00",
+      "short_snippet": "The bigger Netflix gets, the easier it is to miss stuff. This is true of all digital platforms, of course, but it's especially true of Netflix of late, as the streaming service's lineup now also includes a growing library of reality shows, live-programming, and even games. It makes it easy for some of the best […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3048c9c1fb90beda06f8",
+    "article": {
+      "title": "Android app developers will soon have to share their address publicly",
+      "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+      "source": "The Verge",
+      "published_at": "2026-11-26T17:06:24+00:00",
+      "short_snippet": "Independent Android app developers are worried about their privacy after Google announced that from next year many of them will be required to share a phone number and address publicly. The policy change is intended to meet European Union regulations under the Digital Services Act, but Google says contact details will be made public worldwide. […]",
+      "tags": [
+        "Big Tech",
+        "監管",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-23ddc67d6c2d54eed5ec",
+    "article": {
+      "title": "Federal judge blocks the FCC from reviewing ABC’s licenses early",
+      "url": "https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block",
+      "source": "The Verge",
+      "published_at": "2026-11-26T16:38:00+00:00",
+      "short_snippet": "US District Judge Loren AliKhan has blocked the Federal Communications Commission from conducting an early review of ABC's broadcast licenses in a preliminary injunction, and rejected its efforts to dismiss ABC's First Amendment lawsuit. ABC has accused the FCC of violating its free speech rights and claims the agency \"waged a retaliatory campaign\" against the […]",
+      "tags": [
+        "監管"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-423ffde683b939f5e9f0",
+    "article": {
+      "title": "Disney Plus, Hulu, and HBO Max are all over 50 percent off for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1041762/best-black-friday-streaming-deals-2026",
+      "source": "The Verge",
+      "published_at": "2026-11-26T16:00:00+00:00",
+      "short_snippet": "Black Friday isn’t just a good time to save on a new TV but also a chance to spend less on what you watch on it. The shopping holiday often brings steep streaming discounts, and this year is no exception, with some streamers offering more than 50 percent off. HBO Max, Apple TV, and Hulu […]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-18f9022d6bdc8f2a3fcb",
+    "article": {
+      "title": "DRAM contract prices stay high as supply-demand squeeze persists",
+      "url": "https://www.digitimes.com/news/a20261126PD230/taiwan-dram-demand-capacity-business.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-26T10:35:08+00:00",
+      "short_snippet": "The Taiwan Institute of Economic Research (TIER) said on October 25 that strong AI chip demand is keeping advanced process capacity fully utilized, while tight global DRAM supply and demand are supporting high contract prices and lifting manufacturers' revenue through rising shipments of customized products. More Taiwan electronics and machinery companies viewed business conditions favorably than ",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-844a78052702f4940934",
+    "article": {
+      "title": "Samsung Display may remain sole iPhone Duo panel supplier for five years",
+      "url": "https://www.digitimes.com/news/a20261126VL225/sdc-apple-iphone-duo-foldable-smartphone-supplier.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-26T10:28:01+00:00",
+      "short_snippet": "Samsung Display (SDC) could remain Apple's sole supplier of foldable OLED panels for at least five years, beyond the term of a reported three-year exclusive supply agreement, as rival manufacturers struggle to match its technology and production capabilities.",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-cd2f7143564fadbc2f31",
+    "article": {
+      "title": "SK Hynix seeks TSMC 3nm expertise as Micron steps up hiring",
+      "url": "https://www.digitimes.com/news/a20261126VL224/sk-hynix-tsmc-micron-3nm-hbm.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-26T09:58:19+00:00",
+      "short_snippet": "SK Hynix is seeking engineers with experience in TSMC's 3nm process to develop customized high-bandwidth memory (HBM), while US rival Micron Technology is stepping up recruitment in South Korea to support its Asian expansion.",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ddedd05b1c798835f308",
+    "article": {
+      "title": "Samsung, DB HiTek eye 8-inch foundry price hikes as AI demand surges",
+      "url": "https://www.digitimes.com/news/a20261126VL227/demand-price-samsung-production-capacity.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-26T09:40:14+00:00",
+      "short_snippet": "Major semiconductor foundries using 8-inch (200mm) wafers are operating at or near full capacity and seeking further price increases as demand for power chips used in AI data centers grows and major chipmakers scale back older production lines.",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b4c97f9a10f17393087e",
+    "article": {
+      "title": "Xpeng targets 2026 year-end mass production for Iron humanoid robot",
+      "url": "https://www.digitimes.com/news/a20261126PD200/xpeng-humanoid-robot-production-2026.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-26T09:17:24+00:00",
+      "short_snippet": "Chinese electric vehicle (EV) maker Xpeng held its AI Day 2026 in Guangzhou, China, on November 25, sharing its latest developments in physical artificial intelligence (AI), with its Iron humanoid robot. The company plans to begin mass production by the end of 2026.",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-fc3218a4300b70599e20",
+    "article": {
+      "title": "AI made self-hosting fun again",
+      "url": "https://news.ycombinator.com/item?id=50660180",
+      "source": "Hacker News",
+      "published_at": "2026-11-26T21:47:45+00:00",
+      "short_snippet": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 23 # Comments: 13",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0225ca1e6bc275adba1f",
+    "article": {
+      "title": "Top-cited AI scientists at four US companies compared",
+      "url": "https://news.ycombinator.com/item?id=50658910",
+      "source": "Hacker News",
+      "published_at": "2026-11-26T19:44:31+00:00",
+      "short_snippet": "Article URL: https://topcitedscientists.com/figures/ai-at-four-us-companies/ Comments URL: https://news.ycombinator.com/item?id=50658910 Points: 7 # Comments: 4",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-37ca6184a6e0bc4a996a",
+    "article": {
+      "title": "Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar",
+      "url": "https://news.ycombinator.com/item?id=50657070",
+      "source": "Hacker News",
+      "published_at": "2026-11-26T16:51:38+00:00",
+      "short_snippet": "Hi HN, I made a small macOS utility for my own iOS simulator workflow. I kept running into two annoyances: getting config files in and out of a simulator is clunky (digging into CoreSimulator UUID folders or running simctl), and on the iPhone Duo simulator I couldn't even drag and drop images onto the window at all. SimDrop puts every running iOS simulator in Finder's sidebar (under Locations) wit",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e36f5aced82b9ff4cca6",
+    "article": {
+      "title": "Head of Software Engineering – NOX Metals",
+      "url": "https://news.ycombinator.com/item?id=50654353",
+      "source": "Hacker News",
+      "published_at": "2026-11-26T12:00:00+00:00",
+      "short_snippet": "Comments URL: https://news.ycombinator.com/item?id=50654353 Points: 0 # Comments: 0",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b2f22d533e41a8465d28",
+    "article": {
+      "title": "Nextcloud Office Desktop app",
+      "url": "https://news.ycombinator.com/item?id=50654289",
+      "source": "Hacker News",
+      "published_at": "2026-11-26T11:50:49+00:00",
+      "short_snippet": "Article URL: https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/ Comments URL: https://news.ycombinator.com/item?id=50654289 Points: 381 # Comments: 192",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ea1348c2855120ec208c",
+    "article": {
+      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "url": "https://news.ycombinator.com/item?id=50653477",
+      "source": "Hacker News",
+      "published_at": "2026-11-26T09:44:23+00:00",
+      "short_snippet": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 168 # Comments: 171",
+      "tags": [
+        "AI",
+        "資料中心",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-feb2b07a68b5d8554346",
+    "article": {
+      "title": "OpenAI may be in cost control mode",
+      "url": "https://news.ycombinator.com/item?id=50652527",
+      "source": "Hacker News",
+      "published_at": "2026-11-26T07:33:12+00:00",
+      "short_snippet": "Article URL: https://micjm.com/blog/openai-is-in-cost-control-mode/ Comments URL: https://news.ycombinator.com/item?id=50652527 Points: 171 # Comments: 147",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-819f2bb8e324e5e7f3ab",
+    "article": {
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "url": "https://huggingface.co/blog/training-swarms",
+      "source": "官方：Hugging Face",
+      "published_at": "2026-11-26T00:00:00+00:00",
+      "short_snippet": "",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d05681ba30f7f8121021",
+    "article": {
+      "title": "三年砸 3 億元攻智慧醫療，鴻海攜北榮秀 AI 機器人成果",
+      "url": "https://finance.technews.tw/2026/11/26/foxconn-smart-medicine/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-26T11:42:01+00:00",
+      "short_snippet": "鴻海加速拓展 AI 與機器人在醫療領域的應用，今日宣布與台北榮民總醫院合作打造的化療自動化智慧場域正式亮相，整 […]",
+      "tags": [
+        "AI"
+      ]
+    }
   }
 ]
