@@ -81550,5 +81550,430 @@
         "半導體"
       ]
     }
+  },
+  {
+    "event_id": "evt-e85333ca87a7fb84680d",
+    "article": {
+      "title": "China's chip expansion stalls on two-year tool waits, and missing parts are to blame",
+      "url": "https://www.digitimes.com/news/a20261127PD213/china-semiconductors-capacity-expansion-component-equipment-smic.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-27T09:20:19+00:00",
+      "short_snippet": "China's foundries keep adding capacity, but longer equipment lead times are starting to slow them down. SMIC says the global semiconductor equipment supply chain remains tight. Lead times for some tools have stretched to 16-24 months, and a few now exceed 24 months. Some equipment that was due this year has been pushed back to next year.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a073996cffd9e9486433",
+    "article": {
+      "title": "Dutch tool maker Trymax deepens Japan push with Kanematsu PWS",
+      "url": "https://www.digitimes.com/news/a20261127VL216/dutch-automotive-equipment-investment-japan-production.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-27T09:11:21+00:00",
+      "short_snippet": "Dutch plasma equipment maker Trymax Semiconductor Equipment has named Kanematsu PWS its exclusive sales representative in Japan. The deal is a bet on Japanese power and automotive chipmakers at a time when their investment is weak.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-9d7abe3f62f39f0d5808",
+    "article": {
+      "title": "AI cooling will progress toward removal of thermal interface materials, says Jentech president",
+      "url": "https://www.digitimes.com/news/a20261127PD224/jentech-precision-cooling-materials-2027.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-27T09:03:45+00:00",
+      "short_snippet": "Thermal solutions provider Jentech Precision holds an optimistic outlook for 2027 and will proceed with capacity expansion as planned, with its new plant expected to reach full utilization two to three years after beginning production next year. In addition, the company will begin mass production of three-piece vapor chambers in the first quarter of 2027, while its customers continue to test micro",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-1f3d5d146ddde8f0e057",
+    "article": {
+      "title": "Bank of Korea flags risks to memory chip boom",
+      "url": "https://www.digitimes.com/news/a20261127VL213/memory-exports-financing-investment-2027-2028.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-27T08:40:40+00:00",
+      "short_snippet": "Memory chip prices could fall well below current projections by 2028 if AI investment slows, financing conditions tighten, and Chinese manufacturers expand production, according to a Bank of Korea study released on November 26.",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-917a7a765e200a2b8a5c",
+    "article": {
+      "title": "From lab to fab: Taiwan's supply chain holds key to mass-producing silicon photonics and CPO",
+      "url": "https://www.digitimes.com/news/a20261127PD225/siph-cpo-equipment-2027.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-27T07:53:57+00:00",
+      "short_snippet": "The first Silicon Photonics Technology Applications Exhibition will run from April 21 to 23, 2027, as AI speeds up the development of silicon photonics (SiPh) and co-packaged optics (CPO). The show will cover SiPh, CPO, high-speed optical communications, AI data centers, advanced packaging, optoelectronic components, equipment and materials, and testing and measurement. Exhibits will range from li",
+      "tags": [
+        "AI",
+        "資料中心",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-aac25056465a11795a51",
+    "article": {
+      "title": "Phone chip demand may stay weak in 2027, recovery seen in 2028",
+      "url": "https://www.digitimes.com/news/a20261127PD220/smartphone-demand-recovery-2027-2028.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-27T07:43:28+00:00",
+      "short_snippet": "Research firms and industry sources expect the smartphone market to remain sluggish in 2027, with a more noticeable recovery potentially not arriving until 2028. Overall market conditions are expected to remain similar to those in 2026, with Apple and Samsung Electronics maintaining their relative lead while Chinese smartphone brands face weaker shipment momentum across mid- and low-end models and",
+      "tags": [
+        "半導體",
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f5de5a0ea4b38c4da205",
+    "article": {
+      "title": "TSMC's A14 ready for chip design",
+      "url": "https://www.digitimes.com/news/a20261127VL211/tsmc-ic-design-production-capacity.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-27T07:23:26+00:00",
+      "short_snippet": "TSMC's next-generation A14 process is ready for chip design, as the world's largest contract chipmaker prepares for volume production of its 1.4nm-class technology in 2028.",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-86d20da0ddb3a6c54947",
+    "article": {
+      "title": "Analysis: optical makers face 2027 CPO test as FAU and EBO mass production looms",
+      "url": "https://www.digitimes.com/news/a20261126PD221/cpo-largan-precision-gseo-production-2027.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-27T06:58:46+00:00",
+      "short_snippet": "As Largan Precision, Genius Electronic Optical (GSEO), and Kinko Optical hold back-to-back investor conferences, the industry spotlight has shifted beyond smartphone camera specifications to a more consequential question: How far have optical lens makers advanced in co-packaged optics (CPO)? Upcoming mass-production validation for fiber array units (FAUs) and expanded beam optics (EBO) will be dec",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-ee1026ad8c6e9fd45adc",
+    "article": {
+      "title": "Japan's JERA in talks with Anthropic, Meta on AI data centers",
+      "url": "https://www.digitimes.com/news/a20261127VL212/anthropic-meta-data-infrastructure-electricity.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-27T06:41:41+00:00",
+      "short_snippet": "Japan's largest power producer, JERA, is in talks with Anthropic, Meta, Amazon, Microsoft, and Google to develop data centers near its power plants in the Tokyo area, JERA global CEO and chair Yukio Kani told Nikkei in a recent interview.",
+      "tags": [
+        "AI",
+        "資料中心",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a99a727283b9471a0f24",
+    "article": {
+      "title": "Silicon 4.0 arrives as AI rewrites semiconductor economics, says Etron Chairman",
+      "url": "https://www.digitimes.com/news/a20261127PD217/etron-ai-server-semiconductors-taiwan-2026.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-27T06:09:26+00:00",
+      "short_snippet": "National Yang Ming Chiao Tung University (NYCU) has awarded an honorary doctorate to Etron Chairman and NYCU Chair Professor Nicky Lu, who said in a keynote speech that AI is penetrating industries across the board and contributing more than double digits to Taiwan's GDP. He expects the global semiconductor market to double directly to US$1.6 trillion in output by the end of 2026, ushering in the ",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-2290cf1f073a99559946",
+    "article": {
+      "title": "Global smartphone shipments to fall a further 6% in 2027 as memory squeeze persists",
+      "url": "https://www.digitimes.com/news/a20261127PR201/smartphone-shipments-forecast-market-2027.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-27T04:45:22+00:00",
+      "short_snippet": "Global smartphone shipments are forecast to decline 13.9% year-over-year in 2026 and fall a further 6% in 2027, according to Counterpoint Research's latest Smartphone Market Outlook Tracker, released on November 25. The research firm expects a 6% rebound in 2028, but said the market will not regain its 2025 shipment level by 2030.",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0198c16602ba9abf47f1",
+    "article": {
+      "title": "India's festive smartphone sales fall 22% as memory costs push prices up: Counterpoint",
+      "url": "https://www.digitimes.com/news/a20261127PR200/india-smartphone-sales-price-demand-2026.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-27T04:37:38+00:00",
+      "short_snippet": "India's smartphone sales during the 2026 festive season, which ran from October 8 to November 10, fell an estimated 22% year-over-year, according to preliminary post-festive checks by Counterpoint Research. The decline was much steeper than the research firm's pre-festive forecast of 12%. Market value, however, stayed broadly flat, as average selling prices (ASPs) rose 28% and largely offset the d",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-82ce3888fd0854904026",
+    "article": {
+      "title": "China's Weimob to form Nvidia RTX PRO 5500 cluster as chip export restrictions loom",
+      "url": "https://www.digitimes.com/news/a20261127VL210/nvidia-rtx-chips-software-production.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-27T04:27:44+00:00",
+      "short_snippet": "Weimob, a Chinese provider of cloud-based commerce software and marketing services, announced its planned purchase of 5,000 Nvidia RTX PRO 5500 graphics cards for its own AI-powered services as well as possibly leasing compute. The upcoming purchase reflects a drive among Chinese companies to acquire the chips, which comply with trade rules but are less powerful than the advanced Nvidia chips that",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-24b578309aa05f878823",
+    "article": {
+      "title": "The group chat where your AI talks behind your back",
+      "url": "https://news.ycombinator.com/item?id=50663595",
+      "source": "Hacker News",
+      "published_at": "2026-11-27T06:44:34+00:00",
+      "short_snippet": "Article URL: https://construct22.com/ Comments URL: https://news.ycombinator.com/item?id=50663595 Points: 198 # Comments: 76",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-fb1cbcd2f1a78dc1d881",
+    "article": {
+      "title": "美出口限令加速轉變！瑞銀：中國產 AI 晶片 2028 年市占率將突破 88%",
+      "url": "https://technews.tw/2026/11/27/ubs-see-chinese-ai-chip-market-by-2028/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-27T09:12:30+00:00",
+      "short_snippet": "近期輝達風暴引發外界對美國晶片出口管制的關注，加速中國發展自主半導體的決心。根據瑞銀（UBS）預測，中國每年國 […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-1f1240f71c829b762660",
+    "article": {
+      "title": "10 月景氣燈號連 11 紅，刷新史上最長紅燈紀錄",
+      "url": "https://finance.technews.tw/2026/11/27/october-economic-indicator-stays-red-for-11th-straight-month/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-27T08:50:00+00:00",
+      "short_snippet": "國發會今天公布 10 月景氣燈號，由於 AI 應用深化及需求維持強勁，國內經濟維持穩健，10 月景氣燈號續亮熱 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-99948415f4c31e18cab0",
+    "article": {
+      "title": "哈佛開發微型紫外光晶片，輸出功率提升 120 倍、助量子電腦微縮",
+      "url": "https://technews.tw/2026/11/27/harvard-micro-uv-chip/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-27T08:20:14+00:00",
+      "short_snippet": "哈佛大學領銜的研究團隊近日展示一款微型光子裝置，能在晶片內直接將紅光轉換為紫外光，輸出功率約為先前同類薄膜鈮酸 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a38c78882d3e76b9b69a",
+    "article": {
+      "title": "日本提國防 AI 願景，判斷與責任由人類承擔",
+      "url": "https://technews.tw/2026/11/27/japan-defense-ai-vision-human-judgment-responsibility/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-27T08:10:30+00:00",
+      "short_snippet": "日本防衛省（相當於國防部）今天上午發布運用人工智慧（AI）有關的基本方針「防衛 AI 願景」，內容強調，在軍事 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-faccde9e4a5da3922f1b",
+    "article": {
+      "title": "半導體晶片成為新石油，全球出口總值首度超越油氣",
+      "url": "https://technews.tw/2026/11/27/semiconductor-chips-are-the-new-oil/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-27T07:50:32+00:00",
+      "short_snippet": "美國財經媒體 CNBC 報導，德意志銀行分析國際貿易中心（International Trade Centre […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c80ee8087cc2ea457839",
+    "article": {
+      "title": "帶近半公斤摺疊機去旅行，iPhone Duo、Galaxy Z Fold8 實拍心得",
+      "url": "https://technews.tw/2026/11/27/iphone-duo-galaxy-z-fold8/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-27T07:43:17+00:00",
+      "short_snippet": "隨著蘋果今年正式推出首款摺疊手機 iPhone Duo，摺疊手機市場也迎來新的競爭局面。一邊是在摺疊手機領域耕 […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-598c1657eba63dd35f8e",
+    "article": {
+      "title": "通吃 AI 晶片測試與日系航太專案！英柏得科技預計 12 月中掛牌上市",
+      "url": "https://finance.technews.tw/2026/11/27/industrial-grade-data-storage/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-27T07:02:57+00:00",
+      "short_snippet": "英柏得科技今日舉辦股票上市前業績發表會，預計 12 月中以半導體類股掛牌交易，董事長林傳生表示，受惠記憶體市場 […]",
+      "tags": [
+        "AI",
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-47ecaacdbbdc86dd4f15",
+    "article": {
+      "title": "美收緊先進 AI 晶片出口管制，東南亞 AI 基礎建設面臨考驗",
+      "url": "https://technews.tw/2026/11/27/us-tightens-ai-chip-export-controls-southeast-asia-ai-infrastructure-challenge/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-27T07:00:33+00:00",
+      "short_snippet": "新加坡今天表示，正與本地企業「進行協商」，以了解美國收緊對輝達（Nvidia）設計的先進人工智慧（AI）晶片出 […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-dda2f73cb2d53c7bf488",
+    "article": {
+      "title": "涉向未成年人傳性暗示訊息，蘋果下架 AI 聊天機器人 Talkie",
+      "url": "https://technews.tw/2026/11/27/apple-pulls-minimax-ai-chatbot-from-app-store-over-child-safety-concerns/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-27T06:50:48+00:00",
+      "short_snippet": "蘋果（Apple）本週將 MiniMax 熱門聊天機器人應用程式 Talkie 自全球 App Store 下 […]",
+      "tags": [
+        "AI",
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-09ced7ec702695fbdde4",
+    "article": {
+      "title": "美國防堵中國租用遠端算力，新規加查緝爭搶 AI 競賽優勢",
+      "url": "https://technews.tw/2026/11/27/us-curbs-china-remote-compute-rentals-new-regulations-crackdowns-secure-ai-race-advantage/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-27T06:40:47+00:00",
+      "short_snippet": "美國政府更新出口管制規定，防堵中企透過馬來西亞等地的海外資料中心，自遠端租用輝達晶片算力；同時增派官員打擊走私 […]",
+      "tags": [
+        "AI",
+        "半導體",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d18070edca06d42e05e2",
+    "article": {
+      "title": "馬斯克搶記憶體傳碰壁 李在鎔問：還能給什麼？",
+      "url": "https://finance.technews.tw/2026/11/27/samsungs-lee-rejects-musks-memory-chip-offer/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-27T06:35:17+00:00",
+      "short_snippet": "全球 AI 發展引爆記憶體搶購潮，就連特斯拉（Tesla）兼 SpaceX 執行長馬斯克（Elon Musk） […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b5658fbbbd3260f92f52",
+    "article": {
+      "title": "川普稱黃仁勳絕非國安威脅，稱助他復職對世界是件好事",
+      "url": "https://technews.tw/2026/11/27/trump-jensen-huang-not-national-security-threat-return-office-good-world/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-27T06:30:01+00:00",
+      "short_snippet": "美國總統川普今天表示，他已掌握足夠資訊，足以認定輝達（Nvidia）執行長黃仁勳絕非國家安全威脅。他還說，政府 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-35b18330b52224dd2410",
+    "article": {
+      "title": "德銀估科技股拋售潮近尾聲 看好標普上攻 9,000 點",
+      "url": "https://finance.technews.tw/2026/11/27/deutsche-bank-sees-sp-500-reaching-9000/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-27T06:20:52+00:00",
+      "short_snippet": "德意志銀行（Deutsche Bank）認為，近期的科技股跌勢可望在數週內平息，隨著企業獲利成長、資金持續流入 […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-11815a1c3f52142abc01",
+    "article": {
+      "title": "泓格科技將 ESG 永續承諾化為行動，推動能源效率、綠色創新與企業責任",
+      "url": "https://finance.technews.tw/2026/11/27/icp-das-esg/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-27T06:00:41+00:00",
+      "short_snippet": "隨著全球企業日益重視永續發展，泓格科技持續將 ESG 永續承諾付諸實踐，致力於提升能源效率、推動綠色創新、落實 […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-f98878d25de756ade42d",
+    "article": {
+      "title": "韓國指中國長鑫存儲 4F² 架構 DRAM 晶片尺寸沒優勢，量產不容易",
+      "url": "https://technews.tw/2026/11/27/south-korea-believes-changxin-memory-technologies-4f%c2%b2-dram-architecture-lacks-a-size-advantage/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-27T06:00:15+00:00",
+      "short_snippet": "日前，韓國半導體領域教授與研究人員針對中國 DRAM 業者長鑫存儲 (CXMT) 宣稱將領先推出的 4F² 架 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3aeca48b6718b939d2af",
+    "article": {
+      "title": "美半導體股遭血洗 韓國散戶急撈底、狂買 SOXL",
+      "url": "https://finance.technews.tw/2026/11/27/us-semiconductor-stocks-bloodbath-korean-retail-investors-buy-dip-soxl/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-27T05:50:30+00:00",
+      "short_snippet": "半導體類股近期遭遇猛烈拋售，散戶卻大舉透過槓桿型 ETF 逢低搶進。統計顯示，「Direxion 每日三倍做多 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6b63382756cee17e7540",
+    "article": {
+      "title": "AI 狂潮暗藏 2007 年次貸翻版！大賣空貝瑞示警：CDS 已拉響信用警報",
+      "url": "https://finance.technews.tw/2026/11/27/subprime-mortgage-crisis/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-27T05:21:29+00:00",
+      "short_snippet": "當全球資本市場仍聚焦 AI 晶片供不應求、算力需求能否持續變現之際，華爾街最著名的逆向投資人之一、電影《大賣空 […]",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
   }
 ]
