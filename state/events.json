@@ -82041,5 +82041,306 @@
         "AI"
       ]
     }
+  },
+  {
+    "event_id": "evt-f78bf2e106552f7b9531",
+    "article": {
+      "title": "The M5 MacBook Air just got its biggest discount since Apple raised the price",
+      "url": "https://www.theverge.com/gadgets/1044771/m5-macbook-air-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "published_at": "2026-11-28T03:30:00+00:00",
+      "short_snippet": "If you’ve been holding off on buying a new MacBook Air since Apple raised prices by $200 in June, you’re in luck. The 13-inch M5 MacBook Air is on sale at Amazon and Best Buy with 16GB of RAM and 512GB of storage starting at $999 ($300 off) for Black Friday, which is the lowest […]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a4f54d93316667d3e012",
+    "article": {
+      "title": "The best Black Friday deals you can still get on AirPods, Macs, and other Apple gear",
+      "url": "https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026",
+      "source": "The Verge",
+      "published_at": "2026-11-27T23:53:19+00:00",
+      "short_snippet": "Black Friday is entering the evening, which means one of the best times of the year to save some cash on a new pair of AirPods or the latest Apple Watch is coming to a close. After all, the holiday savings can help offset the unfortunate price hikes from earlier this year, when Apple raised […]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-dc8808240422c2a5104d",
+    "article": {
+      "title": "Sony’s 1000XM4C headphones are a Black Friday bargain at $198",
+      "url": "https://www.theverge.com/gadgets/1043976/sony-wh1000xm4c-noise-canceling-headphones-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "published_at": "2026-11-27T23:32:00+00:00",
+      "short_snippet": "Instead of purely looking forward with its headphone designs, Sony went back to its popular WH-1000XM4 design and made some improvements to make it even better. The 2026 version, called the WH-1000XM4C, sounds nearly as good as the pricier XM6 model (currently $348), but is down to $198 during Black Friday at Amazon, Best Buy, […]",
+      "tags": [
+        "Big Tech",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a7b634b0eb88cb4a05aa",
+    "article": {
+      "title": "Yooka-Laylee’s free upgrade is skipping Xbox",
+      "url": "https://www.theverge.com/games/1044715/yooka-laylees-free-upgrade-is-skipping-xbox",
+      "source": "The Verge",
+      "published_at": "2026-11-27T23:30:32+00:00",
+      "short_snippet": "Playtronic Games is getting ready to launch Yooka-Laylee and the Impossible Lair: Definitive Edition as a free update on PlayStation 5, Switch 2, and PC on December 15th. Unfortunately for Xbox owners, the developer says it \"can't commit to any additional platforms for the foreseeable future.\" In a statement posted on X, Playtronic said that […]",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-e0e56e8fd52c18476b3d",
+    "article": {
+      "title": "The new iPad Mini is getting its first major discount for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1042705/ipad-mini-black-friday-deal-sale-2026",
+      "source": "The Verge",
+      "published_at": "2026-11-27T22:30:00+00:00",
+      "short_snippet": "We were big fans of Apple’s new iPad Mini when we reviewed it in early November, but its steep starting price of $699 was hard to swallow. Thankfully, the small tablet is already getting a sizable discount for Black Friday. Right now, Amazon and Walmart are both selling the 2026 iPad Mini with Wi-Fi and […]",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-9fb974b0760ff5822814",
+    "article": {
+      "title": "Tekscend sees mold supply as key hurdle for AR glasses production",
+      "url": "https://www.digitimes.com/news/a20261120VL222/nanoimprint-component-ar-glasses-production-manufacturing.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-27T17:36:00+00:00",
+      "short_snippet": "Optical component makers preparing to use nanoimprint technology for augmented reality (AR) glasses are struggling to find suitable master molds, according to Japan's Tekscend Photomask.",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-7ad54d2c18bfafd1bee3",
+    "article": {
+      "title": "Claude silently added rules to ignore users skintone preferences in our app",
+      "url": "https://news.ycombinator.com/item?id=50674489",
+      "source": "Hacker News",
+      "published_at": "2026-11-28T03:55:15+00:00",
+      "short_snippet": "Article URL: https://twitter.com/jakozloski/status/2126281598517576049 Comments URL: https://news.ycombinator.com/item?id=50674489 Points: 20 # Comments: 0",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d0f07d3b86521f8192d7",
+    "article": {
+      "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
+      "url": "https://news.ycombinator.com/item?id=50673521",
+      "source": "Hacker News",
+      "published_at": "2026-11-28T01:32:56+00:00",
+      "short_snippet": "Article URL: https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai Comments URL: https://news.ycombinator.com/item?id=50673521 Points: 112 # Comments: 85",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3547eca61e38a407fb68",
+    "article": {
+      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "url": "https://news.ycombinator.com/item?id=50672565",
+      "source": "Hacker News",
+      "published_at": "2026-11-27T23:06:29+00:00",
+      "short_snippet": "Article URL: https://research.google/blog/supercharging-transformer-residual-connections/ Comments URL: https://news.ycombinator.com/item?id=50672565 Points: 222 # Comments: 75",
+      "tags": [
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6787d15990c8961f0b61",
+    "article": {
+      "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
+      "url": "https://news.ycombinator.com/item?id=50671651",
+      "source": "Hacker News",
+      "published_at": "2026-11-27T21:07:34+00:00",
+      "short_snippet": "Article URL: https://sessiongraph.ai/ Comments URL: https://news.ycombinator.com/item?id=50671651 Points: 39 # Comments: 17",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-4f4b7c0e72436bdca153",
+    "article": {
+      "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+      "url": "https://news.ycombinator.com/item?id=50671275",
+      "source": "Hacker News",
+      "published_at": "2026-11-27T20:23:14+00:00",
+      "short_snippet": "Article URL: https://github.com/skeeto/prospero Comments URL: https://news.ycombinator.com/item?id=50671275 Points: 50 # Comments: 9",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-128dce6719919585c367",
+    "article": {
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "url": "https://news.ycombinator.com/item?id=50670855",
+      "source": "Hacker News",
+      "published_at": "2026-11-27T19:42:25+00:00",
+      "short_snippet": "Article URL: https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform Comments URL: https://news.ycombinator.com/item?id=50670855 Points: 319 # Comments: 176",
+      "tags": [
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-9e7afc97f1ffd4e05f95",
+    "article": {
+      "title": "Michael Nielsen took down his book on neural nets",
+      "url": "https://news.ycombinator.com/item?id=50670757",
+      "source": "Hacker News",
+      "published_at": "2026-11-27T19:31:01+00:00",
+      "short_snippet": "Article URL: https://neuralnetworksanddeeplearning.com/ Comments URL: https://news.ycombinator.com/item?id=50670757 Points: 449 # Comments: 278",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-4fc390ccfec19e82e6fe",
+    "article": {
+      "title": "Convex skills send the user's app idea to a remote server without telling them",
+      "url": "https://news.ycombinator.com/item?id=50669765",
+      "source": "Hacker News",
+      "published_at": "2026-11-27T18:02:45+00:00",
+      "short_snippet": "Article URL: https://github.com/convex/convex-backend-skill/issues/64 Comments URL: https://news.ycombinator.com/item?id=50669765 Points: 255 # Comments: 81",
+      "tags": [
+        "資料中心",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-2a651ae3380a3dec79eb",
+    "article": {
+      "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+      "url": "https://news.ycombinator.com/item?id=50667726",
+      "source": "Hacker News",
+      "published_at": "2026-11-27T15:01:50+00:00",
+      "short_snippet": "a ball will fall. trade on where it lands. I made this game! Some technical details: The entire drop of the ball is simulated server-side, then streamed to each client as server-sent events with a small buffer. Every drop is deterministic from its starting position, so rounds can be replayed exactly for later analysis, but tiny variations in starting position can change the ultimate outcome. There",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-0aaac66dce9dd6761b33",
+    "article": {
+      "title": "v0.40.20-rc0",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.20-rc0",
+      "source": "官方：Ollama releases",
+      "published_at": "2026-11-27T21:06:59+00:00",
+      "short_snippet": "bump llama-server ( #19953 ) https://github.com/ollama/ollama/pull/19953",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5e7004317a04e455b2d7",
+    "article": {
+      "title": "v0.40.19",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.40.19",
+      "source": "官方：Ollama releases",
+      "published_at": "2026-11-27T21:47:32+00:00",
+      "short_snippet": "What's Changed inkling2: faster short histories, draft proposals and conv snapshots by @dhiltgen in #19881 mlxrunner: compact Engram history buffers by @pdevine in #19913 bump llama-server by @pdevine in #19917 Full Changelog : v0.40.18...v0.40.19-rc0 https://github.com/ollama/ollama/pull/19881",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-b54c510a7cd41d6f0cf3",
+    "article": {
+      "title": "台積電宣布 A14 製程生態系就緒，0.9 版 PDK 登場並攜手兩大 EDA 廠完成驗證",
+      "url": "https://finance.technews.tw/2026/11/28/tsmc-announces-a14-process-ecosystem-is-ready/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-28T03:00:49+00:00",
+      "short_snippet": "根據外媒報導，台積電於本週舉辦的 2026 年歐洲開放創新平台（OIP）生態系研討會上正式宣布，旗下 1.4 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-73a10ff9605dc1dd5598",
+    "article": {
+      "title": "主動標示 AI、手寫 POP 留給店員！唐吉訶德如何靠「近藤愛」加速行銷，又不失招牌「店的味道」？",
+      "url": "https://technews.tw/2026/11/28/don-don-donki-launches-ai-employee-but-keeps-posters-handwritten/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-28T03:00:03+00:00",
+      "short_snippet": "11 月 23 日是日本的勤勞感謝日，唐吉訶德母公司泛太平洋國際控股（PPIH）的 AI 社員「近藤愛」（近藤 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c7b41845a0fdf4d12839",
+    "article": {
+      "title": "野村：Rubin 量產進度低於預期，雖短期出貨面臨修正但長期仍看漲",
+      "url": "https://finance.technews.tw/2026/11/28/rubin-mass-production-progress-falls-short-of-expectations/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-28T02:00:30+00:00",
+      "short_snippet": "外資野村證券發布最新產業研究報告，指出輝達（NVIDIA）次世代AI晶片Rubin的量產進度不如原先預期，部分 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-a34d3722a379382339c3",
+    "article": {
+      "title": "AI 會安慰人不是天性，研究指聊天機器人的同理心是刻意設計",
+      "url": "https://technews.tw/2026/11/28/ai-empathy-not-innate-research-chatbot-compassion-deliberate-design/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-28T01:30:54+00:00",
+      "short_snippet": "外界常以為，聊天機器人一旦開始安慰人、表現同理心，彷彿就是 AI「天生」如此；但最新分析與相關研究指出，這種帶 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5100ec082223b0d1b8db",
+    "article": {
+      "title": "中企以輝達 GB300 機櫃抵押貸款現身上海，產地點名來自台灣更受市場關注",
+      "url": "https://finance.technews.tw/2026/11/28/chinese-enterprises-use-nvidia-gb300-racks-as-collateral-for-loans/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-28T00:30:45+00:00",
+      "short_snippet": "根據彭博社的報導指出，一家中國企業將一組搭載 72 顆受出口管制限制的輝達（NVIDIA）Blackwell […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-76ddc0b068487b0cfef6",
+    "article": {
+      "title": "史丹佛研發「磷化鈮奈米帶」突破銅導線微縮瓶頸，越細反而越導電",
+      "url": "https://technews.tw/2026/11/28/unique-new-materials-redefining-future-chips/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-28T00:30:06+00:00",
+      "short_snippet": "一項最新研究指出，某些特殊材料在尺寸縮小後，導電能力不但不會變差，反而更加出色，為晶片互連材料帶來全新的設計方 […]",
+      "tags": [
+        "半導體"
+      ]
+    }
   }
 ]
