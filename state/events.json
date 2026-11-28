@@ -82342,5 +82342,212 @@
         "半導體"
       ]
     }
+  },
+  {
+    "event_id": "evt-98830b9bbf0e79e48f66",
+    "article": {
+      "title": "Column: Beyond lithium and rare earths, fluorspar is a hidden chokepoint for chip production",
+      "url": "https://www.digitimes.com/news/a20261127PD209/lithium-production-cobalt-materials-gallium.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-28T07:20:57+00:00",
+      "short_snippet": "Debate over critical minerals has centered on metals and metalloids such as lithium, cobalt, rare earths, graphite, gallium, and germanium, as if geopolitical rivalry played out only in battery electrodes and chip epitaxial materials. A less visible but equally fragile supply chain sits behind semiconductor manufacturing: the fluorochemical chain that starts with fluorspar, a mineral composed main",
+      "tags": [
+        "半導體",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c5b3e987c457721af2dc",
+    "article": {
+      "title": "PCB supply risks may rival chip shortages, threatening next wave of AI and electronics growth",
+      "url": "https://www.digitimes.com/news/a20261127PD226/pcb-demand-supply-chain-capacity-medical.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-28T07:20:38+00:00",
+      "short_snippet": "The Global Electronics Association says shortages across the printed circuit board supply chain are intensifying, with companies in the automotive, industrial, medical, and telecommunications sectors reporting that surging AI demand is consuming limited capacity. The resulting extended lead times and supply constraints are putting production at risk.",
+      "tags": [
+        "AI",
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-571cc0c2a53c0740ddbc",
+    "article": {
+      "title": "Nvidia's Southeast Asia shipment freeze tests Taiwan's AI-server manufacturing hedge",
+      "url": "https://www.digitimes.com/news/a20261127VL214/ai-server-capacity-manufacturing-regulation-nvidia-taiwan.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-28T07:20:01+00:00",
+      "short_snippet": "For Taiwan's AI-server manufacturers, Southeast Asia has long represented an industrial hedge against the geopolitical uncertainties surrounding US-China technological competition.",
+      "tags": [
+        "半導體",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-db310bafe081ede44c67",
+    "article": {
+      "title": "Samsung, SK Hynix pursue different DRAM designs",
+      "url": "https://www.digitimes.com/news/a20261127VL215/samsung-dram-sk-hynix-data-production.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-28T07:19:27+00:00",
+      "short_snippet": "Samsung Electronics and SK Hynix are pursuing different approaches to increasing DRAM density as the capacitors used to store data become harder to shrink. Samsung is developing vertically stacked memory cells, while SK Hynix is testing a design that eliminates the capacitor altogether.",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-c533697d03cf1a4e998c",
+    "article": {
+      "title": "Samsung hesitates to take on Nvidia in robot chips",
+      "url": "https://www.digitimes.com/news/a20261127VL217/samsung-robot-chips-nvidia-demand.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-28T07:19:12+00:00",
+      "short_snippet": "South Korea asked Samsung Electronics in October to develop a domestic alternative to Nvidia's Jetson Thor robotics computing platform, but the chipmaker expressed reservations over market demand, South Korean broadcaster MTN reported, citing a government official.",
+      "tags": [
+        "半導體",
+        "監管",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-9893178fffaac95e0b57",
+    "article": {
+      "title": "LG AI Research targets data and model bottlenecks in smart manufacturing",
+      "url": "https://www.digitimes.com/news/a20261126PD233/data-lg-adoption-manufacturing-materials.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-28T07:18:59+00:00",
+      "short_snippet": "LG AI Research is automating data preparation, building expert foundation models, and setting up an autonomous laboratory to ease the burden on companies that want to deploy AI and keep using it, particularly in manufacturing.",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-fec28edbd37b886eac07",
+    "article": {
+      "title": "GenAI fails to spur upgrades as smartphone shipments face 2027 decline",
+      "url": "https://www.digitimes.com/news/a20261127PD206/shipments-2027-2026-genai-sales.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-28T07:18:43+00:00",
+      "short_snippet": "Rising memory prices are expected to drive a more than 15% decline in global smartphone shipments in 2026. With memory costs continuing to rise, brands reducing their midrange and entry-level models, and consumers delaying upgrades, a research firm expects global smartphone shipments to fall another 6% in 2027.",
+      "tags": [
+        "半導體",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-5aac0853ecd57a8c7362",
+    "article": {
+      "title": "Alpha Networks to ship 1.6T switches in small volumes in December",
+      "url": "https://www.digitimes.com/news/a20261127PD205/alpha-networks-shipments-2026-revenue-data-center.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-28T07:18:30+00:00",
+      "short_snippet": "Alpha Networks plans to begin small-volume shipments of its 1.6T switch products in December 2026 and is targeting large data center customers to expand shipments in 2027. The networking equipment maker is also in active discussions with several large data center customers as it seeks to add growth momentum to its operations.",
+      "tags": [
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-bee4b31bef74ff928b7b",
+    "article": {
+      "title": "Wellysun accelerates transformation, targets AI liquid cooling, NPO, autonomous systems",
+      "url": "https://www.digitimes.com/news/a20261127PD202/liquid-cooling-revenue-communications-shipments-2026.html",
+      "source": "DIGITIMES",
+      "published_at": "2026-11-28T07:17:28+00:00",
+      "short_snippet": "Automotive electronic control module maker Wellysun held an investor conference on November 26, 2026. Chairman and General Manager Yi-Lang Liu said the company is transforming from an automotive electronics supplier into a strategic partner for high-end critical electronic modules, targeting four areas: AI liquid cooling, NPO optical communications, autonomous systems and low-Earth orbit satellite",
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-37820755eb268b645801",
+    "article": {
+      "title": "Google 攜手聯發科推進新 TPU 客製化 HBM5 基礎晶片，韓國憂心主導權弱化",
+      "url": "https://finance.technews.tw/2026/11/28/google-partners-with-mediatek-to-advance-new-tpu-custom-hbm5-base-die/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-28T08:00:29+00:00",
+      "short_snippet": "市場消息指出，Google 正推動為次世代人工智慧（AI）加速器張量處理器（TPU）開發客製化高頻寬記憶體（H […]",
+      "tags": [
+        "AI",
+        "半導體",
+        "Big Tech"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-6af6b227e19895fb914e",
+    "article": {
+      "title": "普渡大學生打造防 AI 作弊編輯器 Syntax！不看成品改追蹤打字與游標，已獲美 40 所大專院校採用",
+      "url": "https://technews.tw/2026/11/28/purdue-university-students-develop-ai-writing-monitoring-software/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-28T08:00:09+00:00",
+      "short_snippet": "四名普渡大學學生創立的新創公司 Remora 推出文件編輯器 Syntax，不分析成品文字，而是記錄打字速度、 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-d2b4d336ec8bb88420a6",
+    "article": {
+      "title": "日本市議員補選四張海報全是 AI 生成，暴露選舉法規落後科技現實",
+      "url": "https://technews.tw/2026/11/28/japanese-election-candidate-uses-ai-to-generate-campaign-posters/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-28T07:30:52+00:00",
+      "short_snippet": "今年 11 月，日本兵庫縣尼崎市的一場市議員補選中，選民在競選海報看板上發現幾張特別「引人注目」的選舉海報。有 […]",
+      "tags": [
+        "AI",
+        "監管",
+        "產品與平台"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-3cd4ababc4de8245821c",
+    "article": {
+      "title": "黃仁勳回鍋輝達談話全紀錄：坦承不忠、檢討高壓管理、撇清白宮干預，五大重點直擊",
+      "url": "https://finance.technews.tw/2026/11/28/jensen-huang-first-town-hall-return-stabilize-morale-boost-spirit-5-key-points/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-28T06:30:48+00:00",
+      "short_snippet": "「這是我人生中第二艱難的會議；最艱難的那場，是與我太太的對話。」11 月 24 日，黃仁勳在輝達（NVIDIA […]",
+      "tags": [
+        "半導體"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-dfe99d7c4e786aa638f4",
+    "article": {
+      "title": "ABB 推出全球首款整合 AI 功能智慧馬達，助力製造業人工智慧規模化應用",
+      "url": "https://technews.tw/2026/11/28/abb-intelleqt-smart-motor/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-28T06:00:16+00:00",
+      "short_snippet": "11 月 24 日，ABB 正式發布全球首款整合智慧功能的低壓馬達 Intelleqt。自啟動起，馬達即可提供 […]",
+      "tags": [
+        "AI"
+      ]
+    }
+  },
+  {
+    "event_id": "evt-81a49742fe52f05014b4",
+    "article": {
+      "title": "台積電 3 奈米與 CoWoS 雙重吃緊，AI 產能爭奪戰白熱化",
+      "url": "https://finance.technews.tw/2026/11/28/the-battle-for-ai-production-capacity-intensifies/",
+      "source": "TechNews 台灣",
+      "published_at": "2026-11-28T06:00:14+00:00",
+      "short_snippet": "隨著生成式 AI、雲端運算及資料中心需求持續快速成長，全球半導體產業正面臨新一輪先進製程與先進封裝產能爭奪戰。 […]",
+      "tags": [
+        "半導體",
+        "資料中心"
+      ]
+    }
   }
 ]
